@@ -11,7 +11,7 @@
 </script>
 
 <svelte:head>
-	<title>Asia Market Lab | Data × Markets × Research</title>
+	<title>Asia Stock Market Research (ASMR) | Data × Markets × Research</title>
 	<meta
 		name="description"
 		content="A research workspace for Asian disclosures, financial institutions, market overlays and quantitative signals."
@@ -22,8 +22,8 @@
 	<section class="hero-band">
 		<div class="shell hero-layout">
 			<div class="hero-copy">
-				<p class="eyebrow">Data × Markets × Research</p>
-				<h1>Asia Market Lab</h1>
+				<p class="eyebrow">ASMR · Data × Markets × Research</p>
+				<h1>Asia Stock Market Research</h1>
 				<p class="hero-lede">
 					A research workspace for understanding Asian disclosures, financial institutions,
 					market overlays and quantitative signals.
@@ -98,6 +98,7 @@
 					publication-safe outputs into reusable charts, concept notes and market tools.
 				</p>
 				<a class="text-link" href={resolve('disclosures/')}>Start with the research tracks <span aria-hidden="true">→</span></a>
+				<a class="text-link" href={resolve('institutional-research/')}>Open the institutional research library <span aria-hidden="true">→</span></a>
 			</div>
 		</div>
 	</section>

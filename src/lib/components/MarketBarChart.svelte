@@ -63,5 +63,5 @@
 
 <div class="chart-wrap">
 	<canvas bind:this={canvas} aria-label="One-week index returns by market. Teal bars are non-negative, red bars are negative."></canvas>
-	<p class="sr-only">{#each markets as market, index}{index > 0 ? '; ' : ''}{market.country}: {market.return_1w >= 0 ? '+' : ''}{market.return_1w.toFixed(1)} percent{/each}</p>
+	<p class="sr-only">{markets.map((market) => `${market.country}: ${market.return_1w >= 0 ? '+' : ''}${market.return_1w.toFixed(1)} percent`).join('; ')}</p>
 </div>

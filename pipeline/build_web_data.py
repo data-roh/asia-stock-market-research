@@ -1,13 +1,14 @@
 from datetime import date
 import json
 from pathlib import Path
+from typing import Any, Dict
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 OUTPUT_PATH = PROJECT_ROOT / "static" / "data" / "market_summary.json"
 
 
-def build_market_summary() -> dict[str, object]:
+def build_market_summary() -> Dict[str, Any]:
     return {
         "title": "Asia Market Pulse",
         "as_of": date.today().isoformat(),

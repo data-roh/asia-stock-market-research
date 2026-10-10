@@ -7,7 +7,7 @@
 </script>
 
 <svelte:head>
-	<title>{track.title} | Asia Market Lab</title>
+	<title>{track.title} | Asia Stock Market Research (ASMR)</title>
 	<meta name="description" content={track.metaDescription} />
 </svelte:head>
 
@@ -32,6 +32,6 @@
 			</div>
 			<p>{track.method}</p>
 		</aside>
-		<div class="page-back"><a class="text-link" href={resolve('/')}>← Back to Asia Market Lab</a></div>
+		<div class="page-back"><a class="text-link" href={resolve('/')}>← Back to ASMR home</a></div>
 	</section>
 </main>

@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="Asia Market Lab">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="Asia Stock Market Research">
 	<rect x="1" y="1" width="46" height="46" fill="#183344" />
-	<path d="M10 34 21 12h5l11 22h-6l-2-5H18l-2 5zm10-10h7l-3.5-8z" fill="#f4f7f6" />
-	<path d="M35 10h4v28h-4z" fill="#d06d53" />
+	<text x="24" y="29" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#f4f7f6">ASMR</text>
+	<path d="M8 36h32v2H8z" fill="#d06d53" />
 </svg>

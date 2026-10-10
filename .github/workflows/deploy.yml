@@ -1,56 +1,56 @@
-name: Deploy Asia Market Lab to GitHub Pages
+name: Deploy Asia Stock Market Research to GitHub Pages
 
 on:
-	push:
-		branches: [main]
-	workflow_dispatch:
+  push:
+    branches: [main]
+  workflow_dispatch:
 
 permissions:
-	contents: read
-	pages: write
-	id-token: write
+  contents: read
+  pages: write
+  id-token: write
 
 concurrency:
-	group: github-pages
-	cancel-in-progress: true
+  group: github-pages
+  cancel-in-progress: true
 
 jobs:
-	build:
-		runs-on: ubuntu-latest
-		env:
-			BASE_PATH: /${{ github.event.repository.name }}
-		steps:
-			- name: Check out source
-				uses: actions/checkout@v7
-			- name: Set up Node.js
-				uses: actions/setup-node@v6
-				with:
-					node-version: 24
-					cache: npm
-			- name: Install dependencies
-				run: npm ci
-			- name: Generate synthetic demo data
-				run: python pipeline/build_web_data.py
-			- name: Check Svelte and TypeScript
-				run: npm run check
-			- name: Lint
-				run: npm run lint
-			- name: Build static site
-				run: npm run build
-			- name: Configure GitHub Pages
-				uses: actions/configure-pages@v5
-			- name: Upload Pages artifact
-				uses: actions/upload-pages-artifact@v5
-				with:
-					path: build/
+  build:
+    runs-on: ubuntu-latest
+    env:
+      BASE_PATH: /${{ github.event.repository.name }}
+    steps:
+      - name: Check out source
+        uses: actions/checkout@v7
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          cache: npm
+      - name: Install dependencies
+        run: npm ci
+      - name: Generate synthetic demo data
+        run: python pipeline/build_web_data.py
+      - name: Check Svelte and TypeScript
+        run: npm run check
+      - name: Lint
+        run: npm run lint
+      - name: Build static site
+        run: npm run build
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: build/
 
-	deploy:
-		needs: build
-		environment:
-			name: github-pages
-			url: ${{ steps.deployment.outputs.page_url }}
-		runs-on: ubuntu-latest
-		steps:
-			- name: Deploy to GitHub Pages
-				id: deployment
-				uses: actions/deploy-pages@v5
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5

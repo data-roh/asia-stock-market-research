@@ -1,5 +1,5 @@
 {
-	"name": "asia-market-lab",
+	"name": "asia-stock-market-research",
 	"private": true,
 	"version": "0.0.1",
 	"type": "module",
@@ -7,7 +7,6 @@
 		"dev": "vite dev",
 		"build": "vite build",
 		"preview": "vite preview",
-		"data:build": "python pipeline/build_web_data.py",
 		"lint": "eslint .",
 		"validate": "npm run check && npm run lint && npm run build",
 		"prepare": "svelte-kit sync || echo ''",
@@ -16,7 +15,6 @@
 	},
 	"devDependencies": {
 		"@eslint/js": "^10.0.1",
-		"@sveltejs/adapter-auto": "^8.0.0",
 		"@sveltejs/adapter-static": "^4.0.0",
 		"@sveltejs/kit": "^3.0.0",
 		"@sveltejs/vite-plugin-svelte": "^7.2.0",

@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { asset, resolve } from '$app/paths';
-	import './app.css';
+	import '../app.css';
 	import type { LayoutProps } from './$types';
 
 	let { children }: LayoutProps = $props();
@@ -8,7 +8,8 @@
 		{ label: 'Disclosures', href: 'disclosures/' },
 		{ label: 'Core Concepts', href: 'core-concepts/' },
 		{ label: 'Market Overlay', href: 'market-overlay/' },
-		{ label: 'Quant', href: 'quant/' }
+		{ label: 'Quant', href: 'quant/' },
+		{ label: 'Research Library', href: 'institutional-research/' }
 	] as const;
 </script>
 
@@ -18,9 +19,9 @@
 
 <header class="site-header">
 	<div class="shell header-inner">
-		<a class="brand" href={resolve('/') } aria-label="Asia Market Lab home">
-			<span class="brand-mark" aria-hidden="true">A<span>M</span></span>
-			<span class="brand-name">Asia Market Lab</span>
+		<a class="brand" href={resolve('/')} aria-label="Asia Stock Market Research home">
+			<span class="brand-mark" aria-hidden="true">A<span>SMR</span></span>
+			<span class="brand-name">Asia Stock Market Research</span>
 		</a>
 		<nav aria-label="Primary navigation">
 			<ul class="nav-links">
@@ -29,7 +30,7 @@
 				{/each}
 			</ul>
 		</nav>
-		<a class="header-index" href={resolve('/')}>AML <span>01</span></a>
+		<a class="header-index" href={resolve('/')}>ASMR <span>01</span></a>
 	</div>
 </header>
 
@@ -37,7 +38,7 @@
 
 <footer class="site-footer">
 	<div class="shell footer-inner">
-		<a class="footer-brand" href={resolve('/')}>Asia Market Lab</a>
+		<a class="footer-brand" href={resolve('/')}>Asia Stock Market Research</a>
 		<p>Independent research on Asian markets and financial institutions.</p>
 		<span>© 2026 · Synthetic demo data only</span>
 	</div>

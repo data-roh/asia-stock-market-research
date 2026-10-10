@@ -1,6 +1,6 @@
-# Asia Market Lab
+# Asia Stock Market Research (ASMR)
 
-Asia Market Lab is a static research workspace for Asian disclosures, financial institutions, market overlays and quantitative research. Version 0.1 uses only clearly labeled synthetic market data. It contains no licensed, confidential, employer-owned or live market data.
+Asia Stock Market Research (ASMR) is a static research workspace for Asian disclosures, financial institutions, market overlays and quantitative research. Version 0.1 uses only clearly labeled synthetic market data. It contains no licensed, confidential, employer-owned or live market data.
 
 ## The Data Flow
 
@@ -52,12 +52,35 @@ Python remains the analysis layer. It writes reviewed, publication-safe JSON, an
 
 ## Web Concepts
 
-- **SvelteKit** is the application framework. It turns route files and Svelte components into a navigable website and can pre-render pages into static HTML.
+- **JavaScript (JS)** is the programming language that makes web pages interactive in a browser. Chart.js uses JavaScript to draw the market chart.
+- **TypeScript (TS)** is JavaScript with extra type checks. It helps catch mistakes such as passing a string where a market percentage is expected. The browser ultimately runs generated JavaScript.
+- **Svelte** lets us describe a page using components and markup. **SvelteKit** organizes those components into routes, loads page data and can render pages ahead of time as static HTML.
+- **Vite** is the development server and build tool used by SvelteKit here. It serves the local preview and rebuilds changed files while you work.
+- **npm** is Node.js's package manager. It installs the project's JS tools from `package.json` and runs named commands such as `npm run dev`.
 - A **route** is a URL-backed page. For example, `src/routes/quant/+page.svelte` creates the `/quant/` page.
 - A **component** is a reusable piece of interface. `MarketCard.svelte` renders one market summary, and `MarketBarChart.svelte` renders the chart.
 - **JSON** is a text format for structured data. The Python script writes market fields to JSON, then the homepage load function fetches and types that data before rendering it.
 - A **build** compiles the application and pre-renders its pages. Here, `npm run build` writes deployable files to `build/`.
 - A **deployment** publishes those built files to a host. GitHub Actions runs the checks and build, then GitHub Pages serves the artifact.
+
+### Where the Website Files Live
+
+The project is in the folder `D:\ASMR` on this computer. The browser address `http://127.0.0.1:5173/` is only the local preview; it is not where the source files are stored.
+
+- `src/routes/+page.svelte` is the homepage layout and copy.
+- `src/routes/quant/+page.svelte` and the other folders under `src/routes/` are the four research pages.
+- `src/lib/components/` contains reusable cards, charts and page sections.
+- `src/routes/app.css` contains the visual styles, and `src/app.css` imports them.
+- `pipeline/build_web_data.py` creates the demo data; `static/data/market_summary.json` is the JSON file it generates.
+- `src/routes/+page.ts` loads that JSON for the homepage.
+- `vite.config.ts` configures the local server, static build and GitHub Pages base path.
+- `.github/workflows/deploy.yml` tells GitHub how to build and publish the site after a push.
+
+### What Is Running on Localhost?
+
+When `npm run dev` is running, Node.js starts Vite, which starts the SvelteKit development server. That server reads the files in this folder and sends the page to your browser. The browser runs the page's JavaScript and displays the result. Saving a source file makes Vite refresh the preview. Keep the terminal process running while using the preview; stop it with `Ctrl+C` when finished. Other people cannot access your `127.0.0.1` address over the internet.
+
+The Python script is a separate step. It writes the sample JSON file to disk; it does not run the website server. The site reads that file when SvelteKit prepares the homepage.
 
 ## First Run
 
@@ -83,7 +106,6 @@ Open the local URL printed by Vite, usually `http://localhost:5173/`. In PowerSh
 | Command | What it does |
 | --- | --- |
 | `python pipeline/build_web_data.py` | Generate the reviewed synthetic JSON file |
-| `npm run data:build` | Run the same Python data builder through npm |
 | `npm run dev` | Start the local development server with hot reload |
 | `npm run check` | Type-check the project and report Svelte diagnostics |
 | `npm run lint` | Run ESLint on the project |
@@ -134,17 +156,16 @@ Repository
 → GitHub Actions
 ```
 
-The expected project URL format is `https://<github-username>.github.io/<repository-name>/`. For a repository named `asia-market-lab`, the base path is `/asia-market-lab`. The workflow uses the actual repository name, so renaming the GitHub repository does not require a username or path to be hardcoded in application code.
+The expected project URL format is `https://<github-username>.github.io/<repository-name>/`. If you create a repository named `asia-stock-market-research`, the URL will be `https://data-roh.github.io/asia-stock-market-research/`. The workflow reads the actual repository name, so the app does not hardcode the username or repository path.
 
-This workspace currently has no Git remote configured. Remote creation is intentionally disabled. Once an empty private `asia-market-lab` repository exists under the intended account, connect and push with:
+This workspace currently has no GitHub remote configured. The `main` branch already has an `init` commit, so create a new GitHub repository without adding a README or license, then connect it. For example, create `data-roh/asia-stock-market-research` and run:
 
 ```sh
-git remote add origin https://github.com/<github-username>/asia-market-lab.git
-git branch -M main
+git remote add origin https://github.com/data-roh/asia-stock-market-research.git
 git push -u origin main
 ```
 
-The repository currently open in the browser is `data-roh/apac-market-lab`, which is a different name. Do not use it as the `asia-market-lab` remote unless that is the repository you intend to publish from.
+Before pushing, inspect `git status`, `git diff` and `git diff --cached`, then commit the changes you intend to upload. The repository currently open in the browser is `data-roh/apac-market-lab`, a separate repository; it is not connected to this project. GitHub Pages availability for a private repository depends on the GitHub plan and repository settings. If Pages is unavailable for a private repo, publishing a public website requires a public repository.
 
 ## Before Pushing
 
@@ -159,7 +180,7 @@ npm run build
 For a GitHub Pages-style local build, set `BASE_PATH` to the repository subpath. In PowerShell:
 
 ```powershell
-$env:BASE_PATH = '/asia-market-lab'
+$env:BASE_PATH = '/asia-stock-market-research'
 npm.cmd run build
 Remove-Item Env:BASE_PATH
 ```
@@ -167,10 +188,10 @@ Remove-Item Env:BASE_PATH
 In a Bash shell:
 
 ```sh
-BASE_PATH=/asia-market-lab npm run build
+BASE_PATH=/asia-stock-market-research npm run build
 ```
 
-Then check that `build/index.html`, `build/404.html`, `build/data/market_summary.json`, and the four route directories are present. Inspect the output links for the `/asia-market-lab` prefix.
+Then check that `build/index.html`, `build/404.html`, `build/data/market_summary.json`, and the four route directories are present. The pre-rendered HTML uses relative links so it works under the repository subpath.
 
 ## Weekly Update Workflow
 
