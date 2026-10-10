@@ -1,0 +1,38 @@
+{
+  "title": "Asia Market Pulse",
+  "as_of": "2026-10-09",
+  "is_demo": true,
+  "source": "Illustrative sample data",
+  "markets": [
+    {
+      "country": "Korea",
+      "index": "KOSPI 200",
+      "return_1w": 1.8,
+      "breadth": 63.0
+    },
+    {
+      "country": "Japan",
+      "index": "Nikkei 225",
+      "return_1w": -0.5,
+      "breadth": 47.0
+    },
+    {
+      "country": "Taiwan",
+      "index": "TWSE 50",
+      "return_1w": 2.4,
+      "breadth": 68.0
+    },
+    {
+      "country": "China",
+      "index": "CSI 300",
+      "return_1w": -1.2,
+      "breadth": 42.0
+    },
+    {
+      "country": "Hong Kong",
+      "index": "Hang Seng",
+      "return_1w": 0.7,
+      "breadth": 54.0
+    }
+  ]
+}
