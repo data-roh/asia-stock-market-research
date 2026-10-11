@@ -221,13 +221,12 @@ h1, h2, h3 { color: var(--ink); font-family: Georgia, 'Times New Roman', serif; 
 .publication-list p { margin: 0; color: var(--muted); font-size: 11px; line-height: 1.5; }
 .publication-list a { flex: 0 0 auto; align-self: center; color: var(--teal-dark); font-weight: 700; text-decoration: none; }
 .publication-methods { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin-top: 10px; }
-.method-heading { margin-right: 3px; color: #71838a; font-size: 9px; font-weight: 700; text-transform: uppercase; }
 .method-tag { display: inline-flex; padding: 4px 7px; border: 1px solid currentColor; border-radius: 3px; font-size: 9px; font-weight: 700; line-height: 1.3; }
 .method-optimization { color: #936b2d; background: #fbf6e9; }
 .method-ml { color: #476b9b; background: #f1f5fa; }
+.method-data { color: #087f78; background: #f0f8f6; }
 .method-portfolio { color: #087f78; background: #f0f8f6; }
 .method-time-series { color: #a34b38; background: #fcf4f1; }
-.method-note { flex-basis: 100%; color: var(--muted); font-size: 10px; line-height: 1.5; }
 .about-disclosure { margin-top: 45px; padding: 18px 20px; border-left: 3px solid var(--teal); background: #eaf1ef; color: #526974; font-size: 12px; line-height: 1.7; }
 
 @media (max-width: 920px) {

@@ -150,7 +150,6 @@ export const aboutProfiles = {
 			{
 				title: 'What Moves Analyst Forecasts? Topic-Level Under- and Overreaction in Korean Financial Holding Companies',
 				venue: 'Working paper',
-				methodologyNote: { en: 'Specific method not listed in the supplied résumé.', ko: '공유해주신 이력서에는 구체적인 방법론이 기재되어 있지 않습니다.' },
 				interestIds: ['financial-institutions', 'market-structure']
 			},
 			{
@@ -169,13 +168,13 @@ export const aboutProfiles = {
 			{
 				title: 'Measuring North Korean Geopolitical Risks: Implications for Asia’s Financial Volatilities',
 				venue: 'With Jiyoun An · East Asian Policy, 10(3), 41–50 · Jul/Sep 2018',
-				methodologyNote: { en: 'Specific method not listed in the supplied résumé.', ko: '공유해주신 이력서에는 구체적인 방법론이 기재되어 있지 않습니다.' },
+				methodIds: ['alternative-data'],
 				interestIds: ['geopolitical-risk', 'market-volatility']
 			},
 			{
 				title: 'A Study on Information Spillover Effect at Industry Level between Korean and US Stock Market',
 				venue: 'With Sunmi Lee · KyungHee Journal of Natural Science · Dec 2016',
-				methodIds: ['univariate-garch', 'dcc-garch'],
+				methodIds: ['garch-family'],
 				interestIds: ['market-structure', 'market-volatility']
 			}
 		]
@@ -332,7 +331,6 @@ export const aboutProfiles = {
 			{
 				title: '애널리스트 전망을 움직이는 요인: 한국 금융지주사의 주제별 과소·과잉 반응',
 				venue: '워킹 페이퍼',
-				methodologyNote: { en: 'Specific method not listed in the supplied résumé.', ko: '공유해주신 이력서에는 구체적인 방법론이 기재되어 있지 않습니다.' },
 				interestIds: ['financial-institutions', 'market-structure']
 			},
 			{
@@ -351,13 +349,13 @@ export const aboutProfiles = {
 			{
 				title: '북한 지정학적 위험 측정: 아시아 금융 변동성에 대한 시사점',
 				venue: '안지연 공저 · East Asian Policy, 10(3), 41–50 · 2018년 7/9월',
-				methodologyNote: { en: 'Specific method not listed in the supplied résumé.', ko: '공유해주신 이력서에는 구체적인 방법론이 기재되어 있지 않습니다.' },
+				methodIds: ['alternative-data'],
 				interestIds: ['geopolitical-risk', 'market-volatility']
 			},
 			{
 				title: '한국과 미국 주식시장 간 산업 수준 정보 파급효과 연구',
 				venue: '선미 공저 · KyungHee Journal of Natural Science · 2016년 12월',
-				methodIds: ['univariate-garch', 'dcc-garch'],
+				methodIds: ['garch-family'],
 				interestIds: ['market-structure', 'market-volatility']
 			}
 		]

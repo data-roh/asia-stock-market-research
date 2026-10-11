@@ -3,7 +3,7 @@
 	import { locale } from '#lib/locale.js';
 	import { siteCopy } from '#lib/content/site-copy.js';
 	import { aboutProfiles } from '#lib/content/about-profile.js';
-	import { researchMethodCopy, researchMethods } from '#lib/content/research-methods.js';
+	import { researchMethods } from '#lib/content/research-methods.js';
 
 	const profile = $derived(aboutProfiles[$locale]);
 	const copy = $derived(siteCopy[$locale].track);
@@ -109,14 +109,12 @@
 						<div>
 							<h3>{publication.title}</h3>
 							<p>{publication.venue}</p>
-							{#if publication.methodIds?.length || publication.methodologyNote}
-								<div class="publication-methods" aria-label={researchMethodCopy[$locale].heading}>
-									<span class="method-heading">{researchMethodCopy[$locale].heading}</span>
+							{#if publication.methodIds?.length}
+								<div class="publication-methods">
 									{#each publication.methodIds ?? [] as methodId (methodId)}
 										{@const method = researchMethods[methodId as keyof typeof researchMethods]}
 										<span class={`method-tag method-${method.family}`}>{method[$locale]}</span>
 									{/each}
-									{#if publication.methodologyNote}<span class="method-note">{publication.methodologyNote[$locale]}</span>{/if}
 								</div>
 							{/if}
 							{#if publication.interestIds?.length}
