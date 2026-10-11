@@ -1,0 +1,142 @@
+export const siteCopy = {
+	en: {
+		nav: {
+			about: 'About Me',
+			weekly: 'Weekly Briefing',
+			knowledge: 'Market Knowledge',
+			library: 'Research Library',
+			primary: 'Primary navigation',
+			switchToEnglish: 'Switch language to English',
+			switchToKorean: 'Switch language to Korean'
+		},
+		footer: {
+			description: 'Independent research on Asian markets and financial institutions.',
+			data: '© 2026 · Illustrative sample data only'
+		},
+		home: {
+			heroEyebrow: 'ASMR · Data × Markets × Research',
+			heroTitle: 'Asia Stock Market Research',
+			heroDescription: 'A research workspace for understanding Asian disclosures, financial institutions, market behavior and quantitative signals.',
+			weeklyLink: 'View Weekly Briefing',
+			knowledgeLink: 'Explore Market Knowledge',
+			coverage: 'Disclosure systems · Financial institutions · Market signals',
+			weeklyEyebrow: 'Illustrative regional snapshot',
+			weeklyTitle: 'Weekly Market Briefing',
+			sampleData: 'Illustrative sample data',
+			performance: 'Performance monitor',
+			oneWeekReturns: 'One-week index returns',
+			fiveMarkets: 'Percent change · five markets',
+			knowledgeEyebrow: 'Research program',
+			knowledgeTitle: 'Market Knowledge',
+			knowledgeAside: 'Four connected areas for studying data, institutions and markets.',
+			aboutEyebrow: 'About the researcher',
+			aboutTitle: 'Financial data, markets and quantitative research.',
+			aboutBody: 'Hyunwoo Roh works across financial-data quality, company disclosures and quantitative investment research in Asia.',
+			aboutLink: 'About Me',
+			libraryLink: 'Browse the Research Library',
+			disclaimerLabel: 'Important',
+			disclaimer: 'Personal research and education only. Not investment advice. No confidential, proprietary or employer-owned data.'
+		},
+		track: {
+			methodology: 'Methodology',
+			methodTitle: 'A careful comparison, not a shortcut.',
+			backHome: 'Back to ASMR home',
+			track: 'TRACK',
+			topics: 'TOPICS',
+			explore: 'Explore track'
+		},
+		status: { Planned: 'Planned', Framework: 'Framework', Building: 'Building', 'Research area': 'Research area' },
+		library: {
+			eyebrow: 'Research directory · Public sources',
+			title: 'Institutional Research Library',
+			description: 'A curated reading desk for how investment institutions interpret markets, choose data and connect research to portfolio decisions. Some sources may require registration or investor eligibility; access and publication schedules can change.',
+			groupsEyebrow: 'Research sources',
+			routineEyebrow: 'A manageable cadence',
+			routineTitle: 'Weekly reading routine',
+			routineNote: 'Use these as days to check for new material, not as promised publication dates.',
+			frameworkEyebrow: 'From reading to research',
+			frameworkTitle: 'Four questions to carry into each source',
+			asiaEyebrow: 'Asia research application',
+			asiaTitle: 'Turn a market view into a testable question.',
+			asiaBody: 'If a source studies US ETF flows, ask whether the same observation holds for Korea, Taiwan or Japan. If it studies global momentum, compare factor definitions and performance across Asian markets.',
+			backHome: 'Back to ASMR home',
+			framework: [
+				{ title: 'Market observation', description: 'What happened this week? Track returns, breadth, flows and volatility.' },
+				{ title: 'Institutional interpretation', description: 'How do different institutions interpret the same market observation?' },
+				{ title: 'Data & methodology', description: 'Identify the source data, definitions and calculations behind each conclusion.' },
+				{ title: 'Research replication', description: 'Ask what data and models would be needed to test the same idea in Asian markets.' }
+			]
+		},
+		weekdays: { Monday: 'Monday', Tuesday: 'Tuesday', Wednesday: 'Wednesday', Thursday: 'Thursday', Friday: 'Friday' }
+	},
+	ko: {
+		nav: {
+			about: '소개',
+			weekly: '주간 브리핑',
+			knowledge: '마켓 지식',
+			library: '리서치 라이브러리',
+			primary: '주요 메뉴',
+			switchToEnglish: '언어를 영어로 변경',
+			switchToKorean: '언어를 한국어로 변경'
+		},
+		footer: {
+			description: '아시아 시장과 금융기관에 관한 독립 리서치입니다.',
+			data: '© 2026 · 예시 데이터만 사용합니다'
+		},
+		home: {
+			heroEyebrow: 'ASMR · 데이터 × 시장 × 리서치',
+			heroTitle: '아시아 주식시장 리서치',
+			heroDescription: '아시아 기업 공시, 금융기관, 시장 흐름과 퀀트 신호를 살펴보는 리서치 워크스페이스입니다.',
+			weeklyLink: '주간 브리핑 보기',
+			knowledgeLink: '마켓 지식 살펴보기',
+			coverage: '공시 체계 · 금융기관 · 시장 신호',
+			weeklyEyebrow: '예시 데이터 기반 지역 스냅샷',
+			weeklyTitle: '주간 시장 브리핑',
+			sampleData: '예시 데이터',
+			performance: '시장 성과 모니터',
+			oneWeekReturns: '1주일 지수 수익률',
+			fiveMarkets: '변화율 · 5개 시장',
+			knowledgeEyebrow: '리서치 프로그램',
+			knowledgeTitle: '마켓 지식',
+			knowledgeAside: '데이터, 금융기관, 시장을 살펴보는 네 가지 연결 주제입니다.',
+			aboutEyebrow: '리서처 소개',
+			aboutTitle: '금융 데이터, 시장, 퀀트 리서치.',
+			aboutBody: '노현우는 아시아 금융 데이터 품질, 기업 공시, 퀀트 투자 리서치 분야에서 일하고 있습니다.',
+			aboutLink: '소개 보기',
+			libraryLink: '리서치 라이브러리 보기',
+			disclaimerLabel: '안내',
+			disclaimer: '개인 리서치·교육 자료이며 투자 조언이 아닙니다. 기밀·독점·고용주 소유 데이터는 사용하지 않습니다.'
+		},
+		track: {
+			methodology: '분석 방법',
+			methodTitle: '단순화보다 신중한 비교를 지향합니다.',
+			backHome: 'ASMR 홈으로',
+			track: '트랙',
+			topics: '주제',
+			explore: '트랙 살펴보기'
+		},
+		status: { Planned: '예정', Framework: '분석 체계', Building: '구축 중', 'Research area': '연구 주제' },
+		library: {
+			eyebrow: '리서치 디렉터리 · 공개 자료',
+			title: '기관 리서치 라이브러리',
+			description: '투자기관이 시장을 해석하고, 데이터를 선택하며, 리서치를 포트폴리오 결정과 연결하는 방식을 살펴보는 자료 모음입니다. 일부 자료는 가입이나 투자자 자격 확인이 필요할 수 있으며, 접근 조건과 발행 주기는 바뀔 수 있습니다.',
+			groupsEyebrow: '리서치 소스',
+			routineEyebrow: '지속 가능한 읽기 루틴',
+			routineTitle: '주간 읽기 루틴',
+			routineNote: '아래 요일은 새 자료를 확인할 추천 시점이며, 발행일을 보장하지 않습니다.',
+			frameworkEyebrow: '읽기에서 리서치로',
+			frameworkTitle: '자료를 읽을 때 던질 네 가지 질문',
+			asiaEyebrow: '아시아 시장 적용',
+			asiaTitle: '시장 관점을 검증 가능한 질문으로 바꾸세요.',
+			asiaBody: '미국 ETF 자금 흐름을 다룬 자료라면 한국·대만·일본에서도 같은 현상이 나타나는지 질문해 보세요. 글로벌 모멘텀 연구라면 아시아 시장별 팩터 정의와 성과를 비교해 볼 수 있습니다.',
+			backHome: 'ASMR 홈으로',
+			framework: [
+				{ title: '시장 관찰', description: '이번 주에 무슨 일이 있었나요? 수익률, 시장 폭, 자금 흐름, 변동성을 살펴봅니다.' },
+				{ title: '기관의 해석', description: '서로 다른 기관은 같은 시장 현상을 어떻게 다르게 해석하나요?' },
+				{ title: '데이터와 방법론', description: '결론의 근거가 된 데이터, 정의, 계산 방법을 확인합니다.' },
+				{ title: '리서치 재현', description: '같은 아이디어를 아시아 시장에서 검증하려면 어떤 데이터와 모델이 필요할까요?' }
+			]
+		},
+		weekdays: { Monday: '월요일', Tuesday: '화요일', Wednesday: '수요일', Thursday: '목요일', Friday: '금요일' }
+	}
+} as const;

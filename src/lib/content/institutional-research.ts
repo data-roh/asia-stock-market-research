@@ -11,6 +11,7 @@ export interface ResearchSourceGroup {
 	title: string;
 	description: string;
 	sourceIds: string[];
+	anchor?: string;
 }
 
 export const researchSources: ResearchSource[] = [
@@ -96,6 +97,7 @@ export const researchSourceGroups: ResearchSourceGroup[] = [
 	{
 		title: 'Alternative data & market intelligence',
 		description: 'Connect company disclosures and earnings commentary to sector themes, positioning and market data.',
+		anchor: 'alternative-data',
 		sourceIds: ['alphasense', 'spglobal', 'msci-charts', 'cboe', 'cme', 'lseg', 'nasdaq']
 	},
 	{
