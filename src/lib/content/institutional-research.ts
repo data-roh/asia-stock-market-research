@@ -30,6 +30,8 @@ export const researchSources: ResearchSource[] = [
 	{ id: 'goldman', name: 'Goldman Sachs · Insights', url: 'https://www.goldmansachs.com/insights/', description: 'Research on the economy, companies, capital markets and global investing.', cadence: 'Several times per week' },
 	{ id: 'goldman-markets', name: 'Goldman Sachs · The Markets', url: 'https://www.goldmansachs.com/insights/the-markets', description: 'Short market-focused conversations with Goldman Sachs analysts and investors, including views on positioning, rates, equities and hedge-fund sentiment.', cadence: 'Weekly' },
 	{ id: 'morgan-stanley-totm', name: 'Morgan Stanley · Thoughts on the Market', url: 'https://www.morganstanley.com/insights/podcasts/thoughts-on-the-market', description: 'Short weekday market takes from different Morgan Stanley research perspectives; recent episodes include Korea, Japan, breadth, rates and credit.', cadence: 'Weekdays' },
+	{ id: 'bloomberg-odd-lots', name: 'Bloomberg · Odd Lots', url: 'https://www.bloomberg.com/podcasts/odd_lots', description: 'Joe Weisenthal and Tracy Alloway go deep on finance, market plumbing, economics and unusual market questions. Podcast episodes are also available through major podcast apps.', cadence: 'Monday, Thursday and Friday; accompanying newsletter updates frequently', access: 'Audio is broadly available; Bloomberg articles and newsletter access may require registration or a subscription.' },
+	{ id: 'bloomberg-money-stuff', name: 'Bloomberg Opinion · Money Stuff with Matt Levine', url: 'https://www.bloomberg.com/account/newsletters/money-stuff', description: 'A distinctive, witty but analytically sharp Wall Street and finance newsletter. Best treated as expert commentary and idea generation, not an official Bloomberg house view.', cadence: 'Daily newsletter', access: 'Newsletter sign-up is available; some linked Bloomberg articles require a subscription.' },
 	{ id: 'oaktree-memos', name: 'Oaktree · Howard Marks Memos', url: 'https://www.oaktreecapital.com/insights/memos', description: 'Howard Marks on market cycles, risk, investor psychology and credit. A distinctive long-form counterpoint to daily sell-side commentary.', cadence: 'Irregular; read deeply when published' },
 	{ id: 'gmo-library', name: 'GMO · Research Library', url: 'https://www.gmo.com/americas/research-library/', description: 'Long-horizon valuation, asset-class forecasts and GMO’s often contrarian views on bubbles, expected returns and portfolio construction.', cadence: 'Occasional; forecasts and letters on a slower cycle' },
 	{ id: 'hussman-commentary', name: 'Hussman Funds · Market Commentary', url: 'https://www.hussmanfunds.com/category/comment/', description: 'John Hussman’s valuation- and market-internals-driven, risk-conscious interpretation; useful as a deliberately different view, not as a consensus signal.', cadence: 'Irregular; recent posts have been several weeks apart' },
@@ -67,6 +69,11 @@ export const researchSourceGroups: ResearchSourceGroup[] = [
 		sourceIds: ['morgan-stanley-totm', 'goldman-markets', 'goldman', 'jpm-weekly', 'jpm']
 	},
 	{
+		title: 'Bloomberg’s distinctive voices',
+		description: 'Pair Bloomberg’s recurring market conversations with a singular daily voice on Wall Street and finance. These are editorial perspectives, not formal institutional research.',
+		sourceIds: ['bloomberg-odd-lots', 'bloomberg-money-stuff']
+	},
+	{
 		title: 'Distinctive manager voices',
 		description: 'Less frequent than daily market commentary, but valuable for contrasting a clear investment philosophy against the weekly consensus.',
 		sourceIds: ['oaktree-memos', 'gmo-library', 'hussman-commentary', 'bridgewater', 'man']
@@ -100,9 +107,9 @@ export const researchSourceGroups: ResearchSourceGroup[] = [
 
 export const weeklyReadingRoutine = [
 	{ day: 'Monday', theme: 'Global market recap', sourceIds: ['jpm-weekly', 'blackrock', 'apollo'] },
-	{ day: 'Tuesday', theme: 'Sell-side & market structure', sourceIds: ['morgan-stanley-totm', 'goldman-markets', 'citadel', 'man', 'cboe'] },
+	{ day: 'Tuesday', theme: 'Sell-side & market structure', sourceIds: ['morgan-stanley-totm', 'goldman-markets', 'bloomberg-odd-lots', 'citadel', 'man', 'cboe'] },
 	{ day: 'Wednesday', theme: 'Quant & factor research', sourceIds: ['aqr', 'twosigma'] },
-	{ day: 'Thursday', theme: 'Private markets & manager views', sourceIds: ['msci-benchmarks', 'kkr', 'goldman-top', 'oaktree-memos', 'gmo-library'] },
+	{ day: 'Thursday', theme: 'Private markets & manager views', sourceIds: ['bloomberg-money-stuff', 'msci-benchmarks', 'kkr', 'goldman-top', 'oaktree-memos', 'gmo-library'] },
 	{ day: 'Friday', theme: 'Asia & earnings intelligence', sourceIds: ['nomura', 'alphasense', 'eastspring'] }
 ];
 
