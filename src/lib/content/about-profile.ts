@@ -2,11 +2,13 @@ export const aboutProfiles = {
 	en: {
 		eyebrow: 'About Me',
 		name: 'Hyunwoo Roh',
-		role: 'Senior Data Professional · Bloomberg',
+		role: 'Data @Bloomberg · Senior Data Professional',
 		location: 'Hong Kong',
 		linkedin: 'LinkedIn profile',
+		medium: 'Medium blog',
+		mediumUrl: 'https://medium.com/@corr-roh',
 		googleScholar: 'Google Scholar',
-		googleScholarUrl: 'https://scholar.google.com/scholar?q=Hyunwoo+Roh+high-frequency+stock+machine+learning',
+		googleScholarUrl: 'https://scholar.google.com/citations?user=kXl69rUAAAAJ&hl=en&oi=sra',
 		ssrn: 'SSRN papers',
 		ssrnUrl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3744765',
 		interestsTitle: 'Research Interests',
@@ -22,35 +24,42 @@ export const aboutProfiles = {
 			{ id: 'geopolitical-risk', label: 'Geopolitical Risk', href: 'market-overlay/', color: 'risk' }
 		],
 		intro:
-			'I work at the intersection of financial data, company disclosures and quantitative research. My experience spans financial-data quality, investment products, portfolio strategies and applied machine learning across Asia.',
+			'I build financial-data products and investment workflows where accounting knowledge meets data engineering, workflow automation and applied NLP. At Bloomberg, I work with company financials in the Finance Sector and use AI to improve data review and delivery. Earlier roles span market sensing, robo-advisory, portfolio management, alpha research and alternative-data credit modeling.',
 			independence:
 			'ASMR is a personal research project. Views here are my own and are not affiliated with or endorsed by Bloomberg or any current or former employer. The site does not use confidential, licensed or employer-owned data.',
 		sections: {
 			navigation: 'On this page',
+			skills: 'Core Skills',
+			languages: 'Languages',
 			experience: 'Experience',
 			education: 'Education',
 			research: 'Selected Research & Publications',
 			interests: 'Research Interests'
 		},
+		skills: ['Portfolio Management', 'Quantitative Research', 'Data Science', 'Data Engineering', 'Applied NLP', 'Workflow Automation'],
+		languages: ['English · Full professional proficiency', 'Korean · Native / bilingual'],
 		experience: [
 			{
 				company: 'Bloomberg',
-				role: 'Senior Data Professional',
+				role: 'Senior Data Professional · Finance Sector',
 				location: 'Hong Kong',
 				dates: 'Aug 2025 – Present',
+				team: 'Company Financials Industry Team',
 				points: [
-					'Build automated quality-control workflows that validate financial data against company filings in XBRL and PDF, combining rules with LLM-assisted review across accuracy, consistency, comparability, completeness and timeliness.',
-					'Develop APAC golden templates for banks, insurers and securities firms, standardizing core fields, mappings and market-specific exceptions to improve vendor management and data AI-readiness.'
+					'Build finance-sector workflows across data engineering, workflow automation and applied NLP, grounded in accounting and market nuances.',
+					'Leverage AI to accelerate and optimize financial-data review and delivery processes.',
+					'Develop APAC golden templates for banks, insurers and securities firms, standardizing core fields, mappings and market-specific exceptions.'
 				]
 			},
 			{
 				company: 'Samsung Securities',
-				role: 'Assistant Manager',
+				role: 'Assistant Manager · Senior Associate',
 				location: 'Seoul, South Korea',
 				dates: 'Feb 2023 – Aug 2025',
 				points: [
-					'Led development of a broadly applicable robo-advisor algorithm for multiple financial products; launched in December 2023 with public performance metrics.',
-					'Managed discretionary wrap portfolios and developed quantitative strategies, including sector rotation.'
+					'Channel Solution Strategy Team: developed a market-sensing pipeline from data collection through investment-strategy delivery.',
+					'Received the Samsung Securities Employee of the Year award in 2024.',
+					'Wrap Management Team: developed robo-advisor algorithms and researched alpha; managed discretionary model portfolios and quantitative portfolio strategies.'
 				]
 			},
 			{
@@ -64,23 +73,33 @@ export const aboutProfiles = {
 				]
 			},
 			{
-				company: 'Peoplefund',
+				company: 'PFCT · PFC Technologies (Peoplefund)',
 				role: 'Data Scientist',
 				location: 'Seoul, South Korea',
 				dates: 'May 2021 – Oct 2022',
 				points: [
-					'Presented research on genetic algorithms for credit-approval strategy at INFORMS 2022.',
-					'Improved credit scoring with machine-learning methods and features derived from alternative data.'
-				],
-				interestIds: ['alternative-data', 'quant-research']
+					'Presented genetic-algorithm research on optimal credit approval at the INFORMS 2022 Workshop on Data Science.',
+					'Modeled and optimized loan-pricing and loan-amount strategies to improve profitability and efficiency.',
+					'Enhanced credit scoring with machine-learning methods and features derived from alternative data.'
+				]
 			},
 			{
-				company: 'Juro Instruments',
+				company: 'Yuro Instruments · JURO Instruments',
 				role: 'Quantitative Researcher',
 				location: 'Seoul, South Korea',
 				dates: 'May 2020 – Sep 2020',
 				points: [
-					'Researched an early-warning system for financial risks across stocks, derivatives and digital assets using fat-tailed distributions and machine learning, advised by Professor Youngshin Kim of Stony Brook University.'
+					'Researched an early-warning system for financial risks across stocks, derivatives and digital assets using fat-tailed distributions and machine learning, advised by Professor Aaron Youngshin Kim of Stony Brook University.'
+				]
+			},
+			{
+				company: 'University of Chicago',
+				role: 'Research and Teaching Assistant',
+				location: 'Chicago, Illinois, USA',
+				dates: 'Oct 2019 – Mar 2020',
+				points: [
+					'Led weekly office hours and review sessions for Econometrics and Statistical Methods in Economics.',
+				'Assisted with stochastic-analysis and portfolio-theory course materials, grading, and a behavioral-economics meta-analysis project on energy.'
 				]
 			}
 		],
@@ -108,6 +127,20 @@ export const aboutProfiles = {
 					'Dean’s List, Fall 2014 and Fall 2016.',
 					'Mathematics coursework included real analysis, general topology, differential equations, numerical analysis, statistics and finance.'
 				]
+			},
+			{
+				school: 'University of California, Berkeley',
+				degree: 'Exchange Student · Political Economy',
+				location: 'Berkeley, USA',
+				dates: '2014 – 2015',
+				details: []
+			},
+			{
+				school: 'Taegu Foreign Language High School',
+				degree: 'High School Diploma',
+				location: 'Daegu, South Korea',
+				dates: 'Mar 2009 – Feb 2012',
+				details: []
 			}
 		],
 		publications: [
@@ -148,11 +181,13 @@ export const aboutProfiles = {
 	ko: {
 		eyebrow: '소개',
 		name: '노현우',
-		role: 'Senior Data Professional · Bloomberg',
+		role: 'Data @Bloomberg · Senior Data Professional',
 		location: '홍콩',
 		linkedin: 'LinkedIn 프로필',
+		medium: 'Medium 블로그',
+		mediumUrl: 'https://medium.com/@corr-roh',
 		googleScholar: 'Google Scholar 검색',
-		googleScholarUrl: 'https://scholar.google.com/scholar?q=Hyunwoo+Roh+high-frequency+stock+machine+learning',
+		googleScholarUrl: 'https://scholar.google.com/citations?user=kXl69rUAAAAJ&hl=en&oi=sra',
 		ssrn: 'SSRN 논문',
 		ssrnUrl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3744765',
 		interestsTitle: '연구 관심 분야',
@@ -168,35 +203,42 @@ export const aboutProfiles = {
 			{ id: 'geopolitical-risk', label: '지정학적 리스크', href: 'market-overlay/', color: 'risk' }
 		],
 		intro:
-			'금융 데이터, 기업 공시, 퀀트 리서치가 만나는 영역에서 일합니다. 아시아 시장을 중심으로 금융 데이터 품질, 투자 상품, 포트폴리오 전략과 머신러닝을 활용한 분석을 경험했습니다.',
+			'회계 지식과 시장 이해를 바탕으로 금융 데이터 제품과 투자 워크플로를 만듭니다. Bloomberg Finance Sector에서 데이터 엔지니어링, 워크플로 자동화, 응용 NLP와 AI를 활용하고 있습니다. 이전에는 시장 센싱 파이프라인, 로보어드바이저, 포트폴리오 전략, 알파 리서치, 대체데이터 기반 신용평가를 수행했습니다.',
 		independence:
 			'ASMR은 개인 리서치 프로젝트입니다. 이곳의 견해는 개인의 의견이며 Bloomberg 또는 현재·과거 고용주의 견해나 지지를 대변하지 않습니다. 기밀·라이선스·고용주 소유 데이터는 사용하지 않습니다.',
 		sections: {
 			navigation: '페이지 바로가기',
+			skills: '핵심 역량',
+			languages: '언어',
 			experience: '경력',
 			education: '학력',
 			research: '주요 연구 및 논문',
 			interests: '연구 관심 분야'
 		},
+		skills: ['포트폴리오 운용', '퀀트 리서치', '데이터 사이언스', '데이터 엔지니어링', '응용 NLP', '워크플로 자동화'],
+		languages: ['영어 · 업무상 전문 수준', '한국어 · 모국어'],
 		experience: [
 			{
 				company: 'Bloomberg',
-				role: 'Senior Data Professional',
+				role: 'Senior Data Professional · Finance Sector',
 				location: '홍콩',
 				dates: '2025년 8월 – 현재',
+				team: 'Company Financials Industry Team',
 				points: [
-					'XBRL 및 PDF 기업 공시와 금융 데이터를 대조하는 자동 품질관리 워크플로를 개발합니다. 규칙 기반 검증과 LLM 보조 검토를 결합해 정확성, 일관성, 비교 가능성, 완전성, 적시성을 점검합니다.',
-					'아시아·태평양 은행, 보험사, 증권사를 위한 골든 템플릿을 개발하고 핵심 필드, 매핑 규칙, 시장별 예외를 표준화해 벤더 관리 효율과 데이터 AI 활용성을 높입니다.'
+					'회계·시장 맥락을 바탕으로 금융 데이터 엔지니어링, 워크플로 자동화, 응용 NLP 업무를 수행합니다.',
+					'AI를 활용해 금융 데이터 검토와 전달 프로세스를 가속하고 최적화합니다.',
+					'아시아·태평양 은행, 보험사, 증권사의 골든 템플릿을 개발해 핵심 필드, 매핑, 시장별 예외를 표준화합니다.'
 				]
 			},
 			{
 				company: '삼성증권',
-				role: '과장',
+				role: '과장 · Senior Associate',
 				location: '대한민국 서울',
 				dates: '2023년 2월 – 2025년 8월',
 				points: [
-					'다양한 금융상품에 적용할 수 있는 로보어드바이저 알고리즘 개발을 주도했습니다. 2023년 12월 출시했으며 성과 지표가 공개되어 있습니다.',
-					'일임형 랩 계좌를 운용하고 섹터 로테이션 등 퀀트 투자 전략을 개발했습니다.'
+					'Channel Solution Strategy Team에서 데이터 수집부터 투자전략 제공까지 이어지는 Market Sensing 파이프라인을 개발했습니다.',
+					'2024년 삼성증권인상을 수상했습니다.',
+					'Wrap Management Team에서 로보어드바이저 시스템과 알파를 연구하고 일임형 모델 포트폴리오 및 퀀트 전략을 개발·관리했습니다.'
 				]
 			},
 			{
@@ -210,23 +252,34 @@ export const aboutProfiles = {
 				]
 			},
 			{
-				company: '피플펀드',
+				company: 'PFCT · PFC Technologies (피플펀드)',
 				role: '데이터 사이언티스트',
 				location: '대한민국 서울',
 				dates: '2021년 5월 – 2022년 10월',
 				points: [
-					'유전 알고리즘을 활용한 신용 승인 전략 연구를 INFORMS 2022에서 발표했습니다.',
-					'머신러닝 기법과 대체 데이터 기반 신규 피처를 적용해 기존 신용평가 시스템을 개선했습니다.'
+					'유전 알고리즘 기반 최적 신용 승인 전략 연구를 INFORMS 2022 데이터 사이언스 워크숍에서 발표했습니다.',
+					'수익성과 효율성 개선을 위해 대출 금리 및 한도 전략을 모델링하고 최적화했습니다.',
+					'머신러닝과 대체데이터 피처를 적용해 신용평가모형을 개선했습니다.'
 				],
-				interestIds: ['alternative-data', 'quant-research']
 			},
 			{
-				company: '주로인스트루먼트',
+				company: '유로인스트루먼츠 · JURO Instruments',
 				role: '퀀트 리서처',
 				location: '대한민국 서울',
 				dates: '2020년 5월 – 2020년 9월',
 				points: [
-					'김영신 교수(Stony Brook University)의 지도 아래 주식, 파생상품, 디지털 자산의 금융 위험 조기경보 시스템을 팻테일 분포와 머신러닝으로 연구·개발했습니다.'
+					'Aaron Youngshin Kim 교수(Stony Brook University)의 지도 아래 팻테일 분포와 머신러닝을 활용해 주식, 파생상품, 디지털 자산의 금융 위험 조기경보 시스템을 연구·개발했습니다.'
+				]
+			},
+			{
+				company: 'University of Chicago',
+				role: 'Research and Teaching Assistant',
+				location: '미국 일리노이주 시카고',
+				dates: '2019년 10월 – 2020년 3월',
+				points: [
+					'계량경제학과 경제통계방법론의 주간 오피스아워와 리뷰 세션을 진행했습니다.',
+					'확률미적분 및 포트폴리오 이론 과목의 해설 자료와 과제 채점을 지원했습니다.',
+					'에너지 분야 실험·행동경제학 메타분석 프로젝트에 참여했습니다.'
 				]
 			}
 		],
@@ -254,6 +307,20 @@ export const aboutProfiles = {
 					'성적우수자 명단(Dean’s List) 2회: 2014년 가을, 2016년 가을.',
 					'수학 과목: 실해석학, 일반위상수학, 미분방정식, 수치해석, 통계수학, 금융수학.'
 				]
+			},
+			{
+				school: 'University of California, Berkeley',
+				degree: '교환학생 · 정치경제학',
+				location: '미국 버클리',
+				dates: '2014년 – 2015년',
+				details: []
+			},
+			{
+				school: '대구외국어고등학교',
+				degree: '고등학교 졸업',
+				location: '대한민국 대구',
+				dates: '2009년 3월 – 2012년 2월',
+				details: []
 			}
 		],
 		publications: [

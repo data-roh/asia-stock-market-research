@@ -10,7 +10,7 @@
 	const copy = $derived(siteCopy[$locale]);
 	const navigation = [
 		{ key: 'about', label: 'about', href: 'about/' },
-		{ key: 'weekly', label: 'weekly', anchor: 'weekly-briefing' },
+		{ key: 'weekly', label: 'weekly', external: 'https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7490416413996900352' },
 		{ key: 'knowledge', label: 'knowledge', anchor: 'market-knowledge' },
 		{ key: 'library', label: 'library', href: 'institutional-research/' }
 	] as const;
@@ -38,8 +38,7 @@
 <header class="site-header">
 	<div class="shell header-inner">
 		<a class="brand" href={resolve('/')} aria-label="Asia Stock Market Research home">
-			<span class="brand-mark"><img src={asset('asmr-square-tight-dark.png')} alt="" /></span>
-			<span class="brand-name">Asia Stock Market Research</span>
+			<span class="brand-mark"><img src={asset('asmr-square-light.png')} alt="" /></span>
 		</a>
 		<nav aria-label={copy.nav.primary}>
 			<ul class="nav-links">
@@ -47,6 +46,8 @@
 					<li>
 						{#if 'href' in item}
 							<a href={resolve(item.href)}>{copy.nav[item.label]}</a>
+						{:else if 'external' in item}
+							<a href={item.external} target="_blank" rel="external noreferrer">{copy.nav[item.label]} <span aria-hidden="true">↗</span></a>
 						{:else}
 							<a href={resolve('/')} onclick={(event) => navigateToSection(event, item.anchor)}>{copy.nav[item.label]}</a>
 						{/if}

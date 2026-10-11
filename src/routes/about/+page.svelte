@@ -32,12 +32,24 @@
 					<a class="text-link" href="https://www.linkedin.com/in/rohdata" target="_blank" rel="external noreferrer">
 						{profile.linkedin} <span aria-hidden="true">↗</span>
 					</a>
+					<a class="text-link" href={profile.mediumUrl} target="_blank" rel="external noreferrer">
+						{profile.medium} <span aria-hidden="true">↗</span>
+					</a>
 					<a class="text-link" href={profile.googleScholarUrl} target="_blank" rel="external noreferrer">
 						{profile.googleScholar} <span aria-hidden="true">↗</span>
 					</a>
 					<a class="text-link" href={profile.ssrnUrl} target="_blank" rel="external noreferrer">
 						{profile.ssrn} <span aria-hidden="true">↗</span>
 					</a>
+				</div>
+				<div class="profile-highlights">
+					<div>
+						<p class="eyebrow">{profile.sections.skills}</p>
+						<div class="profile-skill-list">
+							{#each profile.skills as skill (skill)}<span>{skill}</span>{/each}
+						</div>
+					</div>
+					<p class="profile-languages"><strong>{profile.sections.languages}</strong> · {profile.languages.join(' · ')}</p>
 				</div>
 			</div>
 		</div>
@@ -62,20 +74,11 @@
 							<p class="eyebrow">{job.dates}</p>
 							<h3>{job.company}</h3>
 							<p>{job.role} · {job.location}</p>
+							{#if 'team' in job}<p class="experience-team">{job.team}</p>{/if}
 						</div>
 						<ul>
 							{#each job.points as point (point)}<li>{point}</li>{/each}
 						</ul>
-						{#if 'interestIds' in job}
-							<div class="interest-tags experience-tags" aria-label={profile.sections.interests}>
-								{#each job.interestIds as interestId (interestId)}
-									{@const interest = interestById.get(interestId)}
-									{#if interest}
-										<a class={`interest-tag interest-${interest.color}`} href={resolve(interest.href)} onclick={(event) => navigateToInterest(event, 'anchor' in interest ? interest.anchor : undefined)}>{interest.label}</a>
-									{/if}
-								{/each}
-							</div>
-						{/if}
 					</article>
 				{/each}
 			</div>

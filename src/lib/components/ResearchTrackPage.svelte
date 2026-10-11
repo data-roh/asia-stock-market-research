@@ -3,6 +3,7 @@
 	import { locale } from '#lib/locale.js';
 	import { siteCopy } from '#lib/content/site-copy.js';
 	import { researchStatusKo, researchTracksKo } from '#lib/content/research-tracks-ko.js';
+	import { disclosureDocuments } from '#lib/content/disclosure-documents.js';
 	import ResearchTopicCard from '#lib/components/ResearchTopicCard.svelte';
 	import type { ResearchTrack } from '#lib/content/research-tracks.js';
 
@@ -32,6 +33,27 @@
 			<p class="intro-copy">{description}</p>
 		</div>
 	</section>
+	{#if track.slug === 'disclosures'}
+		<section class="disclosure-collection shell" aria-labelledby="disclosure-collection-title">
+			<div class="resource-group-heading">
+				<div>
+					<p class="eyebrow">{copy.disclosureCollectionEyebrow}</p>
+					<h2 id="disclosure-collection-title">{copy.disclosureCollectionTitle}</h2>
+				</div>
+				<p>{copy.disclosureCollectionDescription}</p>
+			</div>
+			<div class="disclosure-document-grid">
+				{#each disclosureDocuments as document (document.slug)}
+					<a class="disclosure-document-card" href={resolve(document.href)}>
+						<p class="eyebrow">{document.format}</p>
+						<h3>{document.title}</h3>
+						<p>{$locale === 'ko' ? document.descriptionKo : document.description}</p>
+						<span class="text-link">{copy.disclosureArticleAction} <span aria-hidden="true">→</span></span>
+					</a>
+				{/each}
+			</div>
+		</section>
+	{/if}
 	<section class="page-body shell" aria-label={`${title} research topics`}>
 		<div class="topic-grid">
 			{#each topics as topic (topic.title)}

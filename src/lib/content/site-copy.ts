@@ -2,7 +2,7 @@ export const siteCopy = {
 	en: {
 		nav: {
 			about: 'About Me',
-			weekly: 'Weekly Briefing',
+			weekly: 'Weekly Note',
 			knowledge: 'Market Knowledge',
 			library: 'Research Library',
 			primary: 'Primary navigation',
@@ -11,17 +11,17 @@ export const siteCopy = {
 		},
 		footer: {
 			description: 'Independent research on Asian markets and financial institutions.',
-			data: '© 2026 · Illustrative sample data only'
+			data: 'Site under development · More research coming soon'
 		},
 		home: {
 			heroEyebrow: 'ASMR · Data × Markets × Research',
 			heroTitle: 'Asia Stock Market Research',
 			heroDescription: 'A research workspace for understanding Asian disclosures, financial institutions, market behavior and quantitative signals.',
-			weeklyLink: 'View Weekly Briefing',
+			weeklyLink: 'View Asia Market Snapshot',
 			knowledgeLink: 'Explore Market Knowledge',
 			coverage: 'Disclosure systems · Financial institutions · Market signals',
-			weeklyEyebrow: 'Illustrative regional snapshot',
-			weeklyTitle: 'Weekly Market Briefing',
+			weeklyEyebrow: 'Illustrative market data',
+			weeklyTitle: 'Asia Market Snapshot',
 			sampleData: 'Illustrative sample data',
 			performance: 'Performance monitor',
 			oneWeekReturns: 'One-week index returns',
@@ -41,6 +41,13 @@ export const siteCopy = {
 			methodology: 'Methodology',
 			methodTitle: 'A careful comparison, not a shortcut.',
 			backHome: 'Back to ASMR home',
+			disclosureArticleEyebrow: 'Featured disclosure research',
+			disclosureArticleTitle: 'A Taxonomy of Asian Disclosure Systems: Nine Worked Examples',
+			disclosureArticleDescription: 'Apply the framework to nine semiconductor companies across Korea, Japan and Taiwan, from source routing and earnings calendars to ownership, contracts and rule registries.',
+			disclosureArticleAction: 'Read the research',
+			disclosureCollectionEyebrow: 'Market Knowledge · Disclosures',
+			disclosureCollectionTitle: 'Disclosure Systems Research',
+			disclosureCollectionDescription: 'Four companion pieces, from a concise overview to rule-level detail, company examples and a five-table summary.',
 			track: 'TRACK',
 			topics: 'TOPICS',
 			explore: 'Explore track'
@@ -72,7 +79,7 @@ export const siteCopy = {
 	ko: {
 		nav: {
 			about: '소개',
-			weekly: '주간 브리핑',
+			weekly: '주간 노트',
 			knowledge: '마켓 지식',
 			library: '리서치 라이브러리',
 			primary: '주요 메뉴',
@@ -81,17 +88,17 @@ export const siteCopy = {
 		},
 		footer: {
 			description: '아시아 시장과 금융기관에 관한 독립 리서치입니다.',
-			data: '© 2026 · 예시 데이터만 사용합니다'
+			data: '사이트 구축 중 · 새로운 리서치를 준비하고 있습니다'
 		},
 		home: {
 			heroEyebrow: 'ASMR · 데이터 × 시장 × 리서치',
 			heroTitle: '아시아 주식시장 리서치',
 			heroDescription: '아시아 기업 공시, 금융기관, 시장 흐름과 퀀트 신호를 살펴보는 리서치 워크스페이스입니다.',
-			weeklyLink: '주간 브리핑 보기',
+			weeklyLink: '아시아 시장 스냅샷 보기',
 			knowledgeLink: '마켓 지식 살펴보기',
 			coverage: '공시 체계 · 금융기관 · 시장 신호',
-			weeklyEyebrow: '예시 데이터 기반 지역 스냅샷',
-			weeklyTitle: '주간 시장 브리핑',
+			weeklyEyebrow: '예시 시장 데이터',
+			weeklyTitle: '아시아 시장 스냅샷',
 			sampleData: '예시 데이터',
 			performance: '시장 성과 모니터',
 			oneWeekReturns: '1주일 지수 수익률',
@@ -111,6 +118,13 @@ export const siteCopy = {
 			methodology: '분석 방법',
 			methodTitle: '단순화보다 신중한 비교를 지향합니다.',
 			backHome: 'ASMR 홈으로',
+			disclosureArticleEyebrow: '주요 공시 리서치',
+			disclosureArticleTitle: '아시아 공시 체계 분류: 9개 기업 사례',
+			disclosureArticleDescription: '한국·일본·대만의 반도체 기업 9곳을 대상으로 공시 출처, 실적 일정, 지분, 계약, 규칙 레지스트리까지 프레임워크를 적용합니다. 원문은 영어입니다.',
+			disclosureArticleAction: '리서치 읽기',
+			disclosureCollectionEyebrow: '마켓 지식 · 기업 공시',
+			disclosureCollectionTitle: '공시 체계 리서치',
+			disclosureCollectionDescription: '간결한 개요부터 규칙 상세판, 기업별 사례, 다섯 개 표 요약까지 네 편을 모았습니다. 원문은 영어입니다.',
 			track: '트랙',
 			topics: '주제',
 			explore: '트랙 살펴보기'

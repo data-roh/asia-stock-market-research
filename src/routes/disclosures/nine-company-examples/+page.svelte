@@ -1,0 +1,9 @@
+<script lang="ts">
+	import DisclosureResearchArticle from '#lib/components/DisclosureResearchArticle.svelte';
+	import { getDisclosureDocument } from '#lib/content/disclosure-documents.js';
+	import articleMarkdown from '#lib/content/asia_disclosure_nine_company_examples_EN.md?raw';
+
+	const article = getDisclosureDocument('nine-company-examples');
+</script>
+
+<DisclosureResearchArticle {article} markdown={articleMarkdown} />
