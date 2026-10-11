@@ -38,7 +38,7 @@
 <header class="site-header">
 	<div class="shell header-inner">
 		<a class="brand" href={resolve('/')} aria-label="Asia Stock Market Research home">
-			<span class="brand-mark" aria-hidden="true">A<span>SMR</span></span>
+			<span class="brand-mark"><img src={asset('asmr-square-tight-dark.png')} alt="" /></span>
 			<span class="brand-name">Asia Stock Market Research</span>
 		</a>
 		<nav aria-label={copy.nav.primary}>

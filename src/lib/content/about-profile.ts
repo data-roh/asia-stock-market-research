@@ -18,7 +18,8 @@ export const aboutProfiles = {
 			{ id: 'quant-research', label: 'Quantitative Investing', href: 'quant/', color: 'quant' },
 			{ id: 'portfolio-strategy', label: 'Portfolio Strategy', href: 'quant/', color: 'quant' },
 			{ id: 'market-structure', label: 'Market Structure', href: 'market-overlay/', color: 'markets' },
-			{ id: 'geopolitical-risk', label: 'North Korean Geopolitical Risk', href: 'market-overlay/', color: 'markets' }
+			{ id: 'market-volatility', label: 'Market Volatility', href: 'market-overlay/', color: 'risk' },
+			{ id: 'geopolitical-risk', label: 'Geopolitical Risk', href: 'market-overlay/', color: 'risk' }
 		],
 		intro:
 			'I work at the intersection of financial data, company disclosures and quantitative research. My experience spans financial-data quality, investment products, portfolio strategies and applied machine learning across Asia.',
@@ -114,7 +115,7 @@ export const aboutProfiles = {
 				title: 'Finding an Optimal Approval Strategy in Credit Scoring System Using Genetic Algorithm',
 				venue: 'Company research project · Oct 2022',
 				url: 'https://dx.doi.org/10.2139/ssrn.4461370',
-				interestIds: ['data-quality', 'quant-research']
+				interestIds: ['quant-research', 'financial-institutions']
 			},
 			{
 				title: 'What Moves Analyst Forecasts? Topic-Level Under- and Overreaction in Korean Financial Holding Companies',
@@ -135,12 +136,12 @@ export const aboutProfiles = {
 			{
 				title: 'Measuring North Korean Geopolitical Risks: Implications for Asia’s Financial Volatilities',
 				venue: 'With Jiyoun An · East Asian Policy, 10(3), 41–50 · Jul/Sep 2018',
-				interestIds: ['geopolitical-risk', 'market-structure']
+				interestIds: ['geopolitical-risk', 'market-volatility']
 			},
 			{
 				title: 'A Study on Information Spillover Effect at Industry Level between Korean and US Stock Market',
 				venue: 'With Sunmi Lee · KyungHee Journal of Natural Science · Dec 2016',
-				interestIds: ['market-structure', 'quant-research']
+				interestIds: ['market-structure', 'market-volatility']
 			}
 		]
 	},
@@ -163,7 +164,8 @@ export const aboutProfiles = {
 			{ id: 'quant-research', label: '퀀트 투자', href: 'quant/', color: 'quant' },
 			{ id: 'portfolio-strategy', label: '포트폴리오 전략', href: 'quant/', color: 'quant' },
 			{ id: 'market-structure', label: '시장 구조', href: 'market-overlay/', color: 'markets' },
-			{ id: 'geopolitical-risk', label: '북한 지정학적 리스크', href: 'market-overlay/', color: 'markets' }
+			{ id: 'market-volatility', label: '시장 변동성', href: 'market-overlay/', color: 'risk' },
+			{ id: 'geopolitical-risk', label: '지정학적 리스크', href: 'market-overlay/', color: 'risk' }
 		],
 		intro:
 			'금융 데이터, 기업 공시, 퀀트 리서치가 만나는 영역에서 일합니다. 아시아 시장을 중심으로 금융 데이터 품질, 투자 상품, 포트폴리오 전략과 머신러닝을 활용한 분석을 경험했습니다.',
@@ -259,7 +261,7 @@ export const aboutProfiles = {
 				title: '유전 알고리즘을 이용한 신용평가 시스템의 최적 승인 전략 탐색',
 				venue: '기업 연구 프로젝트 · 2022년 10월',
 				url: 'https://dx.doi.org/10.2139/ssrn.4461370',
-				interestIds: ['data-quality', 'quant-research']
+				interestIds: ['quant-research', 'financial-institutions']
 			},
 			{
 				title: '애널리스트 전망을 움직이는 요인: 한국 금융지주사의 주제별 과소·과잉 반응',
@@ -280,12 +282,12 @@ export const aboutProfiles = {
 			{
 				title: '북한 지정학적 위험 측정: 아시아 금융 변동성에 대한 시사점',
 				venue: '안지연 공저 · East Asian Policy, 10(3), 41–50 · 2018년 7/9월',
-				interestIds: ['geopolitical-risk', 'market-structure']
+				interestIds: ['geopolitical-risk', 'market-volatility']
 			},
 			{
 				title: '한국과 미국 주식시장 간 산업 수준 정보 파급효과 연구',
 				venue: '선미 공저 · KyungHee Journal of Natural Science · 2016년 12월',
-				interestIds: ['market-structure', 'quant-research']
+				interestIds: ['market-structure', 'market-volatility']
 			}
 		]
 	}

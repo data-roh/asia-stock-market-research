@@ -50,17 +50,6 @@
 			<a href="#research">{profile.sections.research}</a>
 		</nav>
 
-		<section class="about-section interest-section" aria-labelledby="interests-title">
-			<div class="about-section-heading">
-				<h2 id="interests-title">{profile.sections.interests}</h2>
-			</div>
-			<div class="interest-tags">
-				{#each profile.interests as interest (interest.id)}
-					<a class={`interest-tag interest-${interest.color}`} href={resolve(interest.href)} onclick={(event) => navigateToInterest(event, 'anchor' in interest ? interest.anchor : undefined)}>{interest.label}<span aria-hidden="true">↗</span></a>
-				{/each}
-			</div>
-		</section>
-
 		<section id="experience" class="about-section" aria-labelledby="experience-title">
 			<div class="about-section-heading">
 				<p class="eyebrow">01</p>
@@ -143,6 +132,18 @@
 		</section>
 
 		<aside class="about-disclosure">{profile.independence}</aside>
+
+		<section class="about-section interest-section" aria-labelledby="interests-title">
+			<div class="about-section-heading">
+				<h2 id="interests-title">{profile.sections.interests}</h2>
+			</div>
+			<div class="interest-tags">
+				{#each profile.interests as interest (interest.id)}
+					<a class={`interest-tag interest-${interest.color}`} href={resolve(interest.href)} onclick={(event) => navigateToInterest(event, 'anchor' in interest ? interest.anchor : undefined)}>{interest.label}<span aria-hidden="true">↗</span></a>
+				{/each}
+			</div>
+		</section>
+
 		<div class="page-back"><a class="text-link" href={resolve('/')}>← {copy.backHome}</a></div>
 	</div>
 </main>
