@@ -33,12 +33,6 @@
 					<a class="button button-secondary" href="#market-knowledge">{copy.knowledgeLink}</a>
 				</div>
 			</div>
-			<div class="hero-index" aria-label={copy.coverage}>
-				<div class="hero-index-top"><span>ASIA COVERAGE</span><span>01 / 05</span></div>
-				<div class="hero-index-line"></div>
-				<p>{copy.coverage}</p>
-				<div class="hero-index-bottom"><span>INDEPENDENT RESEARCH</span><span>EST. 2026</span></div>
-			</div>
 		</div>
 	</section>
 

@@ -2,9 +2,10 @@ export const siteCopy = {
 	en: {
 		nav: {
 			about: 'About Me',
-			weekly: 'Weekly Note',
+			weekly: 'Newsletter',
 			knowledge: 'Market Knowledge',
-			library: 'Research Library',
+			library: 'Research Lib',
+			quant: 'Quant Research',
 			primary: 'Primary navigation',
 			switchToEnglish: 'Switch language to English',
 			switchToKorean: 'Switch language to Korean'
@@ -79,9 +80,10 @@ export const siteCopy = {
 	ko: {
 		nav: {
 			about: '소개',
-			weekly: '주간 노트',
+			weekly: '뉴스레터',
 			knowledge: '마켓 지식',
 			library: '리서치 라이브러리',
+			quant: '퀀트 리서치',
 			primary: '주요 메뉴',
 			switchToEnglish: '언어를 영어로 변경',
 			switchToKorean: '언어를 한국어로 변경'

@@ -6,7 +6,7 @@ export const aboutProfiles = {
 		location: 'Hong Kong',
 		linkedin: 'LinkedIn profile',
 		medium: 'Medium blog',
-		mediumUrl: 'https://medium.com/@corr-roh',
+		mediumUrl: 'https://medium.com/data-science/journey-to-tempered-stable-distribution-part-1-fat-tailed-distribution-958d28bc20c?sharedUserId=lfmt',
 		googleScholar: 'Google Scholar',
 		googleScholarUrl: 'https://scholar.google.com/citations?user=kXl69rUAAAAJ&hl=en&oi=sra',
 		ssrn: 'SSRN papers',
@@ -130,13 +130,6 @@ export const aboutProfiles = {
 				location: 'Berkeley, USA',
 				dates: '2014 – 2015',
 				details: []
-			},
-			{
-				school: 'Taegu Foreign Language High School',
-				degree: 'High School Diploma',
-				location: 'Daegu, South Korea',
-				dates: 'Mar 2009 – Feb 2012',
-				details: []
 			}
 		],
 		publications: [
@@ -186,7 +179,7 @@ export const aboutProfiles = {
 		location: '홍콩',
 		linkedin: 'LinkedIn 프로필',
 		medium: 'Medium 블로그',
-		mediumUrl: 'https://medium.com/@corr-roh',
+		mediumUrl: 'https://medium.com/data-science/journey-to-tempered-stable-distribution-part-1-fat-tailed-distribution-958d28bc20c?sharedUserId=lfmt',
 		googleScholar: 'Google Scholar 검색',
 		googleScholarUrl: 'https://scholar.google.com/citations?user=kXl69rUAAAAJ&hl=en&oi=sra',
 		ssrn: 'SSRN 논문',
@@ -310,13 +303,6 @@ export const aboutProfiles = {
 				degree: '교환학생 · 정치경제학',
 				location: '미국 버클리',
 				dates: '2014년 – 2015년',
-				details: []
-			},
-			{
-				school: '대구외국어고등학교',
-				degree: '고등학교 졸업',
-				location: '대한민국 대구',
-				dates: '2009년 3월 – 2012년 2월',
 				details: []
 			}
 		],

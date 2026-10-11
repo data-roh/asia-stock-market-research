@@ -33,11 +33,11 @@
 					<a class="text-link" href="https://www.linkedin.com/in/rohdata" target="_blank" rel="external noreferrer">
 						{profile.linkedin} <span aria-hidden="true">↗</span>
 					</a>
-					<a class="text-link" href={profile.mediumUrl} target="_blank" rel="external noreferrer">
-						{profile.medium} <span aria-hidden="true">↗</span>
-					</a>
 					<a class="text-link" href={profile.googleScholarUrl} target="_blank" rel="external noreferrer">
 						{profile.googleScholar} <span aria-hidden="true">↗</span>
+					</a>
+					<a class="text-link" href={profile.mediumUrl} target="_blank" rel="external noreferrer">
+						{profile.medium} <span aria-hidden="true">↗</span>
 					</a>
 					<a class="text-link" href={profile.ssrnUrl} target="_blank" rel="external noreferrer">
 						{profile.ssrn} <span aria-hidden="true">↗</span>
