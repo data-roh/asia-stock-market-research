@@ -4,7 +4,11 @@ export interface DisclosureDocument {
 	format: string;
 	description: string;
 	descriptionKo: string;
-	href: string;
+	href:
+		| 'disclosures/taxonomy/'
+		| 'disclosures/taxonomy-detail/'
+		| 'disclosures/nine-company-examples/'
+		| 'disclosures/linkedin-tables/';
 	markdownPath: string;
 	pageDescription: string;
 	pageDescriptionKo: string;

@@ -109,7 +109,7 @@
 						<div>
 							<h3>{publication.title}</h3>
 							<p>{publication.venue}</p>
-							{#if publication.methodIds?.length}
+							{#if 'methodIds' in publication && publication.methodIds.length > 0}
 								<div class="publication-methods">
 									{#each publication.methodIds ?? [] as methodId (methodId)}
 										{@const method = researchMethods[methodId as keyof typeof researchMethods]}
