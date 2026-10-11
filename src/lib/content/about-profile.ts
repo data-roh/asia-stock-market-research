@@ -29,15 +29,11 @@ export const aboutProfiles = {
 			'ASMR is a personal research project. Views here are my own and are not affiliated with or endorsed by Bloomberg or any current or former employer. The site does not use confidential, licensed or employer-owned data.',
 		sections: {
 			navigation: 'On this page',
-			skills: 'Core Skills',
-			languages: 'Languages',
 			experience: 'Experience',
 			education: 'Education',
 			research: 'Selected Research & Publications',
 			interests: 'Research Interests'
 		},
-		skills: ['Portfolio Management', 'Quantitative Research', 'Data Science', 'Data Engineering', 'Applied NLP', 'Workflow Automation'],
-		languages: ['English · Full professional proficiency', 'Korean · Native / bilingual'],
 		experience: [
 			{
 				company: 'Bloomberg',
@@ -148,32 +144,38 @@ export const aboutProfiles = {
 				title: 'Finding an Optimal Approval Strategy in Credit Scoring System Using Genetic Algorithm',
 				venue: 'Company research project · Oct 2022',
 				url: 'https://dx.doi.org/10.2139/ssrn.4461370',
+				methodIds: ['genetic-algorithm'],
 				interestIds: ['quant-research', 'financial-institutions']
 			},
 			{
 				title: 'What Moves Analyst Forecasts? Topic-Level Under- and Overreaction in Korean Financial Holding Companies',
 				venue: 'Working paper',
+				methodologyNote: { en: 'Specific method not listed in the supplied résumé.', ko: '공유해주신 이력서에는 구체적인 방법론이 기재되어 있지 않습니다.' },
 				interestIds: ['financial-institutions', 'market-structure']
 			},
 			{
 				title: 'Predicting High-frequency Stock Price Using Machine Learning Technique',
 				venue: 'Graduate research project · Dec 2020',
 				url: 'https://dx.doi.org/10.2139/ssrn.3744765',
+				methodIds: ['machine-learning'],
 				interestIds: ['quant-research', 'market-structure']
 			},
 			{
 				title: 'Risk Budgeting Approach using Black-Litterman Model: Combining Investor Views With Market Equilibrium',
 				venue: 'With Hongjae Lee and Taesuk Kim · Global Business Administration Review, 17(5), 88–114 · Oct 2020',
+				methodIds: ['black-litterman', 'risk-budgeting'],
 				interestIds: ['portfolio-strategy', 'quant-research']
 			},
 			{
 				title: 'Measuring North Korean Geopolitical Risks: Implications for Asia’s Financial Volatilities',
 				venue: 'With Jiyoun An · East Asian Policy, 10(3), 41–50 · Jul/Sep 2018',
+				methodologyNote: { en: 'Specific method not listed in the supplied résumé.', ko: '공유해주신 이력서에는 구체적인 방법론이 기재되어 있지 않습니다.' },
 				interestIds: ['geopolitical-risk', 'market-volatility']
 			},
 			{
 				title: 'A Study on Information Spillover Effect at Industry Level between Korean and US Stock Market',
 				venue: 'With Sunmi Lee · KyungHee Journal of Natural Science · Dec 2016',
+				methodIds: ['univariate-garch', 'dcc-garch'],
 				interestIds: ['market-structure', 'market-volatility']
 			}
 		]
@@ -208,15 +210,11 @@ export const aboutProfiles = {
 			'ASMR은 개인 리서치 프로젝트입니다. 이곳의 견해는 개인의 의견이며 Bloomberg 또는 현재·과거 고용주의 견해나 지지를 대변하지 않습니다. 기밀·라이선스·고용주 소유 데이터는 사용하지 않습니다.',
 		sections: {
 			navigation: '페이지 바로가기',
-			skills: '핵심 역량',
-			languages: '언어',
 			experience: '경력',
 			education: '학력',
 			research: '주요 연구 및 논문',
 			interests: '연구 관심 분야'
 		},
-		skills: ['포트폴리오 운용', '퀀트 리서치', '데이터 사이언스', '데이터 엔지니어링', '응용 NLP', '워크플로 자동화'],
-		languages: ['영어 · 업무상 전문 수준', '한국어 · 모국어'],
 		experience: [
 			{
 				company: 'Bloomberg',
@@ -328,32 +326,38 @@ export const aboutProfiles = {
 				title: '유전 알고리즘을 이용한 신용평가 시스템의 최적 승인 전략 탐색',
 				venue: '기업 연구 프로젝트 · 2022년 10월',
 				url: 'https://dx.doi.org/10.2139/ssrn.4461370',
+				methodIds: ['genetic-algorithm'],
 				interestIds: ['quant-research', 'financial-institutions']
 			},
 			{
 				title: '애널리스트 전망을 움직이는 요인: 한국 금융지주사의 주제별 과소·과잉 반응',
 				venue: '워킹 페이퍼',
+				methodologyNote: { en: 'Specific method not listed in the supplied résumé.', ko: '공유해주신 이력서에는 구체적인 방법론이 기재되어 있지 않습니다.' },
 				interestIds: ['financial-institutions', 'market-structure']
 			},
 			{
 				title: '머신러닝 기법을 이용한 고빈도 주가 예측',
 				venue: '대학원 연구 프로젝트 · 2020년 12월',
 				url: 'https://dx.doi.org/10.2139/ssrn.3744765',
+				methodIds: ['machine-learning'],
 				interestIds: ['quant-research', 'market-structure']
 			},
 			{
 				title: '블랙-리터만 모형을 이용한 리스크 버짓팅: 투자자 전망과 시장 균형의 결합',
 				venue: '이홍재·김태석 공저 · Global Business Administration Review, 17(5), 88–114 · 2020년 10월',
+				methodIds: ['black-litterman', 'risk-budgeting'],
 				interestIds: ['portfolio-strategy', 'quant-research']
 			},
 			{
 				title: '북한 지정학적 위험 측정: 아시아 금융 변동성에 대한 시사점',
 				venue: '안지연 공저 · East Asian Policy, 10(3), 41–50 · 2018년 7/9월',
+				methodologyNote: { en: 'Specific method not listed in the supplied résumé.', ko: '공유해주신 이력서에는 구체적인 방법론이 기재되어 있지 않습니다.' },
 				interestIds: ['geopolitical-risk', 'market-volatility']
 			},
 			{
 				title: '한국과 미국 주식시장 간 산업 수준 정보 파급효과 연구',
 				venue: '선미 공저 · KyungHee Journal of Natural Science · 2016년 12월',
+				methodIds: ['univariate-garch', 'dcc-garch'],
 				interestIds: ['market-structure', 'market-volatility']
 			}
 		]

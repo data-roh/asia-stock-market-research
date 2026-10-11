@@ -3,6 +3,7 @@
 	import { locale } from '#lib/locale.js';
 	import { siteCopy } from '#lib/content/site-copy.js';
 	import { aboutProfiles } from '#lib/content/about-profile.js';
+	import { researchMethodCopy, researchMethods } from '#lib/content/research-methods.js';
 
 	const profile = $derived(aboutProfiles[$locale]);
 	const copy = $derived(siteCopy[$locale].track);
@@ -41,15 +42,6 @@
 					<a class="text-link" href={profile.ssrnUrl} target="_blank" rel="external noreferrer">
 						{profile.ssrn} <span aria-hidden="true">↗</span>
 					</a>
-				</div>
-				<div class="profile-highlights">
-					<div>
-						<p class="eyebrow">{profile.sections.skills}</p>
-						<div class="profile-skill-list">
-							{#each profile.skills as skill (skill)}<span>{skill}</span>{/each}
-						</div>
-					</div>
-					<p class="profile-languages"><strong>{profile.sections.languages}</strong> · {profile.languages.join(' · ')}</p>
 				</div>
 			</div>
 		</div>
@@ -117,6 +109,16 @@
 						<div>
 							<h3>{publication.title}</h3>
 							<p>{publication.venue}</p>
+							{#if publication.methodIds?.length || publication.methodologyNote}
+								<div class="publication-methods" aria-label={researchMethodCopy[$locale].heading}>
+									<span class="method-heading">{researchMethodCopy[$locale].heading}</span>
+									{#each publication.methodIds ?? [] as methodId (methodId)}
+										{@const method = researchMethods[methodId as keyof typeof researchMethods]}
+										<span class={`method-tag method-${method.family}`}>{method[$locale]}</span>
+									{/each}
+									{#if publication.methodologyNote}<span class="method-note">{publication.methodologyNote[$locale]}</span>{/if}
+								</div>
+							{/if}
 							{#if publication.interestIds?.length}
 								<div class="interest-tags publication-tags" aria-label={profile.sections.interests}>
 									{#each publication.interestIds as interestId (interestId)}
