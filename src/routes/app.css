@@ -142,8 +142,6 @@ h1, h2, h3 { color: var(--ink); font-family: Georgia, 'Times New Roman', serif; 
 .resource-card h3 a:hover { color: var(--teal-dark); }
 .resource-card p { margin-bottom: 15px; color: var(--muted); font-size: 12px; line-height: 1.55; }
 .resource-meta { display: flex; flex-wrap: wrap; gap: 6px 12px; margin-top: auto; padding-top: 11px; border-top: 1px solid #e7edeb; color: #71838a; font-size: 9px; }
-.tracking-status { color: var(--red); }
-.tracking-status.tracking-enabled { color: var(--teal-dark); }
 .reading-routine { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); background: white; }
 .reading-day { min-height: 160px; padding: 18px; border-right: 1px solid var(--line); }
 .reading-day:last-child { border-right: 0; }

@@ -3,16 +3,19 @@
   "sourceChecks": [
     {
       "sourceId": "bloomberg-odd-lots",
+      "method": "rss",
       "ok": true,
       "error": null
     },
     {
       "sourceId": "morgan-stanley-totm",
+      "method": "rss",
       "ok": true,
       "error": null
     },
     {
       "sourceId": "hussman-commentary",
+      "method": "rss",
       "ok": true,
       "error": null
     }

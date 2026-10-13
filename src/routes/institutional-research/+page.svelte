@@ -18,18 +18,19 @@
 		title: string;
 		url: string;
 		publishedAt: string | null;
+		detectedAt: string | null;
 		summary: string;
 	}
 
 	interface ResearchUpdateReport {
 		lastCheckedAt: string | null;
-		sourceChecks: { sourceId: string; ok: boolean; error: string | null }[];
+		sourceChecks: { sourceId: string; method: string; ok: boolean; error: string | null }[];
 		items: ResearchUpdate[];
 	}
 
 	const updateReport = researchUpdateReport as ResearchUpdateReport;
 	const sourcesById = new Map(researchSources.map((source) => [source.id, source]));
-	const trackedSourceIds = new Set(researchFeedConfig.feeds.map((feed) => feed.sourceId));
+	const monitoredSourceCount = researchFeedConfig.feeds.length + researchFeedConfig.pages.length;
 	const findSource = (id: string): ResearchSource => {
 		const source = sourcesById.get(id);
 		if (!source) throw new Error(`Unknown research source: ${id}`);
@@ -67,7 +68,7 @@
 			</div>
 			<div class="updates-status">
 				<span>{copy.lastCheckedLabel}: {updateReport.lastCheckedAt?.slice(0, 16).replace('T', ' ') ?? copy.notCheckedYet} UTC</span>
-				<span>{copy.monitoredSources}: {researchFeedConfig.feeds.length}</span>
+				<span>{copy.monitoredSources}: {monitoredSourceCount}</span>
 				{#if updateReport.sourceChecks.some((check) => !check.ok)}
 					<span class="updates-warning">{copy.feedWarning}</span>
 				{/if}
@@ -79,7 +80,7 @@
 						<article class="update-entry">
 							<div class="update-entry-meta">
 								<span>{source.name}</span>
-								<time datetime={item.publishedAt ?? undefined}>{item.publishedAt?.slice(0, 10) ?? copy.unknownDate}</time>
+								<time datetime={item.publishedAt ?? item.detectedAt ?? undefined}>{item.publishedAt?.slice(0, 10) ?? (item.detectedAt ? `${copy.firstSeenLabel} ${item.detectedAt.slice(0, 10)}` : copy.unknownDate)}</time>
 							</div>
 							<h3><a href={item.url} target="_blank" rel="external noreferrer">{item.title} <span aria-hidden="true">↗</span></a></h3>
 							{#if item.summary}<p>{item.summary}</p>{/if}
@@ -111,7 +112,6 @@
 							<div class="resource-meta">
 								<span>{sourceCopy?.cadence ?? source.cadence}</span>
 								{#if source.access}<span>{sourceCopy?.access ?? source.access}</span>{/if}
-								<span class:tracking-enabled={trackedSourceIds.has(sourceId)} class="tracking-status">{trackedSourceIds.has(sourceId) ? copy.trackedLabel : copy.untrackedLabel}</span>
 							</div>
 						</article>
 					{/each}
