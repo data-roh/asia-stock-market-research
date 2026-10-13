@@ -120,6 +120,18 @@ h1, h2, h3 { color: var(--ink); font-family: Georgia, 'Times New Roman', serif; 
 .topic-card h2 { margin-bottom: 8px; font-family: inherit; font-size: 16px; font-weight: 700; line-height: 1.35; }
 .topic-card p { margin: 0; color: var(--muted); font-size: 13px; line-height: 1.55; }
 .resource-group + .resource-group { margin-top: 42px; }
+.updates-group { padding-block: 23px; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+.updates-status { display: flex; flex-wrap: wrap; gap: 8px 18px; margin: 0 0 12px; color: var(--muted); font-size: 11px; }
+.updates-warning { color: var(--red); }
+.updates-list { border-top: 1px solid #e7edeb; }
+.update-entry { padding: 15px 0; border-bottom: 1px solid #e7edeb; }
+.update-entry:last-child { border-bottom: 0; }
+.update-entry-meta { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 6px 16px; margin-bottom: 5px; color: var(--teal-dark); font-size: 11px; font-weight: 700; }
+.update-entry-meta time { color: var(--muted); font-weight: 400; }
+.update-entry h3 { margin: 0 0 6px; font-family: inherit; font-size: 16px; font-weight: 700; line-height: 1.4; }
+.update-entry h3 a { color: var(--ink); text-decoration-color: #a8c7c1; text-underline-offset: 3px; }
+.update-entry h3 a:hover { color: var(--teal-dark); }
+.update-entry > p, .updates-empty { margin: 0; color: var(--muted); font-size: 13px; line-height: 1.55; }
 .resource-group-heading { display: flex; align-items: end; justify-content: space-between; gap: 24px; margin-bottom: 17px; }
 .resource-group-heading h2 { margin-bottom: 0; font-size: 27px; }
 .resource-group-heading p { max-width: 560px; margin-bottom: 2px; color: var(--muted); font-size: 13px; line-height: 1.55; }
@@ -130,6 +142,8 @@ h1, h2, h3 { color: var(--ink); font-family: Georgia, 'Times New Roman', serif; 
 .resource-card h3 a:hover { color: var(--teal-dark); }
 .resource-card p { margin-bottom: 15px; color: var(--muted); font-size: 12px; line-height: 1.55; }
 .resource-meta { display: flex; flex-wrap: wrap; gap: 6px 12px; margin-top: auto; padding-top: 11px; border-top: 1px solid #e7edeb; color: #71838a; font-size: 9px; }
+.tracking-status { color: var(--red); }
+.tracking-status.tracking-enabled { color: var(--teal-dark); }
 .reading-routine { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); background: white; }
 .reading-day { min-height: 160px; padding: 18px; border-right: 1px solid var(--line); }
 .reading-day:last-child { border-right: 0; }

@@ -1,0 +1,68 @@
+{
+  "lastCheckedAt": "2026-10-13T11:39:48.402813+00:00",
+  "sourceChecks": [
+    {
+      "sourceId": "bloomberg-odd-lots",
+      "ok": true,
+      "error": null
+    },
+    {
+      "sourceId": "morgan-stanley-totm",
+      "ok": true,
+      "error": null
+    },
+    {
+      "sourceId": "hussman-commentary",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "baselinedSourceIds": [
+    "bloomberg-odd-lots",
+    "hussman-commentary",
+    "morgan-stanley-totm"
+  ],
+  "items": [],
+  "seen": [
+    "bloomberg-odd-lots:f6fd1a43-7c77-47c2-ae42-b4e0016e2d9b",
+    "bloomberg-odd-lots:f49c2ca3-dfe7-4a67-bc11-b4dd01463f66",
+    "bloomberg-odd-lots:201de292-b347-44a2-8ad4-b4dc016defab",
+    "bloomberg-odd-lots:924d0a40-8d01-4c5e-b43d-b4d7010d938b",
+    "bloomberg-odd-lots:4dabf3ec-4fc6-4bb9-a7a7-b4d601226e6f",
+    "bloomberg-odd-lots:cf3994af-6383-4b79-a266-b4d50143f150",
+    "bloomberg-odd-lots:7a3568d9-8263-4e3a-8f8f-b4d00139959f",
+    "bloomberg-odd-lots:77d27e49-f26e-4c79-8913-b4cf01192cf5",
+    "bloomberg-odd-lots:7f51b2eb-0524-4cf5-b654-b4ce0132f318",
+    "bloomberg-odd-lots:8d30821d-cf7d-4147-b00e-b4cb01647404",
+    "bloomberg-odd-lots:8e30cc48-c94f-47b3-b450-b4ca014b861f",
+    "bloomberg-odd-lots:3c42dc4e-ca08-46cf-b2c6-b4c90112084e",
+    "bloomberg-odd-lots:3715cbfc-b4cf-4840-bf1b-b4c8010bc9bb",
+    "bloomberg-odd-lots:ae8e06da-4095-4c0f-8fdb-b4c0013c37f4",
+    "bloomberg-odd-lots:1664f593-6ca2-4a3e-bbe6-b4c201317baa",
+    "bloomberg-odd-lots:84e5f9f2-bff2-403b-bb41-b4c20134a223",
+    "bloomberg-odd-lots:b614da06-213b-4d27-ae05-b4c101309140",
+    "bloomberg-odd-lots:ac7406bd-0582-4820-af93-b4c100274867",
+    "bloomberg-odd-lots:bbee8dff-1ad3-4ccd-b707-b4bb00f7df11",
+    "bloomberg-odd-lots:7d156235-f387-442d-92d2-b4ba0105ac94",
+    "bloomberg-odd-lots:52b31e33-08b2-4ea7-a5d0-b4b9014b34d9",
+    "bloomberg-odd-lots:ffabb0eb-48cc-4ad4-8c96-b4b701728958",
+    "bloomberg-odd-lots:095923e3-5c15-4936-b26b-b4b70018f8d6",
+    "bloomberg-odd-lots:5d168bda-ebfd-485d-a948-b4b4011d13e0",
+    "bloomberg-odd-lots:23fe5a8c-d1c2-4e74-975b-b4b30028ce5d",
+    "bloomberg-odd-lots:568c6e3c-2159-45c2-8e4d-b4ad011d7c22",
+    "bloomberg-odd-lots:8387538d-5ecf-4b07-a3f0-b4ab00e1cbc5",
+    "bloomberg-odd-lots:bcc22dff-b144-40ae-8f68-b4ab00f28c30",
+    "bloomberg-odd-lots:4fd75bad-403f-47c1-b23c-b4a60141b176",
+    "bloomberg-odd-lots:906e5071-7abc-4f2c-acb5-b4a5013ff33f",
+    "hussman-commentary:https://www.hussmanfunds.com/?p=24990",
+    "hussman-commentary:https://www.hussmanfunds.com/?p=24918",
+    "hussman-commentary:https://www.hussmanfunds.com/?p=24872",
+    "hussman-commentary:http://104.238.74.176/~hussmanfunds/?p=16456",
+    "hussman-commentary:https://www.hussmanfunds.com/?p=24733",
+    "hussman-commentary:https://www.hussmanfunds.com/?p=24674",
+    "hussman-commentary:https://www.hussmanfunds.com/?p=24567",
+    "hussman-commentary:https://www.hussmanfunds.com/?p=24537",
+    "hussman-commentary:https://www.hussmanfunds.com/?p=24422",
+    "hussman-commentary:https://www.hussmanfunds.com/?p=24300"
+  ]
+}

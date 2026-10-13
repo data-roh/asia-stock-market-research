@@ -2,6 +2,8 @@
 	import { resolve } from '$app/paths';
 	import { locale } from '#lib/locale.js';
 	import { siteCopy } from '#lib/content/site-copy.js';
+	import researchFeedConfig from '#lib/content/research-feeds.json';
+	import researchUpdateReport from '#lib/content/research-updates.json';
 	import { researchGroupsKo, researchSourceCopyKo, weeklyRoutineKo } from '#lib/content/institutional-research-ko.js';
 	import {
 		researchSources,
@@ -10,7 +12,24 @@
 	} from '#lib/content/institutional-research.js';
 	import type { ResearchSource } from '#lib/content/institutional-research.js';
 
+	interface ResearchUpdate {
+		key: string;
+		sourceId: string;
+		title: string;
+		url: string;
+		publishedAt: string | null;
+		summary: string;
+	}
+
+	interface ResearchUpdateReport {
+		lastCheckedAt: string | null;
+		sourceChecks: { sourceId: string; ok: boolean; error: string | null }[];
+		items: ResearchUpdate[];
+	}
+
+	const updateReport = researchUpdateReport as ResearchUpdateReport;
 	const sourcesById = new Map(researchSources.map((source) => [source.id, source]));
+	const trackedSourceIds = new Set(researchFeedConfig.feeds.map((feed) => feed.sourceId));
 	const findSource = (id: string): ResearchSource => {
 		const source = sourcesById.get(id);
 		if (!source) throw new Error(`Unknown research source: ${id}`);
@@ -38,6 +57,40 @@
 	</section>
 
 	<div class="page-body shell">
+		<section class="resource-group updates-group" aria-labelledby="updates-title">
+			<div class="resource-group-heading">
+				<div>
+					<p class="eyebrow">{copy.updatesEyebrow}</p>
+					<h2 id="updates-title">{copy.updatesTitle}</h2>
+				</div>
+				<p>{copy.updatesNote}</p>
+			</div>
+			<div class="updates-status">
+				<span>{copy.lastCheckedLabel}: {updateReport.lastCheckedAt?.slice(0, 16).replace('T', ' ') ?? copy.notCheckedYet} UTC</span>
+				<span>{copy.monitoredSources}: {researchFeedConfig.feeds.length}</span>
+				{#if updateReport.sourceChecks.some((check) => !check.ok)}
+					<span class="updates-warning">{copy.feedWarning}</span>
+				{/if}
+			</div>
+			{#if updateReport.items.length > 0}
+				<div class="updates-list">
+					{#each updateReport.items as item (item.key)}
+						{@const source = findSource(item.sourceId)}
+						<article class="update-entry">
+							<div class="update-entry-meta">
+								<span>{source.name}</span>
+								<time datetime={item.publishedAt ?? undefined}>{item.publishedAt?.slice(0, 10) ?? copy.unknownDate}</time>
+							</div>
+							<h3><a href={item.url} target="_blank" rel="external noreferrer">{item.title} <span aria-hidden="true">↗</span></a></h3>
+							{#if item.summary}<p>{item.summary}</p>{/if}
+						</article>
+					{/each}
+				</div>
+			{:else}
+				<p class="updates-empty">{copy.noNewUpdates}</p>
+			{/if}
+		</section>
+
 		{#each researchSourceGroups as group, groupIndex (group.title)}
 			{@const groupCopy = $locale === 'ko' ? researchGroupsKo[groupIndex] : group}
 			<section id={group.anchor} class="resource-group" aria-label={groupCopy.title}>
@@ -58,6 +111,7 @@
 							<div class="resource-meta">
 								<span>{sourceCopy?.cadence ?? source.cadence}</span>
 								{#if source.access}<span>{sourceCopy?.access ?? source.access}</span>{/if}
+								<span class:tracking-enabled={trackedSourceIds.has(sourceId)} class="tracking-status">{trackedSourceIds.has(sourceId) ? copy.trackedLabel : copy.untrackedLabel}</span>
 							</div>
 						</article>
 					{/each}
