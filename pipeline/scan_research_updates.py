@@ -259,6 +259,8 @@ def fetch_listing(source_id: str, page_url: str, detected_at: str) -> tuple[list
 def main() -> None:
     feed_config = json.loads(FEEDS_PATH.read_text(encoding="utf-8"))
     previous = json.loads(UPDATES_PATH.read_text(encoding="utf-8"))
+    listing_version = feed_config.get("listingVersion", 1)
+    listing_baseline_changed = previous.get("listingVersion") != listing_version
     previous_seen = list(dict.fromkeys(previous.get("seen", [])))
     checked_at = datetime.now(timezone.utc).isoformat()
     seen = previous_seen.copy()
@@ -289,7 +291,7 @@ def main() -> None:
 
     for method, source_id, entries, error in checked_sources:
         source_checks.append({"sourceId": source_id, "method": method, "ok": error is None, "error": error})
-        needs_baseline = source_id not in baselined_source_ids
+        needs_baseline = source_id not in baselined_source_ids or (method == "listing" and listing_baseline_changed)
         for entry in entries:
             key = entry["key"]
             if key not in seen_set:
@@ -300,10 +302,14 @@ def main() -> None:
         if error is None:
             baselined_source_ids.add(source_id)
 
-    combined_items = new_items + previous.get("items", [])
+    previous_items = previous.get("items", [])
+    if listing_baseline_changed:
+        previous_items = [item for item in previous_items if item.get("sourceId") in feed_ids]
+    combined_items = new_items + previous_items
     combined_items.sort(key=lambda item: item.get("publishedAt") or "", reverse=True)
     report = {
         "lastCheckedAt": checked_at,
+        "listingVersion": listing_version,
         "sourceChecks": source_checks,
         "baselinedSourceIds": sorted(baselined_source_ids),
         "items": combined_items[:MAX_STORED_ITEMS],
