@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-10-13T15:54:18.081850+00:00",
+  "lastCheckedAt": "2026-10-14T00:49:09.739718+00:00",
   "sourceChecks": [
     {
       "sourceId": "bloomberg-odd-lots",
@@ -271,7 +271,26 @@
     "ubs",
     "vanguard"
   ],
-  "items": [],
+  "items": [
+    {
+      "key": "apollo:https://www.apolloacademy.com/consistency-through-cycles-private-market-secondaries",
+      "sourceId": "apollo",
+      "title": "Consistency Through Cycles: Private Market Secondaries",
+      "url": "https://www.apolloacademy.com/consistency-through-cycles-private-market-secondaries",
+      "publishedAt": null,
+      "detectedAt": "2026-10-14T00:49:09.739718+00:00",
+      "summary": ""
+    },
+    {
+      "key": "cambridge:https://www.cambridgeassociates.com/insight/will-the-recovery-in-european-earnings-continue",
+      "sourceId": "cambridge",
+      "title": "Will the Recovery in European Earnings Continue?",
+      "url": "https://www.cambridgeassociates.com/insight/will-the-recovery-in-european-earnings-continue",
+      "publishedAt": null,
+      "detectedAt": "2026-10-14T00:49:09.739718+00:00",
+      "summary": ""
+    }
+  ],
   "seen": [
     "bloomberg-odd-lots:f6fd1a43-7c77-47c2-ae42-b4e0016e2d9b",
     "bloomberg-odd-lots:f49c2ca3-dfe7-4a67-bc11-b4dd01463f66",
@@ -1129,6 +1148,8 @@
     "gavekal:https://research.gavekal.com/teaser/where-does-the-money-go",
     "gavekal:https://research.gavekal.com/teaser/the-macroeconomics-of-ai-in-practice",
     "gavekal:https://research.gavekal.com/teaser/desperately-seeking-an-anchor",
-    "gavekal:https://research.gavekal.com/quiz/across-the-us-polled-voters-increased-their-intention-to-support-a-democrat-in-novembers-midterm-elections-by-2pp-since-may-what-caused-americans-to-swing-to-the-democrats-by-7pp-in-the-same-timeframe"
+    "gavekal:https://research.gavekal.com/quiz/across-the-us-polled-voters-increased-their-intention-to-support-a-democrat-in-novembers-midterm-elections-by-2pp-since-may-what-caused-americans-to-swing-to-the-democrats-by-7pp-in-the-same-timeframe",
+    "apollo:https://www.apolloacademy.com/consistency-through-cycles-private-market-secondaries",
+    "cambridge:https://www.cambridgeassociates.com/insight/will-the-recovery-in-european-earnings-continue"
   ]
 }
