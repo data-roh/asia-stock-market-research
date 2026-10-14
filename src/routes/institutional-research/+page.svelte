@@ -24,7 +24,7 @@
 
 	interface ResearchUpdateReport {
 		lastCheckedAt: string | null;
-		sourceChecks: { sourceId: string; method: string; ok: boolean; error: string | null }[];
+		sourceChecks: { sourceId: string; method?: string; ok: boolean; error: string | null }[];
 		items: ResearchUpdate[];
 	}
 

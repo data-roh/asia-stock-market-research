@@ -6,6 +6,7 @@ from html import unescape
 from html.parser import HTMLParser
 import json
 from pathlib import Path
+import re
 from urllib.parse import urldefrag, urljoin, urlsplit, urlunsplit
 import urllib.error
 import urllib.request
@@ -21,6 +22,25 @@ MAX_STORED_ITEMS = 200
 MAX_SEEN_KEYS = 2000
 MAX_PAGE_ITEMS = 40
 MAX_WORKERS = 5
+CONTENT_PATH_HINTS = {
+    "article",
+    "articles",
+    "blog",
+    "chart",
+    "charts",
+    "comment",
+    "insight",
+    "insights",
+    "memo",
+    "news",
+    "perspectives",
+    "publication",
+    "publications",
+    "research",
+    "report",
+    "story",
+    "teaser",
+}
 
 
 class PlainTextParser(HTMLParser):
@@ -158,6 +178,29 @@ def listing_item_url(href: str, page_url: str) -> str | None:
     if parsed.scheme not in {"https", "http"} or parsed.hostname != page.hostname:
         return None
     if parsed.path.rstrip("/") == page.path.rstrip("/"):
+        return None
+    path_parts = [part.casefold() for part in parsed.path.split("/") if part]
+    slug = path_parts[-1] if path_parts else ""
+    if re.search(r"\.(?:pdf|xml|rss|jpg|jpeg|png|svg|webp)$", slug):
+        return None
+    has_date_prefix = len(path_parts) >= 4 and all(part.isdigit() for part in path_parts[-4:-1])
+    if len(slug) < 20 or not ("-" in slug or "_" in slug or has_date_prefix):
+        return None
+    if slug in {
+        "about-us",
+        "contact-us",
+        "privacy-policy",
+        "terms-and-conditions",
+        "terms-of-use",
+        "login-userid",
+        "my-subscriptions",
+        "search-insights",
+        "investment-capabilities",
+    }:
+        return None
+    has_content_path = any(hint in part for part in path_parts[:-1] for hint in CONTENT_PATH_HINTS)
+    is_top_level_article = len(path_parts) == 1 and len(slug) >= 32
+    if not (has_content_path or has_date_prefix or is_top_level_article):
         return None
     return candidate
 
