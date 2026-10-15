@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-10-14T13:24:58.199846+00:00",
+  "lastCheckedAt": "2026-10-15T00:47:30.818830+00:00",
   "listingVersion": 2,
   "sourceChecks": [
     {
@@ -272,7 +272,62 @@
     "ubs",
     "vanguard"
   ],
-  "items": [],
+  "items": [
+    {
+      "key": "goldman:https://www.goldmansachs.com/insights/articles/are-bonds-becoming-a-better-investment-for-portfolios",
+      "sourceId": "goldman",
+      "title": "Markets Are Bonds Becoming a Better Investment for Portfolios? Oct 8, 2026",
+      "url": "https://www.goldmansachs.com/insights/articles/are-bonds-becoming-a-better-investment-for-portfolios",
+      "publishedAt": null,
+      "detectedAt": "2026-10-15T00:47:30.818830+00:00",
+      "summary": ""
+    },
+    {
+      "key": "goldman:https://www.goldmansachs.com/insights/videos/why-us-consumers-are-downbeat-despite-a-healthy-economy",
+      "sourceId": "goldman",
+      "title": "1:21 Markets Why US Consumers Are Downbeat Despite a Healthy Economy Video | Oct 8, 2026",
+      "url": "https://www.goldmansachs.com/insights/videos/why-us-consumers-are-downbeat-despite-a-healthy-economy",
+      "publishedAt": null,
+      "detectedAt": "2026-10-15T00:47:30.818830+00:00",
+      "summary": ""
+    },
+    {
+      "key": "goldman:https://www.goldmansachs.com/insights/goldman-sachs-exchanges/inside-the-revival-of-venture-capital-liquidity-with-an-industry",
+      "sourceId": "goldman",
+      "title": "Exchanges Inside the Revival of Venture Capital Liquidity with an Industry Pioneer Podcast | Oct 6, 2026",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/inside-the-revival-of-venture-capital-liquidity-with-an-industry",
+      "publishedAt": null,
+      "detectedAt": "2026-10-15T00:47:30.818830+00:00",
+      "summary": ""
+    },
+    {
+      "key": "goldman:https://www.goldmansachs.com/insights/talks-at-gs/us-soccers-jt-batson-on-the-world-cup-and-scaling-the-game",
+      "sourceId": "goldman",
+      "title": "26:56 Talks at GS US Soccer's JT Batson on the World Cup and Scaling the Game Video | Sep 25, 2026",
+      "url": "https://www.goldmansachs.com/insights/talks-at-gs/us-soccers-jt-batson-on-the-world-cup-and-scaling-the-game",
+      "publishedAt": null,
+      "detectedAt": "2026-10-15T00:47:30.818830+00:00",
+      "summary": ""
+    },
+    {
+      "key": "goldman:https://www.goldmansachs.com/insights/the-markets/why-the-bond-market-may-be-the-stock-markets-biggest-risk",
+      "sourceId": "goldman",
+      "title": "The Markets Why the Bond Market May Be the Biggest Risk to Further S&P 500 Gains Podcast | Sep 25, 2026",
+      "url": "https://www.goldmansachs.com/insights/the-markets/why-the-bond-market-may-be-the-stock-markets-biggest-risk",
+      "publishedAt": null,
+      "detectedAt": "2026-10-15T00:47:30.818830+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/dialing-back-expectations-for-appreciation",
+      "sourceId": "gavekal",
+      "title": "Dialing Back Expectations For Appreciation",
+      "url": "https://research.gavekal.com/teaser/dialing-back-expectations-for-appreciation",
+      "publishedAt": null,
+      "detectedAt": "2026-10-15T00:47:30.818830+00:00",
+      "summary": ""
+    }
+  ],
   "seen": [
     "bloomberg-odd-lots:f6fd1a43-7c77-47c2-ae42-b4e0016e2d9b",
     "bloomberg-odd-lots:f49c2ca3-dfe7-4a67-bc11-b4dd01463f66",
@@ -1180,6 +1235,12 @@
     "gavekal:https://research.gavekal.com/teaser/video-breakdown-or-buying-opportunity-for-us-bonds",
     "gavekal:https://research.gavekal.com/teaser/the-slump-in-asian-currencies",
     "gavekal:https://research.gavekal.com/teaser/a-concentrated-inflationary-boom-or-a-bet-on-the-fed",
-    "gavekal:https://research.gavekal.com/teaser/demand-and-supply-of-money"
+    "gavekal:https://research.gavekal.com/teaser/demand-and-supply-of-money",
+    "goldman:https://www.goldmansachs.com/insights/articles/are-bonds-becoming-a-better-investment-for-portfolios",
+    "goldman:https://www.goldmansachs.com/insights/videos/why-us-consumers-are-downbeat-despite-a-healthy-economy",
+    "goldman:https://www.goldmansachs.com/insights/goldman-sachs-exchanges/inside-the-revival-of-venture-capital-liquidity-with-an-industry",
+    "goldman:https://www.goldmansachs.com/insights/talks-at-gs/us-soccers-jt-batson-on-the-world-cup-and-scaling-the-game",
+    "goldman:https://www.goldmansachs.com/insights/the-markets/why-the-bond-market-may-be-the-stock-markets-biggest-risk",
+    "gavekal:https://research.gavekal.com/teaser/dialing-back-expectations-for-appreciation"
   ]
 }
