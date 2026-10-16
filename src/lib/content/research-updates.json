@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-10-15T00:47:30.818830+00:00",
+  "lastCheckedAt": "2026-10-16T00:47:45.269590+00:00",
   "listingVersion": 2,
   "sourceChecks": [
     {
@@ -273,6 +273,78 @@
     "vanguard"
   ],
   "items": [
+    {
+      "key": "bloomberg-odd-lots:b143850e-7e8f-4144-8299-b4e30171ca7d",
+      "sourceId": "bloomberg-odd-lots",
+      "title": "Jeff Yan's Plan to Bring the Entire Financial Industry Onto Hyperliquid",
+      "url": "https://omny.fm/shows/odd-lots/jeff-yans-plan-to-bring-the-entire-financial-industry-onto-hyperliquid",
+      "publishedAt": "2026-10-15T09:00:00+00:00",
+      "detectedAt": null,
+      "summary": "Traders and market watchers around the world started talking about a crypto platform called Hyperliquid earlier this year, when speculators used markets built on top of it to trade crude oil after war broke out in Iran. What Hyperliquid allowed for was a 24/7 market on the blockchain. Then in August, President Trump said the CFTC was working on bringing “Hyperliquid into the United States in a fully compliant and legal fashion.” Hyperliquid currently operates outside the US, but that hasn't stopped it from growing prodigiously in the last year. Jeff Yan, CEO and co-founder of Hyperliquid Labs,"
+    },
+    {
+      "key": "apollo:https://www.apolloacademy.com/cycle-structure-selection-private-equity-portfolios-for-todays-market",
+      "sourceId": "apollo",
+      "title": "Cycle, Structure, Selection: Private Equity Portfolios for Today’s Market",
+      "url": "https://www.apolloacademy.com/cycle-structure-selection-private-equity-portfolios-for-todays-market",
+      "publishedAt": null,
+      "detectedAt": "2026-10-16T00:47:45.269590+00:00",
+      "summary": ""
+    },
+    {
+      "key": "kkr:https://www.kkr.com/wealth/insights/five-questions-investors-ask-most-regularly",
+      "sourceId": "kkr",
+      "title": "Investment Insights Capital Solutions: Five Questions Investors Ask Most Regularly October 2026",
+      "url": "https://www.kkr.com/wealth/insights/five-questions-investors-ask-most-regularly",
+      "publishedAt": null,
+      "detectedAt": "2026-10-16T00:47:45.269590+00:00",
+      "summary": ""
+    },
+    {
+      "key": "twosigma:https://www.twosigma.com/articles/business-insider-how-ai-has-raised-the-bar-for-two-sigma-internships-and-future-hires",
+      "sourceId": "twosigma",
+      "title": "Business Insider: How AI has raised the bar for Two Sigma internships and future hires",
+      "url": "https://www.twosigma.com/articles/business-insider-how-ai-has-raised-the-bar-for-two-sigma-internships-and-future-hires",
+      "publishedAt": null,
+      "detectedAt": "2026-10-16T00:47:45.269590+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/video-the-us-supply-response",
+      "sourceId": "gavekal",
+      "title": "Video: The US Supply Response",
+      "url": "https://research.gavekal.com/teaser/video-the-us-supply-response",
+      "publishedAt": null,
+      "detectedAt": "2026-10-16T00:47:45.269590+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/another-leg-up-in-us-inflation",
+      "sourceId": "gavekal",
+      "title": "Another Leg Up In US Inflation?",
+      "url": "https://research.gavekal.com/teaser/another-leg-up-in-us-inflation",
+      "publishedAt": null,
+      "detectedAt": "2026-10-16T00:47:45.269590+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/chinas-growing-grip-on-printed-circuit-boards",
+      "sourceId": "gavekal",
+      "title": "China’s Growing Grip On Printed Circuit Boards Laila Khawaja",
+      "url": "https://research.gavekal.com/teaser/chinas-growing-grip-on-printed-circuit-boards",
+      "publishedAt": null,
+      "detectedAt": "2026-10-16T00:47:45.269590+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/monetizing-us-budget-deficits",
+      "sourceId": "gavekal",
+      "title": "Monetizing US Budget Deficits",
+      "url": "https://research.gavekal.com/teaser/monetizing-us-budget-deficits",
+      "publishedAt": null,
+      "detectedAt": "2026-10-16T00:47:45.269590+00:00",
+      "summary": ""
+    },
     {
       "key": "goldman:https://www.goldmansachs.com/insights/articles/are-bonds-becoming-a-better-investment-for-portfolios",
       "sourceId": "goldman",
@@ -1241,6 +1313,14 @@
     "goldman:https://www.goldmansachs.com/insights/goldman-sachs-exchanges/inside-the-revival-of-venture-capital-liquidity-with-an-industry",
     "goldman:https://www.goldmansachs.com/insights/talks-at-gs/us-soccers-jt-batson-on-the-world-cup-and-scaling-the-game",
     "goldman:https://www.goldmansachs.com/insights/the-markets/why-the-bond-market-may-be-the-stock-markets-biggest-risk",
-    "gavekal:https://research.gavekal.com/teaser/dialing-back-expectations-for-appreciation"
+    "gavekal:https://research.gavekal.com/teaser/dialing-back-expectations-for-appreciation",
+    "bloomberg-odd-lots:b143850e-7e8f-4144-8299-b4e30171ca7d",
+    "apollo:https://www.apolloacademy.com/cycle-structure-selection-private-equity-portfolios-for-todays-market",
+    "kkr:https://www.kkr.com/wealth/insights/five-questions-investors-ask-most-regularly",
+    "twosigma:https://www.twosigma.com/articles/business-insider-how-ai-has-raised-the-bar-for-two-sigma-internships-and-future-hires",
+    "gavekal:https://research.gavekal.com/teaser/video-the-us-supply-response",
+    "gavekal:https://research.gavekal.com/teaser/another-leg-up-in-us-inflation",
+    "gavekal:https://research.gavekal.com/teaser/chinas-growing-grip-on-printed-circuit-boards",
+    "gavekal:https://research.gavekal.com/teaser/monetizing-us-budget-deficits"
   ]
 }
