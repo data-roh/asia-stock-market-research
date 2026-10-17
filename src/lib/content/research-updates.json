@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-10-16T00:47:45.269590+00:00",
+  "lastCheckedAt": "2026-10-17T00:49:03.874402+00:00",
   "listingVersion": 2,
   "sourceChecks": [
     {
@@ -274,6 +274,15 @@
   ],
   "items": [
     {
+      "key": "bloomberg-odd-lots:9eaa512a-78cf-4f3a-b125-b4e401078052",
+      "sourceId": "bloomberg-odd-lots",
+      "title": "The French Political Crisis That's Turning Into a Debt Crisis",
+      "url": "https://omny.fm/shows/odd-lots/the-french-political-crisis-thats-turning-into-a-debt-crisis",
+      "publishedAt": "2026-10-16T09:00:00+00:00",
+      "detectedAt": null,
+      "summary": "Just about everyone is worried about what is going on in France right now: the country's public finances are in sorry shape and there are fears that the French bond selloff, and the country's growing debt crisis, might spillover into the rest of Europe. On top of that, the 2027 elections have investors worried: The two leading candidates, Marine Le Pen and Jean-Luc Mélenchon, aren't seen to be up to the task of taming France's fiscal turmoil. Shahin Vallée was an advisor to Emmanuel Macron when he was an economic minister and during his first presidential election campaign. Since then, he's pa"
+    },
+    {
       "key": "bloomberg-odd-lots:b143850e-7e8f-4144-8299-b4e30171ca7d",
       "sourceId": "bloomberg-odd-lots",
       "title": "Jeff Yan's Plan to Bring the Entire Financial Industry Onto Hyperliquid",
@@ -281,6 +290,60 @@
       "publishedAt": "2026-10-15T09:00:00+00:00",
       "detectedAt": null,
       "summary": "Traders and market watchers around the world started talking about a crypto platform called Hyperliquid earlier this year, when speculators used markets built on top of it to trade crude oil after war broke out in Iran. What Hyperliquid allowed for was a 24/7 market on the blockchain. Then in August, President Trump said the CFTC was working on bringing “Hyperliquid into the United States in a fully compliant and legal fashion.” Hyperliquid currently operates outside the US, but that hasn't stopped it from growing prodigiously in the last year. Jeff Yan, CEO and co-founder of Hyperliquid Labs,"
+    },
+    {
+      "key": "lseg:https://www.lseg.com/en/insights/ftse-russell/ftse-marketpsych-the-next-generation-of-thematic-indexing",
+      "sourceId": "lseg",
+      "title": "Markets & Economy The next generation of thematic investing September 28, 2026 • Ryan Miller • 11 min",
+      "url": "https://www.lseg.com/en/insights/ftse-russell/ftse-marketpsych-the-next-generation-of-thematic-indexing",
+      "publishedAt": null,
+      "detectedAt": "2026-10-17T00:49:03.874402+00:00",
+      "summary": ""
+    },
+    {
+      "key": "lseg:https://www.lseg.com/en/insights/risk-intelligence/strengthening-financial-crime-controls-lessons-from-the-fca-review",
+      "sourceId": "lseg",
+      "title": "Risk & Compliance Strengthening financial crime controls: Lessons from the FCA review October 12, 2026 • 4 min",
+      "url": "https://www.lseg.com/en/insights/risk-intelligence/strengthening-financial-crime-controls-lessons-from-the-fca-review",
+      "publishedAt": null,
+      "detectedAt": "2026-10-17T00:49:03.874402+00:00",
+      "summary": ""
+    },
+    {
+      "key": "lseg:https://www.lseg.com/en/insights/risk-intelligence/eu-expands-sanctions-relating-to-russia-considerations-for-screening-programmes",
+      "sourceId": "lseg",
+      "title": "Risk & Compliance EU expands sanctions relating to Russia: Considerations for screening programmes October 12, 2026 • 4 min",
+      "url": "https://www.lseg.com/en/insights/risk-intelligence/eu-expands-sanctions-relating-to-russia-considerations-for-screening-programmes",
+      "publishedAt": null,
+      "detectedAt": "2026-10-17T00:49:03.874402+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/geoeconomic-monitor-russian-hopes-chinese-fears",
+      "sourceId": "gavekal",
+      "title": "Geoeconomic Monitor: Russian Hopes, Chinese Fears",
+      "url": "https://research.gavekal.com/teaser/geoeconomic-monitor-russian-hopes-chinese-fears",
+      "publishedAt": null,
+      "detectedAt": "2026-10-17T00:49:03.874402+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/going-back-to-an-old-tool",
+      "sourceId": "gavekal",
+      "title": "Going Back To An Old Tool",
+      "url": "https://research.gavekal.com/teaser/going-back-to-an-old-tool",
+      "publishedAt": null,
+      "detectedAt": "2026-10-17T00:49:03.874402+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/the-fruit-of-tariffs-is-fraud",
+      "sourceId": "gavekal",
+      "title": "The Fruit Of Tariffs Is Fraud",
+      "url": "https://research.gavekal.com/teaser/the-fruit-of-tariffs-is-fraud",
+      "publishedAt": null,
+      "detectedAt": "2026-10-17T00:49:03.874402+00:00",
+      "summary": ""
     },
     {
       "key": "apollo:https://www.apolloacademy.com/cycle-structure-selection-private-equity-portfolios-for-todays-market",
@@ -1321,6 +1384,13 @@
     "gavekal:https://research.gavekal.com/teaser/video-the-us-supply-response",
     "gavekal:https://research.gavekal.com/teaser/another-leg-up-in-us-inflation",
     "gavekal:https://research.gavekal.com/teaser/chinas-growing-grip-on-printed-circuit-boards",
-    "gavekal:https://research.gavekal.com/teaser/monetizing-us-budget-deficits"
+    "gavekal:https://research.gavekal.com/teaser/monetizing-us-budget-deficits",
+    "bloomberg-odd-lots:9eaa512a-78cf-4f3a-b125-b4e401078052",
+    "lseg:https://www.lseg.com/en/insights/ftse-russell/ftse-marketpsych-the-next-generation-of-thematic-indexing",
+    "lseg:https://www.lseg.com/en/insights/risk-intelligence/strengthening-financial-crime-controls-lessons-from-the-fca-review",
+    "lseg:https://www.lseg.com/en/insights/risk-intelligence/eu-expands-sanctions-relating-to-russia-considerations-for-screening-programmes",
+    "gavekal:https://research.gavekal.com/teaser/geoeconomic-monitor-russian-hopes-chinese-fears",
+    "gavekal:https://research.gavekal.com/teaser/going-back-to-an-old-tool",
+    "gavekal:https://research.gavekal.com/teaser/the-fruit-of-tariffs-is-fraud"
   ]
 }
