@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-10-17T00:49:03.874402+00:00",
+  "lastCheckedAt": "2026-10-18T00:48:52.949260+00:00",
   "listingVersion": 2,
   "sourceChecks": [
     {
@@ -273,6 +273,15 @@
     "vanguard"
   ],
   "items": [
+    {
+      "key": "bloomberg-odd-lots:80a8c551-836d-45b7-9004-b4e600024717",
+      "sourceId": "bloomberg-odd-lots",
+      "title": "David Byrne Explains How Forgotten Ideas Come Back to Life",
+      "url": "https://omny.fm/shows/odd-lots/odd-lots-david-byrne-v1",
+      "publishedAt": "2026-10-17T08:00:00+00:00",
+      "detectedAt": null,
+      "summary": "History is littered with ideas that have been tossed aside, only for them to gain relevance at some later date. Think of Moby-Dick: forgotten in Melville's time, but now regarded as the great American novel. Or the work of economist Hyman Minsky, which became influential a decade after his death, when the 2008 financial crisis made “the Minsky Moment” a mainstream term. These are just a couple of the things we talk about with the legendary musician David Byrne on today's podcast. Byrne's new book, Sleeping Beauties: Why Good Ideas Go Dormant and How They Wake Up , looks to categorize numerous "
+    },
     {
       "key": "bloomberg-odd-lots:9eaa512a-78cf-4f3a-b125-b4e401078052",
       "sourceId": "bloomberg-odd-lots",
@@ -1391,6 +1400,7 @@
     "lseg:https://www.lseg.com/en/insights/risk-intelligence/eu-expands-sanctions-relating-to-russia-considerations-for-screening-programmes",
     "gavekal:https://research.gavekal.com/teaser/geoeconomic-monitor-russian-hopes-chinese-fears",
     "gavekal:https://research.gavekal.com/teaser/going-back-to-an-old-tool",
-    "gavekal:https://research.gavekal.com/teaser/the-fruit-of-tariffs-is-fraud"
+    "gavekal:https://research.gavekal.com/teaser/the-fruit-of-tariffs-is-fraud",
+    "bloomberg-odd-lots:80a8c551-836d-45b7-9004-b4e600024717"
   ]
 }
