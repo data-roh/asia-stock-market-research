@@ -39,8 +39,6 @@ h1, h2, h3 { color: var(--ink); font-family: Georgia, 'Times New Roman', serif; 
 .language-switch button { min-height: 30px; display: inline-flex; align-items: center; justify-content: center; gap: 5px; padding: 0 8px; border: 0; background: transparent; color: #526974; cursor: pointer; font-size: 11px; font-weight: 700; }
 .language-switch button.active { background: var(--ink); color: white; }
 .language-switch button span { font-size: 14px; line-height: 1; }
-.header-index { color: var(--muted); font-size: 11px; letter-spacing: 0.08em; text-decoration: none; }
-.header-index span { margin-left: 7px; color: var(--teal); }
 
 .hero-band { position: relative; overflow: hidden; border-bottom: 1px solid var(--line); background: #e9f0ee; }
 .hero-layout { min-height: 410px; display: grid; grid-template-columns: minmax(0, 1fr); align-items: center; padding-block: 62px; }
@@ -237,7 +235,6 @@ h1, h2, h3 { color: var(--ink); font-family: Georgia, 'Times New Roman', serif; 
 .about-disclosure { margin-top: 45px; padding: 18px 20px; border-left: 3px solid var(--teal); background: #eaf1ef; color: #526974; font-size: 12px; line-height: 1.7; }
 
 @media (max-width: 920px) {
-	.header-index { display: none; }
 	.nav-links { gap: 16px; }
 	.market-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 	.resource-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
