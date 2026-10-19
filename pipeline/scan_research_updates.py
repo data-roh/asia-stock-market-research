@@ -5,6 +5,7 @@ from email.utils import parsedate_to_datetime
 from html import unescape
 from html.parser import HTMLParser
 import json
+import os
 from pathlib import Path
 import re
 from urllib.parse import urldefrag, urljoin, urlsplit, urlunsplit
@@ -17,6 +18,7 @@ from concurrent.futures import ThreadPoolExecutor
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 FEEDS_PATH = PROJECT_ROOT / "src" / "lib" / "content" / "research-feeds.json"
 UPDATES_PATH = PROJECT_ROOT / "src" / "lib" / "content" / "research-updates.json"
+STATE_PATH = Path(os.environ.get("RESEARCH_UPDATES_PATH", str(PROJECT_ROOT / ".state" / "research-updates.json")))
 MAX_FEED_ITEMS = 30
 MAX_STORED_ITEMS = 200
 MAX_SEEN_KEYS = 2000
@@ -258,7 +260,8 @@ def fetch_listing(source_id: str, page_url: str, detected_at: str) -> tuple[list
 
 def main() -> None:
     feed_config = json.loads(FEEDS_PATH.read_text(encoding="utf-8"))
-    previous = json.loads(UPDATES_PATH.read_text(encoding="utf-8"))
+    previous_path = STATE_PATH if STATE_PATH.exists() else UPDATES_PATH
+    previous = json.loads(previous_path.read_text(encoding="utf-8"))
     listing_version = feed_config.get("listingVersion", 1)
     listing_baseline_changed = previous.get("listingVersion") != listing_version
     previous_seen = list(dict.fromkeys(previous.get("seen", [])))
@@ -298,11 +301,16 @@ def main() -> None:
                 seen_set.add(key)
                 seen.append(key)
                 if not needs_baseline:
+                    if entry.get("detectedAt") is None:
+                        entry["detectedAt"] = checked_at
                     new_items.append(entry)
         if error is None:
             baselined_source_ids.add(source_id)
 
     previous_items = previous.get("items", [])
+    pending_items = previous.get("pendingItems", [])
+    pending_keys = {item.get("key") for item in pending_items}
+    pending_items.extend(item for item in new_items if item.get("key") not in pending_keys)
     if listing_baseline_changed:
         previous_items = [item for item in previous_items if item.get("sourceId") in feed_ids]
     combined_items = new_items + previous_items
@@ -313,9 +321,11 @@ def main() -> None:
         "sourceChecks": source_checks,
         "baselinedSourceIds": sorted(baselined_source_ids),
         "items": combined_items[:MAX_STORED_ITEMS],
+        "pendingItems": pending_items[-MAX_STORED_ITEMS:],
         "seen": seen[-MAX_SEEN_KEYS:],
     }
-    UPDATES_PATH.write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    STATE_PATH.parent.mkdir(parents=True, exist_ok=True)
+    STATE_PATH.write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
     print(f"Checked {len(source_checks)} feeds; {len(new_items)} new items.")
     for check in source_checks:

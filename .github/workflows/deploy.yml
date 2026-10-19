@@ -3,12 +3,10 @@ name: Deploy Asia Stock Market Research to GitHub Pages
 on:
   push:
     branches: [main]
-  schedule:
-    - cron: '17 0 * * *'
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
 
@@ -33,8 +31,6 @@ jobs:
         run: npm ci
       - name: Generate synthetic demo data
         run: python pipeline/build_web_data.py
-      - name: Scan monitored research feeds
-        run: python pipeline/scan_research_updates.py
       - name: Check Svelte and TypeScript
         run: npm run check
       - name: Lint
@@ -47,18 +43,6 @@ jobs:
         uses: actions/upload-pages-artifact@v5
         with:
           path: build/
-      - name: Persist research update history
-        run: |
-          if git diff --quiet -- src/lib/content/research-updates.json; then
-            echo "Research update history is unchanged."
-          else
-            git config user.name "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add src/lib/content/research-updates.json
-            git commit -m "Update research publication tracker"
-            git push origin "HEAD:${GITHUB_REF_NAME}"
-          fi
-
   deploy:
     needs: build
     environment:

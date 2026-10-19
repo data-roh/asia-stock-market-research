@@ -1,0 +1,59 @@
+name: Daily Research Newsletter
+
+on:
+  schedule:
+    - cron: '17 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: daily-research-newsletter
+  cancel-in-progress: false
+
+jobs:
+  scan-and-email:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out source
+        uses: actions/checkout@v7
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Restore private scan state
+        uses: actions/cache/restore@v4
+        with:
+          path: .state/research-updates.json
+          key: research-updates-${{ github.run_id }}
+          restore-keys: research-updates-
+      - name: Scan public research sources
+        id: scan
+        env:
+          RESEARCH_UPDATES_PATH: .state/research-updates.json
+        run: python pipeline/scan_research_updates.py
+      - name: Build and send email digest
+        env:
+          RESEARCH_UPDATES_PATH: .state/research-updates.json
+          NEWSLETTER_PREVIEW_PATH: ${{ runner.temp }}/newsletter-preview.html
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          SMTP_FROM: ${{ secrets.SMTP_FROM }}
+          NEWSLETTER_TO: ${{ secrets.NEWSLETTER_TO }}
+        run: python pipeline/send_research_newsletter.py
+      - name: Save private scan state
+        if: always() && steps.scan.outcome == 'success'
+        uses: actions/cache/save@v4
+        with:
+          path: .state/research-updates.json
+          key: research-updates-${{ github.run_id }}
+      - name: Upload private newsletter preview
+        if: always()
+        uses: actions/upload-artifact@v5
+        with:
+          name: newsletter-preview
+          path: ${{ runner.temp }}/newsletter-preview.html
+          if-no-files-found: ignore
