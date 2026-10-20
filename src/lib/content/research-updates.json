@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-10-19T00:49:50.022577+00:00",
+  "lastCheckedAt": "2026-10-20T00:50:05.297493+00:00",
   "listingVersion": 2,
   "sourceChecks": [
     {
@@ -274,6 +274,15 @@
   ],
   "items": [
     {
+      "key": "bloomberg-odd-lots:80dab570-fb6b-445e-b20e-b4e5015a3603",
+      "sourceId": "bloomberg-odd-lots",
+      "title": "Don Wilson on the GPU Market's Trillion Dollar Question",
+      "url": "https://omny.fm/shows/odd-lots/don-wilson-on-the-gpu-markets-trillion-dollar-question",
+      "publishedAt": "2026-10-19T08:00:00+00:00",
+      "detectedAt": null,
+      "summary": "When we spoke to Don Wilson, founder and CEO of DRW, in Chicago last year, he told us he wanted to build a market for GPUs that would eventually be bigger than oil. A year's time in the age of AI is an eternity, and so for the first episode of this year's Chicago live show - recorded at City Winery - Wilson joins us on stage again to talk about what's changed and what hasn't in his quest to help build this market. We get his take on the recent tech selloff, including credit concerns around neocloud CoreWeave. And we also discuss how DRW is developing a “crunch spread” (the GPU version of a cra"
+    },
+    {
       "key": "bloomberg-odd-lots:80a8c551-836d-45b7-9004-b4e600024717",
       "sourceId": "bloomberg-odd-lots",
       "title": "David Byrne Explains How Forgotten Ideas Come Back to Life",
@@ -299,6 +308,60 @@
       "publishedAt": "2026-10-15T09:00:00+00:00",
       "detectedAt": null,
       "summary": "Traders and market watchers around the world started talking about a crypto platform called Hyperliquid earlier this year, when speculators used markets built on top of it to trade crude oil after war broke out in Iran. What Hyperliquid allowed for was a 24/7 market on the blockchain. Then in August, President Trump said the CFTC was working on bringing “Hyperliquid into the United States in a fully compliant and legal fashion.” Hyperliquid currently operates outside the US, but that hasn't stopped it from growing prodigiously in the last year. Jeff Yan, CEO and co-founder of Hyperliquid Labs,"
+    },
+    {
+      "key": "point72:https://point72.com/blog/point72-senior-leader-fall-2026-reading-list",
+      "sourceId": "point72",
+      "title": "Point72 Senior Leader Fall 2026 Reading List",
+      "url": "https://point72.com/blog/point72-senior-leader-fall-2026-reading-list",
+      "publishedAt": null,
+      "detectedAt": "2026-10-20T00:50:05.297493+00:00",
+      "summary": ""
+    },
+    {
+      "key": "cboe:https://www.cboe.com/insights/categories/macro_volatility_digest",
+      "sourceId": "cboe",
+      "title": "Macro Volatility Digest",
+      "url": "https://www.cboe.com/insights/categories/macro_volatility_digest",
+      "publishedAt": null,
+      "detectedAt": "2026-10-20T00:50:05.297493+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/uncle-sam-gets-heavy-in-brazil",
+      "sourceId": "gavekal",
+      "title": "Uncle Sam Gets Heavy In Brazil",
+      "url": "https://research.gavekal.com/teaser/uncle-sam-gets-heavy-in-brazil",
+      "publishedAt": null,
+      "detectedAt": "2026-10-20T00:50:05.297493+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/growth-target-secured",
+      "sourceId": "gavekal",
+      "title": "Growth Target Secured",
+      "url": "https://research.gavekal.com/teaser/growth-target-secured",
+      "publishedAt": null,
+      "detectedAt": "2026-10-20T00:50:05.297493+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/the-confluence-of-risks",
+      "sourceId": "gavekal",
+      "title": "The Confluence Of Risks",
+      "url": "https://research.gavekal.com/teaser/the-confluence-of-risks",
+      "publishedAt": null,
+      "detectedAt": "2026-10-20T00:50:05.297493+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/the-state-of-chinese-ai",
+      "sourceId": "gavekal",
+      "title": "The State Of Chinese AI Arthur Kroeber, Laila Khawaja",
+      "url": "https://research.gavekal.com/teaser/the-state-of-chinese-ai",
+      "publishedAt": null,
+      "detectedAt": "2026-10-20T00:50:05.297493+00:00",
+      "summary": ""
     },
     {
       "key": "lseg:https://www.lseg.com/en/insights/ftse-russell/ftse-marketpsych-the-next-generation-of-thematic-indexing",
@@ -1401,6 +1464,13 @@
     "gavekal:https://research.gavekal.com/teaser/geoeconomic-monitor-russian-hopes-chinese-fears",
     "gavekal:https://research.gavekal.com/teaser/going-back-to-an-old-tool",
     "gavekal:https://research.gavekal.com/teaser/the-fruit-of-tariffs-is-fraud",
-    "bloomberg-odd-lots:80a8c551-836d-45b7-9004-b4e600024717"
+    "bloomberg-odd-lots:80a8c551-836d-45b7-9004-b4e600024717",
+    "bloomberg-odd-lots:80dab570-fb6b-445e-b20e-b4e5015a3603",
+    "point72:https://point72.com/blog/point72-senior-leader-fall-2026-reading-list",
+    "cboe:https://www.cboe.com/insights/categories/macro_volatility_digest",
+    "gavekal:https://research.gavekal.com/teaser/uncle-sam-gets-heavy-in-brazil",
+    "gavekal:https://research.gavekal.com/teaser/growth-target-secured",
+    "gavekal:https://research.gavekal.com/teaser/the-confluence-of-risks",
+    "gavekal:https://research.gavekal.com/teaser/the-state-of-chinese-ai"
   ]
 }
