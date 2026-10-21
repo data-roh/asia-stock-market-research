@@ -206,8 +206,8 @@ h1, h2, h3 { color: var(--ink); font-family: Georgia, 'Times New Roman', serif; 
 .interest-quant:hover { background: #476b9b; }
 .interest-markets:hover { background: #73772d; }
 .interest-risk:hover { background: #936b2d; }
-.publication-tags { margin-top: 10px; }
-.publication-tags .interest-tag { padding: 4px 7px; font-size: 9px; }
+.publication-tags { flex-wrap: nowrap; max-width: 100%; margin-top: 10px; overflow-x: auto; }
+.publication-tags .interest-tag { flex: 0 0 auto; padding: 4px 7px; font-size: 9px; white-space: nowrap; }
 .about-section + .about-section { margin-top: 52px; }
 .about-section-heading { display: flex; align-items: baseline; gap: 14px; margin-bottom: 18px; padding-bottom: 12px; border-bottom: 1px solid var(--line); }
 .about-section-heading .eyebrow { margin: 0; }
