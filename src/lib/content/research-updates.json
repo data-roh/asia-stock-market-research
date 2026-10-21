@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-10-20T00:50:05.297493+00:00",
+  "lastCheckedAt": "2026-10-21T00:49:13.732471+00:00",
   "listingVersion": 2,
   "sourceChecks": [
     {
@@ -274,6 +274,15 @@
   ],
   "items": [
     {
+      "key": "bloomberg-odd-lots:32688ea9-4cbb-4bb4-8b3c-b4e8018899f5",
+      "sourceId": "bloomberg-odd-lots",
+      "title": "CME's Terry Duffy on the Disconcerting State of Finance Regulation",
+      "url": "https://omny.fm/shows/odd-lots/cmes-terry-duffy-on-the-disconcerting-state-of-finance-regulation",
+      "publishedAt": "2026-10-20T08:00:00+00:00",
+      "detectedAt": null,
+      "summary": "The Commodity Futures Trading Commission was practically brand new when Terry Duffy started working at CME Gropu almost five decades ago, and over the course of his career at the exchange, this legend of the trading world has seen an enormous amount of change when it comes to finance regulation, including the rise of prediction markets, 24/7 trading and perpetual futures. Duffy is set to transition out of his current position as CEO next year, and this conversation, recorded live at City Winery in Chicago, is a sort of exit interview. He tells us how regulation has evolved since the start of h"
+    },
+    {
       "key": "bloomberg-odd-lots:80dab570-fb6b-445e-b20e-b4e5015a3603",
       "sourceId": "bloomberg-odd-lots",
       "title": "Don Wilson on the GPU Market's Trillion Dollar Question",
@@ -308,6 +317,33 @@
       "publishedAt": "2026-10-15T09:00:00+00:00",
       "detectedAt": null,
       "summary": "Traders and market watchers around the world started talking about a crypto platform called Hyperliquid earlier this year, when speculators used markets built on top of it to trade crude oil after war broke out in Iran. What Hyperliquid allowed for was a 24/7 market on the blockchain. Then in August, President Trump said the CFTC was working on bringing “Hyperliquid into the United States in a fully compliant and legal fashion.” Hyperliquid currently operates outside the US, but that hasn't stopped it from growing prodigiously in the last year. Jeff Yan, CEO and co-founder of Hyperliquid Labs,"
+    },
+    {
+      "key": "preqin:https://www.preqin.com/insights/research/reports/private-capital-fund-terms-advisor-2026-part-2",
+      "sourceId": "preqin",
+      "title": "Fund Terms Advisor SUBSCRIBER Oct 20, 2026 Private Capital Fund Terms Advisor 2026: Part 2 After examining terms and governance in part one, in the second part of this year’s Private Capital Fund Terms Advisor we consider...",
+      "url": "https://www.preqin.com/insights/research/reports/private-capital-fund-terms-advisor-2026-part-2",
+      "publishedAt": null,
+      "detectedAt": "2026-10-21T00:49:13.732471+00:00",
+      "summary": ""
+    },
+    {
+      "key": "caia:https://caia.org/blog/2026/10/20/catastrophe-models-and-capital-markets-in-the-insurance-industry",
+      "sourceId": "caia",
+      "title": "iStockphoto.com/pcess609 Catastrophe Models and Capital Markets in the Insurance Industry By Dom Dusseau and Brendan Ng, Woodwell Climate Research Center Cat bond investors are being paid less for taking on… October 20, 2026",
+      "url": "https://caia.org/blog/2026/10/20/catastrophe-models-and-capital-markets-in-the-insurance-industry",
+      "publishedAt": null,
+      "detectedAt": "2026-10-21T00:49:13.732471+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/why-bonds-respond-to-the-fed-not-to-inflation",
+      "sourceId": "gavekal",
+      "title": "Why Bonds Respond To The Fed, Not To Inflation",
+      "url": "https://research.gavekal.com/teaser/why-bonds-respond-to-the-fed-not-to-inflation",
+      "publishedAt": null,
+      "detectedAt": "2026-10-21T00:49:13.732471+00:00",
+      "summary": ""
     },
     {
       "key": "point72:https://point72.com/blog/point72-senior-leader-fall-2026-reading-list",
@@ -1471,6 +1507,10 @@
     "gavekal:https://research.gavekal.com/teaser/uncle-sam-gets-heavy-in-brazil",
     "gavekal:https://research.gavekal.com/teaser/growth-target-secured",
     "gavekal:https://research.gavekal.com/teaser/the-confluence-of-risks",
-    "gavekal:https://research.gavekal.com/teaser/the-state-of-chinese-ai"
+    "gavekal:https://research.gavekal.com/teaser/the-state-of-chinese-ai",
+    "bloomberg-odd-lots:32688ea9-4cbb-4bb4-8b3c-b4e8018899f5",
+    "preqin:https://www.preqin.com/insights/research/reports/private-capital-fund-terms-advisor-2026-part-2",
+    "caia:https://caia.org/blog/2026/10/20/catastrophe-models-and-capital-markets-in-the-insurance-industry",
+    "gavekal:https://research.gavekal.com/teaser/why-bonds-respond-to-the-fed-not-to-inflation"
   ]
 }
