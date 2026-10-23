@@ -1,6 +1,285 @@
 {
-  "lastCheckedAt": "2026-10-23T00:47:25.451748+00:00",
+  "lastCheckedAt": "2026-10-23T01:03:06.067216+00:00",
   "institutional": [
+    {
+      "id": "man:https://www.man.com/insights/views-from-the-floor-2026-20-Oct",
+      "title": "Article | 5 MIN | Views From the Floor What If Gold Had a Yield? Gold currently pays no income while 30-year Treasuries yield over 5%, but gold miners could narrow the gap.",
+      "url": "https://www.man.com/insights/views-from-the-floor-2026-20-Oct",
+      "sourceId": "man",
+      "publishedAt": null,
+      "detectedAt": "2026-10-23T01:02:37.918796+00:00",
+      "excerpt": "Gold currently pays no income while 30-year Treasuries yield over 5%, but gold miners could narrow the gap.",
+      "descriptionChecked": true
+    },
+    {
+      "id": "man:https://www.man.com/insights/the-early-view-september-2026",
+      "title": "Article | 5 MIN | The Early View Under Pressure Hedge fund strategies might need to brace for more volatility for the rest of the year.",
+      "url": "https://www.man.com/insights/the-early-view-september-2026",
+      "sourceId": "man",
+      "publishedAt": null,
+      "detectedAt": "2026-10-23T01:02:37.918796+00:00",
+      "excerpt": "Hedge fund strategies might need to brace for more volatility for the rest of the year.",
+      "descriptionChecked": true
+    },
+    {
+      "id": "man:https://www.man.com/insights/views-from-the-floor-2026-13-oct",
+      "title": "Article 5 min Views From the Floor Oct 2026 Bond Markets Price Political Dysfunction as Well as Debt While sovereign debt crisis concerns may have eased for now, that’s no free bond market pass for profligate governments.",
+      "url": "https://www.man.com/insights/views-from-the-floor-2026-13-oct",
+      "sourceId": "man",
+      "publishedAt": null,
+      "detectedAt": "2026-10-23T01:02:37.918796+00:00",
+      "excerpt": "While sovereign debt crisis concerns may have eased for now, that’s no free bond market pass for profligate governments.",
+      "descriptionChecked": true
+    },
+    {
+      "id": "man:https://www.man.com/insights/road-ahead-law-medes-persians",
+      "title": "Article 12 min The Road Ahead Oct 2026 The Law of the Medes and Persians Re-investigating three of investment's long-held rules.",
+      "url": "https://www.man.com/insights/road-ahead-law-medes-persians",
+      "sourceId": "man",
+      "publishedAt": null,
+      "detectedAt": "2026-10-23T01:02:37.918796+00:00",
+      "excerpt": "Re-investigating three of investment's long-held rules.",
+      "descriptionChecked": true
+    },
+    {
+      "id": "man:https://www.man.com/insights/views-from-the-floor-2026-6-oct",
+      "title": "Article 6 min Views From the Floor Oct 2026 Don’t Write Off Bonds Yet Elevated inflation alone is not bad for Treasuries; it takes rapidly rising inflation to drive bonds down.",
+      "url": "https://www.man.com/insights/views-from-the-floor-2026-6-oct",
+      "sourceId": "man",
+      "publishedAt": null,
+      "detectedAt": "2026-10-23T01:02:37.918796+00:00",
+      "excerpt": "Elevated inflation alone is not bad for Treasuries; it takes rapidly rising inflation to drive bonds down.",
+      "descriptionChecked": true
+    },
+    {
+      "id": "man:https://www.man.com/insights/active-approach-in-todays-fixed-income-market",
+      "title": "Article 4 min Sep 2026 Taking an Active Approach in Today’s Fixed Income Market As hyperscalers pile into the corporate bond market, unintentional concentration risk is also rising.",
+      "url": "https://www.man.com/insights/active-approach-in-todays-fixed-income-market",
+      "sourceId": "man",
+      "publishedAt": null,
+      "detectedAt": "2026-10-23T01:02:37.918796+00:00",
+      "excerpt": "As hyperscalers pile into the corporate bond market, unintentional concentration risk is also rising.",
+      "descriptionChecked": true
+    },
+    {
+      "id": "man:https://www.man.com/insights/2026-h2-credit-outlook",
+      "title": "Article | 5 MIN | Credit Outlook H2 2026 Credit Outlook: The AI Buildout – Boom or Bubble?",
+      "url": "https://www.man.com/insights/2026-h2-credit-outlook",
+      "sourceId": "man",
+      "publishedAt": null,
+      "detectedAt": "2026-10-23T01:02:37.918796+00:00",
+      "excerpt": "AI supply is breaking records, but bubble risks are mounting.",
+      "descriptionChecked": true
+    },
+    {
+      "id": "man:https://www.man.com/insights/quant-renaissance-part",
+      "title": "Article | 19 MIN The Quant Renaissance Part III: Who's Ready for the Next Winter?",
+      "url": "https://www.man.com/insights/quant-renaissance-part",
+      "sourceId": "man",
+      "publishedAt": null,
+      "detectedAt": "2026-10-23T01:02:37.918796+00:00",
+      "excerpt": "Did quant managers really change after the Quant Winter? Their returns say some did and some did not.",
+      "descriptionChecked": true
+    },
+    {
+      "id": "man:https://www.man.com/insights/assets-powering-next-investment-cycle",
+      "title": "Article | 10 MIN The Assets Powering the Next Investment Cycle",
+      "url": "https://www.man.com/insights/assets-powering-next-investment-cycle",
+      "sourceId": "man",
+      "publishedAt": null,
+      "detectedAt": "2026-10-23T01:02:37.918796+00:00",
+      "excerpt": "Essential assets, long-term investment trends and the case for listed infrastructure today.",
+      "descriptionChecked": true
+    },
+    {
+      "id": "man:https://www.man.com/insights/beyond-stock-selection",
+      "title": "Article 11 min Oct 2026 Beyond Stock Selection: A Systematic Approach to EM Country Timing Emerging markets (EM) systematic managers now have the potential to reinforce stock selection with a complementary country timing component",
+      "url": "https://www.man.com/insights/beyond-stock-selection",
+      "sourceId": "man",
+      "publishedAt": null,
+      "detectedAt": "2026-10-23T01:02:37.918796+00:00",
+      "excerpt": "Emerging markets (EM) systematic managers now have the potential to reinforce stock selection with a complementary country timing component",
+      "descriptionChecked": true
+    },
+    {
+      "id": "man:https://www.man.com/insights/significantly-misunderstood-capital",
+      "title": "Article 5 min Oct 2026 Significantly Misunderstood: Why SRT is Not Capital Relief In the first of a series, we aim to dispel the misconception that significant risk transfers (SRT) reduce the amount of regulatory capital a bank must hold.",
+      "url": "https://www.man.com/insights/significantly-misunderstood-capital",
+      "sourceId": "man",
+      "publishedAt": null,
+      "detectedAt": "2026-10-23T01:02:37.918796+00:00",
+      "excerpt": "In the first of a series, we aim to dispel the misconception that significant risk transfers (SRT) reduce the amount of regulatory capital a bank must hold.",
+      "descriptionChecked": true
+    },
+    {
+      "id": "man:https://www.man.com/insights/weathering-july-storms",
+      "title": "Article 12 min Sep 2026 Weathering July's Storms How have quant equity strategies fared amid China’s shifting equity market dynamics?",
+      "url": "https://www.man.com/insights/weathering-july-storms",
+      "sourceId": "man",
+      "publishedAt": null,
+      "detectedAt": "2026-10-23T01:02:37.918796+00:00",
+      "excerpt": "How have quant equity strategies fared amid China’s shifting equity market dynamics?",
+      "descriptionChecked": true
+    },
+    {
+      "id": "man:https://www.man.com/insights/gold-bugs-bears-myths",
+      "title": "Article 14 min Nov 2025 Gold: Bugs, Bears and Myths Despite reaching record prices, gold can play a valuable role in global portfolios as a diversifier and risk mitigator.",
+      "url": "https://www.man.com/insights/gold-bugs-bears-myths",
+      "sourceId": "man",
+      "publishedAt": null,
+      "detectedAt": "2026-10-23T01:02:37.918796+00:00",
+      "excerpt": "Despite reaching record prices, gold can play a valuable role in global portfolios as a diversifier and risk mitigator.",
+      "descriptionChecked": true
+    },
+    {
+      "id": "point72:https://point72.com/blog/2027-point72-summer-internship-applications-open",
+      "title": "2027 Point72 Summer Internship Applications Open",
+      "url": "https://point72.com/blog/2027-point72-summer-internship-applications-open",
+      "sourceId": "point72",
+      "publishedAt": null,
+      "detectedAt": "2026-10-23T01:02:37.918796+00:00",
+      "excerpt": "Ready to see what a summer at a leading hedge fund could look like? Applications are now live for Point72 internship opportunities across several corporate functions. There are many ways to build a career at Point72, and",
+      "descriptionChecked": true
+    },
+    {
+      "id": "eastspring:https://www.eastspring.com/insights/deep-dives/japan-equities-is-the-investment-case-sustainable",
+      "title": "Japan Equities: Is the investment case sustainable?",
+      "url": "https://www.eastspring.com/insights/deep-dives/japan-equities-is-the-investment-case-sustainable",
+      "sourceId": "eastspring",
+      "publishedAt": null,
+      "detectedAt": "2026-10-23T01:02:37.918796+00:00",
+      "excerpt": "Stronger fundamentals underpin Japan’s investment case. Improving profitability, better capital allocation and a shift away from deflation provide a firmer foundation for sustainable earnings growth.",
+      "descriptionChecked": true
+    },
+    {
+      "id": "gavekal:https://research.gavekal.com/teaser/video-indonesias-identity-crisis",
+      "title": "Video: Indonesia's Identity Crisis",
+      "url": "https://research.gavekal.com/teaser/video-indonesias-identity-crisis",
+      "sourceId": "gavekal",
+      "publishedAt": null,
+      "detectedAt": "2026-10-23T01:02:37.918796+00:00",
+      "excerpt": "",
+      "descriptionChecked": true
+    },
+    {
+      "id": "gavekal:https://research.gavekal.com/teaser/higher-yields-and-corporate-profits",
+      "title": "Higher Yields And Corporate Profits",
+      "url": "https://research.gavekal.com/teaser/higher-yields-and-corporate-profits",
+      "sourceId": "gavekal",
+      "publishedAt": null,
+      "detectedAt": "2026-10-23T01:02:37.918796+00:00",
+      "excerpt": "",
+      "descriptionChecked": true
+    },
+    {
+      "id": "gavekal:https://research.gavekal.com/teaser/complexity-versus-hierarchy",
+      "title": "Complexity Versus Hierarchy",
+      "url": "https://research.gavekal.com/teaser/complexity-versus-hierarchy",
+      "sourceId": "gavekal",
+      "publishedAt": null,
+      "detectedAt": "2026-10-23T01:02:37.918796+00:00",
+      "excerpt": "",
+      "descriptionChecked": true
+    },
+    {
+      "id": "gavekal:https://research.gavekal.com/teaser/london-conference-october-2026",
+      "title": "London Conference: October 2026",
+      "url": "https://research.gavekal.com/teaser/london-conference-october-2026",
+      "sourceId": "gavekal",
+      "publishedAt": null,
+      "detectedAt": "2026-10-23T01:02:37.918796+00:00",
+      "excerpt": ""
+    },
+    {
+      "id": "gavekal:https://research.gavekal.com/teaser/beijing-draws-new-boundaries-for-ai-exports",
+      "title": "Beijing Draws New Boundaries For AI Exports Laila Khawaja",
+      "url": "https://research.gavekal.com/teaser/beijing-draws-new-boundaries-for-ai-exports",
+      "sourceId": "gavekal",
+      "publishedAt": null,
+      "detectedAt": "2026-10-23T01:02:37.918796+00:00",
+      "excerpt": ""
+    },
+    {
+      "id": "bloomberg-odd-lots:a0e15df4-4a62-4b81-bbf5-b4ea00ed7a3c",
+      "title": "Bhaskar Sunkara Thinks the Market Has a Place Under Socialism",
+      "url": "https://omny.fm/shows/odd-lots/bhaskar-sunkara-thinks-the-market-has-a-place-under-socialism",
+      "sourceId": "bloomberg-odd-lots",
+      "publishedAt": "2026-10-22T08:00:00+00:00",
+      "detectedAt": "2026-10-23T01:02:37.918796+00:00",
+      "excerpt": "In September, Gallup released a poll that showed that 43% percent of Americans viewed socialism positively, the highest approval since Gallup began the poll back in 2010. Since Zohran Mamdani won the NYC mayoral election"
+    },
+    {
+      "id": "goldman:https://www.goldmansachs.com/insights/goldman-sachs-exchanges/where-chinese-exports-are-gaining-the-most-market-share",
+      "title": "Exchanges Where Chinese Exports Are Gaining the Most Market Share Podcast | Oct 13, 2026",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/where-chinese-exports-are-gaining-the-most-market-share",
+      "sourceId": "goldman",
+      "publishedAt": null,
+      "detectedAt": "2026-10-22T00:58:55.806564+00:00",
+      "excerpt": ""
+    },
+    {
+      "id": "goldman:https://www.goldmansachs.com/insights/articles/competition-among-chinas-ai-models-is-intensifying-as-chip-sector-advances",
+      "title": "Artificial Intelligence Competition Among China’s AI Models Is Intensifying as the Chip Sector Advances Oct 9, 2026",
+      "url": "https://www.goldmansachs.com/insights/articles/competition-among-chinas-ai-models-is-intensifying-as-chip-sector-advances",
+      "sourceId": "goldman",
+      "publishedAt": null,
+      "detectedAt": "2026-10-22T00:58:55.806564+00:00",
+      "excerpt": ""
+    },
+    {
+      "id": "goldman:https://www.goldmansachs.com/insights/articles/german-exports-rebound-amid-demand-from-the-us-eu-and-ai-buildout",
+      "title": "Europe German Exports Rebound amid Demand from the US, EU, and AI Buildout Oct 15, 2026",
+      "url": "https://www.goldmansachs.com/insights/articles/german-exports-rebound-amid-demand-from-the-us-eu-and-ai-buildout",
+      "sourceId": "goldman",
+      "publishedAt": null,
+      "detectedAt": "2026-10-22T00:58:55.806564+00:00",
+      "excerpt": ""
+    },
+    {
+      "id": "preqin:https://www.preqin.com/insights/research/reports/private-markets-in-2031",
+      "title": "Private Market Forecasts SUBSCRIBER Oct 21, 2026 Private Markets in 2031 In Private Markets in 2031, we present our forecasts for fundraising, performance, and AUM growth across each asset class and cons...",
+      "url": "https://www.preqin.com/insights/research/reports/private-markets-in-2031",
+      "sourceId": "preqin",
+      "publishedAt": null,
+      "detectedAt": "2026-10-22T00:58:55.806564+00:00",
+      "excerpt": ""
+    },
+    {
+      "id": "gavekal:https://research.gavekal.com/teaser/what-would-it-take-for-another-euro-crisis",
+      "title": "What Would It Take For Another Euro Crisis?",
+      "url": "https://research.gavekal.com/teaser/what-would-it-take-for-another-euro-crisis",
+      "sourceId": "gavekal",
+      "publishedAt": null,
+      "detectedAt": "2026-10-22T00:58:55.806564+00:00",
+      "excerpt": ""
+    },
+    {
+      "id": "gavekal:https://research.gavekal.com/teaser/the-ultimate-contrarian-trade",
+      "title": "The Ultimate Contrarian Trade?",
+      "url": "https://research.gavekal.com/teaser/the-ultimate-contrarian-trade",
+      "sourceId": "gavekal",
+      "publishedAt": null,
+      "detectedAt": "2026-10-22T00:58:55.806564+00:00",
+      "excerpt": ""
+    },
+    {
+      "id": "gavekal:https://research.gavekal.com/teaser/the-struggle-to-commoditize-ai",
+      "title": "The Struggle To Commoditize AI",
+      "url": "https://research.gavekal.com/teaser/the-struggle-to-commoditize-ai",
+      "sourceId": "gavekal",
+      "publishedAt": null,
+      "detectedAt": "2026-10-22T00:58:55.806564+00:00",
+      "excerpt": ""
+    },
+    {
+      "id": "bloomberg-odd-lots:fc8d0d2b-9eb1-4ed2-bdfb-b4e9015241dc",
+      "title": "James Robinson on What It Looks Like When a State is Failing",
+      "url": "https://omny.fm/shows/odd-lots/james-robinson-on-what-it-looks-like-when-a-state-is-failing",
+      "sourceId": "bloomberg-odd-lots",
+      "publishedAt": "2026-10-21T08:00:00+00:00",
+      "detectedAt": "2026-10-22T00:58:55.806564+00:00",
+      "excerpt": "The third and last episode from our Chicago live show is with James Robinson, a professor at the University of Chicago and a recipient of the 2024 Nobel Prize in economics (which he shared with Daron Acemoglu and Simon J"
+    },
     {
       "id": "preqin:https://www.preqin.com/insights/research/reports/private-capital-fund-terms-advisor-2026-part-2",
       "title": "Fund Terms Advisor SUBSCRIBER Oct 20, 2026 Private Capital Fund Terms Advisor 2026: Part 2 After examining terms and governance in part one, in the second part of this year’s Private Capital Fund Terms Advisor we consider...",
@@ -446,6 +725,16 @@
       "abstract": "<p>Better forecasts do not necessarily produce a better global equity portfolio. The question is whether those signals improve the final portfolio once benchmark-relative risk, overlapping holdings, trading, and costs ar"
     },
     {
+      "id": "10.2139/ssrn.7616919",
+      "title": "Multi-Horizon Prediction of Financial Technical Indicators via Ticker-Aware Deep Learning and Ensemble Optimization",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7616919",
+      "indexedAt": "2026-10-17T00:00:00+00:00",
+      "topics": [
+        "Financial ML"
+      ],
+      "abstract": "We study the joint prediction of the continuous future values of two widely used technical indicators-the Moving Average Convergence Divergence (MACD) and the Stochastic Oscillator-across 15 simultaneous horizons (h= 1 t"
+    },
+    {
       "id": "10.2139/ssrn.7617680",
       "title": "Latent Petroleum News and Asset Prices",
       "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7617680",
@@ -532,13 +821,13 @@
       "name": "openbq-org/OpenBB",
       "url": "https://github.com/openbq-org/OpenBB",
       "description": "Open Data Platform for analysts, quants and AI agents.",
-      "stars": 74557,
+      "stars": 74558,
       "createdAt": "2020-12-20T10:46:38Z",
       "updatedAt": "2026-10-18T20:30:02Z",
       "history": [
         {
           "date": "2026-10-23",
-          "stars": 74557
+          "stars": 74558
         }
       ],
       "stars7d": null
@@ -548,13 +837,13 @@
       "name": "ZhuLinsen/daily_stock_analysis",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "stars": 66890,
+      "stars": 66891,
       "createdAt": "2026-01-10T06:43:20Z",
       "updatedAt": "2026-10-21T09:50:50Z",
       "history": [
         {
           "date": "2026-10-23",
-          "stars": 66890
+          "stars": 66891
         }
       ],
       "stars7d": null
@@ -564,13 +853,13 @@
       "name": "freqtrade/freqtrade",
       "url": "https://github.com/freqtrade/freqtrade",
       "description": "Free, open source crypto trading bot",
-      "stars": 55769,
+      "stars": 55771,
       "createdAt": "2017-05-17T23:48:53Z",
       "updatedAt": "2026-10-22T05:28:45Z",
       "history": [
         {
           "date": "2026-10-23",
-          "stars": 55769
+          "stars": 55771
         }
       ],
       "stars7d": null
@@ -676,13 +965,13 @@
       "name": "hummingbot/hummingbot",
       "url": "https://github.com/hummingbot/hummingbot",
       "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
-      "stars": 20633,
+      "stars": 20634,
       "createdAt": "2019-04-02T21:41:52Z",
       "updatedAt": "2026-10-20T03:18:44Z",
       "history": [
         {
           "date": "2026-10-23",
-          "stars": 20633
+          "stars": 20634
         }
       ],
       "stars7d": null
@@ -742,7 +1031,7 @@
       "description": "QuestDB is a high performance, open-source, time-series database",
       "stars": 17462,
       "createdAt": "2014-04-28T23:29:15Z",
-      "updatedAt": "2026-10-22T22:54:02Z",
+      "updatedAt": "2026-10-23T01:02:13Z",
       "history": [
         {
           "date": "2026-10-23",
@@ -852,13 +1141,13 @@
       "name": "simonlin1212/a-stock-data",
       "url": "https://github.com/simonlin1212/a-stock-data",
       "description": "A股全栈数据工具包：行情K线·当日逐笔·研报·信号·资金面·新闻·财务·公告·打板·ETF期权·舆情·宏观利率·期货大宗(含大商所日K)·事件驱动·可转债 | 15层·87端点·34数据源·除iwencai外免Key | A-share data for AI agents: K-lines, ticks, reports, fund flow, news, financials, filings, options, macro, futures, events, convertibles | 15 layers·",
-      "stars": 11022,
+      "stars": 11025,
       "createdAt": "2026-05-11T01:08:15Z",
       "updatedAt": "2026-10-11T13:08:34Z",
       "history": [
         {
           "date": "2026-10-23",
-          "stars": 11022
+          "stars": 11025
         }
       ],
       "stars7d": null
@@ -964,13 +1253,13 @@
       "name": "shy3130/tick-stock-panel",
       "url": "https://github.com/shy3130/tick-stock-panel",
       "description": "TSP自托管、零运维的 A 股「自建策略 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源",
-      "stars": 6231,
+      "stars": 6232,
       "createdAt": "2026-06-18T06:18:29Z",
       "updatedAt": "2026-10-22T14:25:29Z",
       "history": [
         {
           "date": "2026-10-23",
-          "stars": 6231
+          "stars": 6232
         }
       ],
       "stars7d": null
@@ -1136,6 +1425,22 @@
       "stars7d": null
     },
     {
+      "id": "156283359",
+      "name": "grananqvist/Awesome-Quant-Machine-Learning-Trading",
+      "url": "https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading",
+      "description": "Quant/Algorithm trading resources with an emphasis on Machine Learning",
+      "stars": 4077,
+      "createdAt": "2018-11-05T21:09:06Z",
+      "updatedAt": "2025-05-21T20:41:58Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 4077
+        }
+      ],
+      "stars7d": null
+    },
+    {
       "id": "589385734",
       "name": "edtechre/pybroker",
       "url": "https://github.com/edtechre/pybroker",
@@ -1211,6 +1516,22 @@
         {
           "date": "2026-10-23",
           "stars": 2532
+        }
+      ],
+      "stars7d": null
+    },
+    {
+      "id": "63839029",
+      "name": "rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy",
+      "url": "https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy",
+      "description": "Providing the solutions for high-frequency trading (HFT) strategies using data science approaches (Machine Learning) on Full Orderbook Tick Data.",
+      "stars": 2361,
+      "createdAt": "2016-07-21T05:14:14Z",
+      "updatedAt": "2022-08-27T20:48:46Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 2361
         }
       ],
       "stars7d": null
@@ -1307,6 +1628,22 @@
         {
           "date": "2026-10-23",
           "stars": 1309
+        }
+      ],
+      "stars7d": null
+    },
+    {
+      "id": "538784585",
+      "name": "visualHFT/VisualHFT",
+      "url": "https://github.com/visualHFT/VisualHFT",
+      "description": "VisualHFT Terminal: open-source observability and decision terminal for electronic trading desks. Live Level 2 order books, microstructure analytics, and quantitative execution monitoring.",
+      "stars": 1208,
+      "createdAt": "2022-09-20T02:52:30Z",
+      "updatedAt": "2026-10-16T02:42:48Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 1208
         }
       ],
       "stars7d": null
@@ -1412,13 +1749,13 @@
       "name": "Jakeschincariol/day-trader-skill",
       "url": "https://github.com/Jakeschincariol/day-trader-skill",
       "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
-      "stars": 516,
+      "stars": 518,
       "createdAt": "2026-10-20T14:17:54Z",
       "updatedAt": "2026-10-20T14:18:00Z",
       "history": [
         {
           "date": "2026-10-23",
-          "stars": 516
+          "stars": 518
         }
       ],
       "stars7d": null
@@ -1431,6 +1768,22 @@
       "stars": 499,
       "createdAt": "2025-10-27T15:57:05Z",
       "updatedAt": "2026-09-15T01:55:06Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 499
+        }
+      ],
+      "stars7d": null
+    },
+    {
+      "id": "1169524736",
+      "name": "YichengYang-Ethan/oracle3-prediction-market-agent",
+      "url": "https://github.com/YichengYang-Ethan/oracle3-prediction-market-agent",
+      "description": "Oracle3: open-source trading engine and MCP server for prediction markets. Finds fee-adjusted no-arbitrage violations across related event contracts and trades them live on Kalshi, Polymarket and Solana, or on paper, under pre-trade risk limits. 13 MCP tools, ",
+      "stars": 499,
+      "createdAt": "2026-02-28T20:20:18Z",
+      "updatedAt": "2026-10-12T01:01:19Z",
       "history": [
         {
           "date": "2026-10-23",
@@ -1472,6 +1825,22 @@
       "stars7d": null
     },
     {
+      "id": "1351469027",
+      "name": "0xethanq/astra-quant-agent",
+      "url": "https://github.com/0xethanq/astra-quant-agent",
+      "description": "结合多大模型分析与确定性代码风控的自主量化交易系统 ｜ Autonomous crypto trading system with multi-LLM analysis, deterministic Python risk control & OKX execution.",
+      "stars": 393,
+      "createdAt": "2026-08-30T14:34:10Z",
+      "updatedAt": "2026-10-03T20:02:58Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 393
+        }
+      ],
+      "stars7d": null
+    },
+    {
       "id": "157863773",
       "name": "VivekPa/OptimalPortfolio",
       "url": "https://github.com/VivekPa/OptimalPortfolio",
@@ -1504,6 +1873,230 @@
       "stars7d": null
     },
     {
+      "id": "228540147",
+      "name": "Kautenja/limit-order-book",
+      "url": "https://github.com/Kautenja/limit-order-book",
+      "description": "A header-only C++ limit order book with price-time priority matching, a C API, and Python bindings.",
+      "stars": 312,
+      "createdAt": "2019-12-17T05:31:18Z",
+      "updatedAt": "2026-10-19T05:04:11Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 312
+        }
+      ],
+      "stars7d": null
+    },
+    {
+      "id": "766174549",
+      "name": "FinancialComputingUCL/LOBFrame",
+      "url": "https://github.com/FinancialComputingUCL/LOBFrame",
+      "description": "We release `LOBFrame', a novel, open-source code base which presents a renewed way to process large-scale Limit Order Book (LOB) data.",
+      "stars": 259,
+      "createdAt": "2024-03-02T14:43:44Z",
+      "updatedAt": "2024-05-31T07:36:15Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 259
+        }
+      ],
+      "stars7d": null
+    },
+    {
+      "id": "214502225",
+      "name": "financial-data-science/CFDS",
+      "url": "https://github.com/financial-data-science/CFDS",
+      "description": "A series of interactive labs we prepared for the Chartered Financial Data Scientist Certification. The content of the series is based on Python, IPython Notebook, and PyTorch.",
+      "stars": 216,
+      "createdAt": "2019-10-11T18:13:38Z",
+      "updatedAt": "2024-07-25T10:57:09Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 216
+        }
+      ],
+      "stars7d": null
+    },
+    {
+      "id": "1171009732",
+      "name": "DegenSugarBoo/OpenBook",
+      "url": "https://github.com/DegenSugarBoo/OpenBook",
+      "description": "Real-time Crypto Futures depth heatmap in Rust (egui/eframe) with live order flow and trade tape.",
+      "stars": 190,
+      "createdAt": "2026-03-02T19:20:02Z",
+      "updatedAt": "2026-03-02T19:58:20Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 190
+        }
+      ],
+      "stars7d": null
+    },
+    {
+      "id": "261762466",
+      "name": "mourarthur/awesome-credit-modeling",
+      "url": "https://github.com/mourarthur/awesome-credit-modeling",
+      "description": "A collection of awesome papers, articles and various resources on credit and credit risk modeling",
+      "stars": 177,
+      "createdAt": "2020-05-06T13:11:29Z",
+      "updatedAt": "2024-02-01T21:37:04Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 177
+        }
+      ],
+      "stars7d": null
+    },
+    {
+      "id": "563741024",
+      "name": "Jeonghwan-Cheon/lob-deep-learning",
+      "url": "https://github.com/Jeonghwan-Cheon/lob-deep-learning",
+      "description": "Implementation of various deep learning models for limit order book. DeepLOB (Zhang et al., 2018), TransLOB (Wallbridge, 2020), DeepFolio (Sangadiev et al., 2020), etc.",
+      "stars": 161,
+      "createdAt": "2022-11-09T08:32:21Z",
+      "updatedAt": "2022-12-11T08:24:22Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 161
+        }
+      ],
+      "stars7d": null
+    },
+    {
+      "id": "271677766",
+      "name": "alkalescent/hyperdrive",
+      "url": "https://github.com/alkalescent/hyperdrive",
+      "description": "algorithmic trading using machine learning (AI / ML)",
+      "stars": 159,
+      "createdAt": "2020-06-12T01:05:01Z",
+      "updatedAt": "2026-08-25T03:33:44Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 159
+        }
+      ],
+      "stars7d": null
+    },
+    {
+      "id": "197944246",
+      "name": "ChuaCheowHuan/gym-continuousDoubleAuction",
+      "url": "https://github.com/ChuaCheowHuan/gym-continuousDoubleAuction",
+      "description": "A custom MARL (multi-agent reinforcement learning) environment where multiple agents trade against one another (self-play) in a zero-sum continuous double auction. Ray [RLlib] is used for training.",
+      "stars": 156,
+      "createdAt": "2019-07-20T14:53:16Z",
+      "updatedAt": "2026-10-22T15:22:32Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 156
+        }
+      ],
+      "stars7d": null
+    },
+    {
+      "id": "821555551",
+      "name": "jialuechen/flowforge",
+      "url": "https://github.com/jialuechen/flowforge",
+      "description": "Algo Library for Order Flow Inference and TCA",
+      "stars": 140,
+      "createdAt": "2024-06-28T20:14:25Z",
+      "updatedAt": "2026-08-23T18:27:48Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 140
+        }
+      ],
+      "stars7d": null
+    },
+    {
+      "id": "867537116",
+      "name": "terbed/finmlkit",
+      "url": "https://github.com/terbed/finmlkit",
+      "description": "An open-source, lightweight, and blazing-fast financial machine learning library built with Numba. Process raw trades, generate advanced bars, features, and labels for quantitative research.",
+      "stars": 114,
+      "createdAt": "2024-10-04T08:53:59Z",
+      "updatedAt": "2025-09-23T15:10:12Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 114
+        }
+      ],
+      "stars7d": null
+    },
+    {
+      "id": "1116578846",
+      "name": "krish567366/submicro-execution-engine",
+      "url": "https://github.com/krish567366/submicro-execution-engine",
+      "description": "Sub-microsecond bare-metal execution engine with deterministic replay, lock-free order path, and hardware-timestamped latency measurement.",
+      "stars": 104,
+      "createdAt": "2025-12-15T04:50:28Z",
+      "updatedAt": "2026-05-07T03:15:26Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 104
+        }
+      ],
+      "stars7d": null
+    },
+    {
+      "id": "579079401",
+      "name": "dream-faster/fold",
+      "url": "https://github.com/dream-faster/fold",
+      "description": "🪁 A fast Adaptive Machine Learning library for Time-Series, that lets you build, deploy and update composite models easily. An order of magnitude speed-up, combined with flexibility and rigour. This is an internal project - documentation is not updated anymore",
+      "stars": 101,
+      "createdAt": "2022-12-16T15:54:21Z",
+      "updatedAt": "2024-02-29T15:14:31Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 101
+        }
+      ],
+      "stars7d": null
+    },
+    {
+      "id": "1039839592",
+      "name": "mansoor-mamnoon/limit-order-book",
+      "url": "https://github.com/mansoor-mamnoon/limit-order-book",
+      "description": "High-performance limit order book engine with C++ core and Python SDK. Processes 20M+ msgs/sec with µs latency. Supports real crypto/equity data replay, spread/imbalance/impact analytics, and backtesting of VWAP, TWAP, POV, and market-making strategies with re",
+      "stars": 92,
+      "createdAt": "2025-08-18T04:10:40Z",
+      "updatedAt": "2025-08-30T06:31:33Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 92
+        }
+      ],
+      "stars7d": null
+    },
+    {
+      "id": "1213316764",
+      "name": "Azhagesan-dev/OrderFlowMap",
+      "url": "https://github.com/Azhagesan-dev/OrderFlowMap",
+      "description": "Bookmap-style order flow visualizer in a single HTML file — real-time heatmaps, trade bubbles, DOM ladder, volume profile, CVD, and liquidity wall detection. Works with OpenAlgo WebSocket for live Indian market data (NSE/NFO/BSE/MCX).",
+      "stars": 91,
+      "createdAt": "2026-04-17T08:55:18Z",
+      "updatedAt": "2026-04-17T09:12:23Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 91
+        }
+      ],
+      "stars7d": null
+    },
+    {
       "id": "1423707483",
       "name": "ralphtradesz/trading-hub",
       "url": "https://github.com/ralphtradesz/trading-hub",
@@ -1515,6 +2108,118 @@
         {
           "date": "2026-10-23",
           "stars": 74
+        }
+      ],
+      "stars7d": null
+    },
+    {
+      "id": "1156592129",
+      "name": "Leotaby/MicroExchange",
+      "url": "https://github.com/Leotaby/MicroExchange",
+      "description": "Exchange-grade CLOB matching engine + microstructure analytics in C++20",
+      "stars": 69,
+      "createdAt": "2026-02-12T20:31:55Z",
+      "updatedAt": "2026-05-31T12:21:06Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 69
+        }
+      ],
+      "stars7d": null
+    },
+    {
+      "id": "1242941205",
+      "name": "ebrahimpichka/open-MFE",
+      "url": "https://github.com/ebrahimpichka/open-MFE",
+      "description": "A community-curated vault of openly available resources that replicates the rigorous syllabus of top MFE / Quant Finance programs",
+      "stars": 59,
+      "createdAt": "2026-05-18T22:51:00Z",
+      "updatedAt": "2026-10-03T21:23:12Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 59
+        }
+      ],
+      "stars7d": null
+    },
+    {
+      "id": "295480563",
+      "name": "orderbooktools/crobat",
+      "url": "https://github.com/orderbooktools/crobat",
+      "description": "Academic python library that records changes to instances of the limit order book for pairs supported on the coinbase exchange.",
+      "stars": 55,
+      "createdAt": "2020-09-14T16:51:44Z",
+      "updatedAt": "2026-05-04T20:54:59Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 55
+        }
+      ],
+      "stars7d": null
+    },
+    {
+      "id": "1234137382",
+      "name": "AsthaMishra/matching-engine",
+      "url": "https://github.com/AsthaMishra/matching-engine",
+      "description": "From-scratch limit order book + matching engine in Rust. ~100 ns book ops replaying 104M operations from real NASDAQ ITCH 5.0 data; 143-fill sweeps in 2 µs. Binary OUCH order entry, 10 µs order-to-ack.",
+      "stars": 48,
+      "createdAt": "2026-05-09T19:51:40Z",
+      "updatedAt": "2026-08-14T12:31:02Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 48
+        }
+      ],
+      "stars7d": null
+    },
+    {
+      "id": "229402610",
+      "name": "coorung/Finance-World",
+      "url": "https://github.com/coorung/Finance-World",
+      "description": "Optimization techniques on the financial area for the hedging, investment starategies, and risk measures",
+      "stars": 43,
+      "createdAt": "2019-12-21T09:02:35Z",
+      "updatedAt": "2020-04-06T19:02:56Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 43
+        }
+      ],
+      "stars7d": null
+    },
+    {
+      "id": "1226519809",
+      "name": "LabinatorSolutions/awesome-institutional-trading",
+      "url": "https://github.com/LabinatorSolutions/awesome-institutional-trading",
+      "description": "The ultimate collection of institutional trading resources: order flow, market microstructure, options GEX, and algorithmic frameworks.",
+      "stars": 42,
+      "createdAt": "2026-05-01T14:02:05Z",
+      "updatedAt": "2026-09-24T03:14:38Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 42
+        }
+      ],
+      "stars7d": null
+    },
+    {
+      "id": "495844034",
+      "name": "monty-se/PINstimation",
+      "url": "https://github.com/monty-se/PINstimation",
+      "description": "A comprehensive bundle of utilities for the estimation of probability of informed trading models: original PIN in Easley and O'Hara (1992) and Easley et al. (1996); Multilayer PIN (MPIN) in Ersan (2016); Adjusted PIN (AdjPIN) in Duarte and Young (2009); and vo",
+      "stars": 42,
+      "createdAt": "2022-05-24T13:50:07Z",
+      "updatedAt": "2025-12-17T19:20:41Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 42
         }
       ],
       "stars7d": null
@@ -1536,433 +2241,17 @@
       "stars7d": null
     },
     {
-      "id": "1418229540",
-      "name": "Serranegra/TooManyOptions",
-      "url": "https://github.com/Serranegra/TooManyOptions",
-      "description": "Draw any payoff with your mouse and statically replicate it with options.",
-      "stars": 21,
-      "createdAt": "2026-10-14T01:52:36Z",
-      "updatedAt": "2026-10-17T01:44:02Z",
+      "id": "1408152368",
+      "name": "PkLavc/Autotrader",
+      "url": "https://github.com/PkLavc/Autotrader",
+      "description": "Autonomous AI trading system powered by Kronos. Forecasts markets, builds portfolios and paper-trades automatically with GitHub Actions.",
+      "stars": 37,
+      "createdAt": "2026-10-07T02:43:14Z",
+      "updatedAt": "2026-10-23T00:43:05Z",
       "history": [
         {
           "date": "2026-10-23",
-          "stars": 21
-        }
-      ],
-      "stars7d": null
-    },
-    {
-      "id": "1416354096",
-      "name": "dennynan/quantlab-oss",
-      "url": "https://github.com/dennynan/quantlab-oss",
-      "description": "AI 驱动的量化分析平台（开源版）：因子分析 / 选股 / 多因子轮动回测 / 模型实验室 / 自动因子挖掘 · Qlib + Alpha158 + FastAPI + Vue3",
-      "stars": 18,
-      "createdAt": "2026-10-13T02:32:42Z",
-      "updatedAt": "2026-10-13T13:21:58Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 18
-        }
-      ],
-      "stars7d": null
-    },
-    {
-      "id": "1429419148",
-      "name": "huuan26/polars-anta",
-      "url": "https://github.com/huuan26/polars-anta",
-      "description": "ANTA (Alpha & Numerical Technical Analysis): Ultra-fast, zero-C technical analysis and factor library for Polars.",
-      "stars": 17,
-      "createdAt": "2026-10-22T07:51:27Z",
-      "updatedAt": "2026-10-22T17:25:31Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 17
-        }
-      ],
-      "stars7d": null
-    },
-    {
-      "id": "1416254727",
-      "name": "HyeonbinJung/Track-Record",
-      "url": "https://github.com/HyeonbinJung/Track-Record",
-      "description": "📈 Broker-verified personal track record — 34.3% time-weighted CAGR vs 15.1% for the KOSPI, 32.1% IRR and 3.67× MOIC over five years. Statements, trade-level P&L, risk stats and a full Excel workbook.",
-      "stars": 15,
-      "createdAt": "2026-10-13T00:06:45Z",
-      "updatedAt": "2026-10-13T01:57:49Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 15
-        }
-      ],
-      "stars7d": null
-    },
-    {
-      "id": "1415082479",
-      "name": "HyeonbinJung/Revenue-Dip-Lab",
-      "url": "https://github.com/HyeonbinJung/Revenue-Dip-Lab",
-      "description": "📉 Revenue resilience × price-drawdown backtesting engine — five-panel research workspace, 3D CAGR surface sweeps and out-of-sample factor search on SEC EDGAR + Yahoo Finance data.",
-      "stars": 14,
-      "createdAt": "2026-10-12T04:59:34Z",
-      "updatedAt": "2026-10-13T02:02:00Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 14
-        }
-      ],
-      "stars7d": null
-    },
-    {
-      "id": "1421733484",
-      "name": "Travisun/EtherSignals",
-      "url": "https://github.com/Travisun/EtherSignals",
-      "description": "Free real-time ETHUSDT crypto trend signals on Telegram — multi-timeframe regime detection, adaptive indicator weighting & objective support/resistance levels by EtherSignals",
-      "stars": 11,
-      "createdAt": "2026-10-16T06:15:07Z",
-      "updatedAt": "2026-10-20T08:19:26Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 11
-        }
-      ],
-      "stars7d": null
-    },
-    {
-      "id": "1414634761",
-      "name": "zostaff/quant-memcoins-researcher",
-      "url": "https://github.com/zostaff/quant-memcoins-researcher",
-      "description": "Hedge-fund quant research for memecoins on Solana and Robinhood Chain. Claude invents strategies; the engine prices rugs, slippage and MEV, and kills the lucky ones.",
-      "stars": 10,
-      "createdAt": "2026-10-11T18:10:07Z",
-      "updatedAt": "2026-10-13T21:37:06Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 10
-        }
-      ],
-      "stars7d": null
-    },
-    {
-      "id": "1418186587",
-      "name": "ramuza0113-sketch/lumina-ai-hedge-fund",
-      "url": "https://github.com/ramuza0113-sketch/lumina-ai-hedge-fund",
-      "description": "Autonomous Multi-Agent Quantitative Hedge Fund Studio powered by LangGraph, Qlib Alpha158, Google TimesFM & 3D Causal Knowledge Graph",
-      "stars": 9,
-      "createdAt": "2026-10-14T00:52:38Z",
-      "updatedAt": "2026-10-20T12:43:39Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 9
-        }
-      ],
-      "stars7d": null
-    },
-    {
-      "id": "1415515744",
-      "name": "lucidcog/openbacktesting",
-      "url": "https://github.com/lucidcog/openbacktesting",
-      "description": "Open-source Python framework for historical backtesting, technical indicators, parameter optimization, and strategy research, with an optional local Studio.",
-      "stars": 7,
-      "createdAt": "2026-10-12T11:41:45Z",
-      "updatedAt": "2026-10-15T14:56:46Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 7
-        }
-      ],
-      "stars7d": null
-    },
-    {
-      "id": "1418480380",
-      "name": "85599/Strike-and-Hedge",
-      "url": "https://github.com/85599/Strike-and-Hedge",
-      "description": "Strike & Hedge — an AI options desk for Indian markets: live NSE/BSE option chains, Black-Scholes greeks, PCR and max-pain signals, hedged strategy building, and a multi-provider agent copilot. MIT, no API key required to run.",
-      "stars": 6,
-      "createdAt": "2026-10-14T06:34:18Z",
-      "updatedAt": "2026-10-14T08:51:27Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 6
-        }
-      ],
-      "stars7d": null
-    },
-    {
-      "id": "1411669330",
-      "name": "Bader-Aloqily/claude-code-stock-picker",
-      "url": "https://github.com/Bader-Aloqily/claude-code-stock-picker",
-      "description": "Open-source AI stock picker for Claude Code: 10 Claude agents scan every US stock weekly, pick up to 5, and grade themselves against a random control. 189 broker-verified trades published. Not investment advice.",
-      "stars": 5,
-      "createdAt": "2026-10-09T10:31:04Z",
-      "updatedAt": "2026-10-19T08:02:01Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 5
-        }
-      ],
-      "stars7d": null
-    },
-    {
-      "id": "1413092763",
-      "name": "KumailQazi/krmaazha-binance-mcp",
-      "url": "https://github.com/KumailQazi/krmaazha-binance-mcp",
-      "description": "Security-first Binance MCP server and multi-agent intelligence platform. Read market data, quant analytics, and propose spot trades behind human confirmation.",
-      "stars": 4,
-      "createdAt": "2026-10-10T11:10:42Z",
-      "updatedAt": "2026-10-21T19:27:50Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 4
-        }
-      ],
-      "stars7d": null
-    },
-    {
-      "id": "1425834570",
-      "name": "YuxiaoMa66/quantweft",
-      "url": "https://github.com/YuxiaoMa66/quantweft",
-      "description": "QuantWeft · 量化经纬 | A bilingual course in quantitative finance and systematic research",
-      "stars": 4,
-      "createdAt": "2026-10-19T15:42:13Z",
-      "updatedAt": "2026-10-21T09:35:03Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 4
-        }
-      ],
-      "stars7d": null
-    },
-    {
-      "id": "1411420623",
-      "name": "Clawtan/mql5-trade-manager",
-      "url": "https://github.com/Clawtan/mql5-trade-manager",
-      "description": "MetaTrader 5 automated execution engine with dynamic 1% risk-lot calculation & trailing stops.",
-      "stars": 3,
-      "createdAt": "2026-10-09T06:56:48Z",
-      "updatedAt": "2026-10-09T07:19:58Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 3
-        }
-      ],
-      "stars7d": null
-    },
-    {
-      "id": "1417204488",
-      "name": "cyenite/OpenTerm5",
-      "url": "https://github.com/cyenite/OpenTerm5",
-      "description": "Open-source MetaTrader 5 (MT5) desktop terminal for Linux, macOS and Windows. Native, no Wine. TradingView-style charts, trade copier, prop firm guards, webhook signals.",
-      "stars": 3,
-      "createdAt": "2026-10-13T14:13:09Z",
-      "updatedAt": "2026-10-22T06:49:58Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 3
-        }
-      ],
-      "stars7d": null
-    },
-    {
-      "id": "1424350886",
-      "name": "NagisaShip/quantlab",
-      "url": "https://github.com/NagisaShip/quantlab",
-      "description": "QuantLab v0.1.0-preview.1 - AI-native cryptocurrency quantitative research and validation platform",
-      "stars": 3,
-      "createdAt": "2026-10-18T12:31:46Z",
-      "updatedAt": "2026-10-22T19:03:16Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 3
-        }
-      ],
-      "stars7d": null
-    },
-    {
-      "id": "1422897157",
-      "name": "Toomi16011601/tradeoff",
-      "url": "https://github.com/Toomi16011601/tradeoff",
-      "description": "Strategy failure lab for trading bots. Stress real engine costs and delays, investigate failures, and export replayable regression tests.",
-      "stars": 2,
-      "createdAt": "2026-10-17T03:14:18Z",
-      "updatedAt": "2026-10-22T15:44:59Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 2
-        }
-      ],
-      "stars7d": null
-    },
-    {
-      "id": "1411176655",
-      "name": "japark22/kalshi-mispricing-engine",
-      "url": "https://github.com/japark22/kalshi-mispricing-engine",
-      "description": "Point-in-time comparison of Kalshi daily S&P 500 range contracts with same-day SPXW option-implied probabilities: edge funnel, risk-premium decomposition, automated collection.",
-      "stars": 2,
-      "createdAt": "2026-10-09T02:22:05Z",
-      "updatedAt": "2026-10-22T20:51:31Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 2
-        }
-      ],
-      "stars7d": null
-    },
-    {
-      "id": "1426641732",
-      "name": "Giolit-Labs/Giolit-Trade-Verifier",
-      "url": "https://github.com/Giolit-Labs/Giolit-Trade-Verifier",
-      "description": "Mathematical proof, not backtesting: formally verify that algorithmic trading strategies and pre-trade risk controls never breach position, exposure, or regulatory limits under any market move, fill interleaving, or race condition. Generates signed PDF proof c",
-      "stars": 2,
-      "createdAt": "2026-10-20T07:13:34Z",
-      "updatedAt": "2026-10-20T07:37:35Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 2
-        }
-      ],
-      "stars7d": null
-    },
-    {
-      "id": "1414441174",
-      "name": "landtml/finlab-ml",
-      "url": "https://github.com/landtml/finlab-ml",
-      "description": "Python toolkit for financial machine learning, implementing methods from López de Prado’s Advances in Financial Machine Learning: purged cross-validation, triple-barrier labels, fractional differentiation, PBO, deflated Sharpe, HRP and the Monte Carlo experime",
-      "stars": 2,
-      "createdAt": "2026-10-11T14:43:51Z",
-      "updatedAt": "2026-10-14T14:46:23Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 2
-        }
-      ],
-      "stars7d": null
-    },
-    {
-      "id": "1412641192",
-      "name": "quantarram/weather-impacts-dashboard",
-      "url": "https://github.com/quantarram/weather-impacts-dashboard",
-      "description": "Climate Signals: frozen rare-extreme climate conditions (ENSO, drought, Atlantic and Pacific modes) scored forward against markets, plus a registered paper-portfolio experiment. Live counterpart of Paper 17.",
-      "stars": 2,
-      "createdAt": "2026-10-10T01:56:44Z",
-      "updatedAt": "2026-10-22T13:59:13Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 2
-        }
-      ],
-      "stars7d": null
-    },
-    {
-      "id": "1413024104",
-      "name": "HaasEnjoyer/quanttro",
-      "url": "https://github.com/HaasEnjoyer/quanttro",
-      "description": "Open-source Python toolkit for quantitative research on Borsa Istanbul (BIST): data, features, walk-forward backtesting, risk/portfolio, backtest robustness (CPCV/PBO), diagnostics, reports, paper-trading bridge.",
-      "stars": 2,
-      "createdAt": "2026-10-10T09:49:57Z",
-      "updatedAt": "2026-10-10T13:45:42Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 2
-        }
-      ],
-      "stars7d": null
-    },
-    {
-      "id": "1411665274",
-      "name": "Xtley001/brain-libraries",
-      "url": "https://github.com/Xtley001/brain-libraries",
-      "description": "7 pip-installable Python libraries for WorldQuant BRAIN alpha discovery, orthogonal decorrelation, and tri-factor meta-synthesis",
-      "stars": 2,
-      "createdAt": "2026-10-09T10:27:17Z",
-      "updatedAt": "2026-10-17T14:20:26Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 2
-        }
-      ],
-      "stars7d": null
-    },
-    {
-      "id": "1416637639",
-      "name": "Limex-com/zipfolio",
-      "url": "https://github.com/Limex-com/zipfolio",
-      "description": "Backtest tearsheets that read the book, not just the returns: positions, instruments, sectors, factor exposures, execution realism and trading costs. Built on pyfolio, part of the ZipLime ecosystem.",
-      "stars": 2,
-      "createdAt": "2026-10-13T07:29:12Z",
-      "updatedAt": "2026-10-15T09:47:52Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 2
-        }
-      ],
-      "stars7d": null
-    },
-    {
-      "id": "1428563669",
-      "name": "abubakar293/causal-dsp",
-      "url": "https://github.com/abubakar293/causal-dsp",
-      "description": "Formally Verified Prefix-Causal Signal Processing & Mathematical Risk Invariants for Time-Series Analysis in Python and Lean 4",
-      "stars": 2,
-      "createdAt": "2026-10-21T15:20:23Z",
-      "updatedAt": "2026-10-22T11:55:23Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 2
-        }
-      ],
-      "stars7d": null
-    },
-    {
-      "id": "1415002383",
-      "name": "jkspeaks/deterministic-trader",
-      "url": "https://github.com/jkspeaks/deterministic-trader",
-      "description": "An AI trading agent that is never allowed to make a trading decision. Deterministic Python core. Every rule is in tested code, not prompt text.",
-      "stars": 2,
-      "createdAt": "2026-10-12T03:20:15Z",
-      "updatedAt": "2026-10-16T20:35:38Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 2
-        }
-      ],
-      "stars7d": null
-    },
-    {
-      "id": "1412135358",
-      "name": "rishikesh807507/listview",
-      "url": "https://github.com/rishikesh807507/listview",
-      "description": "An Indian stock market and IPO intelligence platform featuring stock analytics, interactive charts, IPO and unofficial GMP tracking, AI-based predictions, screening, portfolio tracking, and quantitative strategy backtesting.",
-      "stars": 2,
-      "createdAt": "2026-10-09T16:21:33Z",
-      "updatedAt": "2026-10-20T17:13:51Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 2
+          "stars": 37
         }
       ],
       "stars7d": null
@@ -1988,12 +2277,12 @@
     "ssrnIds": [
       "10.2139/ssrn.7625859",
       "10.2139/ssrn.7622538",
+      "10.2139/ssrn.7616919",
       "10.2139/ssrn.7617680",
       "10.2139/ssrn.7616161",
       "10.2139/ssrn.7616698",
       "10.2139/ssrn.7615736",
-      "10.2139/ssrn.7611982",
-      "10.2139/ssrn.7604358"
+      "10.2139/ssrn.7611982"
     ],
     "githubIds": [
       "323048702",
