@@ -6,7 +6,8 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
+  actions: write
 
 concurrency:
   group: daily-research-newsletter
@@ -50,10 +51,51 @@ jobs:
         with:
           path: .state/research-updates.json
           key: research-updates-${{ github.run_id }}
+      - name: Build public research radar
+        id: radar
+        if: always() && steps.scan.outcome == 'success'
+        env:
+          RESEARCH_UPDATES_PATH: .state/research-updates.json
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python pipeline/build_research_radar.py
+      - name: Publish radar data
+        id: publish
+        if: always() && steps.radar.outcome == 'success'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/lib/content/research-radar.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Update research radar"
+          git push origin HEAD:main
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+      - name: Deploy refreshed Pages site
+        if: always() && steps.publish.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy.yml --ref main
+      - name: Send weekly radar on Hong Kong Monday
+        if: always() && steps.radar.outcome == 'success'
+        env:
+          WEEKLY_PREVIEW_PATH: ${{ runner.temp }}/weekly-radar-preview.html
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          SMTP_FROM: ${{ secrets.SMTP_FROM }}
+          NEWSLETTER_TO: ${{ secrets.NEWSLETTER_TO }}
+        run: python pipeline/send_weekly_radar.py
       - name: Upload private newsletter preview
         if: always()
         uses: actions/upload-artifact@v5
         with:
           name: newsletter-preview
           path: ${{ runner.temp }}/newsletter-preview.html
+          if-no-files-found: ignore
+      - name: Upload weekly radar preview
+        if: always()
+        uses: actions/upload-artifact@v5
+        with:
+          name: weekly-radar-preview
+          path: ${{ runner.temp }}/weekly-radar-preview.html
           if-no-files-found: ignore
