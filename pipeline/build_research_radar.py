@@ -45,7 +45,7 @@ GITHUB_QUERIES = [
     "topic:market-microstructure", "topic:financial-machine-learning",
 ]
 MAX_REPOS = 90
-MAX_PAPERS = 80
+MAX_PAPERS = 160
 MAX_INSTITUTIONAL = 300
 
 
@@ -59,7 +59,7 @@ def get_json(url: str, token: str = "") -> dict:
 
 
 def clean(value: str, limit: int = 260) -> str:
-    return " ".join(unescape(re.sub(r"<[^>]*>", " ", value or "")).split())[:limit]
+    return " ".join(unescape(unescape(re.sub(r"<[^>]*>", " ", value or ""))).split())[:limit]
 
 
 class DescriptionParser(HTMLParser):
@@ -102,36 +102,42 @@ def date_from_crossref(value: dict) -> str | None:
 def papers(now: datetime, previous: list[dict]) -> tuple[list[dict], list[str]]:
     found = {p["id"]: p for p in previous}
     errors = []
-    since = (now - timedelta(days=21)).date().isoformat()
+    local = now.astimezone(HKT).date()
+    this_monday = local - timedelta(days=local.weekday())
+    windows = [
+        (this_monday - timedelta(days=7), this_monday - timedelta(days=1)),
+        (this_monday, local),
+    ]
     for query, label in TOPICS.items():
-        params = urlencode({
-            "query.bibliographic": query,
-            "filter": f"from-created-date:{since}",
-            "sort": "created", "order": "desc", "rows": 40,
-        })
-        try:
-            data = get_json(f"https://api.crossref.org/prefixes/10.2139/works?{params}")
-            for work in data["message"]["items"]:
-                doi = work.get("DOI", "").lower()
-                if not re.fullmatch(r"10\.2139/ssrn\.\d+", doi):
-                    continue
-                title = clean((work.get("title") or [""])[0])
-                if len(title) < 12 or not re.search(TITLE_PATTERNS[query], title, re.I):
-                    continue
-                paper_id = doi.rsplit(".", 1)[-1]
-                created = date_from_crossref(work.get("created", {}))
-                if not created:
-                    continue
-                old = found.get(doi, {})
-                found[doi] = {
-                    "id": doi, "title": title,
-                    "url": f"https://papers.ssrn.com/sol3/papers.cfm?abstract_id={paper_id}",
-                    "indexedAt": created,  # DOI registration, not necessarily SSRN posting.
-                    "topics": sorted(set(old.get("topics", [])) | {label}),
-                    "abstract": clean(work.get("abstract", ""), 220),
-                }
-        except (KeyError, OSError, ValueError) as error:
-            errors.append(f"SSRN metadata ({query}): {str(error)[:120]}")
+        for start, end in windows:
+            params = urlencode({
+                "query.bibliographic": query,
+                "filter": f"from-created-date:{start.isoformat()},until-created-date:{end.isoformat()}",
+                "sort": "created", "order": "desc", "rows": 40,
+            })
+            try:
+                data = get_json(f"https://api.crossref.org/prefixes/10.2139/works?{params}")
+                for work in data["message"]["items"]:
+                    doi = work.get("DOI", "").lower()
+                    if not re.fullmatch(r"10\.2139/ssrn\.\d+", doi):
+                        continue
+                    title = clean((work.get("title") or [""])[0])
+                    if len(title) < 12 or not re.search(TITLE_PATTERNS[query], title, re.I):
+                        continue
+                    paper_id = doi.rsplit(".", 1)[-1]
+                    created = date_from_crossref(work.get("created", {}))
+                    if not created:
+                        continue
+                    old = found.get(doi, {})
+                    found[doi] = {
+                        "id": doi, "title": title,
+                        "url": f"https://papers.ssrn.com/sol3/papers.cfm?abstract_id={paper_id}",
+                        "indexedAt": created,  # DOI registration, not necessarily SSRN posting.
+                        "topics": sorted(set(old.get("topics", [])) | {label}),
+                        "abstract": clean(work.get("abstract", ""), 220),
+                    }
+            except (KeyError, OSError, ValueError) as error:
+                errors.append(f"SSRN metadata ({query}, {start}): {str(error)[:120]}")
     ordered = sorted(found.values(), key=lambda p: p["indexedAt"], reverse=True)
     return ordered[:MAX_PAPERS], errors
 
@@ -227,6 +233,8 @@ def weekly(now: datetime, data: dict) -> dict:
     institution = [x for x in data["institutional"] if in_week(x.get("publishedAt") or x.get("detectedAt"))][:12]
     paper = [x for x in data["ssrn"] if in_week(x.get("indexedAt"))][:8]
     repo = [x for x in data["github"] if (x.get("stars7d") or 0) > 0][:8]
+    if not repo:
+        repo = data["github"][:8]
     return {"start": start.isoformat(), "endExclusive": end.isoformat(),
             "institutionalIds": [x["id"] for x in institution],
             "ssrnIds": [x["id"] for x in paper],

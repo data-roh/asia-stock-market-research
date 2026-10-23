@@ -61,7 +61,7 @@
 					<div class="radar-column">
 						<h3>GitHub · {$locale === 'ko' ? '별 상승' : 'Star growth'}</h3>
 						{#each repos as repo (repo.id)}
-							<article><a href={repo.url} target="_blank" rel="external noreferrer">{repo.name} ↗</a><small>★ {repo.stars.toLocaleString()} · +{repo.stars7d} {$locale === 'ko' ? '최근 7일' : 'last 7 days'}</small>{#if repo.description}<p>{repo.description}</p>{/if}</article>
+							<article><a href={repo.url} target="_blank" rel="external noreferrer">{repo.name} ↗</a><small>★ {repo.stars.toLocaleString()} · {repo.stars7d === null ? ($locale === 'ko' ? '기준 별 수 수집 중' : 'building baseline') : `+${repo.stars7d} ${$locale === 'ko' ? '최근 7일' : 'last 7 days'}`}</small>{#if repo.description}<p>{repo.description}</p>{/if}</article>
 						{:else}<p class="radar-empty">{$locale === 'ko' ? '7일 별 수 비교가 쌓이는 중입니다. 첫 주에는 증가량을 표시하지 않습니다.' : 'Collecting a seven-day star baseline. Growth appears after the first week.'}</p>{/each}
 					</div>
 				</div>

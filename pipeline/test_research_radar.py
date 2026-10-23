@@ -33,6 +33,11 @@ class ResearchRadarTests(unittest.TestCase):
         self.assertEqual(result["ssrnIds"], ["paper"])
         self.assertEqual(result["githubIds"], ["gain"])
 
+    def test_first_week_shows_tracked_repositories_without_growth(self):
+        data = {"institutional": [], "ssrn": [], "github": [{"id": "new", "stars7d": None}]}
+        result = weekly(datetime(2026, 10, 19, tzinfo=timezone.utc), data)
+        self.assertEqual(result["githubIds"], ["new"])
+
 
 if __name__ == "__main__":
     unittest.main()
