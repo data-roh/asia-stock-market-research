@@ -66,6 +66,7 @@
 					<span aria-hidden="true">🇰🇷</span> KO
 				</button>
 			</div>
+			<a class="header-index" href={resolve('/')}>ASMR <span>01</span></a>
 		</div>
 	</div>
 </header>

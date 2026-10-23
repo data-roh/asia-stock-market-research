@@ -1,6 +1,14 @@
 {
-	"listingVersion": 2,
+	"listingVersion": 3,
 	"feeds": [
+		{
+			"sourceId": "jane-street",
+			"feedUrl": "https://blog.janestreet.com/feed.xml"
+		},
+		{
+			"sourceId": "ai-street",
+			"feedUrl": "https://www.ai-street.co/feed"
+		},
 		{
 			"sourceId": "bloomberg-odd-lots",
 			"feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a9442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/podcast.rss"
@@ -15,6 +23,8 @@
 		}
 	],
 	"pages": [
+		{ "sourceId": "optiver", "pageUrl": "https://www.optiver.com/insights/technology-blog/" },
+		{ "sourceId": "acadian", "pageUrl": "https://www.acadian-asset.com/investment-insights" },
 		{ "sourceId": "citadel", "pageUrl": "https://www.citadelsecurities.com/news-and-insights/global-market-intelligence/" },
 		{ "sourceId": "aqr", "pageUrl": "https://www.aqr.com/insights/research/alternative-thinking" },
 		{ "sourceId": "man", "pageUrl": "https://www.man.com/insights" },

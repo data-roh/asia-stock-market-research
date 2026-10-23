@@ -301,16 +301,11 @@ def main() -> None:
                 seen_set.add(key)
                 seen.append(key)
                 if not needs_baseline:
-                    if entry.get("detectedAt") is None:
-                        entry["detectedAt"] = checked_at
                     new_items.append(entry)
         if error is None:
             baselined_source_ids.add(source_id)
 
     previous_items = previous.get("items", [])
-    pending_items = previous.get("pendingItems", [])
-    pending_keys = {item.get("key") for item in pending_items}
-    pending_items.extend(item for item in new_items if item.get("key") not in pending_keys)
     if listing_baseline_changed:
         previous_items = [item for item in previous_items if item.get("sourceId") in feed_ids]
     combined_items = new_items + previous_items
@@ -321,7 +316,6 @@ def main() -> None:
         "sourceChecks": source_checks,
         "baselinedSourceIds": sorted(baselined_source_ids),
         "items": combined_items[:MAX_STORED_ITEMS],
-        "pendingItems": pending_items[-MAX_STORED_ITEMS:],
         "seen": seen[-MAX_SEEN_KEYS:],
     }
     STATE_PATH.parent.mkdir(parents=True, exist_ok=True)

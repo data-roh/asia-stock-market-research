@@ -80,7 +80,7 @@ export const aboutProfiles = {
 				]
 			},
 			{
-				company: 'Juro Instruments',
+				company: 'Yuro Instruments · JURO Instruments',
 				role: 'Quantitative Researcher',
 				location: 'Seoul, South Korea',
 				dates: 'May 2020 – Sep 2020',
@@ -253,7 +253,7 @@ export const aboutProfiles = {
 				],
 			},
 			{
-				company: 'Juro Instruments',
+				company: '유로인스트루먼츠 · JURO Instruments',
 				role: '퀀트 리서처',
 				location: '대한민국 서울',
 				dates: '2020년 5월 – 2020년 9월',
