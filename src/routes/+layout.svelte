@@ -13,6 +13,7 @@
 		{ key: 'knowledge', label: 'knowledge', anchor: 'market-knowledge' },
 		{ key: 'quant', label: 'quant', href: 'quant/' },
 		{ key: 'library', label: 'library', href: 'institutional-research/' },
+		{ key: 'radar', label: 'radar', href: 'research-radar/' },
 		{ key: 'weekly', label: 'weekly', external: 'https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7490416413996900352' }
 	] as const;
 

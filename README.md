@@ -8,7 +8,7 @@ Sample market data is illustrative only. This site is not investment advice.
 
 # Research radar
 
-The Institutional Research page now shows a source-linked weekly reading list:
+The dedicated Research Radar tab (`/research-radar/`) shows a source-linked weekly reading list:
 institutional updates, SSRN papers, and GitHub quant repositories. The existing
 daily GitHub Action scans public research pages, runs
 `pipeline/build_research_radar.py`, commits
