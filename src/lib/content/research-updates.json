@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-10-23T01:10:00.168025+00:00",
+  "lastCheckedAt": "2026-10-23T14:17:26.746320+00:00",
   "listingVersion": 3,
   "sourceChecks": [
     {
@@ -302,6 +302,15 @@
   ],
   "items": [
     {
+      "key": "bloomberg-odd-lots:99473588-d4a5-4d5e-bdd6-b4eb013c526e",
+      "sourceId": "bloomberg-odd-lots",
+      "title": "The Forgotten Godmother of Economic Literature",
+      "url": "https://omny.fm/shows/odd-lots/odd-lots-the-forgotten-godmother-of-economic-literature-podcast",
+      "publishedAt": "2026-10-23T08:00:00+00:00",
+      "detectedAt": null,
+      "summary": "In 1776, the field of economics was born with the publication of Adam Smith's The Wealth of Nations . And among the book's earliest readers, and most ardent advocates, was a Regency-era novelist named Maria Edgeworth. In her time, Edgeworth was one of the most famous literary figures in England, and she smuggled into her stories economic concepts and debates around rent seeking, the idea of productive labor, and so on. These works were enormously influential and they helped expose a generation to practical applications of Smith's new theories. Yet when you read about the history of economics, "
+    },
+    {
       "key": "bloomberg-odd-lots:a0e15df4-4a62-4b81-bbf5-b4ea00ed7a3c",
       "sourceId": "bloomberg-odd-lots",
       "title": "Bhaskar Sunkara Thinks the Market Has a Place Under Socialism",
@@ -363,6 +372,24 @@
       "publishedAt": "2026-10-15T09:00:00+00:00",
       "detectedAt": null,
       "summary": "Traders and market watchers around the world started talking about a crypto platform called Hyperliquid earlier this year, when speculators used markets built on top of it to trade crude oil after war broke out in Iran. What Hyperliquid allowed for was a 24/7 market on the blockchain. Then in August, President Trump said the CFTC was working on bringing “Hyperliquid into the United States in a fully compliant and legal fashion.” Hyperliquid currently operates outside the US, but that hasn't stopped it from growing prodigiously in the last year. Jeff Yan, CEO and co-founder of Hyperliquid Labs,"
+    },
+    {
+      "key": "eastspring:https://www.eastspring.com/insights/outlook/quarterly/4q-2026-market-outlook-resilience-meets-rising-risks",
+      "sourceId": "eastspring",
+      "title": "4Q 2026 Market Outlook: Resilience meets rising risks",
+      "url": "https://www.eastspring.com/insights/outlook/quarterly/4q-2026-market-outlook-resilience-meets-rising-risks",
+      "publishedAt": null,
+      "detectedAt": "2026-10-23T14:17:26.746320+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/china-and-st-augustine",
+      "sourceId": "gavekal",
+      "title": "China And St. Augustine",
+      "url": "https://research.gavekal.com/teaser/china-and-st-augustine",
+      "publishedAt": null,
+      "detectedAt": "2026-10-23T14:17:26.746320+00:00",
+      "summary": ""
     }
   ],
   "seen": [
@@ -1381,6 +1408,9 @@
     "gavekal:https://research.gavekal.com/teaser/beijing-draws-new-boundaries-for-ai-exports",
     "gavekal:https://research.gavekal.com/teaser/the-state-of-chinese-ai",
     "gavekal:https://research.gavekal.com/teaser/chinas-growing-grip-on-printed-circuit-boards",
-    "gavekal:https://research.gavekal.com/teaser/dialing-back-expectations-for-appreciation"
+    "gavekal:https://research.gavekal.com/teaser/dialing-back-expectations-for-appreciation",
+    "bloomberg-odd-lots:99473588-d4a5-4d5e-bdd6-b4eb013c526e",
+    "eastspring:https://www.eastspring.com/insights/outlook/quarterly/4q-2026-market-outlook-resilience-meets-rising-risks",
+    "gavekal:https://research.gavekal.com/teaser/china-and-st-augustine"
   ]
 }
