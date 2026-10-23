@@ -139,6 +139,17 @@ h1, h2, h3 { color: var(--ink); font-family: Georgia, 'Times New Roman', serif; 
 .resource-card h3 a { color: var(--ink); text-decoration-color: #a8c7c1; text-underline-offset: 3px; }
 .resource-card h3 a:hover { color: var(--teal-dark); }
 .resource-card p { margin-bottom: 15px; color: var(--muted); font-size: 12px; line-height: 1.55; }
+.research-radar { padding: 26px; border: 1px solid var(--line); background: #f4f8f6; }
+.radar-columns { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
+.radar-column { min-width: 0; padding: 18px; background: white; border: 1px solid var(--line); }
+.radar-column h3 { margin: 0 0 14px; font-size: 17px; }
+.radar-column article { padding: 12px 0; border-top: 1px solid var(--line); }
+.radar-column article a { color: var(--ink); font-weight: 700; line-height: 1.4; }
+.radar-column article a:hover { color: var(--teal-dark); }
+.radar-column small { display: block; margin-top: 5px; color: var(--teal-dark); font-size: 11px; }
+.radar-column article p { margin: 7px 0 0; color: var(--muted); font-size: 12px; line-height: 1.55; }
+.radar-empty, .radar-method { color: var(--muted); font-size: 12px; line-height: 1.6; }
+.radar-method { margin: 16px 0 0; }
 .resource-meta { display: flex; flex-wrap: wrap; gap: 6px 12px; margin-top: auto; padding-top: 11px; border-top: 1px solid #e7edeb; color: #71838a; font-size: 9px; }
 .reading-routine { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); background: white; }
 .reading-day { min-height: 160px; padding: 18px; border-right: 1px solid var(--line); }
@@ -238,6 +249,7 @@ h1, h2, h3 { color: var(--ink); font-family: Georgia, 'Times New Roman', serif; 
 	.nav-links { gap: 16px; }
 	.market-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 	.resource-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+	.radar-columns { grid-template-columns: 1fr; }
 	.disclosure-document-grid { grid-template-columns: 1fr; }
 	.reading-routine { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 	.reading-day:nth-child(3) { border-right: 0; }
