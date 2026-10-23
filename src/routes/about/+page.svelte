@@ -109,17 +109,15 @@
 						<div>
 							<h3>{publication.title}</h3>
 							<p>{publication.venue}</p>
-							{#if 'methodIds' in publication && publication.methodIds.length > 0}
-								<div class="publication-methods">
-									{#each publication.methodIds ?? [] as methodId (methodId)}
-										{@const method = researchMethods[methodId as keyof typeof researchMethods]}
-										<span class={`method-tag method-${method.family}`}>{method[$locale]}</span>
-									{/each}
-								</div>
-							{/if}
-							{#if publication.interestIds?.length}
-								<div class="interest-tags publication-tags" aria-label={profile.sections.interests}>
-									{#each publication.interestIds as interestId (interestId)}
+							{#if ('methodIds' in publication && publication.methodIds.length > 0) || publication.interestIds?.length}
+								<div class="publication-tags" aria-label={`${profile.sections.research}: ${publication.title}`}>
+									{#if 'methodIds' in publication}
+										{#each publication.methodIds ?? [] as methodId (methodId)}
+											{@const method = researchMethods[methodId as keyof typeof researchMethods]}
+											<span class={`method-tag method-${method.family}`}>{method[$locale]}</span>
+										{/each}
+									{/if}
+									{#each publication.interestIds ?? [] as interestId (interestId)}
 										{@const interest = interestById.get(interestId)}
 										{#if interest}
 											<a class={`interest-tag interest-${interest.color}`} href={resolve(interest.href)} onclick={(event) => navigateToInterest(event, 'anchor' in interest ? interest.anchor : undefined)}>{interest.label}</a>
