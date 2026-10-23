@@ -65,7 +65,7 @@
 						{:else}<p class="radar-empty">{$locale === 'ko' ? '7일 별 수 비교가 쌓이는 중입니다. 첫 주에는 증가량을 표시하지 않습니다.' : 'Collecting a seven-day star baseline. Growth appears after the first week.'}</p>{/each}
 					</div>
 				</div>
-				<p class="radar-method">{$locale === 'ko' ? '제목·발췌는 공개 메타데이터에 한정됩니다. SSRN 날짜는 DOI 등록일이며 게시일과 다를 수 있습니다. GitHub 증가량은 추적 중인 저장소의 관측값입니다. 원문에서 주장과 방법론을 확인하세요.' : 'Titles and excerpts come from public metadata only. SSRN dates are DOI registration dates and can differ from posting dates. GitHub growth uses observed snapshots of tracked repos. Open the original to verify claims and methods.'}</p>
+				<p class="radar-method">{$locale === 'ko' ? '제목·발췌는 공개 메타데이터에 한정됩니다. SSRN 날짜는 DOI 등록일이며 게시일과 다를 수 있습니다. GitHub 별 증가량은 오늘과 정확히 7일 전의 홍콩 날짜 스냅샷이 모두 있는 저장소만 표시합니다. 원문에서 주장과 방법론을 확인하세요.' : 'Titles and excerpts come from public metadata only. SSRN dates are DOI registration dates and can differ from posting dates. GitHub star deltas appear only for repositories with both today’s and the exact seven-day-old Hong Kong-date snapshots. Open the original to verify claims and methods.'}</p>
 				{#if radar.sourceErrors.length}<p class="radar-method">{$locale === 'ko' ? `${radar.sourceErrors.length}개 출처를 마지막 실행에서 확인하지 못해 기존 자료를 유지했습니다.` : `${radar.sourceErrors.length} source checks failed on the last run; previous records were retained.`}</p>{/if}
 			{/if}
 		</section>

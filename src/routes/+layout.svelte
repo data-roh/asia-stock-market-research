@@ -9,11 +9,11 @@
 	let { children }: LayoutProps = $props();
 	const copy = $derived(siteCopy[$locale]);
 	const navigation = [
-		{ key: 'about', label: 'about', href: 'about/' },
+		{ key: 'radar', label: 'radar', href: 'research-radar/' },
+		{ key: 'library', label: 'library', href: 'institutional-research/' },
 		{ key: 'knowledge', label: 'knowledge', anchor: 'market-knowledge' },
 		{ key: 'quant', label: 'quant', href: 'quant/' },
-		{ key: 'library', label: 'library', href: 'institutional-research/' },
-		{ key: 'radar', label: 'radar', href: 'research-radar/' },
+		{ key: 'about', label: 'about', href: 'about/' },
 		{ key: 'weekly', label: 'weekly', external: 'https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7490416413996900352' }
 	] as const;
 

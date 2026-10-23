@@ -6,7 +6,7 @@ summarized. A failed provider retains its previous public entries.
 
 from __future__ import annotations
 
-from datetime import datetime, timedelta, timezone
+from datetime import date, datetime, timedelta, timezone
 from html import unescape
 from html.parser import HTMLParser
 import json
@@ -172,12 +172,20 @@ def github(now: datetime, previous: list[dict]) -> tuple[list[dict], list[str]]:
                     }
             except (KeyError, OSError, ValueError) as error:
                 errors.append(f"GitHub ({topic}): {str(error)[:120]}")
-    target = (now.astimezone(HKT).date() - timedelta(days=7)).isoformat()
+    snapshot_day = now.astimezone(HKT).date()
     for repo in found.values():
-        baseline = next((point for point in reversed(repo["history"]) if point["date"] <= target), None)
-        repo["stars7d"] = repo["stars"] - baseline["stars"] if baseline else None
+        repo["stars7d"] = observed_star_growth(repo["history"], snapshot_day)
     ordered = sorted(found.values(), key=lambda r: (r["stars7d"] is not None, r["stars7d"] or 0, r["stars"]), reverse=True)
     return ordered[:MAX_REPOS], errors
+
+
+def observed_star_growth(history: list[dict], today: date) -> int | None:
+    snapshots = {point["date"]: point["stars"] for point in history}
+    current_stars = snapshots.get(today.isoformat())
+    baseline_stars = snapshots.get((today - timedelta(days=7)).isoformat())
+    if current_stars is None or baseline_stars is None:
+        return None
+    return current_stars - baseline_stars
 
 
 def institutional(previous: list[dict]) -> tuple[list[dict], list[str]]:

@@ -1,8 +1,8 @@
-from datetime import datetime, timezone
+from datetime import date, datetime, timezone
 import re
 import unittest
 
-from build_research_radar import DescriptionParser, TITLE_PATTERNS, weekly
+from build_research_radar import DescriptionParser, TITLE_PATTERNS, observed_star_growth, weekly
 
 
 class ResearchRadarTests(unittest.TestCase):
@@ -37,6 +37,15 @@ class ResearchRadarTests(unittest.TestCase):
         data = {"institutional": [], "ssrn": [], "github": [{"id": "new", "stars7d": None}]}
         result = weekly(datetime(2026, 10, 19, tzinfo=timezone.utc), data)
         self.assertEqual(result["githubIds"], ["new"])
+
+    def test_star_growth_requires_exact_fresh_snapshots(self):
+        history = [
+            {"date": "2026-10-16", "stars": 100},
+            {"date": "2026-10-23", "stars": 125},
+        ]
+        self.assertEqual(observed_star_growth(history, date(2026, 10, 23)), 25)
+        self.assertIsNone(observed_star_growth(history[:-1], date(2026, 10, 23)))
+        self.assertIsNone(observed_star_growth(history, date(2026, 10, 24)))
 
 
 if __name__ == "__main__":
