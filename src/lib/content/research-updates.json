@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-10-23T14:17:26.746320+00:00",
+  "lastCheckedAt": "2026-10-24T01:05:11.965492+00:00",
   "listingVersion": 3,
   "sourceChecks": [
     {
@@ -372,6 +372,15 @@
       "publishedAt": "2026-10-15T09:00:00+00:00",
       "detectedAt": null,
       "summary": "Traders and market watchers around the world started talking about a crypto platform called Hyperliquid earlier this year, when speculators used markets built on top of it to trade crude oil after war broke out in Iran. What Hyperliquid allowed for was a 24/7 market on the blockchain. Then in August, President Trump said the CFTC was working on bringing “Hyperliquid into the United States in a fully compliant and legal fashion.” Hyperliquid currently operates outside the US, but that hasn't stopped it from growing prodigiously in the last year. Jeff Yan, CEO and co-founder of Hyperliquid Labs,"
+    },
+    {
+      "key": "cambridge:https://www.cambridgeassociates.com/insight/ca-institute-assessment",
+      "sourceId": "cambridge",
+      "title": "CA Institute Assessment",
+      "url": "https://www.cambridgeassociates.com/insight/ca-institute-assessment",
+      "publishedAt": null,
+      "detectedAt": "2026-10-24T01:05:11.965492+00:00",
+      "summary": ""
     },
     {
       "key": "eastspring:https://www.eastspring.com/insights/outlook/quarterly/4q-2026-market-outlook-resilience-meets-rising-risks",
@@ -1411,6 +1420,7 @@
     "gavekal:https://research.gavekal.com/teaser/dialing-back-expectations-for-appreciation",
     "bloomberg-odd-lots:99473588-d4a5-4d5e-bdd6-b4eb013c526e",
     "eastspring:https://www.eastspring.com/insights/outlook/quarterly/4q-2026-market-outlook-resilience-meets-rising-risks",
-    "gavekal:https://research.gavekal.com/teaser/china-and-st-augustine"
+    "gavekal:https://research.gavekal.com/teaser/china-and-st-augustine",
+    "cambridge:https://www.cambridgeassociates.com/insight/ca-institute-assessment"
   ]
 }
