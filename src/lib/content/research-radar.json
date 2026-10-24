@@ -1,6 +1,15 @@
 {
-  "lastCheckedAt": "2026-10-23T01:03:06.067216+00:00",
+  "lastCheckedAt": "2026-10-24T01:04:41.252422+00:00",
   "institutional": [
+    {
+      "id": "bloomberg-odd-lots:99473588-d4a5-4d5e-bdd6-b4eb013c526e",
+      "title": "The Forgotten Godmother of Economic Literature",
+      "url": "https://omny.fm/shows/odd-lots/odd-lots-the-forgotten-godmother-of-economic-literature-podcast",
+      "sourceId": "bloomberg-odd-lots",
+      "publishedAt": "2026-10-23T08:00:00+00:00",
+      "detectedAt": null,
+      "excerpt": "In 1776, the field of economics was born with the publication of Adam Smith's The Wealth of Nations . And among the book's earliest readers, and most ardent advocates, was a Regency-era novelist named Maria Edgeworth. In"
+    },
     {
       "id": "man:https://www.man.com/insights/views-from-the-floor-2026-20-Oct",
       "title": "Article | 5 MIN | Views From the Floor What If Gold Had a Yield? Gold currently pays no income while 30-year Treasuries yield over 5%, but gold miners could narrow the gap.",
@@ -595,6 +604,86 @@
   ],
   "ssrn": [
     {
+      "id": "10.2139/ssrn.7662698",
+      "title": "Nonlinear Factor Models and the Cross-Section of Asset Returns *",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7662698",
+      "indexedAt": "2026-10-23T00:00:00+00:00",
+      "topics": [
+        "Asset pricing"
+      ],
+      "abstract": "We develop a nonlinear model of asset returns with latent economic factors to study theoretically how nonlinearity affects the factors recovered by principal component analysis (PCA). We derive the PCA factors and the ei"
+    },
+    {
+      "id": "10.2139/ssrn.7661939",
+      "title": "Trends and random walks in asset prices: predicting in the time domain",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7661939",
+      "indexedAt": "2026-10-23T00:00:00+00:00",
+      "topics": [
+        "Asset pricing"
+      ],
+      "abstract": "Asset prices are generally assumed to incorporate all available market information and are therefore regarded as inherently unpredictable, motivating their modeling as martingales. This paper demonstrates that such unpre"
+    },
+    {
+      "id": "10.2139/ssrn.7662539",
+      "title": "Economic and financial implications, with an application to portfolio optimization based on a composite index, using both classical and quantum methods",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7662539",
+      "indexedAt": "2026-10-23T00:00:00+00:00",
+      "topics": [
+        "Portfolio construction"
+      ],
+      "abstract": ", and, in particular, Pierpaolo Marturano for their helpful comments and suggestions, all of which have been incorporated to the best of the author's knowledge. This work was produced in a personal capacity. Any errors o"
+    },
+    {
+      "id": "10.2139/ssrn.7662005",
+      "title": "Mind the gap? Cross-border portfolio equity and wealth inequality",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7662005",
+      "indexedAt": "2026-10-23T00:00:00+00:00",
+      "topics": [
+        "Portfolio construction"
+      ],
+      "abstract": "This paper studies whether bilateral portfolio equity integration is associated with convergence or divergence in wealth distributions across countries. We combine bilateral portfolio equity positions from the IMF’s Port"
+    },
+    {
+      "id": "10.2139/ssrn.7661942",
+      "title": "Nonlinear Volatility, Spillovers, and Portfolio Optimization: Evidence from an LSTM-DCC-MGARCH Framework",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7661942",
+      "indexedAt": "2026-10-23T00:00:00+00:00",
+      "topics": [
+        "Portfolio construction"
+      ],
+      "abstract": "AbstractBetter risk forecasts create portfolio value by improving the risks investors hold. This study examines the link through an LSTM-DCC-MGARCH framework that combines bounded nonlinear variance corrections with re-e"
+    },
+    {
+      "id": "10.2139/ssrn.7661576",
+      "title": "Regime-Aware Portfolio Management via Retrieval-Augmented LLM-Guided Expert Switching",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7661576",
+      "indexedAt": "2026-10-23T00:00:00+00:00",
+      "topics": [
+        "Portfolio construction"
+      ],
+      "abstract": "Financial markets are inherently non-stationary, making the effectiveness of individual portfolio-management strategies highly dependent on changing market conditions. This work proposes a retrieval-augmented expert-swit"
+    },
+    {
+      "id": "10.2139/ssrn.7657060",
+      "title": "Portfolio Selection with Covariance and Concentration Risk",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7657060",
+      "indexedAt": "2026-10-23T00:00:00+00:00",
+      "topics": [
+        "Portfolio construction"
+      ],
+      "abstract": "Mean-variance portfolio optimization measures risk through the covariance matrix of asset returns, but it does not directly penalize concentration. This paper examines two related specifications. Replacing the covariance"
+    },
+    {
+      "id": "10.2139/ssrn.7659659",
+      "title": "Tailored Total Portfolio Approach",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7659659",
+      "indexedAt": "2026-10-23T00:00:00+00:00",
+      "topics": [
+        "Portfolio construction"
+      ],
+      "abstract": "<p><span>Total Portfolio Approach (TPA) is usually discussed in a single-asset-owner setting: one institution, one governance structure, and one definition of success. That setting is powerful but incomplete. Many asset "
+    },
+    {
       "id": "10.2139/ssrn.7657238",
       "title": "Market Uncertainty and Short Horizon Risk: New Evidence from Volatility and Liquidity Across the Trading Week",
       "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7657238",
@@ -821,13 +910,17 @@
       "name": "openbq-org/OpenBB",
       "url": "https://github.com/openbq-org/OpenBB",
       "description": "Open Data Platform for analysts, quants and AI agents.",
-      "stars": 74558,
+      "stars": 74596,
       "createdAt": "2020-12-20T10:46:38Z",
       "updatedAt": "2026-10-18T20:30:02Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 74558
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 74596
         }
       ],
       "stars7d": null
@@ -837,13 +930,17 @@
       "name": "ZhuLinsen/daily_stock_analysis",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "stars": 66891,
+      "stars": 66945,
       "createdAt": "2026-01-10T06:43:20Z",
       "updatedAt": "2026-10-21T09:50:50Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 66891
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 66945
         }
       ],
       "stars7d": null
@@ -853,13 +950,17 @@
       "name": "freqtrade/freqtrade",
       "url": "https://github.com/freqtrade/freqtrade",
       "description": "Free, open source crypto trading bot",
-      "stars": 55771,
+      "stars": 55823,
       "createdAt": "2017-05-17T23:48:53Z",
-      "updatedAt": "2026-10-22T05:28:45Z",
+      "updatedAt": "2026-10-23T18:51:22Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 55771
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 55823
         }
       ],
       "stars7d": null
@@ -869,13 +970,17 @@
       "name": "microsoft/qlib",
       "url": "https://github.com/microsoft/qlib",
       "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL,",
-      "stars": 49599,
+      "stars": 49631,
       "createdAt": "2020-08-14T06:46:00Z",
       "updatedAt": "2026-10-22T06:22:15Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 49599
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 49631
         }
       ],
       "stars7d": null
@@ -885,13 +990,17 @@
       "name": "HKUDS/Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "stars": 36335,
+      "stars": 36437,
       "createdAt": "2026-04-01T09:52:20Z",
-      "updatedAt": "2026-10-21T21:00:35Z",
+      "updatedAt": "2026-10-23T17:32:44Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 36335
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 36437
         }
       ],
       "stars7d": null
@@ -901,13 +1010,17 @@
       "name": "Fincept-Corporation/FinceptTerminal",
       "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
       "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
-      "stars": 32930,
+      "stars": 32980,
       "createdAt": "2024-08-29T14:38:08Z",
       "updatedAt": "2026-10-13T07:44:03Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 32930
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 32980
         }
       ],
       "stars7d": null
@@ -917,13 +1030,17 @@
       "name": "wilsonfreitas/awesome-quant",
       "url": "https://github.com/wilsonfreitas/awesome-quant",
       "description": "A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)",
-      "stars": 30249,
+      "stars": 30258,
       "createdAt": "2015-09-30T09:53:49Z",
-      "updatedAt": "2026-10-22T01:15:09Z",
+      "updatedAt": "2026-10-23T01:18:16Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 30249
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 30258
         }
       ],
       "stars7d": null
@@ -933,13 +1050,17 @@
       "name": "mementum/backtrader",
       "url": "https://github.com/mementum/backtrader",
       "description": "Python Backtesting library for trading strategies",
-      "stars": 23546,
+      "stars": 23555,
       "createdAt": "2015-01-10T07:14:52Z",
       "updatedAt": "2024-08-19T17:47:36Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 23546
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 23555
         }
       ],
       "stars7d": null
@@ -949,13 +1070,17 @@
       "name": "stefan-jansen/machine-learning-for-trading",
       "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
       "description": "Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.",
-      "stars": 21514,
+      "stars": 21527,
       "createdAt": "2018-05-09T12:33:08Z",
-      "updatedAt": "2026-10-22T12:58:50Z",
+      "updatedAt": "2026-10-23T16:43:13Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 21514
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 21527
         }
       ],
       "stars7d": null
@@ -965,13 +1090,17 @@
       "name": "hummingbot/hummingbot",
       "url": "https://github.com/hummingbot/hummingbot",
       "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
-      "stars": 20634,
+      "stars": 20659,
       "createdAt": "2019-04-02T21:41:52Z",
       "updatedAt": "2026-10-20T03:18:44Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 20634
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 20659
         }
       ],
       "stars7d": null
@@ -981,13 +1110,17 @@
       "name": "quantopian/zipline",
       "url": "https://github.com/quantopian/zipline",
       "description": "Zipline, a Pythonic Algorithmic Trading Library",
-      "stars": 20155,
+      "stars": 20156,
       "createdAt": "2012-10-19T15:50:29Z",
       "updatedAt": "2024-02-13T08:02:51Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 20155
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 20156
         }
       ],
       "stars7d": null
@@ -997,13 +1130,17 @@
       "name": "bbfamily/abu",
       "url": "https://github.com/bbfamily/abu",
       "description": "阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构",
-      "stars": 18995,
+      "stars": 19005,
       "createdAt": "2016-09-19T15:31:53Z",
       "updatedAt": "2026-10-16T11:32:48Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 18995
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 19005
         }
       ],
       "stars7d": null
@@ -1013,13 +1150,17 @@
       "name": "UFund-Me/Qbot",
       "url": "https://github.com/UFund-Me/Qbot",
       "description": "[🔥updating ...] AI 自动量化交易机器人(完全本地部署) AI-powered Quantitative Investment Research Platform. 📃 online docs: https://ufund-me.github.io/Qbot ✨ :news: qbot-mini: https://github.com/Charmve/iQuant",
-      "stars": 18714,
+      "stars": 18721,
       "createdAt": "2022-11-23T01:37:43Z",
       "updatedAt": "2026-03-11T12:16:42Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 18714
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 18721
         }
       ],
       "stars7d": null
@@ -1029,13 +1170,17 @@
       "name": "questdb/questdb",
       "url": "https://github.com/questdb/questdb",
       "description": "QuestDB is a high performance, open-source, time-series database",
-      "stars": 17462,
+      "stars": 17466,
       "createdAt": "2014-04-28T23:29:15Z",
-      "updatedAt": "2026-10-23T01:02:13Z",
+      "updatedAt": "2026-10-23T23:16:06Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 17462
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 17466
         }
       ],
       "stars7d": null
@@ -1045,13 +1190,17 @@
       "name": "AI4Finance-Foundation/FinRL",
       "url": "https://github.com/AI4Finance-Foundation/FinRL",
       "description": "FinRL®: Financial Reinforcement Learning. 🔥",
-      "stars": 16786,
+      "stars": 16795,
       "createdAt": "2020-07-26T13:18:16Z",
-      "updatedAt": "2026-10-20T08:26:37Z",
+      "updatedAt": "2026-10-23T07:27:58Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 16786
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 16795
         }
       ],
       "stars7d": null
@@ -1061,13 +1210,17 @@
       "name": "paperswithbacktest/awesome-systematic-trading",
       "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
       "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
-      "stars": 14906,
+      "stars": 14921,
       "createdAt": "2022-02-05T20:48:52Z",
       "updatedAt": "2026-09-28T10:33:48Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 14906
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 14921
         }
       ],
       "stars7d": null
@@ -1077,13 +1230,17 @@
       "name": "myhhub/stock",
       "url": "https://github.com/myhhub/stock",
       "description": "stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。",
-      "stars": 14844,
+      "stars": 14853,
       "createdAt": "2023-03-21T01:23:26Z",
       "updatedAt": "2026-04-02T02:26:35Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 14844
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 14853
         }
       ],
       "stars7d": null
@@ -1093,13 +1250,17 @@
       "name": "OpenByteInc/QuantDinger",
       "url": "https://github.com/OpenByteInc/QuantDinger",
       "description": "Open-source AI Trading OS, agent trading, and vibe trading, with Jev System One integration. Research, build Python strategies, backtest, and paper/live trade across crypto, stocks, and forex. Launch your own multi-tenant trading SaaS with built-in user manage",
-      "stars": 13029,
+      "stars": 13056,
       "createdAt": "2025-12-28T18:39:26Z",
-      "updatedAt": "2026-10-22T15:36:24Z",
+      "updatedAt": "2026-10-23T15:59:55Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 13029
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 13056
         }
       ],
       "stars7d": null
@@ -1109,13 +1270,17 @@
       "name": "TA-Lib/ta-lib-python",
       "url": "https://github.com/TA-Lib/ta-lib-python",
       "description": "Python wrapper for TA-Lib (http://ta-lib.org/).",
-      "stars": 12327,
+      "stars": 12329,
       "createdAt": "2012-03-23T17:14:15Z",
-      "updatedAt": "2026-10-23T00:39:50Z",
+      "updatedAt": "2026-10-23T22:02:02Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 12327
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 12329
         }
       ],
       "stars7d": null
@@ -1125,13 +1290,17 @@
       "name": "je-suis-tm/quant-trading",
       "url": "https://github.com/je-suis-tm/quant-trading",
       "description": "Python quantitative trading strategies including VIX Calculator, Pattern Recognition, Commodity Trading Advisor, Monte Carlo, Options Straddle, Shooting Star, London Breakout, Heikin-Ashi, Pair Trading, RSI, Bollinger Bands, Parabolic SAR, Dual Thrust, Awesome",
-      "stars": 11103,
+      "stars": 11109,
       "createdAt": "2018-04-03T14:08:14Z",
       "updatedAt": "2026-06-20T12:16:37Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 11103
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 11109
         }
       ],
       "stars7d": null
@@ -1141,13 +1310,17 @@
       "name": "simonlin1212/a-stock-data",
       "url": "https://github.com/simonlin1212/a-stock-data",
       "description": "A股全栈数据工具包：行情K线·当日逐笔·研报·信号·资金面·新闻·财务·公告·打板·ETF期权·舆情·宏观利率·期货大宗(含大商所日K)·事件驱动·可转债 | 15层·87端点·34数据源·除iwencai外免Key | A-share data for AI agents: K-lines, ticks, reports, fund flow, news, financials, filings, options, macro, futures, events, convertibles | 15 layers·",
-      "stars": 11025,
+      "stars": 11064,
       "createdAt": "2026-05-11T01:08:15Z",
-      "updatedAt": "2026-10-11T13:08:34Z",
+      "updatedAt": "2026-10-23T13:56:57Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 11025
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 11064
         }
       ],
       "stars7d": null
@@ -1157,13 +1330,17 @@
       "name": "StockSharp/StockSharp",
       "url": "https://github.com/StockSharp/StockSharp",
       "description": "Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, crypto, bitcoins, and options).",
-      "stars": 10955,
+      "stars": 10971,
       "createdAt": "2014-12-08T07:53:44Z",
-      "updatedAt": "2026-10-22T18:00:21Z",
+      "updatedAt": "2026-10-23T18:37:41Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 10955
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 10971
         }
       ],
       "stars7d": null
@@ -1173,13 +1350,17 @@
       "name": "polakowo/vectorbt",
       "url": "https://github.com/polakowo/vectorbt",
       "description": "The research engine that gives you an unfair advantage. Run thousands of trading ideas before others finish one.",
-      "stars": 9492,
+      "stars": 9503,
       "createdAt": "2017-11-14T11:56:32Z",
-      "updatedAt": "2026-10-19T21:31:11Z",
+      "updatedAt": "2026-10-23T12:07:43Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 9492
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 9503
         }
       ],
       "stars7d": null
@@ -1189,13 +1370,17 @@
       "name": "kernc/backtesting.py",
       "url": "https://github.com/kernc/backtesting.py",
       "description": "🔎 📈 🐍 💰 Backtest trading strategies in Python.",
-      "stars": 9111,
+      "stars": 9117,
       "createdAt": "2019-01-02T03:11:32Z",
       "updatedAt": "2026-08-05T12:39:16Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 9111
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 9117
         }
       ],
       "stars7d": null
@@ -1205,13 +1390,17 @@
       "name": "firmai/financial-machine-learning",
       "url": "https://github.com/firmai/financial-machine-learning",
       "description": "A curated list of practical financial machine learning tools and applications.",
-      "stars": 8819,
+      "stars": 8820,
       "createdAt": "2019-03-21T21:00:35Z",
       "updatedAt": "2025-01-03T01:27:50Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 8819
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 8820
         }
       ],
       "stars7d": null
@@ -1221,13 +1410,17 @@
       "name": "jesse-ai/jesse",
       "url": "https://github.com/jesse-ai/jesse",
       "description": "An advanced crypto trading bot written in Python",
-      "stars": 8687,
+      "stars": 8693,
       "createdAt": "2018-11-09T10:38:44Z",
       "updatedAt": "2026-10-22T10:12:19Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 8687
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 8693
         }
       ],
       "stars7d": null
@@ -1237,13 +1430,17 @@
       "name": "ranaroussi/quantstats",
       "url": "https://github.com/ranaroussi/quantstats",
       "description": "Portfolio analytics for quants, written in Python",
-      "stars": 7737,
+      "stars": 7743,
       "createdAt": "2019-05-01T13:29:29Z",
       "updatedAt": "2026-09-27T19:40:19Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 7737
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 7743
         }
       ],
       "stars7d": null
@@ -1253,13 +1450,17 @@
       "name": "shy3130/tick-stock-panel",
       "url": "https://github.com/shy3130/tick-stock-panel",
       "description": "TSP自托管、零运维的 A 股「自建策略 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源",
-      "stars": 6232,
+      "stars": 6252,
       "createdAt": "2026-06-18T06:18:29Z",
-      "updatedAt": "2026-10-22T14:25:29Z",
+      "updatedAt": "2026-10-23T14:27:41Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 6232
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 6252
         }
       ],
       "stars7d": null
@@ -1276,6 +1477,10 @@
         {
           "date": "2026-10-23",
           "stars": 6118
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 6118
         }
       ],
       "stars7d": null
@@ -1285,13 +1490,17 @@
       "name": "Superalgos/Superalgos",
       "url": "https://github.com/Superalgos/Superalgos",
       "description": "Free, open-source crypto trading bot, automated bitcoin / cryptocurrency trading software, algorithmic trading bots. Visually design your crypto trading bot, leveraging an integrated charting system, data-mining, backtesting, paper trading, and multi-server cr",
-      "stars": 5719,
+      "stars": 5722,
       "createdAt": "2019-08-12T17:34:43Z",
       "updatedAt": "2026-10-15T16:09:58Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 5719
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 5722
         }
       ],
       "stars7d": null
@@ -1301,13 +1510,17 @@
       "name": "Mathieu2301/TradingView-API",
       "url": "https://github.com/Mathieu2301/TradingView-API",
       "description": "📈 Get real-time stocks from TradingView",
-      "stars": 5683,
+      "stars": 5718,
       "createdAt": "2021-03-05T22:24:02Z",
-      "updatedAt": "2026-10-23T00:32:33Z",
+      "updatedAt": "2026-10-23T04:06:10Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 5683
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 5718
         }
       ],
       "stars7d": null
@@ -1317,13 +1530,17 @@
       "name": "CryptoSignal/Crypto-Signal",
       "url": "https://github.com/CryptoSignal/Crypto-Signal",
       "description": "Github.com/CryptoSignal - Trading & Technical Analysis Bot - 4,100+ stars, 1,100+ forks",
-      "stars": 5650,
+      "stars": 5651,
       "createdAt": "2017-09-16T23:49:24Z",
       "updatedAt": "2024-07-07T15:33:11Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 5650
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 5651
         }
       ],
       "stars7d": null
@@ -1333,13 +1550,17 @@
       "name": "JerBouma/FinanceToolkit",
       "url": "https://github.com/JerBouma/FinanceToolkit",
       "description": "Transparent and Efficient Financial Analysis",
-      "stars": 5450,
+      "stars": 5452,
       "createdAt": "2019-04-08T11:44:25Z",
-      "updatedAt": "2026-10-22T20:27:58Z",
+      "updatedAt": "2026-10-23T23:46:25Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 5450
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 5452
         }
       ],
       "stars7d": null
@@ -1349,13 +1570,17 @@
       "name": "wangzhe3224/awesome-systematic-trading",
       "url": "https://github.com/wangzhe3224/awesome-systematic-trading",
       "description": "A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化交易 | 量化投资",
-      "stars": 5320,
+      "stars": 5324,
       "createdAt": "2021-12-11T17:57:13Z",
       "updatedAt": "2026-10-18T16:08:29Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 5320
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 5324
         }
       ],
       "stars7d": null
@@ -1365,13 +1590,17 @@
       "name": "nkaz001/hftbacktest",
       "url": "https://github.com/nkaz001/hftbacktest",
       "description": "Free, open source, a high frequency trading and market making backtesting and trading bot, which accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books(Level-2 and Level-3), with real-world crypto trading",
-      "stars": 4956,
+      "stars": 4969,
       "createdAt": "2022-08-25T14:56:36Z",
       "updatedAt": "2025-12-23T15:57:58Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 4956
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 4969
         }
       ],
       "stars7d": null
@@ -1381,13 +1610,17 @@
       "name": "hudson-and-thames/mlfinlab",
       "url": "https://github.com/hudson-and-thames/mlfinlab",
       "description": "MlFinLab helps portfolio managers and traders who want to leverage the power of machine learning by providing reproducible, interpretable, and easy to use tools.",
-      "stars": 4949,
+      "stars": 4950,
       "createdAt": "2019-02-13T16:57:25Z",
       "updatedAt": "2023-10-02T03:05:19Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 4949
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 4950
         }
       ],
       "stars7d": null
@@ -1397,13 +1630,17 @@
       "name": "dcajasn/Riskfolio-Lib",
       "url": "https://github.com/dcajasn/Riskfolio-Lib",
       "description": "Portfolio Optimization in Python",
-      "stars": 4559,
+      "stars": 4561,
       "createdAt": "2020-03-02T19:49:06Z",
       "updatedAt": "2026-10-22T17:45:51Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 4559
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 4561
         }
       ],
       "stars7d": null
@@ -1413,13 +1650,17 @@
       "name": "zvtvz/zvt",
       "url": "https://github.com/zvtvz/zvt",
       "description": "modular quant framework.",
-      "stars": 4315,
+      "stars": 4316,
       "createdAt": "2019-04-04T08:06:57Z",
       "updatedAt": "2026-07-01T09:42:05Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 4315
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 4316
         }
       ],
       "stars7d": null
@@ -1429,13 +1670,17 @@
       "name": "grananqvist/Awesome-Quant-Machine-Learning-Trading",
       "url": "https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading",
       "description": "Quant/Algorithm trading resources with an emphasis on Machine Learning",
-      "stars": 4077,
+      "stars": 4080,
       "createdAt": "2018-11-05T21:09:06Z",
       "updatedAt": "2025-05-21T20:41:58Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 4077
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 4080
         }
       ],
       "stars7d": null
@@ -1445,13 +1690,17 @@
       "name": "edtechre/pybroker",
       "url": "https://github.com/edtechre/pybroker",
       "description": "Algorithmic Trading in Python with Machine Learning",
-      "stars": 3639,
+      "stars": 3651,
       "createdAt": "2023-01-16T01:11:52Z",
       "updatedAt": "2026-10-20T22:22:35Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 3639
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 3651
         }
       ],
       "stars7d": null
@@ -1461,13 +1710,17 @@
       "name": "fasiondog/hikyuu",
       "url": "https://github.com/fasiondog/hikyuu",
       "description": "An open-source, high-performance quantitative trading framework in C++/Python focused on strategy analysis and backtesting Trading model R&D · Ultra-fast engine · Efficient backtesting",
-      "stars": 3570,
+      "stars": 3571,
       "createdAt": "2012-07-18T23:21:42Z",
-      "updatedAt": "2026-10-22T21:28:23Z",
+      "updatedAt": "2026-10-23T21:05:06Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 3570
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 3571
         }
       ],
       "stars7d": null
@@ -1484,6 +1737,10 @@
         {
           "date": "2026-10-23",
           "stars": 3323
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 3323
         }
       ],
       "stars7d": null
@@ -1493,13 +1750,17 @@
       "name": "hello245m/free-stockdb",
       "url": "https://github.com/hello245m/free-stockdb",
       "description": "面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。",
-      "stars": 2989,
+      "stars": 3000,
       "createdAt": "2026-05-08T13:34:17Z",
       "updatedAt": "2026-10-12T19:32:40Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 2989
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 3000
         }
       ],
       "stars7d": null
@@ -1508,14 +1769,18 @@
       "id": "731792488",
       "name": "skfolio/skfolio",
       "url": "https://github.com/skfolio/skfolio",
-      "description": "Python library for portfolio optimization built on top of scikit-learn",
-      "stars": 2532,
+      "description": "Python library for portfolio optimization, factor model construction, and risk management built on scikit-learn",
+      "stars": 2535,
       "createdAt": "2023-12-14T22:24:42Z",
-      "updatedAt": "2026-10-22T22:17:55Z",
+      "updatedAt": "2026-10-23T21:44:07Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 2532
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 2535
         }
       ],
       "stars7d": null
@@ -1525,13 +1790,17 @@
       "name": "rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy",
       "url": "https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy",
       "description": "Providing the solutions for high-frequency trading (HFT) strategies using data science approaches (Machine Learning) on Full Orderbook Tick Data.",
-      "stars": 2361,
+      "stars": 2362,
       "createdAt": "2016-07-21T05:14:14Z",
       "updatedAt": "2022-08-27T20:48:46Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 2361
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 2362
         }
       ],
       "stars7d": null
@@ -1541,13 +1810,17 @@
       "name": "barter-rs/barter-rs",
       "url": "https://github.com/barter-rs/barter-rs",
       "description": "Open-source Rust framework for building event-driven live-trading & backtesting systems",
-      "stars": 2351,
+      "stars": 2357,
       "createdAt": "2022-10-09T16:39:34Z",
       "updatedAt": "2026-08-24T07:23:22Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 2351
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 2357
         }
       ],
       "stars7d": null
@@ -1564,6 +1837,10 @@
         {
           "date": "2026-10-23",
           "stars": 2213
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 2213
         }
       ],
       "stars7d": null
@@ -1579,6 +1856,10 @@
       "history": [
         {
           "date": "2026-10-23",
+          "stars": 2191
+        },
+        {
+          "date": "2026-10-24",
           "stars": 2191
         }
       ],
@@ -1612,6 +1893,10 @@
         {
           "date": "2026-10-23",
           "stars": 1754
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 1754
         }
       ],
       "stars7d": null
@@ -1627,6 +1912,10 @@
       "history": [
         {
           "date": "2026-10-23",
+          "stars": 1309
+        },
+        {
+          "date": "2026-10-24",
           "stars": 1309
         }
       ],
@@ -1644,6 +1933,10 @@
         {
           "date": "2026-10-23",
           "stars": 1208
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 1208
         }
       ],
       "stars7d": null
@@ -1653,13 +1946,17 @@
       "name": "jankrepl/deepdow",
       "url": "https://github.com/jankrepl/deepdow",
       "description": "Portfolio optimization with deep learning.",
-      "stars": 1193,
+      "stars": 1194,
       "createdAt": "2020-02-02T08:46:33Z",
       "updatedAt": "2024-01-24T15:56:49Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 1193
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 1194
         }
       ],
       "stars7d": null
@@ -1669,13 +1966,17 @@
       "name": "Hvass-Labs/Finance-Research",
       "url": "https://github.com/Hvass-Labs/Finance-Research",
       "description": "Research in investment finance with Python Notebooks",
-      "stars": 1135,
+      "stars": 1136,
       "createdAt": "2018-07-22T08:14:46Z",
       "updatedAt": "2026-07-03T09:11:31Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 1135
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 1136
         }
       ],
       "stars7d": null
@@ -1692,6 +1993,30 @@
         {
           "date": "2026-10-23",
           "stars": 1086
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 1086
+        }
+      ],
+      "stars7d": null
+    },
+    {
+      "id": "1427126014",
+      "name": "Jakeschincariol/day-trader-skill",
+      "url": "https://github.com/Jakeschincariol/day-trader-skill",
+      "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+      "stars": 859,
+      "createdAt": "2026-10-20T14:17:54Z",
+      "updatedAt": "2026-10-20T14:18:00Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 518
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 859
         }
       ],
       "stars7d": null
@@ -1700,14 +2025,18 @@
       "id": "1026850533",
       "name": "ryanfrigo/kalshi-ai-trading-bot",
       "url": "https://github.com/ryanfrigo/kalshi-ai-trading-bot",
-      "description": "A toolkit for building AI-automated trading strategies on Kalshi prediction markets.",
-      "stars": 627,
+      "description": "The honest edge layer for Kalshi prediction markets - an agent-native toolkit (CLI, MCP server, Claude skill) that measures whether you actually beat the book instead of claiming it.",
+      "stars": 631,
       "createdAt": "2025-07-26T18:41:32Z",
-      "updatedAt": "2026-10-13T18:07:05Z",
+      "updatedAt": "2026-10-24T01:01:33Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 627
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 631
         }
       ],
       "stars7d": null
@@ -1723,6 +2052,10 @@
       "history": [
         {
           "date": "2026-10-23",
+          "stars": 551
+        },
+        {
+          "date": "2026-10-24",
           "stars": 551
         }
       ],
@@ -1740,22 +2073,30 @@
         {
           "date": "2026-10-23",
           "stars": 539
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 539
         }
       ],
       "stars7d": null
     },
     {
-      "id": "1427126014",
-      "name": "Jakeschincariol/day-trader-skill",
-      "url": "https://github.com/Jakeschincariol/day-trader-skill",
-      "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
-      "stars": 518,
-      "createdAt": "2026-10-20T14:17:54Z",
-      "updatedAt": "2026-10-20T14:18:00Z",
+      "id": "1169524736",
+      "name": "YichengYang-Ethan/oracle3-prediction-market-agent",
+      "url": "https://github.com/YichengYang-Ethan/oracle3-prediction-market-agent",
+      "description": "Oracle3: open-source trading engine and MCP server for prediction markets. Finds fee-adjusted no-arbitrage violations across related event contracts and trades them live on Kalshi, Polymarket and Solana, or on paper, under pre-trade risk limits. 13 MCP tools, ",
+      "stars": 507,
+      "createdAt": "2026-02-28T20:20:18Z",
+      "updatedAt": "2026-10-12T01:01:19Z",
       "history": [
         {
           "date": "2026-10-23",
-          "stars": 518
+          "stars": 499
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 507
         }
       ],
       "stars7d": null
@@ -1772,21 +2113,9 @@
         {
           "date": "2026-10-23",
           "stars": 499
-        }
-      ],
-      "stars7d": null
-    },
-    {
-      "id": "1169524736",
-      "name": "YichengYang-Ethan/oracle3-prediction-market-agent",
-      "url": "https://github.com/YichengYang-Ethan/oracle3-prediction-market-agent",
-      "description": "Oracle3: open-source trading engine and MCP server for prediction markets. Finds fee-adjusted no-arbitrage violations across related event contracts and trades them live on Kalshi, Polymarket and Solana, or on paper, under pre-trade risk limits. 13 MCP tools, ",
-      "stars": 499,
-      "createdAt": "2026-02-28T20:20:18Z",
-      "updatedAt": "2026-10-12T01:01:19Z",
-      "history": [
+        },
         {
-          "date": "2026-10-23",
+          "date": "2026-10-24",
           "stars": 499
         }
       ],
@@ -1804,6 +2133,10 @@
         {
           "date": "2026-10-23",
           "stars": 435
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 435
         }
       ],
       "stars7d": null
@@ -1820,6 +2153,10 @@
         {
           "date": "2026-10-23",
           "stars": 412
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 412
         }
       ],
       "stars7d": null
@@ -1829,13 +2166,17 @@
       "name": "0xethanq/astra-quant-agent",
       "url": "https://github.com/0xethanq/astra-quant-agent",
       "description": "结合多大模型分析与确定性代码风控的自主量化交易系统 ｜ Autonomous crypto trading system with multi-LLM analysis, deterministic Python risk control & OKX execution.",
-      "stars": 393,
+      "stars": 394,
       "createdAt": "2026-08-30T14:34:10Z",
       "updatedAt": "2026-10-03T20:02:58Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 393
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 394
         }
       ],
       "stars7d": null
@@ -1851,6 +2192,10 @@
       "history": [
         {
           "date": "2026-10-23",
+          "stars": 374
+        },
+        {
+          "date": "2026-10-24",
           "stars": 374
         }
       ],
@@ -1868,6 +2213,10 @@
         {
           "date": "2026-10-23",
           "stars": 325
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 325
         }
       ],
       "stars7d": null
@@ -1883,6 +2232,10 @@
       "history": [
         {
           "date": "2026-10-23",
+          "stars": 312
+        },
+        {
+          "date": "2026-10-24",
           "stars": 312
         }
       ],
@@ -1900,6 +2253,10 @@
         {
           "date": "2026-10-23",
           "stars": 259
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 259
         }
       ],
       "stars7d": null
@@ -1915,6 +2272,10 @@
       "history": [
         {
           "date": "2026-10-23",
+          "stars": 216
+        },
+        {
+          "date": "2026-10-24",
           "stars": 216
         }
       ],
@@ -1932,6 +2293,10 @@
         {
           "date": "2026-10-23",
           "stars": 190
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 190
         }
       ],
       "stars7d": null
@@ -1947,6 +2312,10 @@
       "history": [
         {
           "date": "2026-10-23",
+          "stars": 177
+        },
+        {
+          "date": "2026-10-24",
           "stars": 177
         }
       ],
@@ -1964,6 +2333,10 @@
         {
           "date": "2026-10-23",
           "stars": 161
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 161
         }
       ],
       "stars7d": null
@@ -1980,6 +2353,10 @@
         {
           "date": "2026-10-23",
           "stars": 159
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 159
         }
       ],
       "stars7d": null
@@ -1991,10 +2368,14 @@
       "description": "A custom MARL (multi-agent reinforcement learning) environment where multiple agents trade against one another (self-play) in a zero-sum continuous double auction. Ray [RLlib] is used for training.",
       "stars": 156,
       "createdAt": "2019-07-20T14:53:16Z",
-      "updatedAt": "2026-10-22T15:22:32Z",
+      "updatedAt": "2026-10-23T16:56:05Z",
       "history": [
         {
           "date": "2026-10-23",
+          "stars": 156
+        },
+        {
+          "date": "2026-10-24",
           "stars": 156
         }
       ],
@@ -2012,6 +2393,10 @@
         {
           "date": "2026-10-23",
           "stars": 140
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 140
         }
       ],
       "stars7d": null
@@ -2027,6 +2412,10 @@
       "history": [
         {
           "date": "2026-10-23",
+          "stars": 114
+        },
+        {
+          "date": "2026-10-24",
           "stars": 114
         }
       ],
@@ -2044,6 +2433,10 @@
         {
           "date": "2026-10-23",
           "stars": 104
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 104
         }
       ],
       "stars7d": null
@@ -2059,6 +2452,10 @@
       "history": [
         {
           "date": "2026-10-23",
+          "stars": 101
+        },
+        {
+          "date": "2026-10-24",
           "stars": 101
         }
       ],
@@ -2076,6 +2473,10 @@
         {
           "date": "2026-10-23",
           "stars": 92
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 92
         }
       ],
       "stars7d": null
@@ -2085,13 +2486,17 @@
       "name": "Azhagesan-dev/OrderFlowMap",
       "url": "https://github.com/Azhagesan-dev/OrderFlowMap",
       "description": "Bookmap-style order flow visualizer in a single HTML file — real-time heatmaps, trade bubbles, DOM ladder, volume profile, CVD, and liquidity wall detection. Works with OpenAlgo WebSocket for live Indian market data (NSE/NFO/BSE/MCX).",
-      "stars": 91,
+      "stars": 92,
       "createdAt": "2026-04-17T08:55:18Z",
       "updatedAt": "2026-04-17T09:12:23Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 91
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 92
         }
       ],
       "stars7d": null
@@ -2101,13 +2506,17 @@
       "name": "ralphtradesz/trading-hub",
       "url": "https://github.com/ralphtradesz/trading-hub",
       "description": "Plataforma de trading gratis y de código abierto para Mac (con guía para portarla a Windows con Claude): footprint, DOM, backtesting anti-sobreoptimización y estrategias con IA. 100 % local.",
-      "stars": 74,
+      "stars": 75,
       "createdAt": "2026-10-17T20:16:54Z",
       "updatedAt": "2026-10-17T22:08:35Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 74
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 75
         }
       ],
       "stars7d": null
@@ -2124,6 +2533,10 @@
         {
           "date": "2026-10-23",
           "stars": 69
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 69
         }
       ],
       "stars7d": null
@@ -2133,13 +2546,17 @@
       "name": "ebrahimpichka/open-MFE",
       "url": "https://github.com/ebrahimpichka/open-MFE",
       "description": "A community-curated vault of openly available resources that replicates the rigorous syllabus of top MFE / Quant Finance programs",
-      "stars": 59,
+      "stars": 60,
       "createdAt": "2026-05-18T22:51:00Z",
       "updatedAt": "2026-10-03T21:23:12Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 59
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 60
         }
       ],
       "stars7d": null
@@ -2155,6 +2572,10 @@
       "history": [
         {
           "date": "2026-10-23",
+          "stars": 55
+        },
+        {
+          "date": "2026-10-24",
           "stars": 55
         }
       ],
@@ -2172,6 +2593,10 @@
         {
           "date": "2026-10-23",
           "stars": 48
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 48
         }
       ],
       "stars7d": null
@@ -2187,6 +2612,10 @@
       "history": [
         {
           "date": "2026-10-23",
+          "stars": 43
+        },
+        {
+          "date": "2026-10-24",
           "stars": 43
         }
       ],
@@ -2204,6 +2633,10 @@
         {
           "date": "2026-10-23",
           "stars": 42
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 42
         }
       ],
       "stars7d": null
@@ -2219,6 +2652,10 @@
       "history": [
         {
           "date": "2026-10-23",
+          "stars": 42
+        },
+        {
+          "date": "2026-10-24",
           "stars": 42
         }
       ],
@@ -2236,6 +2673,10 @@
         {
           "date": "2026-10-23",
           "stars": 40
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 40
         }
       ],
       "stars7d": null
@@ -2245,13 +2686,17 @@
       "name": "PkLavc/Autotrader",
       "url": "https://github.com/PkLavc/Autotrader",
       "description": "Autonomous AI trading system powered by Kronos. Forecasts markets, builds portfolios and paper-trades automatically with GitHub Actions.",
-      "stars": 37,
+      "stars": 38,
       "createdAt": "2026-10-07T02:43:14Z",
-      "updatedAt": "2026-10-23T00:43:05Z",
+      "updatedAt": "2026-10-24T00:44:48Z",
       "history": [
         {
           "date": "2026-10-23",
           "stars": 37
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 38
         }
       ],
       "stars7d": null
