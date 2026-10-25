@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-10-25T00:55:48.087052+00:00",
+  "lastCheckedAt": "2026-10-25T01:17:21.261446+00:00",
   "listingVersion": 3,
   "sourceChecks": [
     {
@@ -77,8 +77,8 @@
     {
       "sourceId": "jpm-weekly",
       "method": "listing",
-      "ok": false,
-      "error": "HTTP Error 400: Bad Request"
+      "ok": true,
+      "error": null
     },
     {
       "sourceId": "kkr",
