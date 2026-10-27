@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-10-26T01:27:56.695470+00:00",
+  "lastCheckedAt": "2026-10-27T01:24:01.233166+00:00",
   "listingVersion": 3,
   "sourceChecks": [
     {
@@ -302,6 +302,15 @@
   ],
   "items": [
     {
+      "key": "bloomberg-odd-lots:ce2dc3a9-d06c-43f3-918e-b4ec014a82ff",
+      "sourceId": "bloomberg-odd-lots",
+      "title": "AI Agents Are Already Changing the Price of Goods",
+      "url": "https://omny.fm/shows/odd-lots/ai-agents-are-already-changing-the-price-of-goods",
+      "publishedAt": "2026-10-26T08:00:00+00:00",
+      "detectedAt": null,
+      "summary": "It's obvious that things are getting more expensive, and there are plenty of reasons behind the surge in prices — whether it's wars or inflation or companies padding their profit margins. But with the release of AI agents like Meta's Muse, tech companies are promising consumers that agents will start saving them tons of money by finding the best deals. According to today's guest, Lindsay Owens, the history of price gouging does not bode well for claims that things might get cheaper because of new technology, and research conducted by her think tank Groundwork Collaborative shows that a number "
+    },
+    {
       "key": "bloomberg-odd-lots:0e910a81-d26f-4e7f-852a-b4ec0142c272",
       "sourceId": "bloomberg-odd-lots",
       "title": "How a Chicago Restaurant Has Stayed Open For Nearly Three Decades",
@@ -381,6 +390,42 @@
       "publishedAt": "2026-10-15T09:00:00+00:00",
       "detectedAt": null,
       "summary": "Traders and market watchers around the world started talking about a crypto platform called Hyperliquid earlier this year, when speculators used markets built on top of it to trade crude oil after war broke out in Iran. What Hyperliquid allowed for was a 24/7 market on the blockchain. Then in August, President Trump said the CFTC was working on bringing “Hyperliquid into the United States in a fully compliant and legal fashion.” Hyperliquid currently operates outside the US, but that hasn't stopped it from growing prodigiously in the last year. Jeff Yan, CEO and co-founder of Hyperliquid Labs,"
+    },
+    {
+      "key": "preqin:https://www.preqin.com/insights/research/trending-data/trending-data-why-total-portfolio-approach-is-on-the-rise",
+      "sourceId": "preqin",
+      "title": "Trending data SUBSCRIBER Oct 26, 2026 Trending Data: Why Total Portfolio Approach is on the rise Investor public announcements relating to a Total Portfolio Approach are increasing in frequency as portfolio construction grows m...",
+      "url": "https://www.preqin.com/insights/research/trending-data/trending-data-why-total-portfolio-approach-is-on-the-rise",
+      "publishedAt": null,
+      "detectedAt": "2026-10-27T01:24:01.233166+00:00",
+      "summary": ""
+    },
+    {
+      "key": "cboe:https://www.cboe.com/insights/categories/macro_volatility_digest",
+      "sourceId": "cboe",
+      "title": "Macro Volatility Digest",
+      "url": "https://www.cboe.com/insights/categories/macro_volatility_digest",
+      "publishedAt": null,
+      "detectedAt": "2026-10-27T01:24:01.233166+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/buy-the-dip-in-brazil",
+      "sourceId": "gavekal",
+      "title": "Buy The Dip In Brazil",
+      "url": "https://research.gavekal.com/teaser/buy-the-dip-in-brazil",
+      "publishedAt": null,
+      "detectedAt": "2026-10-27T01:24:01.233166+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/power-lessons-from-china",
+      "sourceId": "gavekal",
+      "title": "Power Lessons From China AJ Cortese",
+      "url": "https://research.gavekal.com/teaser/power-lessons-from-china",
+      "publishedAt": null,
+      "detectedAt": "2026-10-27T01:24:01.233166+00:00",
+      "summary": ""
     },
     {
       "key": "gavekal:https://research.gavekal.com/teaser/monetizing-us-budget-deficits",
@@ -1451,6 +1496,11 @@
     "cambridge:https://www.cambridgeassociates.com/insight/ca-institute-assessment",
     "bloomberg-odd-lots:0e910a81-d26f-4e7f-852a-b4ec0142c272",
     "gavekal:https://research.gavekal.com/teaser/monetizing-us-budget-deficits",
-    "gavekal:https://research.gavekal.com/teaser/no-good-outcomes-for-energy-inflation"
+    "gavekal:https://research.gavekal.com/teaser/no-good-outcomes-for-energy-inflation",
+    "bloomberg-odd-lots:ce2dc3a9-d06c-43f3-918e-b4ec014a82ff",
+    "preqin:https://www.preqin.com/insights/research/trending-data/trending-data-why-total-portfolio-approach-is-on-the-rise",
+    "cboe:https://www.cboe.com/insights/categories/macro_volatility_digest",
+    "gavekal:https://research.gavekal.com/teaser/buy-the-dip-in-brazil",
+    "gavekal:https://research.gavekal.com/teaser/power-lessons-from-china"
   ]
 }
