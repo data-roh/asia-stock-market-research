@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-10-27T01:24:01.233166+00:00",
+  "lastCheckedAt": "2026-10-28T01:15:14.131701+00:00",
   "listingVersion": 3,
   "sourceChecks": [
     {
@@ -390,6 +390,51 @@
       "publishedAt": "2026-10-15T09:00:00+00:00",
       "detectedAt": null,
       "summary": "Traders and market watchers around the world started talking about a crypto platform called Hyperliquid earlier this year, when speculators used markets built on top of it to trade crude oil after war broke out in Iran. What Hyperliquid allowed for was a 24/7 market on the blockchain. Then in August, President Trump said the CFTC was working on bringing “Hyperliquid into the United States in a fully compliant and legal fashion.” Hyperliquid currently operates outside the US, but that hasn't stopped it from growing prodigiously in the last year. Jeff Yan, CEO and co-founder of Hyperliquid Labs,"
+    },
+    {
+      "key": "cambridge:https://www.cambridgeassociates.com/insight/is-the-euro-area-heading-for-another-sovereign-debt-crisis",
+      "sourceId": "cambridge",
+      "title": "Is the Euro Area Heading for Another Sovereign Debt Crisis?",
+      "url": "https://www.cambridgeassociates.com/insight/is-the-euro-area-heading-for-another-sovereign-debt-crisis",
+      "publishedAt": null,
+      "detectedAt": "2026-10-28T01:15:14.131701+00:00",
+      "summary": ""
+    },
+    {
+      "key": "caia:https://caia.org/blog/2026/10/27/evergreen-postcards-from-the-edge",
+      "sourceId": "caia",
+      "title": "iStockphoto.com/duncan1890 Featured Post Evergreen Postcards From the Edge By John L. Bowman, CFA, Chief Executive Officer, CAIA Association I have spent the last six weeks largely on the…",
+      "url": "https://caia.org/blog/2026/10/27/evergreen-postcards-from-the-edge",
+      "publishedAt": null,
+      "detectedAt": "2026-10-28T01:15:14.131701+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/pricing-europes-winter-demand-for-natural-gas",
+      "sourceId": "gavekal",
+      "title": "Pricing Europe’s Winter Demand For Natural Gas",
+      "url": "https://research.gavekal.com/teaser/pricing-europes-winter-demand-for-natural-gas",
+      "publishedAt": null,
+      "detectedAt": "2026-10-28T01:15:14.131701+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/brazil-joins-the-list",
+      "sourceId": "gavekal",
+      "title": "Brazil Joins The List",
+      "url": "https://research.gavekal.com/teaser/brazil-joins-the-list",
+      "publishedAt": null,
+      "detectedAt": "2026-10-28T01:15:14.131701+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/switching-the-policy-rate",
+      "sourceId": "gavekal",
+      "title": "Switching The Policy Rate",
+      "url": "https://research.gavekal.com/teaser/switching-the-policy-rate",
+      "publishedAt": null,
+      "detectedAt": "2026-10-28T01:15:14.131701+00:00",
+      "summary": ""
     },
     {
       "key": "preqin:https://www.preqin.com/insights/research/trending-data/trending-data-why-total-portfolio-approach-is-on-the-rise",
@@ -1501,6 +1546,11 @@
     "preqin:https://www.preqin.com/insights/research/trending-data/trending-data-why-total-portfolio-approach-is-on-the-rise",
     "cboe:https://www.cboe.com/insights/categories/macro_volatility_digest",
     "gavekal:https://research.gavekal.com/teaser/buy-the-dip-in-brazil",
-    "gavekal:https://research.gavekal.com/teaser/power-lessons-from-china"
+    "gavekal:https://research.gavekal.com/teaser/power-lessons-from-china",
+    "cambridge:https://www.cambridgeassociates.com/insight/is-the-euro-area-heading-for-another-sovereign-debt-crisis",
+    "caia:https://caia.org/blog/2026/10/27/evergreen-postcards-from-the-edge",
+    "gavekal:https://research.gavekal.com/teaser/pricing-europes-winter-demand-for-natural-gas",
+    "gavekal:https://research.gavekal.com/teaser/brazil-joins-the-list",
+    "gavekal:https://research.gavekal.com/teaser/switching-the-policy-rate"
   ]
 }
