@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-10-28T01:36:53.613955+00:00",
+  "lastCheckedAt": "2026-10-29T01:13:53.566232+00:00",
   "listingVersion": 3,
   "sourceChecks": [
     {
@@ -302,6 +302,15 @@
   ],
   "items": [
     {
+      "key": "ai-street:https://www.ai-street.co/p/model-ml-seeks-funding-at-15-billion",
+      "sourceId": "ai-street",
+      "title": "Model ML Seeks Funding at $1.5 Billion Valuation",
+      "url": "https://www.ai-street.co/p/model-ml-seeks-funding-at-15-billion",
+      "publishedAt": "2026-10-28T15:31:09+00:00",
+      "detectedAt": null,
+      "summary": "The startup began as two brothers’ investing side project. Now its customers include HSBC and three of the Big Four accounting firms."
+    },
+    {
       "key": "bloomberg-odd-lots:ce2dc3a9-d06c-43f3-918e-b4ec014a82ff",
       "sourceId": "bloomberg-odd-lots",
       "title": "AI Agents Are Already Changing the Price of Goods",
@@ -390,6 +399,42 @@
       "publishedAt": "2026-10-15T09:00:00+00:00",
       "detectedAt": null,
       "summary": "Traders and market watchers around the world started talking about a crypto platform called Hyperliquid earlier this year, when speculators used markets built on top of it to trade crude oil after war broke out in Iran. What Hyperliquid allowed for was a 24/7 market on the blockchain. Then in August, President Trump said the CFTC was working on bringing “Hyperliquid into the United States in a fully compliant and legal fashion.” Hyperliquid currently operates outside the US, but that hasn't stopped it from growing prodigiously in the last year. Jeff Yan, CEO and co-founder of Hyperliquid Labs,"
+    },
+    {
+      "key": "eastspring:https://www.eastspring.com/insights/deep-dives/from-ai-adoption-to-monetisation",
+      "sourceId": "eastspring",
+      "title": "From AI adoption to monetisation",
+      "url": "https://www.eastspring.com/insights/deep-dives/from-ai-adoption-to-monetisation",
+      "publishedAt": null,
+      "detectedAt": "2026-10-29T01:13:53.566232+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/iran-and-ukraine-after-the-midterms",
+      "sourceId": "gavekal",
+      "title": "Iran And Ukraine After The Midterms",
+      "url": "https://research.gavekal.com/teaser/iran-and-ukraine-after-the-midterms",
+      "publishedAt": null,
+      "detectedAt": "2026-10-29T01:13:53.566232+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/the-french-effect-on-ecb-policy",
+      "sourceId": "gavekal",
+      "title": "The French Effect On ECB Policy",
+      "url": "https://research.gavekal.com/teaser/the-french-effect-on-ecb-policy",
+      "publishedAt": null,
+      "detectedAt": "2026-10-29T01:13:53.566232+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/how-to-get-growth-in-2027",
+      "sourceId": "gavekal",
+      "title": "How To Get Growth In 2027",
+      "url": "https://research.gavekal.com/teaser/how-to-get-growth-in-2027",
+      "publishedAt": null,
+      "detectedAt": "2026-10-29T01:13:53.566232+00:00",
+      "summary": ""
     },
     {
       "key": "cambridge:https://www.cambridgeassociates.com/insight/is-the-euro-area-heading-for-another-sovereign-debt-crisis",
@@ -1551,6 +1596,11 @@
     "caia:https://caia.org/blog/2026/10/27/evergreen-postcards-from-the-edge",
     "gavekal:https://research.gavekal.com/teaser/pricing-europes-winter-demand-for-natural-gas",
     "gavekal:https://research.gavekal.com/teaser/brazil-joins-the-list",
-    "gavekal:https://research.gavekal.com/teaser/switching-the-policy-rate"
+    "gavekal:https://research.gavekal.com/teaser/switching-the-policy-rate",
+    "ai-street:https://www.ai-street.co/p/model-ml-seeks-funding-at-15-billion",
+    "eastspring:https://www.eastspring.com/insights/deep-dives/from-ai-adoption-to-monetisation",
+    "gavekal:https://research.gavekal.com/teaser/iran-and-ukraine-after-the-midterms",
+    "gavekal:https://research.gavekal.com/teaser/the-french-effect-on-ecb-policy",
+    "gavekal:https://research.gavekal.com/teaser/how-to-get-growth-in-2027"
   ]
 }
