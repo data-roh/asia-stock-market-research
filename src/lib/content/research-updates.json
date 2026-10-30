@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-10-29T01:38:37.150558+00:00",
+  "lastCheckedAt": "2026-10-30T01:17:00.651444+00:00",
   "listingVersion": 3,
   "sourceChecks": [
     {
@@ -302,6 +302,24 @@
   ],
   "items": [
     {
+      "key": "ai-street:https://www.ai-street.co/p/bridgewater-citadel-and-man-group",
+      "sourceId": "ai-street",
+      "title": "Bridgewater, Citadel and Man Group Flag AI Agent Risks",
+      "url": "https://www.ai-street.co/p/bridgewater-citadel-and-man-group",
+      "publishedAt": "2026-10-29T16:03:10+00:00",
+      "detectedAt": null,
+      "summary": "Plus: FCA on growing AI adoption and Morgan Stanley’s agents help staff move money."
+    },
+    {
+      "key": "bloomberg-odd-lots:a830f773-b13e-4ffb-8e2b-b4f10170ca4e",
+      "sourceId": "bloomberg-odd-lots",
+      "title": "What Wall Street Really Thinks About the AI Trade Now",
+      "url": "https://omny.fm/shows/odd-lots/102926-odd-lots-alex-altmann-mixdown",
+      "publishedAt": "2026-10-29T08:00:00+00:00",
+      "detectedAt": null,
+      "summary": "It has been a big week for the AI trade — we've seen wobbles in the market, many of them in response to headlines like the Anthropic S-1 and earnings from the hyperscalers (Oracle, Microsoft, etc.). So what does Wall Street make of all the news, and how are they processing an increasing sense that the laws of the economy barely apply to AI? Today, we speak with Alexander 'Alty' Altmann, global head of equities tactical strategies at Barclays, and he helps us make sense of how Wall Street really feels about the AI trade right now. We also talk about the KOSPI-fication of the S&P 500, if there a"
+    },
+    {
       "key": "ai-street:https://www.ai-street.co/p/model-ml-seeks-funding-at-15-billion",
       "sourceId": "ai-street",
       "title": "Model ML Seeks Funding at $1.5 Billion Valuation",
@@ -399,6 +417,60 @@
       "publishedAt": "2026-10-15T09:00:00+00:00",
       "detectedAt": null,
       "summary": "Traders and market watchers around the world started talking about a crypto platform called Hyperliquid earlier this year, when speculators used markets built on top of it to trade crude oil after war broke out in Iran. What Hyperliquid allowed for was a 24/7 market on the blockchain. Then in August, President Trump said the CFTC was working on bringing “Hyperliquid into the United States in a fully compliant and legal fashion.” Hyperliquid currently operates outside the US, but that hasn't stopped it from growing prodigiously in the last year. Jeff Yan, CEO and co-founder of Hyperliquid Labs,"
+    },
+    {
+      "key": "apollo:https://www.apolloacademy.com/direct-lending-strong-fundamentals-shifting-dynamics",
+      "sourceId": "apollo",
+      "title": "Direct Lending: Strong Fundamentals, Shifting Dynamics",
+      "url": "https://www.apolloacademy.com/direct-lending-strong-fundamentals-shifting-dynamics",
+      "publishedAt": null,
+      "detectedAt": "2026-10-30T01:17:00.651444+00:00",
+      "summary": ""
+    },
+    {
+      "key": "bridgewater:https://www.bridgewater.com/research-and-insights/managing-cio-greg-jensen-shares-our-global-outlook",
+      "sourceId": "bridgewater",
+      "title": "Managing CIO Greg Jensen Shares Our Global Outlook",
+      "url": "https://www.bridgewater.com/research-and-insights/managing-cio-greg-jensen-shares-our-global-outlook",
+      "publishedAt": null,
+      "detectedAt": "2026-10-30T01:17:00.651444+00:00",
+      "summary": ""
+    },
+    {
+      "key": "twosigma:https://www.twosigma.com/articles/over-coffee-with-apac-leader-juan-tan",
+      "sourceId": "twosigma",
+      "title": "Over Coffee With APAC Leader Juan Tan",
+      "url": "https://www.twosigma.com/articles/over-coffee-with-apac-leader-juan-tan",
+      "publishedAt": null,
+      "detectedAt": "2026-10-30T01:17:00.651444+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/one-thing-after-another",
+      "sourceId": "gavekal",
+      "title": "One Thing After Another",
+      "url": "https://research.gavekal.com/teaser/one-thing-after-another",
+      "publishedAt": null,
+      "detectedAt": "2026-10-30T01:17:00.651444+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/video-tips-nominals-or-both",
+      "sourceId": "gavekal",
+      "title": "Video: TIPS, Nominals Or Both?",
+      "url": "https://research.gavekal.com/teaser/video-tips-nominals-or-both",
+      "publishedAt": null,
+      "detectedAt": "2026-10-30T01:17:00.651444+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/who-is-consuming-chinese-tokens",
+      "sourceId": "gavekal",
+      "title": "Who Is Consuming Chinese Tokens? Laila Khawaja",
+      "url": "https://research.gavekal.com/teaser/who-is-consuming-chinese-tokens",
+      "publishedAt": null,
+      "detectedAt": "2026-10-30T01:17:00.651444+00:00",
+      "summary": ""
     },
     {
       "key": "eastspring:https://www.eastspring.com/insights/deep-dives/from-ai-adoption-to-monetisation",
@@ -1601,6 +1673,14 @@
     "eastspring:https://www.eastspring.com/insights/deep-dives/from-ai-adoption-to-monetisation",
     "gavekal:https://research.gavekal.com/teaser/iran-and-ukraine-after-the-midterms",
     "gavekal:https://research.gavekal.com/teaser/the-french-effect-on-ecb-policy",
-    "gavekal:https://research.gavekal.com/teaser/how-to-get-growth-in-2027"
+    "gavekal:https://research.gavekal.com/teaser/how-to-get-growth-in-2027",
+    "ai-street:https://www.ai-street.co/p/bridgewater-citadel-and-man-group",
+    "bloomberg-odd-lots:a830f773-b13e-4ffb-8e2b-b4f10170ca4e",
+    "apollo:https://www.apolloacademy.com/direct-lending-strong-fundamentals-shifting-dynamics",
+    "bridgewater:https://www.bridgewater.com/research-and-insights/managing-cio-greg-jensen-shares-our-global-outlook",
+    "twosigma:https://www.twosigma.com/articles/over-coffee-with-apac-leader-juan-tan",
+    "gavekal:https://research.gavekal.com/teaser/one-thing-after-another",
+    "gavekal:https://research.gavekal.com/teaser/video-tips-nominals-or-both",
+    "gavekal:https://research.gavekal.com/teaser/who-is-consuming-chinese-tokens"
   ]
 }
