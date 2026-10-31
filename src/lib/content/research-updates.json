@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-10-30T01:41:02.002620+00:00",
+  "lastCheckedAt": "2026-10-31T01:17:10.092890+00:00",
   "listingVersion": 3,
   "sourceChecks": [
     {
@@ -302,6 +302,15 @@
   ],
   "items": [
     {
+      "key": "bloomberg-odd-lots:cbaad2bb-14e3-4e9e-98cf-b4f2015679b2",
+      "sourceId": "bloomberg-odd-lots",
+      "title": "PHP2Shell Won't Be the Last Big AI Cybersecurity Risk",
+      "url": "https://omny.fm/shows/odd-lots/php2shell-wont-be-the-last-big-ai-cybersecurity-risk",
+      "publishedAt": "2026-10-30T08:00:00+00:00",
+      "detectedAt": null,
+      "summary": "Earlier this year, cybersecurity researchers discovered a vulnerability in PHP, an open-source coding language used in roughly 70% of the world's websites, that had been lying dormant for a long time, and if exploited, could have led to disaster. And the researchers only understood the extent of this bug through the use of frontier AI models. Today, we talk to two staffers at Calif (CEO Thai Duong and engineer Bruce Dang), the cybersecurity firm that was among the first to discover the PHP vulnerability. Their firm partners with the major AI labs and neoclouds, and they help these companies te"
+    },
+    {
       "key": "ai-street:https://www.ai-street.co/p/bridgewater-citadel-and-man-group",
       "sourceId": "ai-street",
       "title": "Bridgewater, Citadel and Man Group Flag AI Agent Risks",
@@ -417,6 +426,78 @@
       "publishedAt": "2026-10-15T09:00:00+00:00",
       "detectedAt": null,
       "summary": "Traders and market watchers around the world started talking about a crypto platform called Hyperliquid earlier this year, when speculators used markets built on top of it to trade crude oil after war broke out in Iran. What Hyperliquid allowed for was a 24/7 market on the blockchain. Then in August, President Trump said the CFTC was working on bringing “Hyperliquid into the United States in a fully compliant and legal fashion.” Hyperliquid currently operates outside the US, but that hasn't stopped it from growing prodigiously in the last year. Jeff Yan, CEO and co-founder of Hyperliquid Labs,"
+    },
+    {
+      "key": "goldman:https://www.goldmansachs.com/insights/goldman-sachs-exchanges/why-oil-prices-are-surging-despite-recovering-supply",
+      "sourceId": "goldman",
+      "title": "Exchanges Why Oil Prices Are Surging Despite Recovering Supply Podcast | Oct 23, 2026",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/why-oil-prices-are-surging-despite-recovering-supply",
+      "publishedAt": null,
+      "detectedAt": "2026-10-31T01:17:10.092890+00:00",
+      "summary": ""
+    },
+    {
+      "key": "goldman:https://www.goldmansachs.com/insights/the-markets/how-higher-rates-and-ai-issuance-are-affecting-credit-markets",
+      "sourceId": "goldman",
+      "title": "The Markets How Higher Rates and AI Issuance Are Affecting Credit Markets Podcast | Oct 16, 2026",
+      "url": "https://www.goldmansachs.com/insights/the-markets/how-higher-rates-and-ai-issuance-are-affecting-credit-markets",
+      "publishedAt": null,
+      "detectedAt": "2026-10-31T01:17:10.092890+00:00",
+      "summary": ""
+    },
+    {
+      "key": "goldman:https://www.goldmansachs.com/insights/articles/why-luxury-goods-companies-revenues-are-forecast-to-climb",
+      "sourceId": "goldman",
+      "title": "Markets Why Luxury Goods Companies’ Revenues Are Forecast to Climb Oct 22, 2026",
+      "url": "https://www.goldmansachs.com/insights/articles/why-luxury-goods-companies-revenues-are-forecast-to-climb",
+      "publishedAt": null,
+      "detectedAt": "2026-10-31T01:17:10.092890+00:00",
+      "summary": ""
+    },
+    {
+      "key": "preqin:https://www.preqin.com/insights/research/investor-outlooks/investor-outlook-north-american-private-wealth",
+      "sourceId": "preqin",
+      "title": "Investor Outlook SUBSCRIBER Oct 28, 2026 Investor Outlook: North American private wealth North America-based private wealth investors frequently allocate more than 20% of AUM to private markets, according to our latest ...",
+      "url": "https://www.preqin.com/insights/research/investor-outlooks/investor-outlook-north-american-private-wealth",
+      "publishedAt": null,
+      "detectedAt": "2026-10-31T01:17:10.092890+00:00",
+      "summary": ""
+    },
+    {
+      "key": "cambridge:https://www.cambridgeassociates.com/insight/secondaries-in-private-investment-portfolios-a-framework-for-strategic-allocation",
+      "sourceId": "cambridge",
+      "title": "Secondaries in Private Investment Portfolios: A Framework for Strategic Allocation",
+      "url": "https://www.cambridgeassociates.com/insight/secondaries-in-private-investment-portfolios-a-framework-for-strategic-allocation",
+      "publishedAt": null,
+      "detectedAt": "2026-10-31T01:17:10.092890+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/geoeconomic-monitor-election-season",
+      "sourceId": "gavekal",
+      "title": "Geoeconomic Monitor: Election Season",
+      "url": "https://research.gavekal.com/teaser/geoeconomic-monitor-election-season",
+      "publishedAt": null,
+      "detectedAt": "2026-10-31T01:17:10.092890+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/in-uk-budget-no-news-is-good-news",
+      "sourceId": "gavekal",
+      "title": "In UK Budget, No News Is Good News",
+      "url": "https://research.gavekal.com/teaser/in-uk-budget-no-news-is-good-news",
+      "publishedAt": null,
+      "detectedAt": "2026-10-31T01:17:10.092890+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/anti-corruption-after-the-plenum",
+      "sourceId": "gavekal",
+      "title": "Anti-Corruption After The Plenum",
+      "url": "https://research.gavekal.com/teaser/anti-corruption-after-the-plenum",
+      "publishedAt": null,
+      "detectedAt": "2026-10-31T01:17:10.092890+00:00",
+      "summary": ""
     },
     {
       "key": "apollo:https://www.apolloacademy.com/direct-lending-strong-fundamentals-shifting-dynamics",
@@ -1681,6 +1762,15 @@
     "twosigma:https://www.twosigma.com/articles/over-coffee-with-apac-leader-juan-tan",
     "gavekal:https://research.gavekal.com/teaser/one-thing-after-another",
     "gavekal:https://research.gavekal.com/teaser/video-tips-nominals-or-both",
-    "gavekal:https://research.gavekal.com/teaser/who-is-consuming-chinese-tokens"
+    "gavekal:https://research.gavekal.com/teaser/who-is-consuming-chinese-tokens",
+    "bloomberg-odd-lots:cbaad2bb-14e3-4e9e-98cf-b4f2015679b2",
+    "goldman:https://www.goldmansachs.com/insights/goldman-sachs-exchanges/why-oil-prices-are-surging-despite-recovering-supply",
+    "goldman:https://www.goldmansachs.com/insights/the-markets/how-higher-rates-and-ai-issuance-are-affecting-credit-markets",
+    "goldman:https://www.goldmansachs.com/insights/articles/why-luxury-goods-companies-revenues-are-forecast-to-climb",
+    "preqin:https://www.preqin.com/insights/research/investor-outlooks/investor-outlook-north-american-private-wealth",
+    "cambridge:https://www.cambridgeassociates.com/insight/secondaries-in-private-investment-portfolios-a-framework-for-strategic-allocation",
+    "gavekal:https://research.gavekal.com/teaser/geoeconomic-monitor-election-season",
+    "gavekal:https://research.gavekal.com/teaser/in-uk-budget-no-news-is-good-news",
+    "gavekal:https://research.gavekal.com/teaser/anti-corruption-after-the-plenum"
   ]
 }
