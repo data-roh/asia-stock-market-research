@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-02T01:46:59.791541+00:00",
+  "lastCheckedAt": "2026-11-03T01:22:15.160782+00:00",
   "listingVersion": 3,
   "sourceChecks": [
     {
@@ -302,6 +302,15 @@
   ],
   "items": [
     {
+      "key": "bloomberg-odd-lots:c83156f0-326c-44af-9f49-b4f300fbe7d5",
+      "sourceId": "bloomberg-odd-lots",
+      "title": "The $300 Billion Structured Notes Market Is Booming",
+      "url": "https://omny.fm/shows/odd-lots/the-300-billion-structured-notes-market-is-booming",
+      "publishedAt": "2026-11-02T09:00:00+00:00",
+      "detectedAt": null,
+      "summary": "The structured products business in the US has gotten very large recently — on track to hit $300 billion in sales this year. That they are all the rage means a once opaque financial product is getting a lot more attention. So what are structured products, exactly, and how are they influencing the economy? In short, structured products are basically a fusion of a bank IOU with a derivative product, but that underplays how complex these things are and how they are shaping market dynamics. What is particularly interesting about structured notes is how they've become a stand-in for how investors a"
+    },
+    {
       "key": "bloomberg-odd-lots:cbaad2bb-14e3-4e9e-98cf-b4f2015679b2",
       "sourceId": "bloomberg-odd-lots",
       "title": "PHP2Shell Won't Be the Last Big AI Cybersecurity Risk",
@@ -426,6 +435,60 @@
       "publishedAt": "2026-10-15T09:00:00+00:00",
       "detectedAt": null,
       "summary": "Traders and market watchers around the world started talking about a crypto platform called Hyperliquid earlier this year, when speculators used markets built on top of it to trade crude oil after war broke out in Iran. What Hyperliquid allowed for was a 24/7 market on the blockchain. Then in August, President Trump said the CFTC was working on bringing “Hyperliquid into the United States in a fully compliant and legal fashion.” Hyperliquid currently operates outside the US, but that hasn't stopped it from growing prodigiously in the last year. Jeff Yan, CEO and co-founder of Hyperliquid Labs,"
+    },
+    {
+      "key": "kkr:https://www.kkr.com/wealth/insights/asia-pacific-infrastructure-investing-myths",
+      "sourceId": "kkr",
+      "title": "Investment Insights Investing in Asia Pacific Infrastructure: Debunking Common Misconceptions November 2026",
+      "url": "https://www.kkr.com/wealth/insights/asia-pacific-infrastructure-investing-myths",
+      "publishedAt": null,
+      "detectedAt": "2026-11-03T01:22:15.160782+00:00",
+      "summary": ""
+    },
+    {
+      "key": "bridgewater:https://www.bridgewater.com/in-the-news/writing-the-next-textbook-nir-bar-dea-on-meritocracy-ai-and-building-a-firm-of-learners",
+      "sourceId": "bridgewater",
+      "title": "Writing the Next Textbook: Nir Bar Dea on Meritocracy, AI, and Building a Firm of Learners",
+      "url": "https://www.bridgewater.com/in-the-news/writing-the-next-textbook-nir-bar-dea-on-meritocracy-ai-and-building-a-firm-of-learners",
+      "publishedAt": null,
+      "detectedAt": "2026-11-03T01:22:15.160782+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/trying-to-save-the-slow-bull-market",
+      "sourceId": "gavekal",
+      "title": "Trying To Save The Slow Bull Market",
+      "url": "https://research.gavekal.com/teaser/trying-to-save-the-slow-bull-market",
+      "publishedAt": null,
+      "detectedAt": "2026-11-03T01:22:15.160782+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/france-the-us-and-the-golden-rule",
+      "sourceId": "gavekal",
+      "title": "France, The US, And The Golden Rule",
+      "url": "https://research.gavekal.com/teaser/france-the-us-and-the-golden-rule",
+      "publishedAt": null,
+      "detectedAt": "2026-11-03T01:22:15.160782+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/the-case-for-more-mega-cap-outperformance",
+      "sourceId": "gavekal",
+      "title": "The Case For More Mega-Cap Outperformance",
+      "url": "https://research.gavekal.com/teaser/the-case-for-more-mega-cap-outperformance",
+      "publishedAt": null,
+      "detectedAt": "2026-11-03T01:22:15.160782+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/how-wuxi-apptec-stayed-sanction-proof",
+      "sourceId": "gavekal",
+      "title": "How Wuxi AppTec Stayed Sanction-Proof Tom Hancock",
+      "url": "https://research.gavekal.com/teaser/how-wuxi-apptec-stayed-sanction-proof",
+      "publishedAt": null,
+      "detectedAt": "2026-11-03T01:22:15.160782+00:00",
+      "summary": ""
     },
     {
       "key": "goldman:https://www.goldmansachs.com/insights/goldman-sachs-exchanges/why-oil-prices-are-surging-despite-recovering-supply",
@@ -1771,6 +1834,13 @@
     "cambridge:https://www.cambridgeassociates.com/insight/secondaries-in-private-investment-portfolios-a-framework-for-strategic-allocation",
     "gavekal:https://research.gavekal.com/teaser/geoeconomic-monitor-election-season",
     "gavekal:https://research.gavekal.com/teaser/in-uk-budget-no-news-is-good-news",
-    "gavekal:https://research.gavekal.com/teaser/anti-corruption-after-the-plenum"
+    "gavekal:https://research.gavekal.com/teaser/anti-corruption-after-the-plenum",
+    "bloomberg-odd-lots:c83156f0-326c-44af-9f49-b4f300fbe7d5",
+    "kkr:https://www.kkr.com/wealth/insights/asia-pacific-infrastructure-investing-myths",
+    "bridgewater:https://www.bridgewater.com/in-the-news/writing-the-next-textbook-nir-bar-dea-on-meritocracy-ai-and-building-a-firm-of-learners",
+    "gavekal:https://research.gavekal.com/teaser/trying-to-save-the-slow-bull-market",
+    "gavekal:https://research.gavekal.com/teaser/france-the-us-and-the-golden-rule",
+    "gavekal:https://research.gavekal.com/teaser/the-case-for-more-mega-cap-outperformance",
+    "gavekal:https://research.gavekal.com/teaser/how-wuxi-apptec-stayed-sanction-proof"
   ]
 }
