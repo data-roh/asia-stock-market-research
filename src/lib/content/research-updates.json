@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-03T01:45:18.111773+00:00",
+  "lastCheckedAt": "2026-11-04T01:22:51.550612+00:00",
   "listingVersion": 3,
   "sourceChecks": [
     {
@@ -302,6 +302,24 @@
   ],
   "items": [
     {
+      "key": "ai-street:https://www.ai-street.co/p/citadel-securities-develops-ai-agents",
+      "sourceId": "ai-street",
+      "title": "Citadel Securities Develops AI Agents with Clients",
+      "url": "https://www.ai-street.co/p/citadel-securities-develops-ai-agents",
+      "publishedAt": "2026-11-03T16:31:38+00:00",
+      "detectedAt": null,
+      "summary": "The market maker is helping clients develop AI agents in what could become the AI equivalent of customizing trading algorithms, says Kevin McPartland.\"Agentic is the new algo.\""
+    },
+    {
+      "key": "bloomberg-odd-lots:8d41f02c-cfbb-4d5d-9940-b4f6012379c2",
+      "sourceId": "bloomberg-odd-lots",
+      "title": "An Election Day Special With Nate Silver",
+      "url": "https://omny.fm/shows/odd-lots/an-election-day-special-with-nate-silver",
+      "publishedAt": "2026-11-03T09:00:00+00:00",
+      "detectedAt": null,
+      "summary": "Nate Silver tells us he is calling this midterms the “rock and a hard place election” — the background conditions are great for Democrats to win both the House and the Senate, but for that to come to pass, the party has to pull off some things that haven't happened in generations, like winning Texas. To believe that will happen requires a certain leap of faith, which is anathema to pollsters. Still, the polls generally believe Democrats are favored, but many professional pollsters would end up with egg on their face if the night does not go that way. Silver — the founder of Silver Bulletin — j"
+    },
+    {
       "key": "bloomberg-odd-lots:c83156f0-326c-44af-9f49-b4f300fbe7d5",
       "sourceId": "bloomberg-odd-lots",
       "title": "The $300 Billion Structured Notes Market Is Booming",
@@ -435,6 +453,33 @@
       "publishedAt": "2026-10-15T09:00:00+00:00",
       "detectedAt": null,
       "summary": "Traders and market watchers around the world started talking about a crypto platform called Hyperliquid earlier this year, when speculators used markets built on top of it to trade crude oil after war broke out in Iran. What Hyperliquid allowed for was a 24/7 market on the blockchain. Then in August, President Trump said the CFTC was working on bringing “Hyperliquid into the United States in a fully compliant and legal fashion.” Hyperliquid currently operates outside the US, but that hasn't stopped it from growing prodigiously in the last year. Jeff Yan, CEO and co-founder of Hyperliquid Labs,"
+    },
+    {
+      "key": "preqin:https://www.preqin.com/insights/research/reports/european-private-markets-in-2026",
+      "sourceId": "preqin",
+      "title": "Regional Report SUBSCRIBER Nov 3, 2026 European Private Markets in 2026 In our annual review of the European private capital market, we examine fundraising and deal-making trends as they relate to inves...",
+      "url": "https://www.preqin.com/insights/research/reports/european-private-markets-in-2026",
+      "publishedAt": null,
+      "detectedAt": "2026-11-04T01:22:51.550612+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/macro-update-running-on-exports",
+      "sourceId": "gavekal",
+      "title": "Macro Update: Running On Exports",
+      "url": "https://research.gavekal.com/teaser/macro-update-running-on-exports",
+      "publishedAt": null,
+      "detectedAt": "2026-11-04T01:22:51.550612+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/a-silver-lining-or-a-shovel",
+      "sourceId": "gavekal",
+      "title": "A Silver Lining Or A Shovel?",
+      "url": "https://research.gavekal.com/teaser/a-silver-lining-or-a-shovel",
+      "publishedAt": null,
+      "detectedAt": "2026-11-04T01:22:51.550612+00:00",
+      "summary": ""
     },
     {
       "key": "kkr:https://www.kkr.com/wealth/insights/asia-pacific-infrastructure-investing-myths",
@@ -1841,6 +1886,11 @@
     "gavekal:https://research.gavekal.com/teaser/trying-to-save-the-slow-bull-market",
     "gavekal:https://research.gavekal.com/teaser/france-the-us-and-the-golden-rule",
     "gavekal:https://research.gavekal.com/teaser/the-case-for-more-mega-cap-outperformance",
-    "gavekal:https://research.gavekal.com/teaser/how-wuxi-apptec-stayed-sanction-proof"
+    "gavekal:https://research.gavekal.com/teaser/how-wuxi-apptec-stayed-sanction-proof",
+    "ai-street:https://www.ai-street.co/p/citadel-securities-develops-ai-agents",
+    "bloomberg-odd-lots:8d41f02c-cfbb-4d5d-9940-b4f6012379c2",
+    "preqin:https://www.preqin.com/insights/research/reports/european-private-markets-in-2026",
+    "gavekal:https://research.gavekal.com/teaser/macro-update-running-on-exports",
+    "gavekal:https://research.gavekal.com/teaser/a-silver-lining-or-a-shovel"
   ]
 }
