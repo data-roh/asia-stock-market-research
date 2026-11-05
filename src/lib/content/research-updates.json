@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-04T01:44:00.880321+00:00",
+  "lastCheckedAt": "2026-11-05T01:24:54.693731+00:00",
   "listingVersion": 3,
   "sourceChecks": [
     {
@@ -453,6 +453,51 @@
       "publishedAt": "2026-10-15T09:00:00+00:00",
       "detectedAt": null,
       "summary": "Traders and market watchers around the world started talking about a crypto platform called Hyperliquid earlier this year, when speculators used markets built on top of it to trade crude oil after war broke out in Iran. What Hyperliquid allowed for was a 24/7 market on the blockchain. Then in August, President Trump said the CFTC was working on bringing “Hyperliquid into the United States in a fully compliant and legal fashion.” Hyperliquid currently operates outside the US, but that hasn't stopped it from growing prodigiously in the last year. Jeff Yan, CEO and co-founder of Hyperliquid Labs,"
+    },
+    {
+      "key": "lseg:https://www.lseg.com/en/insights/ftse-russell/looking-ahead-to-the-december-2026-russell-us-indexes-reconstitution",
+      "sourceId": "lseg",
+      "title": "Markets & Economy Looking ahead to the December 2026 Russell US Indexes reconstitution With the next Russell US Indexes reconstitution coming up, explore the key dates, market trends and more. October 26, 2026 • Catherine Yoshimoto • 7 min",
+      "url": "https://www.lseg.com/en/insights/ftse-russell/looking-ahead-to-the-december-2026-russell-us-indexes-reconstitution",
+      "publishedAt": null,
+      "detectedAt": "2026-11-05T01:24:54.693731+00:00",
+      "summary": ""
+    },
+    {
+      "key": "lseg:https://www.lseg.com/en/insights/ftse-russell/mapping-circular-financing-in-ai-does-it-add-Instability",
+      "sourceId": "lseg",
+      "title": "Markets & Economy Mapping circular financing in AI: Does it add instability? October 21, 2026 • 8 min",
+      "url": "https://www.lseg.com/en/insights/ftse-russell/mapping-circular-financing-in-ai-does-it-add-Instability",
+      "publishedAt": null,
+      "detectedAt": "2026-11-05T01:24:54.693731+00:00",
+      "summary": ""
+    },
+    {
+      "key": "lseg:https://www.lseg.com/en/insights/ftse-russell/gotta-grow-em-all-japans-growth-strategy",
+      "sourceId": "lseg",
+      "title": "Markets & Economy Gotta grow ’em all: Japan’s growth strategy October 21, 2026 • 8 min",
+      "url": "https://www.lseg.com/en/insights/ftse-russell/gotta-grow-em-all-japans-growth-strategy",
+      "publishedAt": null,
+      "detectedAt": "2026-11-05T01:24:54.693731+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/a-blue-congress-mr-veto-and-a-treasury-twist",
+      "sourceId": "gavekal",
+      "title": "A Blue Congress, Mr. Veto And A Treasury Twist",
+      "url": "https://research.gavekal.com/teaser/a-blue-congress-mr-veto-and-a-treasury-twist",
+      "publishedAt": null,
+      "detectedAt": "2026-11-05T01:24:54.693731+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/more-binary-risks-in-a-world-of-binary-choices",
+      "sourceId": "gavekal",
+      "title": "More Binary Risks In A World Of Binary Choices",
+      "url": "https://research.gavekal.com/teaser/more-binary-risks-in-a-world-of-binary-choices",
+      "publishedAt": null,
+      "detectedAt": "2026-11-05T01:24:54.693731+00:00",
+      "summary": ""
     },
     {
       "key": "preqin:https://www.preqin.com/insights/research/reports/european-private-markets-in-2026",
@@ -1891,6 +1936,11 @@
     "bloomberg-odd-lots:8d41f02c-cfbb-4d5d-9940-b4f6012379c2",
     "preqin:https://www.preqin.com/insights/research/reports/european-private-markets-in-2026",
     "gavekal:https://research.gavekal.com/teaser/macro-update-running-on-exports",
-    "gavekal:https://research.gavekal.com/teaser/a-silver-lining-or-a-shovel"
+    "gavekal:https://research.gavekal.com/teaser/a-silver-lining-or-a-shovel",
+    "lseg:https://www.lseg.com/en/insights/ftse-russell/looking-ahead-to-the-december-2026-russell-us-indexes-reconstitution",
+    "lseg:https://www.lseg.com/en/insights/ftse-russell/mapping-circular-financing-in-ai-does-it-add-Instability",
+    "lseg:https://www.lseg.com/en/insights/ftse-russell/gotta-grow-em-all-japans-growth-strategy",
+    "gavekal:https://research.gavekal.com/teaser/a-blue-congress-mr-veto-and-a-treasury-twist",
+    "gavekal:https://research.gavekal.com/teaser/more-binary-risks-in-a-world-of-binary-choices"
   ]
 }
