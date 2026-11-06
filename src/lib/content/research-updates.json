@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-05T01:52:38.578381+00:00",
+  "lastCheckedAt": "2026-11-06T01:27:42.810111+00:00",
   "listingVersion": 3,
   "sourceChecks": [
     {
@@ -302,6 +302,24 @@
   ],
   "items": [
     {
+      "key": "ai-street:https://www.ai-street.co/p/occ-sets-priorities-for-ai-exams",
+      "sourceId": "ai-street",
+      "title": "OCC Sets Priorities for AI Exams",
+      "url": "https://www.ai-street.co/p/occ-sets-priorities-for-ai-exams",
+      "publishedAt": "2026-11-05T16:30:54+00:00",
+      "detectedAt": null,
+      "summary": "Regulators question who controls AI agents, Schwab holds back on agentic account actions and Goldman limits coding tools."
+    },
+    {
+      "key": "bloomberg-odd-lots:468e99b6-7c28-4fc4-86d7-b4f8016f319d",
+      "sourceId": "bloomberg-odd-lots",
+      "title": "James Bosworth on What Comes After Lula's Stunning Win",
+      "url": "https://omny.fm/shows/odd-lots/james-bosworth-on-what-comes-after-lulas-stunning-win",
+      "publishedAt": "2026-11-05T09:00:00+00:00",
+      "detectedAt": null,
+      "summary": "When we last talked to James Bosworth, it seemed like an “orange wave” was going to take over Latin America and further realign the region’s interests with those of the Trump administration. But with Luiz Inacio Lula da Silva’s surprise victory in Brazil’s presidential election last month, and opposition leader María Corina Machado’s return to Venezuela, it now looks like the orange wave might be cresting. Bosworth — a non-resident fellow at the Stimson Center and the author of the Latin America Risk Report newsletter — comes back to the show to explain how Lula pulled off his upset win over F"
+    },
+    {
       "key": "ai-street:https://www.ai-street.co/p/citadel-securities-develops-ai-agents",
       "sourceId": "ai-street",
       "title": "Citadel Securities Develops AI Agents with Clients",
@@ -453,6 +471,96 @@
       "publishedAt": "2026-10-15T09:00:00+00:00",
       "detectedAt": null,
       "summary": "Traders and market watchers around the world started talking about a crypto platform called Hyperliquid earlier this year, when speculators used markets built on top of it to trade crude oil after war broke out in Iran. What Hyperliquid allowed for was a 24/7 market on the blockchain. Then in August, President Trump said the CFTC was working on bringing “Hyperliquid into the United States in a fully compliant and legal fashion.” Hyperliquid currently operates outside the US, but that hasn't stopped it from growing prodigiously in the last year. Jeff Yan, CEO and co-founder of Hyperliquid Labs,"
+    },
+    {
+      "key": "kkr:https://www.kkr.com/wealth/insights/arctos-sports-media-update-2026",
+      "sourceId": "kkr",
+      "title": "Investment Insights 2026 Sports Media Update November 2026",
+      "url": "https://www.kkr.com/wealth/insights/arctos-sports-media-update-2026",
+      "publishedAt": null,
+      "detectedAt": "2026-11-06T01:27:42.810111+00:00",
+      "summary": ""
+    },
+    {
+      "key": "goldman:https://www.goldmansachs.com/insights/goldman-sachs-exchanges/goldman-sachs-chairman-and-ceo-david-solomon-on-ai-implementation-accountability-and-jobs",
+      "sourceId": "goldman",
+      "title": "Exchanges Goldman Sachs Chairman and CEO David Solomon on AI: Implementation, Accountability, and Jobs Podcast | Oct 27, 2026",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/goldman-sachs-chairman-and-ceo-david-solomon-on-ai-implementation-accountability-and-jobs",
+      "publishedAt": null,
+      "detectedAt": "2026-11-06T01:27:42.810111+00:00",
+      "summary": ""
+    },
+    {
+      "key": "goldman:https://www.goldmansachs.com/insights/talks-at-gs/dimensionals-david-booth-on-how-to-interpret-risk-and-stay-calm-amid-uncertainty",
+      "sourceId": "goldman",
+      "title": "16:42 Talks at GS Dimensional’s David Booth on How to Interpret Risk and 'Stay Calm' Amid Uncertainty Video | Oct 28, 2026",
+      "url": "https://www.goldmansachs.com/insights/talks-at-gs/dimensionals-david-booth-on-how-to-interpret-risk-and-stay-calm-amid-uncertainty",
+      "publishedAt": null,
+      "detectedAt": "2026-11-06T01:27:42.810111+00:00",
+      "summary": ""
+    },
+    {
+      "key": "goldman:https://www.goldmansachs.com/insights/articles/how-small-business-owners-are-using-ai-to-help-propel-growth",
+      "sourceId": "goldman",
+      "title": "Artificial Intelligence How Small Business Owners Are Using AI to Help Propel Growth Oct 22, 2026",
+      "url": "https://www.goldmansachs.com/insights/articles/how-small-business-owners-are-using-ai-to-help-propel-growth",
+      "publishedAt": null,
+      "detectedAt": "2026-11-06T01:27:42.810111+00:00",
+      "summary": ""
+    },
+    {
+      "key": "goldman:https://www.goldmansachs.com/insights/articles/the-security-supercycle-investing-in-innovation-resilience-and-rearmament",
+      "sourceId": "goldman",
+      "title": "Geopolitics The Security Supercycle: Investing in Innovation, Resilience, and Rearmament Oct 29, 2026",
+      "url": "https://www.goldmansachs.com/insights/articles/the-security-supercycle-investing-in-innovation-resilience-and-rearmament",
+      "publishedAt": null,
+      "detectedAt": "2026-11-06T01:27:42.810111+00:00",
+      "summary": ""
+    },
+    {
+      "key": "goldman:https://www.goldmansachs.com/insights/articles/the-outlook-for-us-housing-in-2027-amid-rising-mortgage-rates",
+      "sourceId": "goldman",
+      "title": "Real Estate & Housing The Outlook for US Housing in 2027 amid Rising Mortgage Rates Oct 30, 2026",
+      "url": "https://www.goldmansachs.com/insights/articles/the-outlook-for-us-housing-in-2027-amid-rising-mortgage-rates",
+      "publishedAt": null,
+      "detectedAt": "2026-11-06T01:27:42.810111+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/video-investment-narratives-after-the-midterms",
+      "sourceId": "gavekal",
+      "title": "Video: Investment Narratives After The Midterms",
+      "url": "https://research.gavekal.com/teaser/video-investment-narratives-after-the-midterms",
+      "publishedAt": null,
+      "detectedAt": "2026-11-06T01:27:42.810111+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/the-social-stability-question",
+      "sourceId": "gavekal",
+      "title": "The Social Stability Question",
+      "url": "https://research.gavekal.com/teaser/the-social-stability-question",
+      "publishedAt": null,
+      "detectedAt": "2026-11-06T01:27:42.810111+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/what-the-midterms-mean-for-china",
+      "sourceId": "gavekal",
+      "title": "What The Midterms Mean For China",
+      "url": "https://research.gavekal.com/teaser/what-the-midterms-mean-for-china",
+      "publishedAt": null,
+      "detectedAt": "2026-11-06T01:27:42.810111+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/chinas-ai-race-uss-aidc-debate",
+      "sourceId": "gavekal",
+      "title": "China’s AI Race, US’s AIDC Debate Laila Khawaja, Arthur Kroeber",
+      "url": "https://research.gavekal.com/teaser/chinas-ai-race-uss-aidc-debate",
+      "publishedAt": null,
+      "detectedAt": "2026-11-06T01:27:42.810111+00:00",
+      "summary": ""
     },
     {
       "key": "lseg:https://www.lseg.com/en/insights/ftse-russell/looking-ahead-to-the-december-2026-russell-us-indexes-reconstitution",
@@ -1941,6 +2049,18 @@
     "lseg:https://www.lseg.com/en/insights/ftse-russell/mapping-circular-financing-in-ai-does-it-add-Instability",
     "lseg:https://www.lseg.com/en/insights/ftse-russell/gotta-grow-em-all-japans-growth-strategy",
     "gavekal:https://research.gavekal.com/teaser/a-blue-congress-mr-veto-and-a-treasury-twist",
-    "gavekal:https://research.gavekal.com/teaser/more-binary-risks-in-a-world-of-binary-choices"
+    "gavekal:https://research.gavekal.com/teaser/more-binary-risks-in-a-world-of-binary-choices",
+    "ai-street:https://www.ai-street.co/p/occ-sets-priorities-for-ai-exams",
+    "bloomberg-odd-lots:468e99b6-7c28-4fc4-86d7-b4f8016f319d",
+    "kkr:https://www.kkr.com/wealth/insights/arctos-sports-media-update-2026",
+    "goldman:https://www.goldmansachs.com/insights/goldman-sachs-exchanges/goldman-sachs-chairman-and-ceo-david-solomon-on-ai-implementation-accountability-and-jobs",
+    "goldman:https://www.goldmansachs.com/insights/talks-at-gs/dimensionals-david-booth-on-how-to-interpret-risk-and-stay-calm-amid-uncertainty",
+    "goldman:https://www.goldmansachs.com/insights/articles/how-small-business-owners-are-using-ai-to-help-propel-growth",
+    "goldman:https://www.goldmansachs.com/insights/articles/the-security-supercycle-investing-in-innovation-resilience-and-rearmament",
+    "goldman:https://www.goldmansachs.com/insights/articles/the-outlook-for-us-housing-in-2027-amid-rising-mortgage-rates",
+    "gavekal:https://research.gavekal.com/teaser/video-investment-narratives-after-the-midterms",
+    "gavekal:https://research.gavekal.com/teaser/the-social-stability-question",
+    "gavekal:https://research.gavekal.com/teaser/what-the-midterms-mean-for-china",
+    "gavekal:https://research.gavekal.com/teaser/chinas-ai-race-uss-aidc-debate"
   ]
 }
