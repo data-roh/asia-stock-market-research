@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-06T01:52:06.661790+00:00",
+  "lastCheckedAt": "2026-11-07T01:17:11.637120+00:00",
   "listingVersion": 3,
   "sourceChecks": [
     {
@@ -302,6 +302,15 @@
   ],
   "items": [
     {
+      "key": "bloomberg-odd-lots:c08d0fcd-1882-43f3-a1e0-b4f9015cfb5c",
+      "sourceId": "bloomberg-odd-lots",
+      "title": "The Macro Implications of the Blue Tsunami",
+      "url": "https://omny.fm/shows/odd-lots/the-macro-implications-of-the-blue-tsunami",
+      "publishedAt": "2026-11-06T09:00:00+00:00",
+      "detectedAt": null,
+      "summary": "We don't need to tell you that the midterm elections were historic: The Democrats won bigger than even they imagined. But as the dust settles, an open question we are puzzling over is the market's ongoing reaction to this massive political sea change. Democratic control of Congress — and control over a number of formerly red statehouses, like Texas and Iowa — will influence everything from the composition of the FOMC to data center construction. And what we're seeing right now, with stocks like Tesla and SpaceX tumbling, is a direct response to these conditions. To get a better sense of this m"
+    },
+    {
       "key": "ai-street:https://www.ai-street.co/p/occ-sets-priorities-for-ai-exams",
       "sourceId": "ai-street",
       "title": "OCC Sets Priorities for AI Exams",
@@ -345,6 +354,15 @@
       "publishedAt": "2026-11-02T09:00:00+00:00",
       "detectedAt": null,
       "summary": "The structured products business in the US has gotten very large recently — on track to hit $300 billion in sales this year. That they are all the rage means a once opaque financial product is getting a lot more attention. So what are structured products, exactly, and how are they influencing the economy? In short, structured products are basically a fusion of a bank IOU with a derivative product, but that underplays how complex these things are and how they are shaping market dynamics. What is particularly interesting about structured notes is how they've become a stand-in for how investors a"
+    },
+    {
+      "key": "jane-street:https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
+      "sourceId": "jane-street",
+      "title": "Our software engineering interviews are changing (a little)",
+      "url": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
+      "publishedAt": "2026-11-02T00:00:00+00:00",
+      "detectedAt": null,
+      "summary": "Over the last few years, LLMs have changed how software gets built and that’s no different for us at Jane Street. Most of our engineers now use them every day not only for writing code, but also for reading, debugging, and reviewing code, and plenty of things that aren’t code at all."
     },
     {
       "key": "bloomberg-odd-lots:cbaad2bb-14e3-4e9e-98cf-b4f2015679b2",
@@ -471,6 +489,51 @@
       "publishedAt": "2026-10-15T09:00:00+00:00",
       "detectedAt": null,
       "summary": "Traders and market watchers around the world started talking about a crypto platform called Hyperliquid earlier this year, when speculators used markets built on top of it to trade crude oil after war broke out in Iran. What Hyperliquid allowed for was a 24/7 market on the blockchain. Then in August, President Trump said the CFTC was working on bringing “Hyperliquid into the United States in a fully compliant and legal fashion.” Hyperliquid currently operates outside the US, but that hasn't stopped it from growing prodigiously in the last year. Jeff Yan, CEO and co-founder of Hyperliquid Labs,"
+    },
+    {
+      "key": "acadian:https://www.acadian-asset.com/investment-insights/equities/ai-in-systematic-investing-continuity-and-transformation",
+      "sourceId": "acadian",
+      "title": "AI in Systematic Investing: Continuity and Transformation",
+      "url": "https://www.acadian-asset.com/investment-insights/equities/ai-in-systematic-investing-continuity-and-transformation",
+      "publishedAt": null,
+      "detectedAt": "2026-11-07T01:17:11.637120+00:00",
+      "summary": ""
+    },
+    {
+      "key": "acadian:https://www.acadian-asset.com/investment-insights/credit/corporate-credit-and-the-institutional-portfolio-reasserting-first-principles",
+      "sourceId": "acadian",
+      "title": "Corporate Credit and the Institutional Portfolio: Reasserting First Principles",
+      "url": "https://www.acadian-asset.com/investment-insights/credit/corporate-credit-and-the-institutional-portfolio-reasserting-first-principles",
+      "publishedAt": null,
+      "detectedAt": "2026-11-07T01:17:11.637120+00:00",
+      "summary": ""
+    },
+    {
+      "key": "kkr:https://www.kkr.com/wealth/insights/asias-private-capital-opportunity",
+      "sourceId": "kkr",
+      "title": "Investment Insights The Mega Themes Driving Asia’s (Still) Untapped Private Capital Opportunity November 2026",
+      "url": "https://www.kkr.com/wealth/insights/asias-private-capital-opportunity",
+      "publishedAt": null,
+      "detectedAt": "2026-11-07T01:17:11.637120+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/is-japans-repatriation-wave-starting",
+      "sourceId": "gavekal",
+      "title": "Is Japan’s Repatriation Wave Starting?",
+      "url": "https://research.gavekal.com/teaser/is-japans-repatriation-wave-starting",
+      "publishedAt": null,
+      "detectedAt": "2026-11-07T01:17:11.637120+00:00",
+      "summary": ""
+    },
+    {
+      "key": "gavekal:https://research.gavekal.com/teaser/webinar-divergence-and-dynamism-in-chinas-economy",
+      "sourceId": "gavekal",
+      "title": "Webinar: Divergence And Dynamism In China's Economy",
+      "url": "https://research.gavekal.com/teaser/webinar-divergence-and-dynamism-in-chinas-economy",
+      "publishedAt": null,
+      "detectedAt": "2026-11-07T01:17:11.637120+00:00",
+      "summary": ""
     },
     {
       "key": "kkr:https://www.kkr.com/wealth/insights/arctos-sports-media-update-2026",
@@ -2061,6 +2124,13 @@
     "gavekal:https://research.gavekal.com/teaser/video-investment-narratives-after-the-midterms",
     "gavekal:https://research.gavekal.com/teaser/the-social-stability-question",
     "gavekal:https://research.gavekal.com/teaser/what-the-midterms-mean-for-china",
-    "gavekal:https://research.gavekal.com/teaser/chinas-ai-race-uss-aidc-debate"
+    "gavekal:https://research.gavekal.com/teaser/chinas-ai-race-uss-aidc-debate",
+    "jane-street:https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
+    "bloomberg-odd-lots:c08d0fcd-1882-43f3-a1e0-b4f9015cfb5c",
+    "acadian:https://www.acadian-asset.com/investment-insights/equities/ai-in-systematic-investing-continuity-and-transformation",
+    "acadian:https://www.acadian-asset.com/investment-insights/credit/corporate-credit-and-the-institutional-portfolio-reasserting-first-principles",
+    "kkr:https://www.kkr.com/wealth/insights/asias-private-capital-opportunity",
+    "gavekal:https://research.gavekal.com/teaser/is-japans-repatriation-wave-starting",
+    "gavekal:https://research.gavekal.com/teaser/webinar-divergence-and-dynamism-in-chinas-economy"
   ]
 }
