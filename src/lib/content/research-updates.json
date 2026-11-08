@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-08T15:53:00.965127+00:00",
+  "lastCheckedAt": "2026-11-08T16:32:54.290526+00:00",
   "listingVersion": 3,
   "sourceChecks": [
     {
@@ -1040,6 +1040,7 @@
       "summary": ""
     }
   ],
+  "pendingVerificationKeys": [],
   "seen": [
     "bloomberg-odd-lots:f6fd1a43-7c77-47c2-ae42-b4e0016e2d9b",
     "bloomberg-odd-lots:f49c2ca3-dfe7-4a67-bc11-b4dd01463f66",
