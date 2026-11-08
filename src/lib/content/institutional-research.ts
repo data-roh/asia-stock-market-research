@@ -22,6 +22,7 @@ export const researchSources: ResearchSource[] = [
 	{ id: 'blackrock', name: 'BlackRock Investment Institute', url: 'https://www.blackrock.com/corporate/insights/blackrock-investment-institute', description: 'Global macro, asset allocation, market themes and portfolio implications.', cadence: 'Weekly and occasional' },
 	{ id: 'jpm', name: 'J.P. Morgan Asset Management · Market Insights', url: 'https://am.jpmorgan.com/hk/en/asset-management/per/insights/market-insights/', description: 'Market commentary and multi-asset context; the Guide to the Markets is a useful chart library.', cadence: 'Weekly and quarterly' },
 	{ id: 'jpm-weekly', name: 'J.P. Morgan · Weekly Market Recaps', url: 'https://am.jpmorgan.com/wr/en/asset-management/institutional/insights/market-insights/market-updates/', description: 'Concise summaries of recent market and macro developments.', cadence: 'Weekly' },
+	{ id: 'jpm-eotm', name: 'J.P. Morgan Private Bank · Eye on the Market', url: 'https://privatebank.jpmorgan.com/nam/en/insights/markets-and-investing/eye-on-the-market', description: 'Michael Cembalest’s long-running investment and markets series, spanning economics, policy, markets and other themes.', cadence: 'Monthly and occasional' },
 	{ id: 'kkr', name: 'KKR · Insights', url: 'https://www.kkr.com/wealth/insights', description: 'Private equity, private credit, real assets, global macro and asset allocation.', cadence: 'Occasional' },
 	{ id: 'alphasense', name: 'AlphaSense · Resources', url: 'https://www.alpha-sense.com/resources/', description: 'Public thematic research connecting earnings calls, company disclosures and sector trends.', cadence: 'Occasional', access: 'The platform is paid; some public research is available.' },
 	{ id: 'bridgewater', name: 'Bridgewater · Research & Insights', url: 'https://www.bridgewater.com/research-and-insights', description: 'Global macro, economic regimes, policy and cross-asset relationships.', cadence: 'Occasional' },
@@ -49,6 +50,9 @@ export const researchSources: ResearchSource[] = [
 	{ id: 'spglobal', name: 'S&P Global Market Intelligence', url: 'https://www.spglobal.com/marketintelligence/en/news-insights', description: 'Company data, credit markets and industry developments.', cadence: 'Occasional' },
 	{ id: 'cboe', name: 'Cboe · Insights', url: 'https://www.cboe.com/insights/', description: 'Options, volatility and market structure.', cadence: 'Occasional' },
 	{ id: 'cme', name: 'CME Group · Featured Reports', url: 'https://www.cmegroup.com/education/featured-reports.html', description: 'Futures, positioning, interest rates and commodities.', cadence: 'Occasional' },
+	{ id: 'bis-research', name: 'BIS · Research', url: 'https://www.bis.org/publications/research', description: 'Research on monetary and financial stability, global financial conditions and links between the real economy and finance.', cadence: 'Occasional' },
+	{ id: 'imf-weo', name: 'IMF · World Economic Outlook', url: 'https://www.imf.org/en/publications/weo', description: 'Twice-yearly global economic projections and analysis, with updates between editions.', cadence: 'Twice yearly and updates' },
+	{ id: 'fred', name: 'Federal Reserve Bank of St. Louis · FRED', url: 'https://fred.stlouisfed.org/', description: 'Searchable economic and financial time series, including historical data vintages through ALFRED.', cadence: 'Continuously updated' },
 	{ id: 'lseg', name: 'LSEG · Insights', url: 'https://www.lseg.com/en/insights', description: 'Capital markets, financial data and investment analysis.', cadence: 'Occasional' },
 	{ id: 'nasdaq', name: 'Nasdaq · Market Articles', url: 'https://www.nasdaq.com/articles', description: 'ETFs, capital markets, companies and trading.', cadence: 'Occasional' },
 	{ id: 'nomura', name: 'Nomura · Nomura Connects', url: 'https://www.nomuraconnects.com/', description: 'Asian macro, Japan and investment strategy.', cadence: 'Occasional' },
@@ -87,7 +91,7 @@ export const researchSourceGroups: ResearchSourceGroup[] = [
 	{
 		title: 'Wealth management & global macro',
 		description: 'Read market developments through the lens of portfolio construction, asset allocation and macro regimes.',
-		sourceIds: ['goldman-top', 'goldman', 'jpm', 'jpm-weekly', 'blackrock', 'ubs', 'pimco', 'vanguard']
+		sourceIds: ['goldman-top', 'goldman', 'jpm', 'jpm-weekly', 'jpm-eotm', 'blackrock', 'ubs', 'pimco', 'vanguard', 'bis-research', 'imf-weo', 'fred']
 	},
 	{
 		title: 'Private markets',
@@ -103,7 +107,7 @@ export const researchSourceGroups: ResearchSourceGroup[] = [
 	{
 		title: 'Asia markets',
 		description: 'Add regional context on Korea, Japan, China, Taiwan and broader Asia to research that often centers on the United States.',
-		sourceIds: ['nomura', 'nikko', 'eastspring', 'gavekal', 'adb']
+		sourceIds: ['nomura', 'nikko', 'eastspring', 'gavekal', 'adb', 'bis-research', 'imf-weo']
 	}
 ];
 
