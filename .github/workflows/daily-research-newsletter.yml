@@ -23,17 +23,33 @@ jobs:
         uses: actions/setup-python@v6
         with:
           python-version: '3.12'
+      - name: Install research radar browser
+        run: |
+          python -m pip install -r requirements-radar.txt
+          python -m playwright install --with-deps chromium
       - name: Restore private scan state
         uses: actions/cache/restore@v4
         with:
           path: .state/research-updates.json
           key: research-updates-${{ github.run_id }}
           restore-keys: research-updates-
+      - name: Restore radar email state
+        uses: actions/cache/restore@v4
+        with:
+          path: .state/research-radar-email.json
+          key: research-radar-email-${{ github.run_id }}
+          restore-keys: research-radar-email-
       - name: Scan public research sources
         id: scan
         env:
           RESEARCH_UPDATES_PATH: .state/research-updates.json
         run: python pipeline/scan_research_updates.py
+      - name: Verify Phase 1 research candidates
+        id: verify
+        if: steps.scan.outcome == 'success'
+        env:
+          RESEARCH_UPDATES_PATH: .state/research-updates.json
+        run: python pipeline/verify_research_updates.py
       - name: Build and send email digest
         env:
           RESEARCH_UPDATES_PATH: .state/research-updates.json
@@ -58,6 +74,27 @@ jobs:
           RESEARCH_UPDATES_PATH: .state/research-updates.json
           GITHUB_TOKEN: ${{ github.token }}
         run: python pipeline/build_research_radar.py
+      - name: Generate or send daily radar digest
+        id: digest
+        if: always() && steps.radar.outcome == 'success'
+        env:
+          EMAIL_DRY_RUN: ${{ vars.RESEARCH_RADAR_EMAIL_DRY_RUN || 'true' }}
+          SEND_EMPTY_DIGEST: 'false'
+          NEWSLETTER_TO: ${{ secrets.NEWSLETTER_TO }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          SMTP_FROM: ${{ secrets.SMTP_FROM }}
+          RESEARCH_RADAR_EMAIL_STATE: .state/research-radar-email.json
+          RESEARCH_RADAR_EMAIL_PREVIEW: ${{ runner.temp }}/research-radar-email
+        run: python pipeline/send_research_radar_digest.py
+      - name: Save radar email state
+        if: always() && steps.digest.outcome == 'success' && vars.RESEARCH_RADAR_EMAIL_DRY_RUN == 'false'
+        uses: actions/cache/save@v4
+        with:
+          path: .state/research-radar-email.json
+          key: research-radar-email-${{ github.run_id }}
       - name: Publish radar data
         id: publish
         if: always() && steps.radar.outcome == 'success'
@@ -98,4 +135,11 @@ jobs:
         with:
           name: weekly-radar-preview
           path: ${{ runner.temp }}/weekly-radar-preview.html
+          if-no-files-found: ignore
+      - name: Upload daily radar digest preview
+        if: always()
+        uses: actions/upload-artifact@v5
+        with:
+          name: research-radar-daily-digest
+          path: ${{ runner.temp }}/research-radar-email/
           if-no-files-found: ignore

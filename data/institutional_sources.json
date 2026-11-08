@@ -1,0 +1,60 @@
+{
+  "phase": 1,
+  "sources": [
+    {
+      "sourceId": "aqr",
+      "institution": "AQR",
+      "publication": "Alternative Thinking",
+      "listingUrl": "https://www.aqr.com/insights/research/alternative-thinking",
+      "officialDomains": ["aqr.com", "www.aqr.com"],
+      "expectedFrequency": "Occasional",
+      "priority": 85,
+      "collectionMethod": "html_listing",
+      "browserVerification": true
+    },
+    {
+      "sourceId": "citadel",
+      "institution": "Citadel Securities",
+      "publication": "Global Market Intelligence",
+      "listingUrl": "https://www.citadelsecurities.com/news-and-insights/global-market-intelligence/",
+      "officialDomains": ["citadelsecurities.com", "www.citadelsecurities.com"],
+      "expectedFrequency": "Occasional",
+      "priority": 85,
+      "collectionMethod": "html_listing",
+      "browserVerification": true
+    },
+    {
+      "sourceId": "man",
+      "institution": "Man Group",
+      "publication": "Insights",
+      "listingUrl": "https://www.man.com/insights",
+      "officialDomains": ["man.com", "www.man.com"],
+      "expectedFrequency": "Weekly series and occasional",
+      "priority": 80,
+      "collectionMethod": "html_listing",
+      "browserVerification": true
+    },
+    {
+      "sourceId": "apollo",
+      "institution": "Apollo",
+      "publication": "Apollo Academy",
+      "listingUrl": "https://www.apolloacademy.com/",
+      "officialDomains": ["apolloacademy.com", "www.apolloacademy.com"],
+      "expectedFrequency": "Daily and weekly",
+      "priority": 80,
+      "collectionMethod": "html_listing",
+      "browserVerification": true
+    },
+    {
+      "sourceId": "oaktree-memos",
+      "institution": "Oaktree",
+      "publication": "Howard Marks Memos",
+      "listingUrl": "https://www.oaktreecapital.com/insights/memos",
+      "officialDomains": ["oaktreecapital.com", "www.oaktreecapital.com"],
+      "expectedFrequency": "Irregular",
+      "priority": 85,
+      "collectionMethod": "html_listing",
+      "browserVerification": true
+    }
+  ]
+}

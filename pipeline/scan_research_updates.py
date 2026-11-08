@@ -270,6 +270,7 @@ def main() -> None:
     seen_set = set(previous_seen)
     baselined_source_ids = set(previous.get("baselinedSourceIds", []))
     new_items: list[dict[str, str | None]] = []
+    pending_verification_keys = set(previous.get("pendingVerificationKeys", []))
     source_checks: list[dict[str, str | bool | None]] = []
     feed_ids = {feed["sourceId"] for feed in feed_config["feeds"]}
     sources_to_check = [
@@ -301,7 +302,9 @@ def main() -> None:
                 seen_set.add(key)
                 seen.append(key)
                 if not needs_baseline:
-                    new_items.append(entry)
+                    candidate = {**entry, "detectedAt": entry.get("detectedAt") or checked_at}
+                    new_items.append(candidate)
+                    pending_verification_keys.add(key)
         if error is None:
             baselined_source_ids.add(source_id)
 
@@ -310,12 +313,15 @@ def main() -> None:
         previous_items = [item for item in previous_items if item.get("sourceId") in feed_ids]
     combined_items = new_items + previous_items
     combined_items.sort(key=lambda item: item.get("publishedAt") or "", reverse=True)
+    stored_items = combined_items[:MAX_STORED_ITEMS]
+    stored_keys = {item.get("key") for item in stored_items}
     report = {
         "lastCheckedAt": checked_at,
         "listingVersion": listing_version,
         "sourceChecks": source_checks,
         "baselinedSourceIds": sorted(baselined_source_ids),
-        "items": combined_items[:MAX_STORED_ITEMS],
+        "items": stored_items,
+        "pendingVerificationKeys": sorted(pending_verification_keys & stored_keys),
         "seen": seen[-MAX_SEEN_KEYS:],
     }
     STATE_PATH.parent.mkdir(parents=True, exist_ok=True)

@@ -200,12 +200,22 @@ def institutional(previous: list[dict]) -> tuple[list[dict], list[str]]:
             if not url.startswith("https://") or not item.get("title"):
                 continue
             good.append({
-                "id": item.get("key") or url,
-                "title": clean(item["title"]), "url": url,
+                "id": item.get("articleId") or item.get("key") or url,
+                "title": clean(item.get("verification", {}).get("title") or item["title"]), "url": url,
                 "sourceId": item.get("sourceId", ""),
                 "publishedAt": item.get("publishedAt"),
                 "detectedAt": item.get("detectedAt"),
-                "excerpt": clean(item.get("summary") or "", 220),
+                "firstSeenAt": item.get("firstSeenAt") or item.get("detectedAt"),
+                "excerpt": clean(item.get("summary") or "", 500),
+                "verification": item.get("verification", {"status": "UNVERIFIED", "confidence": "LOW"}),
+                "topics": item.get("topics", []),
+                "regions": item.get("regions", ["Global"]),
+                "asiaRelevance": item.get("asiaRelevance"),
+                "researchPriority": item.get("researchPriority"),
+                "contentType": item.get("contentType", "Research Article"),
+                "summaryBasis": item.get("summaryBasis", "unavailable"),
+                "asmrCandidate": item.get("asmrCandidate", False),
+                "asmrReason": item.get("asmrReason", ""),
             })
         merged = {item["id"]: item for item in previous}
         for item in good:
@@ -257,6 +267,21 @@ def main() -> None:
     repos, e3 = github(now, old.get("github", []))
     result = {"lastCheckedAt": now.isoformat(), "institutional": institutions,
               "ssrn": ssrn, "github": repos}
+    if UPDATES.exists():
+        try:
+            updates_state = json.loads(UPDATES.read_text(encoding="utf-8"))
+            result["sourceChecks"] = updates_state.get("sourceChecks", [])
+            result["lastVerificationAt"] = updates_state.get("lastVerificationAt")
+            result["verificationRun"] = updates_state.get("verificationRun")
+        except (OSError, ValueError) as error:
+            result["sourceChecks"] = []
+            result["lastVerificationAt"] = None
+            result["verificationRun"] = None
+            print(f"Source health unavailable: {str(error)[:120]}")
+    else:
+        result["sourceChecks"] = []
+        result["lastVerificationAt"] = None
+        result["verificationRun"] = None
     result["weekly"] = weekly(now, result)
     result["sourceErrors"] = e1 + e2 + e3
     OUTPUT.write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")

@@ -38,6 +38,8 @@ def main() -> None:
             item = by_id.get(item_id)
             if not item:
                 continue
+            if label == "Institutional research" and item.get("verification", {}).get("status") != "VERIFIED_NEW":
+                continue
             count += 1
             title = item.get("title") or item.get("name") or "Untitled"
             excerpt = item.get("excerpt") or item.get("abstract") or item.get("description") or ""
