@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-23T07:44:12.058406+00:00",
+  "lastCheckedAt": "2026-11-24T09:58:23.334797+00:00",
   "institutional": [
     {
       "id": "6dacd468baaf3dd21f2f3a704672e28a99c6c60081e6bef4b92b7e4520262794",
@@ -40,6 +40,254 @@
       "researchPriority": 26,
       "contentType": "Memo",
       "summaryBasis": "official_metadata",
+      "asmrCandidate": false,
+      "asmrReason": ""
+    },
+    {
+      "id": "twosigma:https://www.twosigma.com/articles/from-vancouver-to-sydney-revisiting-our-neurips-highlights",
+      "title": "From Vancouver to Sydney: Revisiting Our NeurIPS Highlights",
+      "url": "https://www.twosigma.com/articles/from-vancouver-to-sydney-revisiting-our-neurips-highlights",
+      "sourceId": "twosigma",
+      "publishedAt": null,
+      "detectedAt": "2026-11-24T09:57:57.559370+00:00",
+      "firstSeenAt": "2026-11-24T09:57:57.559370+00:00",
+      "excerpt": "",
+      "verification": {
+        "status": "UNVERIFIED",
+        "confidence": "LOW"
+      },
+      "topics": [],
+      "regions": [
+        "Global"
+      ],
+      "asiaRelevance": null,
+      "researchPriority": null,
+      "contentType": "Research Article",
+      "summaryBasis": "unavailable",
+      "asmrCandidate": false,
+      "asmrReason": "",
+      "descriptionChecked": true
+    },
+    {
+      "id": "ubs:https://www.ubs.com/global/en/wealthmanagement/insights/year-ahead-registration.html",
+      "title": "Get your copy about year ahead",
+      "url": "https://www.ubs.com/global/en/wealthmanagement/insights/year-ahead-registration.html",
+      "sourceId": "ubs",
+      "publishedAt": null,
+      "detectedAt": "2026-11-24T09:57:57.559370+00:00",
+      "firstSeenAt": "2026-11-24T09:57:57.559370+00:00",
+      "excerpt": "Spot the market signals that matter with our Chief Investment Office’s Year Ahead 2027 report.",
+      "verification": {
+        "status": "UNVERIFIED",
+        "confidence": "LOW"
+      },
+      "topics": [],
+      "regions": [
+        "Global"
+      ],
+      "asiaRelevance": null,
+      "researchPriority": null,
+      "contentType": "Research Article",
+      "summaryBasis": "unavailable",
+      "asmrCandidate": false,
+      "asmrReason": "",
+      "descriptionChecked": true
+    },
+    {
+      "id": "preqin:https://www.preqin.com/insights/research/quarterly-updates/private-credit-q3-2026-preqin-quarterly-update",
+      "title": "Quarterly Update SUBSCRIBER Nov 8 Private Credit Q3 2026: Preqin Quarterly Update",
+      "url": "https://www.preqin.com/insights/research/quarterly-updates/private-credit-q3-2026-preqin-quarterly-update",
+      "sourceId": "preqin",
+      "publishedAt": null,
+      "detectedAt": "2026-11-24T09:57:57.559370+00:00",
+      "firstSeenAt": "2026-11-24T09:57:57.559370+00:00",
+      "excerpt": "Private Credit Q3 2026: Preqin Quarterly Update | Preqin, a part of BlackRock",
+      "verification": {
+        "status": "UNVERIFIED",
+        "confidence": "LOW"
+      },
+      "topics": [],
+      "regions": [
+        "Global"
+      ],
+      "asiaRelevance": null,
+      "researchPriority": null,
+      "contentType": "Research Article",
+      "summaryBasis": "unavailable",
+      "asmrCandidate": false,
+      "asmrReason": "",
+      "descriptionChecked": true
+    },
+    {
+      "id": "gavekal:https://research.gavekal.com/teaser/em-strategy-from-resilience-to-outperformance",
+      "title": "EM Strategy: From Resilience To Outperformance",
+      "url": "https://research.gavekal.com/teaser/em-strategy-from-resilience-to-outperformance",
+      "sourceId": "gavekal",
+      "publishedAt": null,
+      "detectedAt": "2026-11-24T09:57:57.559370+00:00",
+      "firstSeenAt": "2026-11-24T09:57:57.559370+00:00",
+      "excerpt": "",
+      "verification": {
+        "status": "UNVERIFIED",
+        "confidence": "LOW"
+      },
+      "topics": [],
+      "regions": [
+        "Global"
+      ],
+      "asiaRelevance": null,
+      "researchPriority": null,
+      "contentType": "Research Article",
+      "summaryBasis": "unavailable",
+      "asmrCandidate": false,
+      "asmrReason": "",
+      "descriptionChecked": true
+    },
+    {
+      "id": "gavekal:https://research.gavekal.com/teaser/the-six-trillion-dollar-man",
+      "title": "The Six Trillion Dollar Man",
+      "url": "https://research.gavekal.com/teaser/the-six-trillion-dollar-man",
+      "sourceId": "gavekal",
+      "publishedAt": null,
+      "detectedAt": "2026-11-24T09:57:57.559370+00:00",
+      "firstSeenAt": "2026-11-24T09:57:57.559370+00:00",
+      "excerpt": "",
+      "verification": {
+        "status": "UNVERIFIED",
+        "confidence": "LOW"
+      },
+      "topics": [],
+      "regions": [
+        "Global"
+      ],
+      "asiaRelevance": null,
+      "researchPriority": null,
+      "contentType": "Research Article",
+      "summaryBasis": "unavailable",
+      "asmrCandidate": false,
+      "asmrReason": "",
+      "descriptionChecked": true
+    },
+    {
+      "id": "gavekal:https://research.gavekal.com/teaser/warwhat-is-it-good-for",
+      "title": "War—What Is It Good For?",
+      "url": "https://research.gavekal.com/teaser/warwhat-is-it-good-for",
+      "sourceId": "gavekal",
+      "publishedAt": null,
+      "detectedAt": "2026-11-24T09:57:57.559370+00:00",
+      "firstSeenAt": "2026-11-24T09:57:57.559370+00:00",
+      "excerpt": "",
+      "verification": {
+        "status": "UNVERIFIED",
+        "confidence": "LOW"
+      },
+      "topics": [],
+      "regions": [
+        "Global"
+      ],
+      "asiaRelevance": null,
+      "researchPriority": null,
+      "contentType": "Research Article",
+      "summaryBasis": "unavailable",
+      "asmrCandidate": false,
+      "asmrReason": "",
+      "descriptionChecked": true
+    },
+    {
+      "id": "gavekal:https://research.gavekal.com/teaser/china-powers-ahead-in-europes-car-recovery",
+      "title": "China Powers Ahead In Europe’s Car Recovery",
+      "url": "https://research.gavekal.com/teaser/china-powers-ahead-in-europes-car-recovery",
+      "sourceId": "gavekal",
+      "publishedAt": null,
+      "detectedAt": "2026-11-24T09:57:57.559370+00:00",
+      "firstSeenAt": "2026-11-24T09:57:57.559370+00:00",
+      "excerpt": "",
+      "verification": {
+        "status": "UNVERIFIED",
+        "confidence": "LOW"
+      },
+      "topics": [],
+      "regions": [
+        "Global"
+      ],
+      "asiaRelevance": null,
+      "researchPriority": null,
+      "contentType": "Research Article",
+      "summaryBasis": "unavailable",
+      "asmrCandidate": false,
+      "asmrReason": "",
+      "descriptionChecked": true
+    },
+    {
+      "id": "gavekal:https://research.gavekal.com/teaser/how-durable-is-catls-battery-dominance",
+      "title": "How Durable Is CATL’s Battery Dominance? AJ Cortese",
+      "url": "https://research.gavekal.com/teaser/how-durable-is-catls-battery-dominance",
+      "sourceId": "gavekal",
+      "publishedAt": null,
+      "detectedAt": "2026-11-24T09:57:57.559370+00:00",
+      "firstSeenAt": "2026-11-24T09:57:57.559370+00:00",
+      "excerpt": "",
+      "verification": {
+        "status": "UNVERIFIED",
+        "confidence": "LOW"
+      },
+      "topics": [],
+      "regions": [
+        "Global"
+      ],
+      "asiaRelevance": null,
+      "researchPriority": null,
+      "contentType": "Research Article",
+      "summaryBasis": "unavailable",
+      "asmrCandidate": false,
+      "asmrReason": "",
+      "descriptionChecked": true
+    },
+    {
+      "id": "bloomberg-odd-lots:e1cd0e3e-9e03-40db-bc4b-b50b0165eab4",
+      "title": "What Jensen Huang's Stunning Return Means for the AI Trade",
+      "url": "https://omny.fm/shows/odd-lots/what-jensen-huangs-stunning-return-means-for-the-ai-trade",
+      "sourceId": "bloomberg-odd-lots",
+      "publishedAt": "2026-11-24T09:00:00+00:00",
+      "detectedAt": "2026-11-24T09:57:57.559370+00:00",
+      "firstSeenAt": "2026-11-24T09:57:57.559370+00:00",
+      "excerpt": "On Monday morning, Nvidia's board stunned the world and announced that it was reinstating Jensen Huang as CEO. Reportedly, President Trump pressed the board to bring back Huang, and his return kicked off a historic rally for the chip maker. (Nasdaq 100 futures went up so fast yesterday, they briefly halted trading.) All of this follows a weekend full of doom and gloom; the S&P 500 was entering correction territory last Friday, just days after Anthropic's blockbuster IPO. When we spoke with Alexa",
+      "verification": {
+        "status": "UNVERIFIED",
+        "confidence": "LOW"
+      },
+      "topics": [],
+      "regions": [
+        "Global"
+      ],
+      "asiaRelevance": null,
+      "researchPriority": null,
+      "contentType": "Research Article",
+      "summaryBasis": "unavailable",
+      "asmrCandidate": false,
+      "asmrReason": ""
+    },
+    {
+      "id": "bloomberg-odd-lots:ef741101-1572-4ac7-b9c9-b507017075ac",
+      "title": "What a Town Full of Vibecoders Says About the Chinese Economy",
+      "url": "https://omny.fm/shows/odd-lots/what-a-town-full-of-vibecoders-says-about-the-chinese-economy",
+      "sourceId": "bloomberg-odd-lots",
+      "publishedAt": "2026-11-23T09:00:00+00:00",
+      "detectedAt": "2026-11-24T09:57:57.559370+00:00",
+      "firstSeenAt": "2026-11-24T09:57:57.559370+00:00",
+      "excerpt": "According to Stanford's AI Index, 84% of people surveyed in China say they are optimistic about AI. In the US, by contrast, 38% of those surveyed say they are optimistic. That's a big gulf in enthusiasm, and you can see it borne out in the stories you read. While in the US we hear about AI doomsday scenarios, in China, you'll hear about grandmas who are obsessed with using OpenClaw. Journalist Afra Wang has spent a lot of time in mainland China reporting from the country's AI hotbed — in a vibec",
+      "verification": {
+        "status": "UNVERIFIED",
+        "confidence": "LOW"
+      },
+      "topics": [],
+      "regions": [
+        "Global"
+      ],
+      "asiaRelevance": null,
+      "researchPriority": null,
+      "contentType": "Research Article",
+      "summaryBasis": "unavailable",
       "asmrCandidate": false,
       "asmrReason": ""
     },
@@ -4369,6 +4617,46 @@
   ],
   "ssrn": [
     {
+      "id": "10.2139/ssrn.7725884",
+      "title": "Market Depth and the Quality of Liquidity: Competition in Limit Order Books",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7725884",
+      "indexedAt": "2026-11-24T00:00:00+00:00",
+      "topics": [
+        "Market microstructure"
+      ],
+      "abstract": "We study how competition shapes liquidity in limit order books. Our closed-form pricing solution makes endogenous inventory choices tractable. Market makers share an initial segment, while the larger provider exclusively"
+    },
+    {
+      "id": "10.2139/ssrn.7726687",
+      "title": "Gamma Acceleration on the Unified Diwakar's Plate: Visualizing Speed, Strike Attribution, And Spot-Scenario Changes in Portfolio Gamma",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7726687",
+      "indexedAt": "2026-11-24T00:00:00+00:00",
+      "topics": [
+        "Portfolio construction"
+      ],
+      "abstract": "We study how the third spot derivative of option value, Speed, can explain changes in portfolio gamma. The Unified Diwakar's Plate (UDP) links a spot-scenario strip with a boundarynormalized attribution of net and gross "
+    },
+    {
+      "id": "10.2139/ssrn.7724283",
+      "title": "Predicting Ibovespa Market Regimes and Returns with Macroeconomic Data and Machine Learning",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7724283",
+      "indexedAt": "2026-11-24T00:00:00+00:00",
+      "topics": [
+        "Financial ML"
+      ],
+      "abstract": "This paper investigates the predictive capacity of fundamental macroeconomic indicators in anticipating returns and identifying market regimes in Brazil, using the Bovespa Index (Ibovespa) as the benchmark asset for the "
+    },
+    {
+      "id": "10.2139/ssrn.3046036",
+      "title": "<b>FOMC Announcements, Short Selling, and Asset Pricing Anomalies</b>",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3046036",
+      "indexedAt": "2026-11-23T00:00:00+00:00",
+      "topics": [
+        "Asset pricing"
+      ],
+      "abstract": "<span>It is well-documented that the average market excess returns on days with FOMC announcements are significantly higher than those on other trading days (i.e., FOMC effects). Yet, the underlying mechanisms of FOMC ef"
+    },
+    {
       "id": "10.2139/ssrn.7715658",
       "title": "Information Diffusion around US Macroeconomic Releases: Epidemic, Influence and Predictive Models, with an Application to Market Making",
       "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7715658",
@@ -5536,9 +5824,9 @@
       "name": "ZhuLinsen/daily_stock_analysis",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "stars": 73788,
+      "stars": 74165,
       "createdAt": "2026-01-10T06:43:20Z",
-      "updatedAt": "2026-11-23T07:06:09Z",
+      "updatedAt": "2026-11-24T05:41:00Z",
       "history": [
         {
           "date": "2026-10-23",
@@ -5663,16 +5951,20 @@
         {
           "date": "2026-11-23",
           "stars": 73788
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 74165
         }
       ],
-      "stars7d": 1186
+      "stars7d": 1240
     },
     {
       "id": "1427126014",
       "name": "Jakeschincariol/day-trader-skill",
       "url": "https://github.com/Jakeschincariol/day-trader-skill",
       "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
-      "stars": 9224,
+      "stars": 9378,
       "createdAt": "2026-10-20T14:17:54Z",
       "updatedAt": "2026-10-20T14:18:00Z",
       "history": [
@@ -5799,18 +6091,22 @@
         {
           "date": "2026-11-23",
           "stars": 9224
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 9378
         }
       ],
-      "stars7d": 1168
+      "stars7d": 1125
     },
     {
       "id": "1198306812",
       "name": "HKUDS/Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "stars": 38718,
+      "stars": 38754,
       "createdAt": "2026-04-01T09:52:20Z",
-      "updatedAt": "2026-11-22T16:34:10Z",
+      "updatedAt": "2026-11-24T09:43:55Z",
       "history": [
         {
           "date": "2026-10-23",
@@ -5935,18 +6231,22 @@
         {
           "date": "2026-11-23",
           "stars": 38718
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 38754
         }
       ],
-      "stars7d": 372
+      "stars7d": 351
     },
     {
       "id": "1273015953",
       "name": "shy3130/tick-stock-panel",
       "url": "https://github.com/shy3130/tick-stock-panel",
       "description": "TSP自托管、零运维的 A 股「自建策略 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据",
-      "stars": 8198,
+      "stars": 8232,
       "createdAt": "2026-06-18T06:18:29Z",
-      "updatedAt": "2026-11-23T07:39:02Z",
+      "updatedAt": "2026-11-24T04:47:59Z",
       "history": [
         {
           "date": "2026-10-23",
@@ -6071,16 +6371,20 @@
         {
           "date": "2026-11-23",
           "stars": 8198
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 8232
         }
       ],
-      "stars7d": 307
+      "stars7d": 279
     },
     {
       "id": "1454737824",
       "name": "jackson-cmd/risk-aware-trading-agents",
       "url": "https://github.com/jackson-cmd/risk-aware-trading-agents",
       "description": "AI trading agents for US stocks with news backtesting that can't see the future: a public LLM trading agent leaderboard (rta-bench-1), frozen point-in-time 2020/2022/2026 markets (prices, VIX, news), a look-ahead check on every run, LLM agents over MCP, and pa",
-      "stars": 435,
+      "stars": 475,
       "createdAt": "2026-11-12T02:29:31Z",
       "updatedAt": "2026-11-20T21:20:57Z",
       "history": [
@@ -6123,152 +6427,20 @@
         {
           "date": "2026-11-23",
           "stars": 435
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 475
         }
       ],
-      "stars7d": 254
-    },
-    {
-      "id": "91629816",
-      "name": "freqtrade/freqtrade",
-      "url": "https://github.com/freqtrade/freqtrade",
-      "description": "Free, open source crypto trading bot",
-      "stars": 57176,
-      "createdAt": "2017-05-17T23:48:53Z",
-      "updatedAt": "2026-11-23T05:53:31Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 55771
-        },
-        {
-          "date": "2026-10-24",
-          "stars": 55823
-        },
-        {
-          "date": "2026-10-25",
-          "stars": 55880
-        },
-        {
-          "date": "2026-10-26",
-          "stars": 55951
-        },
-        {
-          "date": "2026-10-28",
-          "stars": 56045
-        },
-        {
-          "date": "2026-10-29",
-          "stars": 56103
-        },
-        {
-          "date": "2026-10-30",
-          "stars": 56138
-        },
-        {
-          "date": "2026-10-31",
-          "stars": 56172
-        },
-        {
-          "date": "2026-11-01",
-          "stars": 56223
-        },
-        {
-          "date": "2026-11-02",
-          "stars": 56286
-        },
-        {
-          "date": "2026-11-03",
-          "stars": 56347
-        },
-        {
-          "date": "2026-11-04",
-          "stars": 56401
-        },
-        {
-          "date": "2026-11-05",
-          "stars": 56447
-        },
-        {
-          "date": "2026-11-06",
-          "stars": 56505
-        },
-        {
-          "date": "2026-11-07",
-          "stars": 56563
-        },
-        {
-          "date": "2026-11-08",
-          "stars": 56610
-        },
-        {
-          "date": "2026-11-09",
-          "stars": 56659
-        },
-        {
-          "date": "2026-11-10",
-          "stars": 56722
-        },
-        {
-          "date": "2026-11-11",
-          "stars": 56752
-        },
-        {
-          "date": "2026-11-12",
-          "stars": 56796
-        },
-        {
-          "date": "2026-11-13",
-          "stars": 56831
-        },
-        {
-          "date": "2026-11-14",
-          "stars": 56862
-        },
-        {
-          "date": "2026-11-15",
-          "stars": 56895
-        },
-        {
-          "date": "2026-11-16",
-          "stars": 56934
-        },
-        {
-          "date": "2026-11-17",
-          "stars": 56968
-        },
-        {
-          "date": "2026-11-18",
-          "stars": 57008
-        },
-        {
-          "date": "2026-11-19",
-          "stars": 57051
-        },
-        {
-          "date": "2026-11-20",
-          "stars": 57085
-        },
-        {
-          "date": "2026-11-21",
-          "stars": 57115
-        },
-        {
-          "date": "2026-11-22",
-          "stars": 57148
-        },
-        {
-          "date": "2026-11-23",
-          "stars": 57176
-        }
-      ],
-      "stars7d": 242
+      "stars7d": 267
     },
     {
       "id": "849406496",
       "name": "Fincept-Corporation/FinceptTerminal",
       "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
       "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
-      "stars": 34104,
+      "stars": 34165,
       "createdAt": "2024-08-29T14:38:08Z",
       "updatedAt": "2026-11-19T10:39:29Z",
       "history": [
@@ -6395,560 +6567,160 @@
         {
           "date": "2026-11-23",
           "stars": 34104
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 34165
         }
       ],
-      "stars7d": 236
+      "stars7d": 252
     },
     {
-      "id": "287463830",
-      "name": "microsoft/qlib",
-      "url": "https://github.com/microsoft/qlib",
-      "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL,",
-      "stars": 50507,
-      "createdAt": "2020-08-14T06:46:00Z",
-      "updatedAt": "2026-11-04T22:48:24Z",
+      "id": "91629816",
+      "name": "freqtrade/freqtrade",
+      "url": "https://github.com/freqtrade/freqtrade",
+      "description": "Free, open source crypto trading bot",
+      "stars": 57210,
+      "createdAt": "2017-05-17T23:48:53Z",
+      "updatedAt": "2026-11-24T05:23:54Z",
       "history": [
         {
           "date": "2026-10-23",
-          "stars": 49599
+          "stars": 55771
         },
         {
           "date": "2026-10-24",
-          "stars": 49631
+          "stars": 55823
         },
         {
           "date": "2026-10-25",
-          "stars": 49671
+          "stars": 55880
         },
         {
           "date": "2026-10-26",
-          "stars": 49704
+          "stars": 55951
         },
         {
           "date": "2026-10-28",
-          "stars": 49762
+          "stars": 56045
         },
         {
           "date": "2026-10-29",
-          "stars": 49785
+          "stars": 56103
         },
         {
           "date": "2026-10-30",
-          "stars": 49811
+          "stars": 56138
         },
         {
           "date": "2026-10-31",
-          "stars": 49840
+          "stars": 56172
         },
         {
           "date": "2026-11-01",
-          "stars": 49876
+          "stars": 56223
         },
         {
           "date": "2026-11-02",
-          "stars": 49913
+          "stars": 56286
         },
         {
           "date": "2026-11-03",
-          "stars": 49947
+          "stars": 56347
         },
         {
           "date": "2026-11-04",
-          "stars": 49978
+          "stars": 56401
         },
         {
           "date": "2026-11-05",
-          "stars": 49997
+          "stars": 56447
         },
         {
           "date": "2026-11-06",
-          "stars": 50034
+          "stars": 56505
         },
         {
           "date": "2026-11-07",
-          "stars": 50076
+          "stars": 56563
         },
         {
           "date": "2026-11-08",
-          "stars": 50106
+          "stars": 56610
         },
         {
           "date": "2026-11-09",
-          "stars": 50138
+          "stars": 56659
         },
         {
           "date": "2026-11-10",
-          "stars": 50175
+          "stars": 56722
         },
         {
           "date": "2026-11-11",
-          "stars": 50207
+          "stars": 56752
         },
         {
           "date": "2026-11-12",
-          "stars": 50229
+          "stars": 56796
         },
         {
           "date": "2026-11-13",
-          "stars": 50247
+          "stars": 56831
         },
         {
           "date": "2026-11-14",
-          "stars": 50271
+          "stars": 56862
         },
         {
           "date": "2026-11-15",
-          "stars": 50290
+          "stars": 56895
         },
         {
           "date": "2026-11-16",
-          "stars": 50313
+          "stars": 56934
         },
         {
           "date": "2026-11-17",
-          "stars": 50344
+          "stars": 56968
         },
         {
           "date": "2026-11-18",
-          "stars": 50382
+          "stars": 57008
         },
         {
           "date": "2026-11-19",
-          "stars": 50404
+          "stars": 57051
         },
         {
           "date": "2026-11-20",
-          "stars": 50439
+          "stars": 57085
         },
         {
           "date": "2026-11-21",
-          "stars": 50460
+          "stars": 57115
         },
         {
           "date": "2026-11-22",
-          "stars": 50486
+          "stars": 57148
         },
         {
           "date": "2026-11-23",
-          "stars": 50507
+          "stars": 57176
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 57210
         }
       ],
-      "stars7d": 194
-    },
-    {
-      "id": "323048702",
-      "name": "openbq-org/OpenBB",
-      "url": "https://github.com/openbq-org/OpenBB",
-      "description": "Open Data Platform for analysts, quants and AI agents.",
-      "stars": 75650,
-      "createdAt": "2020-12-20T10:46:38Z",
-      "updatedAt": "2026-11-18T22:42:00Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 74558
-        },
-        {
-          "date": "2026-10-24",
-          "stars": 74596
-        },
-        {
-          "date": "2026-10-25",
-          "stars": 74642
-        },
-        {
-          "date": "2026-10-26",
-          "stars": 74705
-        },
-        {
-          "date": "2026-10-28",
-          "stars": 74799
-        },
-        {
-          "date": "2026-10-29",
-          "stars": 74840
-        },
-        {
-          "date": "2026-10-30",
-          "stars": 74879
-        },
-        {
-          "date": "2026-10-31",
-          "stars": 74920
-        },
-        {
-          "date": "2026-11-01",
-          "stars": 74959
-        },
-        {
-          "date": "2026-11-02",
-          "stars": 75000
-        },
-        {
-          "date": "2026-11-03",
-          "stars": 75038
-        },
-        {
-          "date": "2026-11-04",
-          "stars": 75060
-        },
-        {
-          "date": "2026-11-05",
-          "stars": 75099
-        },
-        {
-          "date": "2026-11-06",
-          "stars": 75123
-        },
-        {
-          "date": "2026-11-07",
-          "stars": 75167
-        },
-        {
-          "date": "2026-11-08",
-          "stars": 75212
-        },
-        {
-          "date": "2026-11-09",
-          "stars": 75250
-        },
-        {
-          "date": "2026-11-10",
-          "stars": 75290
-        },
-        {
-          "date": "2026-11-11",
-          "stars": 75317
-        },
-        {
-          "date": "2026-11-12",
-          "stars": 75355
-        },
-        {
-          "date": "2026-11-13",
-          "stars": 75380
-        },
-        {
-          "date": "2026-11-14",
-          "stars": 75402
-        },
-        {
-          "date": "2026-11-15",
-          "stars": 75433
-        },
-        {
-          "date": "2026-11-16",
-          "stars": 75459
-        },
-        {
-          "date": "2026-11-17",
-          "stars": 75483
-        },
-        {
-          "date": "2026-11-18",
-          "stars": 75513
-        },
-        {
-          "date": "2026-11-19",
-          "stars": 75545
-        },
-        {
-          "date": "2026-11-20",
-          "stars": 75587
-        },
-        {
-          "date": "2026-11-21",
-          "stars": 75609
-        },
-        {
-          "date": "2026-11-22",
-          "stars": 75630
-        },
-        {
-          "date": "2026-11-23",
-          "stars": 75650
-        }
-      ],
-      "stars7d": 191
-    },
-    {
-      "id": "43425480",
-      "name": "wilsonfreitas/awesome-quant",
-      "url": "https://github.com/wilsonfreitas/awesome-quant",
-      "description": "A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)",
-      "stars": 30832,
-      "createdAt": "2015-09-30T09:53:49Z",
-      "updatedAt": "2026-11-23T01:02:37Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 30249
-        },
-        {
-          "date": "2026-10-24",
-          "stars": 30258
-        },
-        {
-          "date": "2026-10-25",
-          "stars": 30271
-        },
-        {
-          "date": "2026-10-26",
-          "stars": 30283
-        },
-        {
-          "date": "2026-10-28",
-          "stars": 30324
-        },
-        {
-          "date": "2026-10-29",
-          "stars": 30331
-        },
-        {
-          "date": "2026-10-30",
-          "stars": 30350
-        },
-        {
-          "date": "2026-10-31",
-          "stars": 30370
-        },
-        {
-          "date": "2026-11-01",
-          "stars": 30391
-        },
-        {
-          "date": "2026-11-02",
-          "stars": 30404
-        },
-        {
-          "date": "2026-11-03",
-          "stars": 30414
-        },
-        {
-          "date": "2026-11-04",
-          "stars": 30457
-        },
-        {
-          "date": "2026-11-05",
-          "stars": 30481
-        },
-        {
-          "date": "2026-11-06",
-          "stars": 30490
-        },
-        {
-          "date": "2026-11-07",
-          "stars": 30499
-        },
-        {
-          "date": "2026-11-08",
-          "stars": 30511
-        },
-        {
-          "date": "2026-11-09",
-          "stars": 30533
-        },
-        {
-          "date": "2026-11-10",
-          "stars": 30558
-        },
-        {
-          "date": "2026-11-11",
-          "stars": 30572
-        },
-        {
-          "date": "2026-11-12",
-          "stars": 30588
-        },
-        {
-          "date": "2026-11-13",
-          "stars": 30601
-        },
-        {
-          "date": "2026-11-14",
-          "stars": 30625
-        },
-        {
-          "date": "2026-11-15",
-          "stars": 30642
-        },
-        {
-          "date": "2026-11-16",
-          "stars": 30656
-        },
-        {
-          "date": "2026-11-17",
-          "stars": 30677
-        },
-        {
-          "date": "2026-11-18",
-          "stars": 30699
-        },
-        {
-          "date": "2026-11-19",
-          "stars": 30721
-        },
-        {
-          "date": "2026-11-20",
-          "stars": 30745
-        },
-        {
-          "date": "2026-11-21",
-          "stars": 30757
-        },
-        {
-          "date": "2026-11-22",
-          "stars": 30771
-        },
-        {
-          "date": "2026-11-23",
-          "stars": 30832
-        }
-      ],
-      "stars7d": 176
-    },
-    {
-      "id": "132754148",
-      "name": "stefan-jansen/machine-learning-for-trading",
-      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
-      "description": "Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.",
-      "stars": 21982,
-      "createdAt": "2018-05-09T12:33:08Z",
-      "updatedAt": "2026-11-22T15:23:16Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 21514
-        },
-        {
-          "date": "2026-10-24",
-          "stars": 21527
-        },
-        {
-          "date": "2026-10-25",
-          "stars": 21536
-        },
-        {
-          "date": "2026-10-26",
-          "stars": 21551
-        },
-        {
-          "date": "2026-10-28",
-          "stars": 21607
-        },
-        {
-          "date": "2026-10-29",
-          "stars": 21621
-        },
-        {
-          "date": "2026-10-30",
-          "stars": 21634
-        },
-        {
-          "date": "2026-10-31",
-          "stars": 21643
-        },
-        {
-          "date": "2026-11-01",
-          "stars": 21655
-        },
-        {
-          "date": "2026-11-02",
-          "stars": 21671
-        },
-        {
-          "date": "2026-11-03",
-          "stars": 21681
-        },
-        {
-          "date": "2026-11-04",
-          "stars": 21702
-        },
-        {
-          "date": "2026-11-05",
-          "stars": 21714
-        },
-        {
-          "date": "2026-11-06",
-          "stars": 21727
-        },
-        {
-          "date": "2026-11-07",
-          "stars": 21737
-        },
-        {
-          "date": "2026-11-08",
-          "stars": 21751
-        },
-        {
-          "date": "2026-11-09",
-          "stars": 21758
-        },
-        {
-          "date": "2026-11-10",
-          "stars": 21770
-        },
-        {
-          "date": "2026-11-11",
-          "stars": 21778
-        },
-        {
-          "date": "2026-11-12",
-          "stars": 21790
-        },
-        {
-          "date": "2026-11-13",
-          "stars": 21798
-        },
-        {
-          "date": "2026-11-14",
-          "stars": 21810
-        },
-        {
-          "date": "2026-11-15",
-          "stars": 21821
-        },
-        {
-          "date": "2026-11-16",
-          "stars": 21832
-        },
-        {
-          "date": "2026-11-17",
-          "stars": 21848
-        },
-        {
-          "date": "2026-11-18",
-          "stars": 21881
-        },
-        {
-          "date": "2026-11-19",
-          "stars": 21897
-        },
-        {
-          "date": "2026-11-20",
-          "stars": 21917
-        },
-        {
-          "date": "2026-11-21",
-          "stars": 21924
-        },
-        {
-          "date": "2026-11-22",
-          "stars": 21938
-        },
-        {
-          "date": "2026-11-23",
-          "stars": 21982
-        }
-      ],
-      "stars7d": 150
+      "stars7d": 242
     },
     {
       "id": "455982203",
       "name": "paperswithbacktest/awesome-systematic-trading",
       "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
       "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
-      "stars": 15521,
+      "stars": 15617,
       "createdAt": "2022-02-05T20:48:52Z",
       "updatedAt": "2026-11-21T10:24:06Z",
       "history": [
@@ -7075,152 +6847,580 @@
         {
           "date": "2026-11-23",
           "stars": 15521
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 15617
         }
       ],
-      "stars7d": 136
+      "stars7d": 215
     },
     {
-      "id": "1235056479",
-      "name": "simonlin1212/a-stock-data",
-      "url": "https://github.com/simonlin1212/a-stock-data",
-      "description": "A股全栈数据工具包：行情K线·当日逐笔·研报·信号·资金面·新闻·财务·公告·打板·ETF期权·舆情·宏观利率·期货大宗(含大商所日K)·事件驱动·可转债 | 15层·87端点·34数据源·除iwencai外免Key | A-share data for AI agents: K-lines, ticks, reports, fund flow, news, financials, filings, options, macro, futures, events, convertibles | 15 layers·",
-      "stars": 11983,
-      "createdAt": "2026-05-11T01:08:15Z",
-      "updatedAt": "2026-11-03T23:52:13Z",
+      "id": "323048702",
+      "name": "openbq-org/OpenBB",
+      "url": "https://github.com/openbq-org/OpenBB",
+      "description": "Open Data Platform for analysts, quants and AI agents.",
+      "stars": 75689,
+      "createdAt": "2020-12-20T10:46:38Z",
+      "updatedAt": "2026-11-18T22:42:00Z",
       "history": [
         {
           "date": "2026-10-23",
-          "stars": 11025
+          "stars": 74558
         },
         {
           "date": "2026-10-24",
-          "stars": 11064
+          "stars": 74596
         },
         {
           "date": "2026-10-25",
-          "stars": 11095
+          "stars": 74642
         },
         {
           "date": "2026-10-26",
-          "stars": 11130
+          "stars": 74705
         },
         {
           "date": "2026-10-28",
-          "stars": 11182
+          "stars": 74799
         },
         {
           "date": "2026-10-29",
-          "stars": 11233
+          "stars": 74840
         },
         {
           "date": "2026-10-30",
-          "stars": 11282
+          "stars": 74879
         },
         {
           "date": "2026-10-31",
-          "stars": 11302
+          "stars": 74920
         },
         {
           "date": "2026-11-01",
-          "stars": 11322
+          "stars": 74959
         },
         {
           "date": "2026-11-02",
-          "stars": 11358
+          "stars": 75000
         },
         {
           "date": "2026-11-03",
-          "stars": 11421
+          "stars": 75038
         },
         {
           "date": "2026-11-04",
-          "stars": 11466
+          "stars": 75060
         },
         {
           "date": "2026-11-05",
-          "stars": 11500
+          "stars": 75099
         },
         {
           "date": "2026-11-06",
-          "stars": 11534
+          "stars": 75123
         },
         {
           "date": "2026-11-07",
-          "stars": 11561
+          "stars": 75167
         },
         {
           "date": "2026-11-08",
-          "stars": 11574
+          "stars": 75212
         },
         {
           "date": "2026-11-09",
-          "stars": 11598
+          "stars": 75250
         },
         {
           "date": "2026-11-10",
-          "stars": 11658
+          "stars": 75290
         },
         {
           "date": "2026-11-11",
-          "stars": 11705
+          "stars": 75317
         },
         {
           "date": "2026-11-12",
-          "stars": 11744
+          "stars": 75355
         },
         {
           "date": "2026-11-13",
-          "stars": 11781
+          "stars": 75380
         },
         {
           "date": "2026-11-14",
-          "stars": 11801
+          "stars": 75402
         },
         {
           "date": "2026-11-15",
-          "stars": 11834
+          "stars": 75433
         },
         {
           "date": "2026-11-16",
-          "stars": 11850
+          "stars": 75459
         },
         {
           "date": "2026-11-17",
-          "stars": 11869
+          "stars": 75483
         },
         {
           "date": "2026-11-18",
-          "stars": 11891
+          "stars": 75513
         },
         {
           "date": "2026-11-19",
-          "stars": 11918
+          "stars": 75545
         },
         {
           "date": "2026-11-20",
-          "stars": 11945
+          "stars": 75587
         },
         {
           "date": "2026-11-21",
-          "stars": 11961
+          "stars": 75609
         },
         {
           "date": "2026-11-22",
-          "stars": 11967
+          "stars": 75630
         },
         {
           "date": "2026-11-23",
-          "stars": 11983
+          "stars": 75650
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 75689
         }
       ],
-      "stars7d": 133
+      "stars7d": 206
+    },
+    {
+      "id": "43425480",
+      "name": "wilsonfreitas/awesome-quant",
+      "url": "https://github.com/wilsonfreitas/awesome-quant",
+      "description": "A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)",
+      "stars": 30871,
+      "createdAt": "2015-09-30T09:53:49Z",
+      "updatedAt": "2026-11-24T01:02:34Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 30249
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 30258
+        },
+        {
+          "date": "2026-10-25",
+          "stars": 30271
+        },
+        {
+          "date": "2026-10-26",
+          "stars": 30283
+        },
+        {
+          "date": "2026-10-28",
+          "stars": 30324
+        },
+        {
+          "date": "2026-10-29",
+          "stars": 30331
+        },
+        {
+          "date": "2026-10-30",
+          "stars": 30350
+        },
+        {
+          "date": "2026-10-31",
+          "stars": 30370
+        },
+        {
+          "date": "2026-11-01",
+          "stars": 30391
+        },
+        {
+          "date": "2026-11-02",
+          "stars": 30404
+        },
+        {
+          "date": "2026-11-03",
+          "stars": 30414
+        },
+        {
+          "date": "2026-11-04",
+          "stars": 30457
+        },
+        {
+          "date": "2026-11-05",
+          "stars": 30481
+        },
+        {
+          "date": "2026-11-06",
+          "stars": 30490
+        },
+        {
+          "date": "2026-11-07",
+          "stars": 30499
+        },
+        {
+          "date": "2026-11-08",
+          "stars": 30511
+        },
+        {
+          "date": "2026-11-09",
+          "stars": 30533
+        },
+        {
+          "date": "2026-11-10",
+          "stars": 30558
+        },
+        {
+          "date": "2026-11-11",
+          "stars": 30572
+        },
+        {
+          "date": "2026-11-12",
+          "stars": 30588
+        },
+        {
+          "date": "2026-11-13",
+          "stars": 30601
+        },
+        {
+          "date": "2026-11-14",
+          "stars": 30625
+        },
+        {
+          "date": "2026-11-15",
+          "stars": 30642
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 30656
+        },
+        {
+          "date": "2026-11-17",
+          "stars": 30677
+        },
+        {
+          "date": "2026-11-18",
+          "stars": 30699
+        },
+        {
+          "date": "2026-11-19",
+          "stars": 30721
+        },
+        {
+          "date": "2026-11-20",
+          "stars": 30745
+        },
+        {
+          "date": "2026-11-21",
+          "stars": 30757
+        },
+        {
+          "date": "2026-11-22",
+          "stars": 30771
+        },
+        {
+          "date": "2026-11-23",
+          "stars": 30832
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 30871
+        }
+      ],
+      "stars7d": 194
+    },
+    {
+      "id": "287463830",
+      "name": "microsoft/qlib",
+      "url": "https://github.com/microsoft/qlib",
+      "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL,",
+      "stars": 50536,
+      "createdAt": "2020-08-14T06:46:00Z",
+      "updatedAt": "2026-11-04T22:48:24Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 49599
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 49631
+        },
+        {
+          "date": "2026-10-25",
+          "stars": 49671
+        },
+        {
+          "date": "2026-10-26",
+          "stars": 49704
+        },
+        {
+          "date": "2026-10-28",
+          "stars": 49762
+        },
+        {
+          "date": "2026-10-29",
+          "stars": 49785
+        },
+        {
+          "date": "2026-10-30",
+          "stars": 49811
+        },
+        {
+          "date": "2026-10-31",
+          "stars": 49840
+        },
+        {
+          "date": "2026-11-01",
+          "stars": 49876
+        },
+        {
+          "date": "2026-11-02",
+          "stars": 49913
+        },
+        {
+          "date": "2026-11-03",
+          "stars": 49947
+        },
+        {
+          "date": "2026-11-04",
+          "stars": 49978
+        },
+        {
+          "date": "2026-11-05",
+          "stars": 49997
+        },
+        {
+          "date": "2026-11-06",
+          "stars": 50034
+        },
+        {
+          "date": "2026-11-07",
+          "stars": 50076
+        },
+        {
+          "date": "2026-11-08",
+          "stars": 50106
+        },
+        {
+          "date": "2026-11-09",
+          "stars": 50138
+        },
+        {
+          "date": "2026-11-10",
+          "stars": 50175
+        },
+        {
+          "date": "2026-11-11",
+          "stars": 50207
+        },
+        {
+          "date": "2026-11-12",
+          "stars": 50229
+        },
+        {
+          "date": "2026-11-13",
+          "stars": 50247
+        },
+        {
+          "date": "2026-11-14",
+          "stars": 50271
+        },
+        {
+          "date": "2026-11-15",
+          "stars": 50290
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 50313
+        },
+        {
+          "date": "2026-11-17",
+          "stars": 50344
+        },
+        {
+          "date": "2026-11-18",
+          "stars": 50382
+        },
+        {
+          "date": "2026-11-19",
+          "stars": 50404
+        },
+        {
+          "date": "2026-11-20",
+          "stars": 50439
+        },
+        {
+          "date": "2026-11-21",
+          "stars": 50460
+        },
+        {
+          "date": "2026-11-22",
+          "stars": 50486
+        },
+        {
+          "date": "2026-11-23",
+          "stars": 50507
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 50536
+        }
+      ],
+      "stars7d": 192
+    },
+    {
+      "id": "132754148",
+      "name": "stefan-jansen/machine-learning-for-trading",
+      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+      "description": "Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.",
+      "stars": 22026,
+      "createdAt": "2018-05-09T12:33:08Z",
+      "updatedAt": "2026-11-22T15:23:16Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 21514
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 21527
+        },
+        {
+          "date": "2026-10-25",
+          "stars": 21536
+        },
+        {
+          "date": "2026-10-26",
+          "stars": 21551
+        },
+        {
+          "date": "2026-10-28",
+          "stars": 21607
+        },
+        {
+          "date": "2026-10-29",
+          "stars": 21621
+        },
+        {
+          "date": "2026-10-30",
+          "stars": 21634
+        },
+        {
+          "date": "2026-10-31",
+          "stars": 21643
+        },
+        {
+          "date": "2026-11-01",
+          "stars": 21655
+        },
+        {
+          "date": "2026-11-02",
+          "stars": 21671
+        },
+        {
+          "date": "2026-11-03",
+          "stars": 21681
+        },
+        {
+          "date": "2026-11-04",
+          "stars": 21702
+        },
+        {
+          "date": "2026-11-05",
+          "stars": 21714
+        },
+        {
+          "date": "2026-11-06",
+          "stars": 21727
+        },
+        {
+          "date": "2026-11-07",
+          "stars": 21737
+        },
+        {
+          "date": "2026-11-08",
+          "stars": 21751
+        },
+        {
+          "date": "2026-11-09",
+          "stars": 21758
+        },
+        {
+          "date": "2026-11-10",
+          "stars": 21770
+        },
+        {
+          "date": "2026-11-11",
+          "stars": 21778
+        },
+        {
+          "date": "2026-11-12",
+          "stars": 21790
+        },
+        {
+          "date": "2026-11-13",
+          "stars": 21798
+        },
+        {
+          "date": "2026-11-14",
+          "stars": 21810
+        },
+        {
+          "date": "2026-11-15",
+          "stars": 21821
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 21832
+        },
+        {
+          "date": "2026-11-17",
+          "stars": 21848
+        },
+        {
+          "date": "2026-11-18",
+          "stars": 21881
+        },
+        {
+          "date": "2026-11-19",
+          "stars": 21897
+        },
+        {
+          "date": "2026-11-20",
+          "stars": 21917
+        },
+        {
+          "date": "2026-11-21",
+          "stars": 21924
+        },
+        {
+          "date": "2026-11-22",
+          "stars": 21938
+        },
+        {
+          "date": "2026-11-23",
+          "stars": 21982
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 22026
+        }
+      ],
+      "stars7d": 178
     },
     {
       "id": "1124295269",
       "name": "OpenByteInc/QuantDinger",
       "url": "https://github.com/OpenByteInc/QuantDinger",
       "description": "The most complete open-source, self-hosted Agentic Trading OS—AI research, Python strategies, factor discovery, backtesting, optimization, paper/live multi-asset execution, risk controls, monitoring, MCP, and multi-tenant SaaS in one auditable stack.",
-      "stars": 13924,
+      "stars": 13958,
       "createdAt": "2025-12-28T18:39:26Z",
       "updatedAt": "2026-11-22T19:38:46Z",
       "history": [
@@ -7347,16 +7547,20 @@
         {
           "date": "2026-11-23",
           "stars": 13924
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 13958
         }
       ],
-      "stars7d": 129
+      "stars7d": 145
     },
     {
       "id": "179163124",
       "name": "hummingbot/hummingbot",
       "url": "https://github.com/hummingbot/hummingbot",
       "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
-      "stars": 21359,
+      "stars": 21376,
       "createdAt": "2019-04-02T21:41:52Z",
       "updatedAt": "2026-11-20T16:31:48Z",
       "history": [
@@ -7483,16 +7687,160 @@
         {
           "date": "2026-11-23",
           "stars": 21359
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 21376
         }
       ],
-      "stars7d": 128
+      "stars7d": 140
+    },
+    {
+      "id": "1235056479",
+      "name": "simonlin1212/a-stock-data",
+      "url": "https://github.com/simonlin1212/a-stock-data",
+      "description": "A股全栈数据工具包：行情K线·当日逐笔·研报·信号·资金面·新闻·财务·公告·打板·ETF期权·舆情·宏观利率·期货大宗(含大商所日K)·事件驱动·可转债 | 15层·87端点·34数据源·除iwencai外免Key | A-share data for AI agents: K-lines, ticks, reports, fund flow, news, financials, filings, options, macro, futures, events, convertibles | 15 layers·",
+      "stars": 11998,
+      "createdAt": "2026-05-11T01:08:15Z",
+      "updatedAt": "2026-11-03T23:52:13Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 11025
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 11064
+        },
+        {
+          "date": "2026-10-25",
+          "stars": 11095
+        },
+        {
+          "date": "2026-10-26",
+          "stars": 11130
+        },
+        {
+          "date": "2026-10-28",
+          "stars": 11182
+        },
+        {
+          "date": "2026-10-29",
+          "stars": 11233
+        },
+        {
+          "date": "2026-10-30",
+          "stars": 11282
+        },
+        {
+          "date": "2026-10-31",
+          "stars": 11302
+        },
+        {
+          "date": "2026-11-01",
+          "stars": 11322
+        },
+        {
+          "date": "2026-11-02",
+          "stars": 11358
+        },
+        {
+          "date": "2026-11-03",
+          "stars": 11421
+        },
+        {
+          "date": "2026-11-04",
+          "stars": 11466
+        },
+        {
+          "date": "2026-11-05",
+          "stars": 11500
+        },
+        {
+          "date": "2026-11-06",
+          "stars": 11534
+        },
+        {
+          "date": "2026-11-07",
+          "stars": 11561
+        },
+        {
+          "date": "2026-11-08",
+          "stars": 11574
+        },
+        {
+          "date": "2026-11-09",
+          "stars": 11598
+        },
+        {
+          "date": "2026-11-10",
+          "stars": 11658
+        },
+        {
+          "date": "2026-11-11",
+          "stars": 11705
+        },
+        {
+          "date": "2026-11-12",
+          "stars": 11744
+        },
+        {
+          "date": "2026-11-13",
+          "stars": 11781
+        },
+        {
+          "date": "2026-11-14",
+          "stars": 11801
+        },
+        {
+          "date": "2026-11-15",
+          "stars": 11834
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 11850
+        },
+        {
+          "date": "2026-11-17",
+          "stars": 11869
+        },
+        {
+          "date": "2026-11-18",
+          "stars": 11891
+        },
+        {
+          "date": "2026-11-19",
+          "stars": 11918
+        },
+        {
+          "date": "2026-11-20",
+          "stars": 11945
+        },
+        {
+          "date": "2026-11-21",
+          "stars": 11961
+        },
+        {
+          "date": "2026-11-22",
+          "stars": 11967
+        },
+        {
+          "date": "2026-11-23",
+          "stars": 11983
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 11998
+        }
+      ],
+      "stars7d": 129
     },
     {
       "id": "616738094",
       "name": "myhhub/stock",
       "url": "https://github.com/myhhub/stock",
       "description": "stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。",
-      "stars": 15319,
+      "stars": 15332,
       "createdAt": "2023-03-21T01:23:26Z",
       "updatedAt": "2026-04-02T02:26:35Z",
       "history": [
@@ -7619,16 +7967,20 @@
         {
           "date": "2026-11-23",
           "stars": 15319
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 15332
         }
       ],
-      "stars7d": 100
+      "stars7d": 102
     },
     {
       "id": "282653872",
       "name": "AI4Finance-Foundation/FinRL",
       "url": "https://github.com/AI4Finance-Foundation/FinRL",
       "description": "FinRL®: Financial Reinforcement Learning. 🔥",
-      "stars": 17172,
+      "stars": 17175,
       "createdAt": "2020-07-26T13:18:16Z",
       "updatedAt": "2026-11-18T13:36:53Z",
       "history": [
@@ -7755,16 +8107,20 @@
         {
           "date": "2026-11-23",
           "stars": 17172
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 17175
         }
       ],
-      "stars7d": 79
+      "stars7d": 72
     },
     {
       "id": "110684325",
       "name": "polakowo/vectorbt",
       "url": "https://github.com/polakowo/vectorbt",
       "description": "The research engine that gives you an unfair advantage. Run thousands of trading ideas before others finish one.",
-      "stars": 9917,
+      "stars": 9927,
       "createdAt": "2017-11-14T11:56:32Z",
       "updatedAt": "2026-11-11T17:29:25Z",
       "history": [
@@ -7891,152 +8247,20 @@
         {
           "date": "2026-11-23",
           "stars": 9917
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 9927
         }
       ],
-      "stars7d": 56
-    },
-    {
-      "id": "127918080",
-      "name": "je-suis-tm/quant-trading",
-      "url": "https://github.com/je-suis-tm/quant-trading",
-      "description": "Python quantitative trading strategies including VIX Calculator, Pattern Recognition, Commodity Trading Advisor, Monte Carlo, Options Straddle, Shooting Star, London Breakout, Heikin-Ashi, Pair Trading, RSI, Bollinger Bands, Parabolic SAR, Dual Thrust, Awesome",
-      "stars": 11336,
-      "createdAt": "2018-04-03T14:08:14Z",
-      "updatedAt": "2026-06-20T12:16:37Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 11103
-        },
-        {
-          "date": "2026-10-24",
-          "stars": 11109
-        },
-        {
-          "date": "2026-10-25",
-          "stars": 11116
-        },
-        {
-          "date": "2026-10-26",
-          "stars": 11128
-        },
-        {
-          "date": "2026-10-28",
-          "stars": 11145
-        },
-        {
-          "date": "2026-10-29",
-          "stars": 11150
-        },
-        {
-          "date": "2026-10-30",
-          "stars": 11159
-        },
-        {
-          "date": "2026-10-31",
-          "stars": 11164
-        },
-        {
-          "date": "2026-11-01",
-          "stars": 11168
-        },
-        {
-          "date": "2026-11-02",
-          "stars": 11173
-        },
-        {
-          "date": "2026-11-03",
-          "stars": 11177
-        },
-        {
-          "date": "2026-11-04",
-          "stars": 11192
-        },
-        {
-          "date": "2026-11-05",
-          "stars": 11195
-        },
-        {
-          "date": "2026-11-06",
-          "stars": 11201
-        },
-        {
-          "date": "2026-11-07",
-          "stars": 11206
-        },
-        {
-          "date": "2026-11-08",
-          "stars": 11214
-        },
-        {
-          "date": "2026-11-09",
-          "stars": 11215
-        },
-        {
-          "date": "2026-11-10",
-          "stars": 11227
-        },
-        {
-          "date": "2026-11-11",
-          "stars": 11233
-        },
-        {
-          "date": "2026-11-12",
-          "stars": 11235
-        },
-        {
-          "date": "2026-11-13",
-          "stars": 11240
-        },
-        {
-          "date": "2026-11-14",
-          "stars": 11255
-        },
-        {
-          "date": "2026-11-15",
-          "stars": 11282
-        },
-        {
-          "date": "2026-11-16",
-          "stars": 11288
-        },
-        {
-          "date": "2026-11-17",
-          "stars": 11295
-        },
-        {
-          "date": "2026-11-18",
-          "stars": 11302
-        },
-        {
-          "date": "2026-11-19",
-          "stars": 11313
-        },
-        {
-          "date": "2026-11-20",
-          "stars": 11319
-        },
-        {
-          "date": "2026-11-21",
-          "stars": 11326
-        },
-        {
-          "date": "2026-11-22",
-          "stars": 11332
-        },
-        {
-          "date": "2026-11-23",
-          "stars": 11336
-        }
-      ],
-      "stars7d": 48
+      "stars7d": 58
     },
     {
       "id": "68619379",
       "name": "bbfamily/abu",
       "url": "https://github.com/bbfamily/abu",
       "description": "阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构",
-      "stars": 19242,
+      "stars": 19248,
       "createdAt": "2016-09-19T15:31:53Z",
       "updatedAt": "2026-10-16T11:32:48Z",
       "history": [
@@ -8163,152 +8387,20 @@
         {
           "date": "2026-11-23",
           "stars": 19242
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 19248
         }
       ],
-      "stars7d": 46
-    },
-    {
-      "id": "528898425",
-      "name": "nkaz001/hftbacktest",
-      "url": "https://github.com/nkaz001/hftbacktest",
-      "description": "Free, open source, a high frequency trading and market making backtesting and trading bot, which accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books(Level-2 and Level-3), with real-world crypto trading",
-      "stars": 5129,
-      "createdAt": "2022-08-25T14:56:36Z",
-      "updatedAt": "2025-12-23T15:57:58Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 4956
-        },
-        {
-          "date": "2026-10-24",
-          "stars": 4969
-        },
-        {
-          "date": "2026-10-25",
-          "stars": 4976
-        },
-        {
-          "date": "2026-10-26",
-          "stars": 4998
-        },
-        {
-          "date": "2026-10-28",
-          "stars": 5015
-        },
-        {
-          "date": "2026-10-29",
-          "stars": 5020
-        },
-        {
-          "date": "2026-10-30",
-          "stars": 5023
-        },
-        {
-          "date": "2026-10-31",
-          "stars": 5027
-        },
-        {
-          "date": "2026-11-01",
-          "stars": 5030
-        },
-        {
-          "date": "2026-11-02",
-          "stars": 5033
-        },
-        {
-          "date": "2026-11-03",
-          "stars": 5038
-        },
-        {
-          "date": "2026-11-04",
-          "stars": 5044
-        },
-        {
-          "date": "2026-11-05",
-          "stars": 5048
-        },
-        {
-          "date": "2026-11-06",
-          "stars": 5053
-        },
-        {
-          "date": "2026-11-07",
-          "stars": 5055
-        },
-        {
-          "date": "2026-11-08",
-          "stars": 5056
-        },
-        {
-          "date": "2026-11-09",
-          "stars": 5056
-        },
-        {
-          "date": "2026-11-10",
-          "stars": 5063
-        },
-        {
-          "date": "2026-11-11",
-          "stars": 5071
-        },
-        {
-          "date": "2026-11-12",
-          "stars": 5077
-        },
-        {
-          "date": "2026-11-13",
-          "stars": 5082
-        },
-        {
-          "date": "2026-11-14",
-          "stars": 5084
-        },
-        {
-          "date": "2026-11-15",
-          "stars": 5085
-        },
-        {
-          "date": "2026-11-16",
-          "stars": 5085
-        },
-        {
-          "date": "2026-11-17",
-          "stars": 5090
-        },
-        {
-          "date": "2026-11-18",
-          "stars": 5109
-        },
-        {
-          "date": "2026-11-19",
-          "stars": 5118
-        },
-        {
-          "date": "2026-11-20",
-          "stars": 5118
-        },
-        {
-          "date": "2026-11-21",
-          "stars": 5122
-        },
-        {
-          "date": "2026-11-22",
-          "stars": 5126
-        },
-        {
-          "date": "2026-11-23",
-          "stars": 5129
-        }
-      ],
-      "stars7d": 44
+      "stars7d": 48
     },
     {
       "id": "569509049",
       "name": "UFund-Me/Qbot",
       "url": "https://github.com/UFund-Me/Qbot",
       "description": "[🔥updating ...] AI 自动量化交易机器人(完全本地部署) AI-powered Quantitative Investment Research Platform. 📃 online docs: https://ufund-me.github.io/Qbot ✨ :news: qbot-mini: https://github.com/Charmve/iQuant",
-      "stars": 18858,
+      "stars": 18866,
       "createdAt": "2022-11-23T01:37:43Z",
       "updatedAt": "2026-03-11T12:16:42Z",
       "history": [
@@ -8435,16 +8527,300 @@
         {
           "date": "2026-11-23",
           "stars": 18858
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 18866
         }
       ],
-      "stars7d": 42
+      "stars7d": 46
+    },
+    {
+      "id": "127918080",
+      "name": "je-suis-tm/quant-trading",
+      "url": "https://github.com/je-suis-tm/quant-trading",
+      "description": "Python quantitative trading strategies including VIX Calculator, Pattern Recognition, Commodity Trading Advisor, Monte Carlo, Options Straddle, Shooting Star, London Breakout, Heikin-Ashi, Pair Trading, RSI, Bollinger Bands, Parabolic SAR, Dual Thrust, Awesome",
+      "stars": 11341,
+      "createdAt": "2018-04-03T14:08:14Z",
+      "updatedAt": "2026-06-20T12:16:37Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 11103
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 11109
+        },
+        {
+          "date": "2026-10-25",
+          "stars": 11116
+        },
+        {
+          "date": "2026-10-26",
+          "stars": 11128
+        },
+        {
+          "date": "2026-10-28",
+          "stars": 11145
+        },
+        {
+          "date": "2026-10-29",
+          "stars": 11150
+        },
+        {
+          "date": "2026-10-30",
+          "stars": 11159
+        },
+        {
+          "date": "2026-10-31",
+          "stars": 11164
+        },
+        {
+          "date": "2026-11-01",
+          "stars": 11168
+        },
+        {
+          "date": "2026-11-02",
+          "stars": 11173
+        },
+        {
+          "date": "2026-11-03",
+          "stars": 11177
+        },
+        {
+          "date": "2026-11-04",
+          "stars": 11192
+        },
+        {
+          "date": "2026-11-05",
+          "stars": 11195
+        },
+        {
+          "date": "2026-11-06",
+          "stars": 11201
+        },
+        {
+          "date": "2026-11-07",
+          "stars": 11206
+        },
+        {
+          "date": "2026-11-08",
+          "stars": 11214
+        },
+        {
+          "date": "2026-11-09",
+          "stars": 11215
+        },
+        {
+          "date": "2026-11-10",
+          "stars": 11227
+        },
+        {
+          "date": "2026-11-11",
+          "stars": 11233
+        },
+        {
+          "date": "2026-11-12",
+          "stars": 11235
+        },
+        {
+          "date": "2026-11-13",
+          "stars": 11240
+        },
+        {
+          "date": "2026-11-14",
+          "stars": 11255
+        },
+        {
+          "date": "2026-11-15",
+          "stars": 11282
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 11288
+        },
+        {
+          "date": "2026-11-17",
+          "stars": 11295
+        },
+        {
+          "date": "2026-11-18",
+          "stars": 11302
+        },
+        {
+          "date": "2026-11-19",
+          "stars": 11313
+        },
+        {
+          "date": "2026-11-20",
+          "stars": 11319
+        },
+        {
+          "date": "2026-11-21",
+          "stars": 11326
+        },
+        {
+          "date": "2026-11-22",
+          "stars": 11332
+        },
+        {
+          "date": "2026-11-23",
+          "stars": 11336
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 11341
+        }
+      ],
+      "stars7d": 46
+    },
+    {
+      "id": "528898425",
+      "name": "nkaz001/hftbacktest",
+      "url": "https://github.com/nkaz001/hftbacktest",
+      "description": "Free, open source, a high frequency trading and market making backtesting and trading bot, which accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books(Level-2 and Level-3), with real-world crypto trading",
+      "stars": 5136,
+      "createdAt": "2022-08-25T14:56:36Z",
+      "updatedAt": "2025-12-23T15:57:58Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 4956
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 4969
+        },
+        {
+          "date": "2026-10-25",
+          "stars": 4976
+        },
+        {
+          "date": "2026-10-26",
+          "stars": 4998
+        },
+        {
+          "date": "2026-10-28",
+          "stars": 5015
+        },
+        {
+          "date": "2026-10-29",
+          "stars": 5020
+        },
+        {
+          "date": "2026-10-30",
+          "stars": 5023
+        },
+        {
+          "date": "2026-10-31",
+          "stars": 5027
+        },
+        {
+          "date": "2026-11-01",
+          "stars": 5030
+        },
+        {
+          "date": "2026-11-02",
+          "stars": 5033
+        },
+        {
+          "date": "2026-11-03",
+          "stars": 5038
+        },
+        {
+          "date": "2026-11-04",
+          "stars": 5044
+        },
+        {
+          "date": "2026-11-05",
+          "stars": 5048
+        },
+        {
+          "date": "2026-11-06",
+          "stars": 5053
+        },
+        {
+          "date": "2026-11-07",
+          "stars": 5055
+        },
+        {
+          "date": "2026-11-08",
+          "stars": 5056
+        },
+        {
+          "date": "2026-11-09",
+          "stars": 5056
+        },
+        {
+          "date": "2026-11-10",
+          "stars": 5063
+        },
+        {
+          "date": "2026-11-11",
+          "stars": 5071
+        },
+        {
+          "date": "2026-11-12",
+          "stars": 5077
+        },
+        {
+          "date": "2026-11-13",
+          "stars": 5082
+        },
+        {
+          "date": "2026-11-14",
+          "stars": 5084
+        },
+        {
+          "date": "2026-11-15",
+          "stars": 5085
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 5085
+        },
+        {
+          "date": "2026-11-17",
+          "stars": 5090
+        },
+        {
+          "date": "2026-11-18",
+          "stars": 5109
+        },
+        {
+          "date": "2026-11-19",
+          "stars": 5118
+        },
+        {
+          "date": "2026-11-20",
+          "stars": 5118
+        },
+        {
+          "date": "2026-11-21",
+          "stars": 5122
+        },
+        {
+          "date": "2026-11-22",
+          "stars": 5126
+        },
+        {
+          "date": "2026-11-23",
+          "stars": 5129
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 5136
+        }
+      ],
+      "stars7d": 46
     },
     {
       "id": "29050338",
       "name": "mementum/backtrader",
       "url": "https://github.com/mementum/backtrader",
       "description": "Python Backtesting library for trading strategies",
-      "stars": 23785,
+      "stars": 23793,
       "createdAt": "2015-01-10T07:14:52Z",
       "updatedAt": "2024-08-19T17:47:36Z",
       "history": [
@@ -8571,16 +8947,20 @@
         {
           "date": "2026-11-23",
           "stars": 23785
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 23793
         }
       ],
-      "stars7d": 37
+      "stars7d": 40
     },
     {
       "id": "163788469",
       "name": "kernc/backtesting.py",
       "url": "https://github.com/kernc/backtesting.py",
       "description": "🔎 📈 🐍 💰 Backtest trading strategies in Python.",
-      "stars": 9281,
+      "stars": 9288,
       "createdAt": "2019-01-02T03:11:32Z",
       "updatedAt": "2026-08-05T12:39:16Z",
       "history": [
@@ -8707,6 +9087,10 @@
         {
           "date": "2026-11-23",
           "stars": 9281
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 9288
         }
       ],
       "stars7d": 37
@@ -8716,9 +9100,9 @@
       "name": "JerBouma/FinanceToolkit",
       "url": "https://github.com/JerBouma/FinanceToolkit",
       "description": "Transparent and Efficient Financial Analysis",
-      "stars": 5559,
+      "stars": 5563,
       "createdAt": "2019-04-08T11:44:25Z",
-      "updatedAt": "2026-11-23T07:22:35Z",
+      "updatedAt": "2026-11-24T08:47:24Z",
       "history": [
         {
           "date": "2026-10-23",
@@ -8843,16 +9227,20 @@
         {
           "date": "2026-11-23",
           "stars": 5559
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 5563
         }
       ],
-      "stars7d": 36
+      "stars7d": 32
     },
     {
       "id": "184420323",
       "name": "ranaroussi/quantstats",
       "url": "https://github.com/ranaroussi/quantstats",
       "description": "Portfolio analytics for quants, written in Python",
-      "stars": 7906,
+      "stars": 7911,
       "createdAt": "2019-05-01T13:29:29Z",
       "updatedAt": "2026-11-02T14:00:34Z",
       "history": [
@@ -8979,152 +9367,20 @@
         {
           "date": "2026-11-23",
           "stars": 7906
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 7911
         }
       ],
-      "stars7d": 32
-    },
-    {
-      "id": "27703983",
-      "name": "StockSharp/StockSharp",
-      "url": "https://github.com/StockSharp/StockSharp",
-      "description": "Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, crypto, bitcoins, and options).",
-      "stars": 11150,
-      "createdAt": "2014-12-08T07:53:44Z",
-      "updatedAt": "2026-11-22T17:59:45Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 10955
-        },
-        {
-          "date": "2026-10-24",
-          "stars": 10971
-        },
-        {
-          "date": "2026-10-25",
-          "stars": 10982
-        },
-        {
-          "date": "2026-10-26",
-          "stars": 10996
-        },
-        {
-          "date": "2026-10-28",
-          "stars": 11011
-        },
-        {
-          "date": "2026-10-29",
-          "stars": 11018
-        },
-        {
-          "date": "2026-10-30",
-          "stars": 11023
-        },
-        {
-          "date": "2026-10-31",
-          "stars": 11026
-        },
-        {
-          "date": "2026-11-01",
-          "stars": 11032
-        },
-        {
-          "date": "2026-11-02",
-          "stars": 11038
-        },
-        {
-          "date": "2026-11-03",
-          "stars": 11043
-        },
-        {
-          "date": "2026-11-04",
-          "stars": 11051
-        },
-        {
-          "date": "2026-11-05",
-          "stars": 11057
-        },
-        {
-          "date": "2026-11-06",
-          "stars": 11065
-        },
-        {
-          "date": "2026-11-07",
-          "stars": 11069
-        },
-        {
-          "date": "2026-11-08",
-          "stars": 11071
-        },
-        {
-          "date": "2026-11-09",
-          "stars": 11076
-        },
-        {
-          "date": "2026-11-10",
-          "stars": 11085
-        },
-        {
-          "date": "2026-11-11",
-          "stars": 11091
-        },
-        {
-          "date": "2026-11-12",
-          "stars": 11095
-        },
-        {
-          "date": "2026-11-13",
-          "stars": 11102
-        },
-        {
-          "date": "2026-11-14",
-          "stars": 11107
-        },
-        {
-          "date": "2026-11-15",
-          "stars": 11115
-        },
-        {
-          "date": "2026-11-16",
-          "stars": 11122
-        },
-        {
-          "date": "2026-11-17",
-          "stars": 11124
-        },
-        {
-          "date": "2026-11-18",
-          "stars": 11130
-        },
-        {
-          "date": "2026-11-19",
-          "stars": 11133
-        },
-        {
-          "date": "2026-11-20",
-          "stars": 11134
-        },
-        {
-          "date": "2026-11-21",
-          "stars": 11142
-        },
-        {
-          "date": "2026-11-22",
-          "stars": 11146
-        },
-        {
-          "date": "2026-11-23",
-          "stars": 11150
-        }
-      ],
-      "stars7d": 28
+      "stars7d": 31
     },
     {
       "id": "344949361",
       "name": "Mathieu2301/TradingView-API",
       "url": "https://github.com/Mathieu2301/TradingView-API",
       "description": "📈 Get real-time stocks from TradingView",
-      "stars": 5927,
+      "stars": 5934,
       "createdAt": "2021-03-05T22:24:02Z",
       "updatedAt": "2026-11-14T03:46:52Z",
       "history": [
@@ -9251,152 +9507,160 @@
         {
           "date": "2026-11-23",
           "stars": 5927
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 5934
         }
       ],
-      "stars7d": 27
+      "stars7d": 31
     },
     {
-      "id": "156847937",
-      "name": "jesse-ai/jesse",
-      "url": "https://github.com/jesse-ai/jesse",
-      "description": "An advanced trading bot written in Python",
-      "stars": 8829,
-      "createdAt": "2018-11-09T10:38:44Z",
-      "updatedAt": "2026-11-17T13:29:36Z",
+      "id": "27703983",
+      "name": "StockSharp/StockSharp",
+      "url": "https://github.com/StockSharp/StockSharp",
+      "description": "Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, crypto, bitcoins, and options).",
+      "stars": 11154,
+      "createdAt": "2014-12-08T07:53:44Z",
+      "updatedAt": "2026-11-22T17:59:45Z",
       "history": [
         {
           "date": "2026-10-23",
-          "stars": 8687
+          "stars": 10955
         },
         {
           "date": "2026-10-24",
-          "stars": 8693
+          "stars": 10971
         },
         {
           "date": "2026-10-25",
-          "stars": 8698
+          "stars": 10982
         },
         {
           "date": "2026-10-26",
-          "stars": 8705
+          "stars": 10996
         },
         {
           "date": "2026-10-28",
-          "stars": 8715
+          "stars": 11011
         },
         {
           "date": "2026-10-29",
-          "stars": 8729
+          "stars": 11018
         },
         {
           "date": "2026-10-30",
-          "stars": 8739
+          "stars": 11023
         },
         {
           "date": "2026-10-31",
-          "stars": 8740
+          "stars": 11026
         },
         {
           "date": "2026-11-01",
-          "stars": 8745
+          "stars": 11032
         },
         {
           "date": "2026-11-02",
-          "stars": 8755
+          "stars": 11038
         },
         {
           "date": "2026-11-03",
-          "stars": 8759
+          "stars": 11043
         },
         {
           "date": "2026-11-04",
-          "stars": 8762
+          "stars": 11051
         },
         {
           "date": "2026-11-05",
-          "stars": 8767
+          "stars": 11057
         },
         {
           "date": "2026-11-06",
-          "stars": 8773
+          "stars": 11065
         },
         {
           "date": "2026-11-07",
-          "stars": 8775
+          "stars": 11069
         },
         {
           "date": "2026-11-08",
-          "stars": 8780
+          "stars": 11071
         },
         {
           "date": "2026-11-09",
-          "stars": 8787
+          "stars": 11076
         },
         {
           "date": "2026-11-10",
-          "stars": 8790
+          "stars": 11085
         },
         {
           "date": "2026-11-11",
-          "stars": 8795
+          "stars": 11091
         },
         {
           "date": "2026-11-12",
-          "stars": 8798
+          "stars": 11095
         },
         {
           "date": "2026-11-13",
-          "stars": 8800
+          "stars": 11102
         },
         {
           "date": "2026-11-14",
-          "stars": 8803
+          "stars": 11107
         },
         {
           "date": "2026-11-15",
-          "stars": 8805
+          "stars": 11115
         },
         {
           "date": "2026-11-16",
-          "stars": 8807
+          "stars": 11122
         },
         {
           "date": "2026-11-17",
-          "stars": 8812
+          "stars": 11124
         },
         {
           "date": "2026-11-18",
-          "stars": 8819
+          "stars": 11130
         },
         {
           "date": "2026-11-19",
-          "stars": 8823
+          "stars": 11133
         },
         {
           "date": "2026-11-20",
-          "stars": 8822
+          "stars": 11134
         },
         {
           "date": "2026-11-21",
-          "stars": 8824
+          "stars": 11142
         },
         {
           "date": "2026-11-22",
-          "stars": 8828
+          "stars": 11146
         },
         {
           "date": "2026-11-23",
-          "stars": 8829
+          "stars": 11150
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 11154
         }
       ],
-      "stars7d": 22
+      "stars7d": 30
     },
     {
       "id": "6297520",
       "name": "quantopian/zipline",
       "url": "https://github.com/quantopian/zipline",
       "description": "Zipline, a Pythonic Algorithmic Trading Library",
-      "stars": 20264,
+      "stars": 20266,
       "createdAt": "2012-10-19T15:50:29Z",
       "updatedAt": "2024-02-13T08:02:51Z",
       "history": [
@@ -9523,152 +9787,20 @@
         {
           "date": "2026-11-23",
           "stars": 20264
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 20266
         }
       ],
-      "stars7d": 20
-    },
-    {
-      "id": "731792488",
-      "name": "skfolio/skfolio",
-      "url": "https://github.com/skfolio/skfolio",
-      "description": "Python library for portfolio optimization, factor model construction, and risk management built on scikit-learn",
-      "stars": 2668,
-      "createdAt": "2023-12-14T22:24:42Z",
-      "updatedAt": "2026-11-20T23:17:46Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 2532
-        },
-        {
-          "date": "2026-10-24",
-          "stars": 2535
-        },
-        {
-          "date": "2026-10-25",
-          "stars": 2542
-        },
-        {
-          "date": "2026-10-26",
-          "stars": 2547
-        },
-        {
-          "date": "2026-10-28",
-          "stars": 2554
-        },
-        {
-          "date": "2026-10-29",
-          "stars": 2557
-        },
-        {
-          "date": "2026-10-30",
-          "stars": 2561
-        },
-        {
-          "date": "2026-10-31",
-          "stars": 2565
-        },
-        {
-          "date": "2026-11-01",
-          "stars": 2571
-        },
-        {
-          "date": "2026-11-02",
-          "stars": 2578
-        },
-        {
-          "date": "2026-11-03",
-          "stars": 2579
-        },
-        {
-          "date": "2026-11-04",
-          "stars": 2586
-        },
-        {
-          "date": "2026-11-05",
-          "stars": 2588
-        },
-        {
-          "date": "2026-11-06",
-          "stars": 2593
-        },
-        {
-          "date": "2026-11-07",
-          "stars": 2598
-        },
-        {
-          "date": "2026-11-08",
-          "stars": 2607
-        },
-        {
-          "date": "2026-11-09",
-          "stars": 2614
-        },
-        {
-          "date": "2026-11-10",
-          "stars": 2619
-        },
-        {
-          "date": "2026-11-11",
-          "stars": 2620
-        },
-        {
-          "date": "2026-11-12",
-          "stars": 2630
-        },
-        {
-          "date": "2026-11-13",
-          "stars": 2636
-        },
-        {
-          "date": "2026-11-14",
-          "stars": 2637
-        },
-        {
-          "date": "2026-11-15",
-          "stars": 2645
-        },
-        {
-          "date": "2026-11-16",
-          "stars": 2648
-        },
-        {
-          "date": "2026-11-17",
-          "stars": 2653
-        },
-        {
-          "date": "2026-11-18",
-          "stars": 2651
-        },
-        {
-          "date": "2026-11-19",
-          "stars": 2659
-        },
-        {
-          "date": "2026-11-20",
-          "stars": 2660
-        },
-        {
-          "date": "2026-11-21",
-          "stars": 2662
-        },
-        {
-          "date": "2026-11-22",
-          "stars": 2666
-        },
-        {
-          "date": "2026-11-23",
-          "stars": 2668
-        }
-      ],
-      "stars7d": 20
+      "stars7d": 19
     },
     {
       "id": "201978761",
       "name": "Superalgos/Superalgos",
       "url": "https://github.com/Superalgos/Superalgos",
       "description": "Free, open-source crypto trading bot, automated bitcoin / cryptocurrency trading software, algorithmic trading bots. Visually design your crypto trading bot, leveraging an integrated charting system, data-mining, backtesting, paper trading, and multi-server cr",
-      "stars": 5816,
+      "stars": 5820,
       "createdAt": "2019-08-12T17:34:43Z",
       "updatedAt": "2026-11-14T19:54:14Z",
       "history": [
@@ -9795,6 +9927,10 @@
         {
           "date": "2026-11-23",
           "stars": 5816
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 5820
         }
       ],
       "stars7d": 19
@@ -9804,7 +9940,7 @@
       "name": "hello245m/free-stockdb",
       "url": "https://github.com/hello245m/free-stockdb",
       "description": "面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。",
-      "stars": 3194,
+      "stars": 3197,
       "createdAt": "2026-05-08T13:34:17Z",
       "updatedAt": "2026-11-11T17:49:12Z",
       "history": [
@@ -9931,6 +10067,290 @@
         {
           "date": "2026-11-23",
           "stars": 3194
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 3197
+        }
+      ],
+      "stars7d": 19
+    },
+    {
+      "id": "156847937",
+      "name": "jesse-ai/jesse",
+      "url": "https://github.com/jesse-ai/jesse",
+      "description": "An advanced trading bot written in Python",
+      "stars": 8830,
+      "createdAt": "2018-11-09T10:38:44Z",
+      "updatedAt": "2026-11-23T14:19:11Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 8687
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 8693
+        },
+        {
+          "date": "2026-10-25",
+          "stars": 8698
+        },
+        {
+          "date": "2026-10-26",
+          "stars": 8705
+        },
+        {
+          "date": "2026-10-28",
+          "stars": 8715
+        },
+        {
+          "date": "2026-10-29",
+          "stars": 8729
+        },
+        {
+          "date": "2026-10-30",
+          "stars": 8739
+        },
+        {
+          "date": "2026-10-31",
+          "stars": 8740
+        },
+        {
+          "date": "2026-11-01",
+          "stars": 8745
+        },
+        {
+          "date": "2026-11-02",
+          "stars": 8755
+        },
+        {
+          "date": "2026-11-03",
+          "stars": 8759
+        },
+        {
+          "date": "2026-11-04",
+          "stars": 8762
+        },
+        {
+          "date": "2026-11-05",
+          "stars": 8767
+        },
+        {
+          "date": "2026-11-06",
+          "stars": 8773
+        },
+        {
+          "date": "2026-11-07",
+          "stars": 8775
+        },
+        {
+          "date": "2026-11-08",
+          "stars": 8780
+        },
+        {
+          "date": "2026-11-09",
+          "stars": 8787
+        },
+        {
+          "date": "2026-11-10",
+          "stars": 8790
+        },
+        {
+          "date": "2026-11-11",
+          "stars": 8795
+        },
+        {
+          "date": "2026-11-12",
+          "stars": 8798
+        },
+        {
+          "date": "2026-11-13",
+          "stars": 8800
+        },
+        {
+          "date": "2026-11-14",
+          "stars": 8803
+        },
+        {
+          "date": "2026-11-15",
+          "stars": 8805
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 8807
+        },
+        {
+          "date": "2026-11-17",
+          "stars": 8812
+        },
+        {
+          "date": "2026-11-18",
+          "stars": 8819
+        },
+        {
+          "date": "2026-11-19",
+          "stars": 8823
+        },
+        {
+          "date": "2026-11-20",
+          "stars": 8822
+        },
+        {
+          "date": "2026-11-21",
+          "stars": 8824
+        },
+        {
+          "date": "2026-11-22",
+          "stars": 8828
+        },
+        {
+          "date": "2026-11-23",
+          "stars": 8829
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 8830
+        }
+      ],
+      "stars7d": 18
+    },
+    {
+      "id": "731792488",
+      "name": "skfolio/skfolio",
+      "url": "https://github.com/skfolio/skfolio",
+      "description": "Python library for portfolio optimization, factor model construction, and risk management built on scikit-learn",
+      "stars": 2671,
+      "createdAt": "2023-12-14T22:24:42Z",
+      "updatedAt": "2026-11-23T23:17:25Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 2532
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 2535
+        },
+        {
+          "date": "2026-10-25",
+          "stars": 2542
+        },
+        {
+          "date": "2026-10-26",
+          "stars": 2547
+        },
+        {
+          "date": "2026-10-28",
+          "stars": 2554
+        },
+        {
+          "date": "2026-10-29",
+          "stars": 2557
+        },
+        {
+          "date": "2026-10-30",
+          "stars": 2561
+        },
+        {
+          "date": "2026-10-31",
+          "stars": 2565
+        },
+        {
+          "date": "2026-11-01",
+          "stars": 2571
+        },
+        {
+          "date": "2026-11-02",
+          "stars": 2578
+        },
+        {
+          "date": "2026-11-03",
+          "stars": 2579
+        },
+        {
+          "date": "2026-11-04",
+          "stars": 2586
+        },
+        {
+          "date": "2026-11-05",
+          "stars": 2588
+        },
+        {
+          "date": "2026-11-06",
+          "stars": 2593
+        },
+        {
+          "date": "2026-11-07",
+          "stars": 2598
+        },
+        {
+          "date": "2026-11-08",
+          "stars": 2607
+        },
+        {
+          "date": "2026-11-09",
+          "stars": 2614
+        },
+        {
+          "date": "2026-11-10",
+          "stars": 2619
+        },
+        {
+          "date": "2026-11-11",
+          "stars": 2620
+        },
+        {
+          "date": "2026-11-12",
+          "stars": 2630
+        },
+        {
+          "date": "2026-11-13",
+          "stars": 2636
+        },
+        {
+          "date": "2026-11-14",
+          "stars": 2637
+        },
+        {
+          "date": "2026-11-15",
+          "stars": 2645
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 2648
+        },
+        {
+          "date": "2026-11-17",
+          "stars": 2653
+        },
+        {
+          "date": "2026-11-18",
+          "stars": 2651
+        },
+        {
+          "date": "2026-11-19",
+          "stars": 2659
+        },
+        {
+          "date": "2026-11-20",
+          "stars": 2660
+        },
+        {
+          "date": "2026-11-21",
+          "stars": 2662
+        },
+        {
+          "date": "2026-11-22",
+          "stars": 2666
+        },
+        {
+          "date": "2026-11-23",
+          "stars": 2668
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 2671
         }
       ],
       "stars7d": 18
@@ -9940,7 +10360,7 @@
       "name": "TA-Lib/ta-lib-python",
       "url": "https://github.com/TA-Lib/ta-lib-python",
       "description": "Python wrapper for TA-Lib (http://ta-lib.org/).",
-      "stars": 12427,
+      "stars": 12431,
       "createdAt": "2012-03-23T17:14:15Z",
       "updatedAt": "2026-11-21T18:36:04Z",
       "history": [
@@ -10067,154 +10487,22 @@
         {
           "date": "2026-11-23",
           "stars": 12427
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 12431
         }
       ],
-      "stars7d": 13
-    },
-    {
-      "id": "156283359",
-      "name": "grananqvist/Awesome-Quant-Machine-Learning-Trading",
-      "url": "https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading",
-      "description": "Quant/Algorithm trading resources with an emphasis on Machine Learning",
-      "stars": 4153,
-      "createdAt": "2018-11-05T21:09:06Z",
-      "updatedAt": "2025-05-21T20:41:58Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 4077
-        },
-        {
-          "date": "2026-10-24",
-          "stars": 4080
-        },
-        {
-          "date": "2026-10-25",
-          "stars": 4082
-        },
-        {
-          "date": "2026-10-26",
-          "stars": 4084
-        },
-        {
-          "date": "2026-10-28",
-          "stars": 4087
-        },
-        {
-          "date": "2026-10-29",
-          "stars": 4086
-        },
-        {
-          "date": "2026-10-30",
-          "stars": 4088
-        },
-        {
-          "date": "2026-10-31",
-          "stars": 4092
-        },
-        {
-          "date": "2026-11-01",
-          "stars": 4092
-        },
-        {
-          "date": "2026-11-02",
-          "stars": 4094
-        },
-        {
-          "date": "2026-11-03",
-          "stars": 4098
-        },
-        {
-          "date": "2026-11-04",
-          "stars": 4100
-        },
-        {
-          "date": "2026-11-05",
-          "stars": 4101
-        },
-        {
-          "date": "2026-11-06",
-          "stars": 4102
-        },
-        {
-          "date": "2026-11-07",
-          "stars": 4102
-        },
-        {
-          "date": "2026-11-08",
-          "stars": 4102
-        },
-        {
-          "date": "2026-11-09",
-          "stars": 4104
-        },
-        {
-          "date": "2026-11-10",
-          "stars": 4106
-        },
-        {
-          "date": "2026-11-11",
-          "stars": 4106
-        },
-        {
-          "date": "2026-11-12",
-          "stars": 4113
-        },
-        {
-          "date": "2026-11-13",
-          "stars": 4132
-        },
-        {
-          "date": "2026-11-14",
-          "stars": 4136
-        },
-        {
-          "date": "2026-11-15",
-          "stars": 4139
-        },
-        {
-          "date": "2026-11-16",
-          "stars": 4140
-        },
-        {
-          "date": "2026-11-17",
-          "stars": 4144
-        },
-        {
-          "date": "2026-11-18",
-          "stars": 4148
-        },
-        {
-          "date": "2026-11-19",
-          "stars": 4150
-        },
-        {
-          "date": "2026-11-20",
-          "stars": 4150
-        },
-        {
-          "date": "2026-11-21",
-          "stars": 4151
-        },
-        {
-          "date": "2026-11-22",
-          "stars": 4151
-        },
-        {
-          "date": "2026-11-23",
-          "stars": 4153
-        }
-      ],
-      "stars7d": 13
+      "stars7d": 15
     },
     {
       "id": "19257422",
       "name": "questdb/questdb",
       "url": "https://github.com/questdb/questdb",
       "description": "QuestDB is a high performance, open-source, time-series database",
-      "stars": 17546,
+      "stars": 17551,
       "createdAt": "2014-04-28T23:29:15Z",
-      "updatedAt": "2026-11-23T06:35:18Z",
+      "updatedAt": "2026-11-24T09:54:10Z",
       "history": [
         {
           "date": "2026-10-23",
@@ -10339,288 +10627,20 @@
         {
           "date": "2026-11-23",
           "stars": 17546
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 17551
         }
       ],
-      "stars7d": 12
-    },
-    {
-      "id": "437352558",
-      "name": "wangzhe3224/awesome-systematic-trading",
-      "url": "https://github.com/wangzhe3224/awesome-systematic-trading",
-      "description": "A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化交易 | 量化投资",
-      "stars": 5410,
-      "createdAt": "2021-12-11T17:57:13Z",
-      "updatedAt": "2026-11-03T14:01:35Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 5320
-        },
-        {
-          "date": "2026-10-24",
-          "stars": 5324
-        },
-        {
-          "date": "2026-10-25",
-          "stars": 5327
-        },
-        {
-          "date": "2026-10-26",
-          "stars": 5336
-        },
-        {
-          "date": "2026-10-28",
-          "stars": 5345
-        },
-        {
-          "date": "2026-10-29",
-          "stars": 5351
-        },
-        {
-          "date": "2026-10-30",
-          "stars": 5352
-        },
-        {
-          "date": "2026-10-31",
-          "stars": 5359
-        },
-        {
-          "date": "2026-11-01",
-          "stars": 5360
-        },
-        {
-          "date": "2026-11-02",
-          "stars": 5365
-        },
-        {
-          "date": "2026-11-03",
-          "stars": 5369
-        },
-        {
-          "date": "2026-11-04",
-          "stars": 5373
-        },
-        {
-          "date": "2026-11-05",
-          "stars": 5373
-        },
-        {
-          "date": "2026-11-06",
-          "stars": 5374
-        },
-        {
-          "date": "2026-11-07",
-          "stars": 5376
-        },
-        {
-          "date": "2026-11-08",
-          "stars": 5379
-        },
-        {
-          "date": "2026-11-09",
-          "stars": 5387
-        },
-        {
-          "date": "2026-11-10",
-          "stars": 5391
-        },
-        {
-          "date": "2026-11-11",
-          "stars": 5394
-        },
-        {
-          "date": "2026-11-12",
-          "stars": 5398
-        },
-        {
-          "date": "2026-11-13",
-          "stars": 5398
-        },
-        {
-          "date": "2026-11-14",
-          "stars": 5400
-        },
-        {
-          "date": "2026-11-15",
-          "stars": 5401
-        },
-        {
-          "date": "2026-11-16",
-          "stars": 5400
-        },
-        {
-          "date": "2026-11-17",
-          "stars": 5403
-        },
-        {
-          "date": "2026-11-18",
-          "stars": 5404
-        },
-        {
-          "date": "2026-11-19",
-          "stars": 5408
-        },
-        {
-          "date": "2026-11-20",
-          "stars": 5409
-        },
-        {
-          "date": "2026-11-21",
-          "stars": 5410
-        },
-        {
-          "date": "2026-11-22",
-          "stars": 5410
-        },
-        {
-          "date": "2026-11-23",
-          "stars": 5410
-        }
-      ],
-      "stars7d": 10
-    },
-    {
-      "id": "5103141",
-      "name": "fasiondog/hikyuu",
-      "url": "https://github.com/fasiondog/hikyuu",
-      "description": "An open-source, high-performance quantitative trading framework in C++/Python focused on strategy analysis and backtesting Trading model R&D · Ultra-fast engine · Efficient backtesting",
-      "stars": 3735,
-      "createdAt": "2012-07-18T23:21:42Z",
-      "updatedAt": "2026-11-22T09:01:00Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 3570
-        },
-        {
-          "date": "2026-10-24",
-          "stars": 3571
-        },
-        {
-          "date": "2026-10-25",
-          "stars": 3574
-        },
-        {
-          "date": "2026-10-26",
-          "stars": 3577
-        },
-        {
-          "date": "2026-10-28",
-          "stars": 3653
-        },
-        {
-          "date": "2026-10-29",
-          "stars": 3663
-        },
-        {
-          "date": "2026-10-30",
-          "stars": 3668
-        },
-        {
-          "date": "2026-10-31",
-          "stars": 3672
-        },
-        {
-          "date": "2026-11-01",
-          "stars": 3673
-        },
-        {
-          "date": "2026-11-02",
-          "stars": 3675
-        },
-        {
-          "date": "2026-11-03",
-          "stars": 3676
-        },
-        {
-          "date": "2026-11-04",
-          "stars": 3679
-        },
-        {
-          "date": "2026-11-05",
-          "stars": 3686
-        },
-        {
-          "date": "2026-11-06",
-          "stars": 3688
-        },
-        {
-          "date": "2026-11-07",
-          "stars": 3688
-        },
-        {
-          "date": "2026-11-08",
-          "stars": 3689
-        },
-        {
-          "date": "2026-11-09",
-          "stars": 3691
-        },
-        {
-          "date": "2026-11-10",
-          "stars": 3698
-        },
-        {
-          "date": "2026-11-11",
-          "stars": 3709
-        },
-        {
-          "date": "2026-11-12",
-          "stars": 3713
-        },
-        {
-          "date": "2026-11-13",
-          "stars": 3715
-        },
-        {
-          "date": "2026-11-14",
-          "stars": 3720
-        },
-        {
-          "date": "2026-11-15",
-          "stars": 3723
-        },
-        {
-          "date": "2026-11-16",
-          "stars": 3725
-        },
-        {
-          "date": "2026-11-17",
-          "stars": 3727
-        },
-        {
-          "date": "2026-11-18",
-          "stars": 3732
-        },
-        {
-          "date": "2026-11-19",
-          "stars": 3734
-        },
-        {
-          "date": "2026-11-20",
-          "stars": 3732
-        },
-        {
-          "date": "2026-11-21",
-          "stars": 3733
-        },
-        {
-          "date": "2026-11-22",
-          "stars": 3733
-        },
-        {
-          "date": "2026-11-23",
-          "stars": 3735
-        }
-      ],
-      "stars7d": 10
+      "stars7d": 14
     },
     {
       "id": "135300551",
       "name": "PyPortfolio/PyPortfolioOpt",
       "url": "https://github.com/PyPortfolio/PyPortfolioOpt",
       "description": "Financial portfolio optimization in python, including classical efficient frontier, Black-Litterman, Hierarchical Risk Parity",
-      "stars": 6178,
+      "stars": 6182,
       "createdAt": "2018-05-29T13:30:30Z",
       "updatedAt": "2026-07-07T21:18:14Z",
       "history": [
@@ -10747,16 +10767,300 @@
         {
           "date": "2026-11-23",
           "stars": 6178
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 6182
         }
       ],
-      "stars7d": 9
+      "stars7d": 12
+    },
+    {
+      "id": "589385734",
+      "name": "edtechre/pybroker",
+      "url": "https://github.com/edtechre/pybroker",
+      "description": "Algorithmic Trading in Python with Machine Learning",
+      "stars": 3728,
+      "createdAt": "2023-01-16T01:11:52Z",
+      "updatedAt": "2026-11-23T16:16:10Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 3639
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 3651
+        },
+        {
+          "date": "2026-10-25",
+          "stars": 3655
+        },
+        {
+          "date": "2026-10-26",
+          "stars": 3660
+        },
+        {
+          "date": "2026-10-28",
+          "stars": 3663
+        },
+        {
+          "date": "2026-10-29",
+          "stars": 3665
+        },
+        {
+          "date": "2026-10-30",
+          "stars": 3667
+        },
+        {
+          "date": "2026-10-31",
+          "stars": 3666
+        },
+        {
+          "date": "2026-11-01",
+          "stars": 3665
+        },
+        {
+          "date": "2026-11-02",
+          "stars": 3667
+        },
+        {
+          "date": "2026-11-03",
+          "stars": 3668
+        },
+        {
+          "date": "2026-11-04",
+          "stars": 3672
+        },
+        {
+          "date": "2026-11-05",
+          "stars": 3673
+        },
+        {
+          "date": "2026-11-06",
+          "stars": 3672
+        },
+        {
+          "date": "2026-11-07",
+          "stars": 3674
+        },
+        {
+          "date": "2026-11-08",
+          "stars": 3679
+        },
+        {
+          "date": "2026-11-09",
+          "stars": 3680
+        },
+        {
+          "date": "2026-11-10",
+          "stars": 3681
+        },
+        {
+          "date": "2026-11-11",
+          "stars": 3690
+        },
+        {
+          "date": "2026-11-12",
+          "stars": 3704
+        },
+        {
+          "date": "2026-11-13",
+          "stars": 3707
+        },
+        {
+          "date": "2026-11-14",
+          "stars": 3712
+        },
+        {
+          "date": "2026-11-15",
+          "stars": 3716
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 3718
+        },
+        {
+          "date": "2026-11-17",
+          "stars": 3717
+        },
+        {
+          "date": "2026-11-18",
+          "stars": 3719
+        },
+        {
+          "date": "2026-11-19",
+          "stars": 3721
+        },
+        {
+          "date": "2026-11-20",
+          "stars": 3722
+        },
+        {
+          "date": "2026-11-21",
+          "stars": 3725
+        },
+        {
+          "date": "2026-11-22",
+          "stars": 3725
+        },
+        {
+          "date": "2026-11-23",
+          "stars": 3726
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 3728
+        }
+      ],
+      "stars7d": 11
+    },
+    {
+      "id": "437352558",
+      "name": "wangzhe3224/awesome-systematic-trading",
+      "url": "https://github.com/wangzhe3224/awesome-systematic-trading",
+      "description": "A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化交易 | 量化投资",
+      "stars": 5413,
+      "createdAt": "2021-12-11T17:57:13Z",
+      "updatedAt": "2026-11-23T09:24:57Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 5320
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 5324
+        },
+        {
+          "date": "2026-10-25",
+          "stars": 5327
+        },
+        {
+          "date": "2026-10-26",
+          "stars": 5336
+        },
+        {
+          "date": "2026-10-28",
+          "stars": 5345
+        },
+        {
+          "date": "2026-10-29",
+          "stars": 5351
+        },
+        {
+          "date": "2026-10-30",
+          "stars": 5352
+        },
+        {
+          "date": "2026-10-31",
+          "stars": 5359
+        },
+        {
+          "date": "2026-11-01",
+          "stars": 5360
+        },
+        {
+          "date": "2026-11-02",
+          "stars": 5365
+        },
+        {
+          "date": "2026-11-03",
+          "stars": 5369
+        },
+        {
+          "date": "2026-11-04",
+          "stars": 5373
+        },
+        {
+          "date": "2026-11-05",
+          "stars": 5373
+        },
+        {
+          "date": "2026-11-06",
+          "stars": 5374
+        },
+        {
+          "date": "2026-11-07",
+          "stars": 5376
+        },
+        {
+          "date": "2026-11-08",
+          "stars": 5379
+        },
+        {
+          "date": "2026-11-09",
+          "stars": 5387
+        },
+        {
+          "date": "2026-11-10",
+          "stars": 5391
+        },
+        {
+          "date": "2026-11-11",
+          "stars": 5394
+        },
+        {
+          "date": "2026-11-12",
+          "stars": 5398
+        },
+        {
+          "date": "2026-11-13",
+          "stars": 5398
+        },
+        {
+          "date": "2026-11-14",
+          "stars": 5400
+        },
+        {
+          "date": "2026-11-15",
+          "stars": 5401
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 5400
+        },
+        {
+          "date": "2026-11-17",
+          "stars": 5403
+        },
+        {
+          "date": "2026-11-18",
+          "stars": 5404
+        },
+        {
+          "date": "2026-11-19",
+          "stars": 5408
+        },
+        {
+          "date": "2026-11-20",
+          "stars": 5409
+        },
+        {
+          "date": "2026-11-21",
+          "stars": 5410
+        },
+        {
+          "date": "2026-11-22",
+          "stars": 5410
+        },
+        {
+          "date": "2026-11-23",
+          "stars": 5410
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 5413
+        }
+      ],
+      "stars7d": 10
     },
     {
       "id": "244460835",
       "name": "dcajasn/Riskfolio-Lib",
       "url": "https://github.com/dcajasn/Riskfolio-Lib",
       "description": "Portfolio Optimization in Python",
-      "stars": 4620,
+      "stars": 4622,
       "createdAt": "2020-03-02T19:49:06Z",
       "updatedAt": "2026-11-04T03:11:18Z",
       "history": [
@@ -10883,18 +11187,22 @@
         {
           "date": "2026-11-23",
           "stars": 4620
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 4622
         }
       ],
-      "stars7d": 9
+      "stars7d": 10
     },
     {
       "id": "538784585",
       "name": "visualHFT/VisualHFT",
       "url": "https://github.com/visualHFT/VisualHFT",
       "description": "VisualHFT Terminal: open-source observability and decision terminal for electronic trading desks. Live Level 2 order books, microstructure analytics, and quantitative execution monitoring.",
-      "stars": 1226,
+      "stars": 1228,
       "createdAt": "2022-09-20T02:52:30Z",
-      "updatedAt": "2026-11-16T19:45:08Z",
+      "updatedAt": "2026-11-23T15:31:37Z",
       "history": [
         {
           "date": "2026-10-23",
@@ -11019,142 +11327,290 @@
         {
           "date": "2026-11-23",
           "stars": 1226
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 1228
+        }
+      ],
+      "stars7d": 10
+    },
+    {
+      "id": "5103141",
+      "name": "fasiondog/hikyuu",
+      "url": "https://github.com/fasiondog/hikyuu",
+      "description": "An open-source, high-performance quantitative trading framework in C++/Python focused on strategy analysis and backtesting Trading model R&D · Ultra-fast engine · Efficient backtesting",
+      "stars": 3736,
+      "createdAt": "2012-07-18T23:21:42Z",
+      "updatedAt": "2026-11-22T09:01:00Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 3570
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 3571
+        },
+        {
+          "date": "2026-10-25",
+          "stars": 3574
+        },
+        {
+          "date": "2026-10-26",
+          "stars": 3577
+        },
+        {
+          "date": "2026-10-28",
+          "stars": 3653
+        },
+        {
+          "date": "2026-10-29",
+          "stars": 3663
+        },
+        {
+          "date": "2026-10-30",
+          "stars": 3668
+        },
+        {
+          "date": "2026-10-31",
+          "stars": 3672
+        },
+        {
+          "date": "2026-11-01",
+          "stars": 3673
+        },
+        {
+          "date": "2026-11-02",
+          "stars": 3675
+        },
+        {
+          "date": "2026-11-03",
+          "stars": 3676
+        },
+        {
+          "date": "2026-11-04",
+          "stars": 3679
+        },
+        {
+          "date": "2026-11-05",
+          "stars": 3686
+        },
+        {
+          "date": "2026-11-06",
+          "stars": 3688
+        },
+        {
+          "date": "2026-11-07",
+          "stars": 3688
+        },
+        {
+          "date": "2026-11-08",
+          "stars": 3689
+        },
+        {
+          "date": "2026-11-09",
+          "stars": 3691
+        },
+        {
+          "date": "2026-11-10",
+          "stars": 3698
+        },
+        {
+          "date": "2026-11-11",
+          "stars": 3709
+        },
+        {
+          "date": "2026-11-12",
+          "stars": 3713
+        },
+        {
+          "date": "2026-11-13",
+          "stars": 3715
+        },
+        {
+          "date": "2026-11-14",
+          "stars": 3720
+        },
+        {
+          "date": "2026-11-15",
+          "stars": 3723
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 3725
+        },
+        {
+          "date": "2026-11-17",
+          "stars": 3727
+        },
+        {
+          "date": "2026-11-18",
+          "stars": 3732
+        },
+        {
+          "date": "2026-11-19",
+          "stars": 3734
+        },
+        {
+          "date": "2026-11-20",
+          "stars": 3732
+        },
+        {
+          "date": "2026-11-21",
+          "stars": 3733
+        },
+        {
+          "date": "2026-11-22",
+          "stars": 3733
+        },
+        {
+          "date": "2026-11-23",
+          "stars": 3735
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 3736
         }
       ],
       "stars7d": 9
     },
     {
-      "id": "589385734",
-      "name": "edtechre/pybroker",
-      "url": "https://github.com/edtechre/pybroker",
-      "description": "Algorithmic Trading in Python with Machine Learning",
-      "stars": 3726,
-      "createdAt": "2023-01-16T01:11:52Z",
-      "updatedAt": "2026-11-21T19:21:36Z",
+      "id": "156283359",
+      "name": "grananqvist/Awesome-Quant-Machine-Learning-Trading",
+      "url": "https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading",
+      "description": "Quant/Algorithm trading resources with an emphasis on Machine Learning",
+      "stars": 4152,
+      "createdAt": "2018-11-05T21:09:06Z",
+      "updatedAt": "2025-05-21T20:41:58Z",
       "history": [
         {
           "date": "2026-10-23",
-          "stars": 3639
+          "stars": 4077
         },
         {
           "date": "2026-10-24",
-          "stars": 3651
+          "stars": 4080
         },
         {
           "date": "2026-10-25",
-          "stars": 3655
+          "stars": 4082
         },
         {
           "date": "2026-10-26",
-          "stars": 3660
+          "stars": 4084
         },
         {
           "date": "2026-10-28",
-          "stars": 3663
+          "stars": 4087
         },
         {
           "date": "2026-10-29",
-          "stars": 3665
+          "stars": 4086
         },
         {
           "date": "2026-10-30",
-          "stars": 3667
+          "stars": 4088
         },
         {
           "date": "2026-10-31",
-          "stars": 3666
+          "stars": 4092
         },
         {
           "date": "2026-11-01",
-          "stars": 3665
+          "stars": 4092
         },
         {
           "date": "2026-11-02",
-          "stars": 3667
+          "stars": 4094
         },
         {
           "date": "2026-11-03",
-          "stars": 3668
+          "stars": 4098
         },
         {
           "date": "2026-11-04",
-          "stars": 3672
+          "stars": 4100
         },
         {
           "date": "2026-11-05",
-          "stars": 3673
+          "stars": 4101
         },
         {
           "date": "2026-11-06",
-          "stars": 3672
+          "stars": 4102
         },
         {
           "date": "2026-11-07",
-          "stars": 3674
+          "stars": 4102
         },
         {
           "date": "2026-11-08",
-          "stars": 3679
+          "stars": 4102
         },
         {
           "date": "2026-11-09",
-          "stars": 3680
+          "stars": 4104
         },
         {
           "date": "2026-11-10",
-          "stars": 3681
+          "stars": 4106
         },
         {
           "date": "2026-11-11",
-          "stars": 3690
+          "stars": 4106
         },
         {
           "date": "2026-11-12",
-          "stars": 3704
+          "stars": 4113
         },
         {
           "date": "2026-11-13",
-          "stars": 3707
+          "stars": 4132
         },
         {
           "date": "2026-11-14",
-          "stars": 3712
+          "stars": 4136
         },
         {
           "date": "2026-11-15",
-          "stars": 3716
+          "stars": 4139
         },
         {
           "date": "2026-11-16",
-          "stars": 3718
+          "stars": 4140
         },
         {
           "date": "2026-11-17",
-          "stars": 3717
+          "stars": 4144
         },
         {
           "date": "2026-11-18",
-          "stars": 3719
+          "stars": 4148
         },
         {
           "date": "2026-11-19",
-          "stars": 3721
+          "stars": 4150
         },
         {
           "date": "2026-11-20",
-          "stars": 3722
+          "stars": 4150
         },
         {
           "date": "2026-11-21",
-          "stars": 3725
+          "stars": 4151
         },
         {
           "date": "2026-11-22",
-          "stars": 3725
+          "stars": 4151
         },
         {
           "date": "2026-11-23",
-          "stars": 3726
+          "stars": 4153
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 4152
         }
       ],
       "stars7d": 8
@@ -11164,7 +11620,7 @@
       "name": "shreejitverma/The-Quant-Prep",
       "url": "https://github.com/shreejitverma/The-Quant-Prep",
       "description": "Free quant interview prep for quant trader, researcher, developer, and risk roles at HFT firms, prop shops, and hedge funds: 292 topics, 6,264 question cards, 18 firm guides, CI-checked C++20 and Python code, and a self-tracking study platform.",
-      "stars": 126,
+      "stars": 128,
       "createdAt": "2022-08-27T17:05:15Z",
       "updatedAt": "2026-11-22T07:35:32Z",
       "history": [
@@ -11223,145 +11679,433 @@
         {
           "date": "2026-11-23",
           "stars": 126
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 128
         }
       ],
-      "stars7d": 7
+      "stars7d": 8
     },
     {
-      "id": "548473954",
-      "name": "barter-rs/barter-rs",
-      "url": "https://github.com/barter-rs/barter-rs",
-      "description": "Open-source Rust framework for building event-driven live-trading & backtesting systems",
-      "stars": 2378,
-      "createdAt": "2022-10-09T16:39:34Z",
-      "updatedAt": "2026-08-24T07:23:22Z",
+      "id": "170544934",
+      "name": "hudson-and-thames/mlfinlab",
+      "url": "https://github.com/hudson-and-thames/mlfinlab",
+      "description": "MlFinLab helps portfolio managers and traders who want to leverage the power of machine learning by providing reproducible, interpretable, and easy to use tools.",
+      "stars": 4977,
+      "createdAt": "2019-02-13T16:57:25Z",
+      "updatedAt": "2023-10-02T03:05:19Z",
       "history": [
         {
           "date": "2026-10-23",
-          "stars": 2351
+          "stars": 4949
         },
         {
           "date": "2026-10-24",
-          "stars": 2357
+          "stars": 4950
         },
         {
           "date": "2026-10-25",
-          "stars": 2357
+          "stars": 4950
         },
         {
           "date": "2026-10-26",
-          "stars": 2357
+          "stars": 4952
         },
         {
           "date": "2026-10-28",
-          "stars": 2358
+          "stars": 4955
         },
         {
           "date": "2026-10-29",
-          "stars": 2360
+          "stars": 4957
         },
         {
           "date": "2026-10-30",
-          "stars": 2361
+          "stars": 4960
         },
         {
           "date": "2026-10-31",
-          "stars": 2361
+          "stars": 4959
         },
         {
           "date": "2026-11-01",
-          "stars": 2361
+          "stars": 4961
         },
         {
           "date": "2026-11-02",
-          "stars": 2362
+          "stars": 4963
         },
         {
           "date": "2026-11-03",
-          "stars": 2364
+          "stars": 4965
         },
         {
           "date": "2026-11-04",
-          "stars": 2364
+          "stars": 4966
         },
         {
           "date": "2026-11-05",
-          "stars": 2364
+          "stars": 4968
         },
         {
           "date": "2026-11-06",
-          "stars": 2364
+          "stars": 4968
         },
         {
           "date": "2026-11-07",
-          "stars": 2365
+          "stars": 4968
         },
         {
           "date": "2026-11-08",
-          "stars": 2366
+          "stars": 4971
         },
         {
           "date": "2026-11-09",
-          "stars": 2367
+          "stars": 4973
         },
         {
           "date": "2026-11-10",
-          "stars": 2368
+          "stars": 4973
         },
         {
           "date": "2026-11-11",
-          "stars": 2370
+          "stars": 4972
         },
         {
           "date": "2026-11-12",
-          "stars": 2372
+          "stars": 4972
         },
         {
           "date": "2026-11-13",
-          "stars": 2373
+          "stars": 4973
         },
         {
           "date": "2026-11-14",
-          "stars": 2373
+          "stars": 4973
         },
         {
           "date": "2026-11-15",
-          "stars": 2373
+          "stars": 4973
         },
         {
           "date": "2026-11-16",
-          "stars": 2373
+          "stars": 4972
         },
         {
           "date": "2026-11-17",
-          "stars": 2374
+          "stars": 4972
         },
         {
           "date": "2026-11-18",
-          "stars": 2375
+          "stars": 4971
         },
         {
           "date": "2026-11-19",
-          "stars": 2375
+          "stars": 4972
         },
         {
           "date": "2026-11-20",
-          "stars": 2374
+          "stars": 4972
         },
         {
           "date": "2026-11-21",
-          "stars": 2376
+          "stars": 4972
         },
         {
           "date": "2026-11-22",
-          "stars": 2377
+          "stars": 4973
         },
         {
           "date": "2026-11-23",
-          "stars": 2378
+          "stars": 4973
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 4977
         }
       ],
       "stars7d": 5
+    },
+    {
+      "id": "1213316764",
+      "name": "Azhagesan-dev/OrderFlowMap",
+      "url": "https://github.com/Azhagesan-dev/OrderFlowMap",
+      "description": "Bookmap-style order flow visualizer in a single HTML file — real-time heatmaps, trade bubbles, DOM ladder, volume profile, CVD, and liquidity wall detection. Works with OpenAlgo WebSocket for live Indian market data (NSE/NFO/BSE/MCX).",
+      "stars": 118,
+      "createdAt": "2026-04-17T08:55:18Z",
+      "updatedAt": "2026-04-17T09:12:23Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 91
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 92
+        },
+        {
+          "date": "2026-10-25",
+          "stars": 92
+        },
+        {
+          "date": "2026-10-26",
+          "stars": 94
+        },
+        {
+          "date": "2026-10-28",
+          "stars": 99
+        },
+        {
+          "date": "2026-10-29",
+          "stars": 100
+        },
+        {
+          "date": "2026-10-30",
+          "stars": 100
+        },
+        {
+          "date": "2026-10-31",
+          "stars": 101
+        },
+        {
+          "date": "2026-11-01",
+          "stars": 101
+        },
+        {
+          "date": "2026-11-02",
+          "stars": 102
+        },
+        {
+          "date": "2026-11-03",
+          "stars": 102
+        },
+        {
+          "date": "2026-11-04",
+          "stars": 103
+        },
+        {
+          "date": "2026-11-05",
+          "stars": 107
+        },
+        {
+          "date": "2026-11-06",
+          "stars": 108
+        },
+        {
+          "date": "2026-11-07",
+          "stars": 108
+        },
+        {
+          "date": "2026-11-08",
+          "stars": 109
+        },
+        {
+          "date": "2026-11-09",
+          "stars": 109
+        },
+        {
+          "date": "2026-11-10",
+          "stars": 109
+        },
+        {
+          "date": "2026-11-11",
+          "stars": 110
+        },
+        {
+          "date": "2026-11-12",
+          "stars": 111
+        },
+        {
+          "date": "2026-11-13",
+          "stars": 111
+        },
+        {
+          "date": "2026-11-14",
+          "stars": 113
+        },
+        {
+          "date": "2026-11-15",
+          "stars": 113
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 113
+        },
+        {
+          "date": "2026-11-17",
+          "stars": 113
+        },
+        {
+          "date": "2026-11-18",
+          "stars": 113
+        },
+        {
+          "date": "2026-11-19",
+          "stars": 114
+        },
+        {
+          "date": "2026-11-20",
+          "stars": 114
+        },
+        {
+          "date": "2026-11-21",
+          "stars": 114
+        },
+        {
+          "date": "2026-11-22",
+          "stars": 115
+        },
+        {
+          "date": "2026-11-23",
+          "stars": 117
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 118
+        }
+      ],
+      "stars7d": 5
+    },
+    {
+      "id": "766174549",
+      "name": "FinancialComputingUCL/LOBFrame",
+      "url": "https://github.com/FinancialComputingUCL/LOBFrame",
+      "description": "LOBFrame is a novel, open-source code base which presents a renewed way to process large-scale Limit Order Book (LOB) data.",
+      "stars": 265,
+      "createdAt": "2024-03-02T14:43:44Z",
+      "updatedAt": "2026-11-17T09:32:04Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 259
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 259
+        },
+        {
+          "date": "2026-10-25",
+          "stars": 259
+        },
+        {
+          "date": "2026-10-26",
+          "stars": 259
+        },
+        {
+          "date": "2026-10-28",
+          "stars": 259
+        },
+        {
+          "date": "2026-10-29",
+          "stars": 259
+        },
+        {
+          "date": "2026-10-30",
+          "stars": 259
+        },
+        {
+          "date": "2026-10-31",
+          "stars": 259
+        },
+        {
+          "date": "2026-11-01",
+          "stars": 259
+        },
+        {
+          "date": "2026-11-02",
+          "stars": 259
+        },
+        {
+          "date": "2026-11-03",
+          "stars": 259
+        },
+        {
+          "date": "2026-11-04",
+          "stars": 259
+        },
+        {
+          "date": "2026-11-05",
+          "stars": 259
+        },
+        {
+          "date": "2026-11-06",
+          "stars": 259
+        },
+        {
+          "date": "2026-11-07",
+          "stars": 259
+        },
+        {
+          "date": "2026-11-08",
+          "stars": 259
+        },
+        {
+          "date": "2026-11-09",
+          "stars": 259
+        },
+        {
+          "date": "2026-11-10",
+          "stars": 259
+        },
+        {
+          "date": "2026-11-11",
+          "stars": 259
+        },
+        {
+          "date": "2026-11-12",
+          "stars": 259
+        },
+        {
+          "date": "2026-11-13",
+          "stars": 259
+        },
+        {
+          "date": "2026-11-14",
+          "stars": 259
+        },
+        {
+          "date": "2026-11-15",
+          "stars": 260
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 260
+        },
+        {
+          "date": "2026-11-17",
+          "stars": 261
+        },
+        {
+          "date": "2026-11-18",
+          "stars": 261
+        },
+        {
+          "date": "2026-11-19",
+          "stars": 263
+        },
+        {
+          "date": "2026-11-20",
+          "stars": 264
+        },
+        {
+          "date": "2026-11-21",
+          "stars": 264
+        },
+        {
+          "date": "2026-11-22",
+          "stars": 264
+        },
+        {
+          "date": "2026-11-23",
+          "stars": 264
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 265
+        }
+      ],
+      "stars7d": 4
     },
     {
       "id": "179451497",
@@ -11495,281 +12239,153 @@
         {
           "date": "2026-11-23",
           "stars": 4339
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 4339
         }
       ],
-      "stars7d": 4
+      "stars7d": 3
     },
     {
-      "id": "766174549",
-      "name": "FinancialComputingUCL/LOBFrame",
-      "url": "https://github.com/FinancialComputingUCL/LOBFrame",
-      "description": "LOBFrame is a novel, open-source code base which presents a renewed way to process large-scale Limit Order Book (LOB) data.",
-      "stars": 264,
-      "createdAt": "2024-03-02T14:43:44Z",
-      "updatedAt": "2026-11-17T09:32:04Z",
+      "id": "548473954",
+      "name": "barter-rs/barter-rs",
+      "url": "https://github.com/barter-rs/barter-rs",
+      "description": "Open-source Rust framework for building event-driven live-trading & backtesting systems",
+      "stars": 2377,
+      "createdAt": "2022-10-09T16:39:34Z",
+      "updatedAt": "2026-08-24T07:23:22Z",
       "history": [
         {
           "date": "2026-10-23",
-          "stars": 259
+          "stars": 2351
         },
         {
           "date": "2026-10-24",
-          "stars": 259
+          "stars": 2357
         },
         {
           "date": "2026-10-25",
-          "stars": 259
+          "stars": 2357
         },
         {
           "date": "2026-10-26",
-          "stars": 259
+          "stars": 2357
         },
         {
           "date": "2026-10-28",
-          "stars": 259
+          "stars": 2358
         },
         {
           "date": "2026-10-29",
-          "stars": 259
+          "stars": 2360
         },
         {
           "date": "2026-10-30",
-          "stars": 259
+          "stars": 2361
         },
         {
           "date": "2026-10-31",
-          "stars": 259
+          "stars": 2361
         },
         {
           "date": "2026-11-01",
-          "stars": 259
+          "stars": 2361
         },
         {
           "date": "2026-11-02",
-          "stars": 259
+          "stars": 2362
         },
         {
           "date": "2026-11-03",
-          "stars": 259
+          "stars": 2364
         },
         {
           "date": "2026-11-04",
-          "stars": 259
+          "stars": 2364
         },
         {
           "date": "2026-11-05",
-          "stars": 259
+          "stars": 2364
         },
         {
           "date": "2026-11-06",
-          "stars": 259
+          "stars": 2364
         },
         {
           "date": "2026-11-07",
-          "stars": 259
+          "stars": 2365
         },
         {
           "date": "2026-11-08",
-          "stars": 259
+          "stars": 2366
         },
         {
           "date": "2026-11-09",
-          "stars": 259
+          "stars": 2367
         },
         {
           "date": "2026-11-10",
-          "stars": 259
+          "stars": 2368
         },
         {
           "date": "2026-11-11",
-          "stars": 259
+          "stars": 2370
         },
         {
           "date": "2026-11-12",
-          "stars": 259
+          "stars": 2372
         },
         {
           "date": "2026-11-13",
-          "stars": 259
+          "stars": 2373
         },
         {
           "date": "2026-11-14",
-          "stars": 259
+          "stars": 2373
         },
         {
           "date": "2026-11-15",
-          "stars": 260
+          "stars": 2373
         },
         {
           "date": "2026-11-16",
-          "stars": 260
+          "stars": 2373
         },
         {
           "date": "2026-11-17",
-          "stars": 261
+          "stars": 2374
         },
         {
           "date": "2026-11-18",
-          "stars": 261
+          "stars": 2375
         },
         {
           "date": "2026-11-19",
-          "stars": 263
+          "stars": 2375
         },
         {
           "date": "2026-11-20",
-          "stars": 264
+          "stars": 2374
         },
         {
           "date": "2026-11-21",
-          "stars": 264
+          "stars": 2376
         },
         {
           "date": "2026-11-22",
-          "stars": 264
+          "stars": 2377
         },
         {
           "date": "2026-11-23",
-          "stars": 264
+          "stars": 2378
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 2377
         }
       ],
-      "stars7d": 4
-    },
-    {
-      "id": "1213316764",
-      "name": "Azhagesan-dev/OrderFlowMap",
-      "url": "https://github.com/Azhagesan-dev/OrderFlowMap",
-      "description": "Bookmap-style order flow visualizer in a single HTML file — real-time heatmaps, trade bubbles, DOM ladder, volume profile, CVD, and liquidity wall detection. Works with OpenAlgo WebSocket for live Indian market data (NSE/NFO/BSE/MCX).",
-      "stars": 117,
-      "createdAt": "2026-04-17T08:55:18Z",
-      "updatedAt": "2026-04-17T09:12:23Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 91
-        },
-        {
-          "date": "2026-10-24",
-          "stars": 92
-        },
-        {
-          "date": "2026-10-25",
-          "stars": 92
-        },
-        {
-          "date": "2026-10-26",
-          "stars": 94
-        },
-        {
-          "date": "2026-10-28",
-          "stars": 99
-        },
-        {
-          "date": "2026-10-29",
-          "stars": 100
-        },
-        {
-          "date": "2026-10-30",
-          "stars": 100
-        },
-        {
-          "date": "2026-10-31",
-          "stars": 101
-        },
-        {
-          "date": "2026-11-01",
-          "stars": 101
-        },
-        {
-          "date": "2026-11-02",
-          "stars": 102
-        },
-        {
-          "date": "2026-11-03",
-          "stars": 102
-        },
-        {
-          "date": "2026-11-04",
-          "stars": 103
-        },
-        {
-          "date": "2026-11-05",
-          "stars": 107
-        },
-        {
-          "date": "2026-11-06",
-          "stars": 108
-        },
-        {
-          "date": "2026-11-07",
-          "stars": 108
-        },
-        {
-          "date": "2026-11-08",
-          "stars": 109
-        },
-        {
-          "date": "2026-11-09",
-          "stars": 109
-        },
-        {
-          "date": "2026-11-10",
-          "stars": 109
-        },
-        {
-          "date": "2026-11-11",
-          "stars": 110
-        },
-        {
-          "date": "2026-11-12",
-          "stars": 111
-        },
-        {
-          "date": "2026-11-13",
-          "stars": 111
-        },
-        {
-          "date": "2026-11-14",
-          "stars": 113
-        },
-        {
-          "date": "2026-11-15",
-          "stars": 113
-        },
-        {
-          "date": "2026-11-16",
-          "stars": 113
-        },
-        {
-          "date": "2026-11-17",
-          "stars": 113
-        },
-        {
-          "date": "2026-11-18",
-          "stars": 113
-        },
-        {
-          "date": "2026-11-19",
-          "stars": 114
-        },
-        {
-          "date": "2026-11-20",
-          "stars": 114
-        },
-        {
-          "date": "2026-11-21",
-          "stars": 114
-        },
-        {
-          "date": "2026-11-22",
-          "stars": 115
-        },
-        {
-          "date": "2026-11-23",
-          "stars": 117
-        }
-      ],
-      "stars7d": 4
+      "stars7d": 3
     },
     {
       "id": "69313892",
@@ -11902,6 +12518,10 @@
         },
         {
           "date": "2026-11-23",
+          "stars": 2231
+        },
+        {
+          "date": "2026-11-24",
           "stars": 2231
         }
       ],
@@ -12039,417 +12659,153 @@
         {
           "date": "2026-11-23",
           "stars": 662
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 662
         }
       ],
       "stars7d": 3
     },
     {
-      "id": "1242941205",
-      "name": "ebrahimpichka/open-MFE",
-      "url": "https://github.com/ebrahimpichka/open-MFE",
-      "description": "A community-curated vault of openly available resources that replicates the rigorous syllabus of top MFE / Quant Finance programs",
-      "stars": 68,
-      "createdAt": "2026-05-18T22:51:00Z",
-      "updatedAt": "2026-10-03T21:23:12Z",
+      "id": "1351469027",
+      "name": "0xethanq/astra-quant-agent",
+      "url": "https://github.com/0xethanq/astra-quant-agent",
+      "description": "结合多大模型分析与确定性代码风控的自主量化交易系统 ｜ Autonomous crypto trading system with multi-LLM analysis, deterministic Python risk control & OKX execution.",
+      "stars": 425,
+      "createdAt": "2026-08-30T14:34:10Z",
+      "updatedAt": "2026-11-21T05:12:39Z",
       "history": [
         {
           "date": "2026-10-23",
-          "stars": 59
+          "stars": 393
         },
         {
           "date": "2026-10-24",
-          "stars": 60
+          "stars": 394
         },
         {
           "date": "2026-10-25",
-          "stars": 60
+          "stars": 397
         },
         {
           "date": "2026-10-26",
-          "stars": 60
+          "stars": 399
         },
         {
           "date": "2026-10-28",
-          "stars": 61
+          "stars": 402
         },
         {
           "date": "2026-10-29",
-          "stars": 61
+          "stars": 403
         },
         {
           "date": "2026-10-30",
-          "stars": 61
+          "stars": 404
         },
         {
           "date": "2026-10-31",
-          "stars": 61
+          "stars": 404
         },
         {
           "date": "2026-11-01",
-          "stars": 61
+          "stars": 407
         },
         {
           "date": "2026-11-02",
-          "stars": 61
+          "stars": 408
         },
         {
           "date": "2026-11-03",
-          "stars": 61
+          "stars": 408
         },
         {
           "date": "2026-11-04",
-          "stars": 61
+          "stars": 408
         },
         {
           "date": "2026-11-05",
-          "stars": 61
+          "stars": 409
         },
         {
           "date": "2026-11-06",
-          "stars": 61
+          "stars": 410
         },
         {
           "date": "2026-11-07",
-          "stars": 63
+          "stars": 412
         },
         {
           "date": "2026-11-08",
-          "stars": 63
+          "stars": 413
         },
         {
           "date": "2026-11-09",
-          "stars": 63
+          "stars": 412
         },
         {
           "date": "2026-11-10",
-          "stars": 64
+          "stars": 415
         },
         {
           "date": "2026-11-11",
-          "stars": 65
+          "stars": 415
         },
         {
           "date": "2026-11-12",
-          "stars": 65
+          "stars": 416
         },
         {
           "date": "2026-11-13",
-          "stars": 65
+          "stars": 419
         },
         {
           "date": "2026-11-14",
-          "stars": 65
+          "stars": 421
         },
         {
           "date": "2026-11-15",
-          "stars": 65
+          "stars": 421
         },
         {
           "date": "2026-11-16",
-          "stars": 65
+          "stars": 422
         },
         {
           "date": "2026-11-17",
-          "stars": 66
+          "stars": 422
         },
         {
           "date": "2026-11-18",
-          "stars": 66
+          "stars": 423
         },
         {
           "date": "2026-11-19",
-          "stars": 66
+          "stars": 422
         },
         {
           "date": "2026-11-20",
-          "stars": 66
+          "stars": 423
         },
         {
           "date": "2026-11-21",
-          "stars": 68
+          "stars": 423
         },
         {
           "date": "2026-11-22",
-          "stars": 68
+          "stars": 423
         },
         {
           "date": "2026-11-23",
-          "stars": 68
+          "stars": 424
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 425
         }
       ],
       "stars7d": 3
-    },
-    {
-      "id": "177023075",
-      "name": "firmai/financial-machine-learning",
-      "url": "https://github.com/firmai/financial-machine-learning",
-      "description": "A curated list of practical financial machine learning tools and applications.",
-      "stars": 8842,
-      "createdAt": "2019-03-21T21:00:35Z",
-      "updatedAt": "2025-01-03T01:27:50Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 8819
-        },
-        {
-          "date": "2026-10-24",
-          "stars": 8820
-        },
-        {
-          "date": "2026-10-25",
-          "stars": 8820
-        },
-        {
-          "date": "2026-10-26",
-          "stars": 8823
-        },
-        {
-          "date": "2026-10-28",
-          "stars": 8828
-        },
-        {
-          "date": "2026-10-29",
-          "stars": 8830
-        },
-        {
-          "date": "2026-10-30",
-          "stars": 8830
-        },
-        {
-          "date": "2026-10-31",
-          "stars": 8832
-        },
-        {
-          "date": "2026-11-01",
-          "stars": 8833
-        },
-        {
-          "date": "2026-11-02",
-          "stars": 8835
-        },
-        {
-          "date": "2026-11-03",
-          "stars": 8835
-        },
-        {
-          "date": "2026-11-04",
-          "stars": 8833
-        },
-        {
-          "date": "2026-11-05",
-          "stars": 8835
-        },
-        {
-          "date": "2026-11-06",
-          "stars": 8836
-        },
-        {
-          "date": "2026-11-07",
-          "stars": 8835
-        },
-        {
-          "date": "2026-11-08",
-          "stars": 8837
-        },
-        {
-          "date": "2026-11-09",
-          "stars": 8838
-        },
-        {
-          "date": "2026-11-10",
-          "stars": 8837
-        },
-        {
-          "date": "2026-11-11",
-          "stars": 8839
-        },
-        {
-          "date": "2026-11-12",
-          "stars": 8839
-        },
-        {
-          "date": "2026-11-13",
-          "stars": 8838
-        },
-        {
-          "date": "2026-11-14",
-          "stars": 8839
-        },
-        {
-          "date": "2026-11-15",
-          "stars": 8840
-        },
-        {
-          "date": "2026-11-16",
-          "stars": 8840
-        },
-        {
-          "date": "2026-11-17",
-          "stars": 8843
-        },
-        {
-          "date": "2026-11-18",
-          "stars": 8843
-        },
-        {
-          "date": "2026-11-19",
-          "stars": 8842
-        },
-        {
-          "date": "2026-11-20",
-          "stars": 8842
-        },
-        {
-          "date": "2026-11-21",
-          "stars": 8841
-        },
-        {
-          "date": "2026-11-22",
-          "stars": 8842
-        },
-        {
-          "date": "2026-11-23",
-          "stars": 8842
-        }
-      ],
-      "stars7d": 2
-    },
-    {
-      "id": "293687812",
-      "name": "tradytics/eiten",
-      "url": "https://github.com/tradytics/eiten",
-      "description": "Statistical and Algorithmic Investing Strategies for Everyone",
-      "stars": 3330,
-      "createdAt": "2020-09-08T03:09:46Z",
-      "updatedAt": "2022-07-30T19:01:18Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 3323
-        },
-        {
-          "date": "2026-10-24",
-          "stars": 3323
-        },
-        {
-          "date": "2026-10-25",
-          "stars": 3324
-        },
-        {
-          "date": "2026-10-26",
-          "stars": 3325
-        },
-        {
-          "date": "2026-10-28",
-          "stars": 3326
-        },
-        {
-          "date": "2026-10-29",
-          "stars": 3327
-        },
-        {
-          "date": "2026-10-30",
-          "stars": 3328
-        },
-        {
-          "date": "2026-10-31",
-          "stars": 3328
-        },
-        {
-          "date": "2026-11-01",
-          "stars": 3329
-        },
-        {
-          "date": "2026-11-02",
-          "stars": 3330
-        },
-        {
-          "date": "2026-11-03",
-          "stars": 3331
-        },
-        {
-          "date": "2026-11-04",
-          "stars": 3331
-        },
-        {
-          "date": "2026-11-05",
-          "stars": 3332
-        },
-        {
-          "date": "2026-11-06",
-          "stars": 3332
-        },
-        {
-          "date": "2026-11-07",
-          "stars": 3332
-        },
-        {
-          "date": "2026-11-08",
-          "stars": 3331
-        },
-        {
-          "date": "2026-11-09",
-          "stars": 3330
-        },
-        {
-          "date": "2026-11-10",
-          "stars": 3330
-        },
-        {
-          "date": "2026-11-11",
-          "stars": 3329
-        },
-        {
-          "date": "2026-11-12",
-          "stars": 3329
-        },
-        {
-          "date": "2026-11-13",
-          "stars": 3329
-        },
-        {
-          "date": "2026-11-14",
-          "stars": 3329
-        },
-        {
-          "date": "2026-11-15",
-          "stars": 3328
-        },
-        {
-          "date": "2026-11-16",
-          "stars": 3328
-        },
-        {
-          "date": "2026-11-17",
-          "stars": 3329
-        },
-        {
-          "date": "2026-11-18",
-          "stars": 3330
-        },
-        {
-          "date": "2026-11-19",
-          "stars": 3330
-        },
-        {
-          "date": "2026-11-20",
-          "stars": 3329
-        },
-        {
-          "date": "2026-11-21",
-          "stars": 3329
-        },
-        {
-          "date": "2026-11-22",
-          "stars": 3329
-        },
-        {
-          "date": "2026-11-23",
-          "stars": 3330
-        }
-      ],
-      "stars7d": 2
     },
     {
       "id": "78590085",
@@ -12583,6 +12939,10 @@
         {
           "date": "2026-11-23",
           "stars": 1327
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 1327
         }
       ],
       "stars7d": 2
@@ -12594,7 +12954,7 @@
       "description": "Oracle3: open-source trading engine and MCP server for prediction markets. Finds fee-adjusted no-arbitrage violations across related event contracts and trades them live on Kalshi, Polymarket and Solana, or on paper, under pre-trade risk limits. 13 MCP tools, ",
       "stars": 571,
       "createdAt": "2026-02-28T20:20:18Z",
-      "updatedAt": "2026-11-16T07:49:49Z",
+      "updatedAt": "2026-11-24T09:04:08Z",
       "history": [
         {
           "date": "2026-10-23",
@@ -12718,6 +13078,10 @@
         },
         {
           "date": "2026-11-23",
+          "stars": 571
+        },
+        {
+          "date": "2026-11-24",
           "stars": 571
         }
       ],
@@ -12855,414 +13219,430 @@
         {
           "date": "2026-11-23",
           "stars": 508
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 508
         }
       ],
       "stars7d": 2
     },
     {
-      "id": "1351469027",
-      "name": "0xethanq/astra-quant-agent",
-      "url": "https://github.com/0xethanq/astra-quant-agent",
-      "description": "结合多大模型分析与确定性代码风控的自主量化交易系统 ｜ Autonomous crypto trading system with multi-LLM analysis, deterministic Python risk control & OKX execution.",
-      "stars": 424,
-      "createdAt": "2026-08-30T14:34:10Z",
-      "updatedAt": "2026-11-21T05:12:39Z",
+      "id": "1171009732",
+      "name": "DegenSugarBoo/OpenBook",
+      "url": "https://github.com/DegenSugarBoo/OpenBook",
+      "description": "Real-time Crypto Futures depth heatmap in Rust (egui/eframe) with live order flow and trade tape.",
+      "stars": 196,
+      "createdAt": "2026-03-02T19:20:02Z",
+      "updatedAt": "2026-03-02T19:58:20Z",
       "history": [
         {
           "date": "2026-10-23",
-          "stars": 393
+          "stars": 190
         },
         {
           "date": "2026-10-24",
-          "stars": 394
+          "stars": 190
         },
         {
           "date": "2026-10-25",
-          "stars": 397
+          "stars": 190
         },
         {
           "date": "2026-10-26",
-          "stars": 399
+          "stars": 190
         },
         {
           "date": "2026-10-28",
-          "stars": 402
+          "stars": 191
         },
         {
           "date": "2026-10-29",
-          "stars": 403
+          "stars": 191
         },
         {
           "date": "2026-10-30",
-          "stars": 404
+          "stars": 191
         },
         {
           "date": "2026-10-31",
-          "stars": 404
+          "stars": 191
         },
         {
           "date": "2026-11-01",
-          "stars": 407
+          "stars": 191
         },
         {
           "date": "2026-11-02",
-          "stars": 408
+          "stars": 191
         },
         {
           "date": "2026-11-03",
-          "stars": 408
+          "stars": 191
         },
         {
           "date": "2026-11-04",
-          "stars": 408
+          "stars": 193
         },
         {
           "date": "2026-11-05",
-          "stars": 409
+          "stars": 194
         },
         {
           "date": "2026-11-06",
-          "stars": 410
+          "stars": 194
         },
         {
           "date": "2026-11-07",
-          "stars": 412
+          "stars": 194
         },
         {
           "date": "2026-11-08",
-          "stars": 413
+          "stars": 194
         },
         {
           "date": "2026-11-09",
-          "stars": 412
+          "stars": 194
         },
         {
           "date": "2026-11-10",
-          "stars": 415
+          "stars": 194
         },
         {
           "date": "2026-11-11",
-          "stars": 415
+          "stars": 194
         },
         {
           "date": "2026-11-12",
-          "stars": 416
+          "stars": 194
         },
         {
           "date": "2026-11-13",
-          "stars": 419
+          "stars": 194
         },
         {
           "date": "2026-11-14",
-          "stars": 421
+          "stars": 194
         },
         {
           "date": "2026-11-15",
-          "stars": 421
+          "stars": 194
         },
         {
           "date": "2026-11-16",
-          "stars": 422
+          "stars": 194
         },
         {
           "date": "2026-11-17",
-          "stars": 422
+          "stars": 194
         },
         {
           "date": "2026-11-18",
-          "stars": 423
+          "stars": 195
         },
         {
           "date": "2026-11-19",
-          "stars": 422
+          "stars": 195
         },
         {
           "date": "2026-11-20",
-          "stars": 423
+          "stars": 195
         },
         {
           "date": "2026-11-21",
-          "stars": 423
+          "stars": 195
         },
         {
           "date": "2026-11-22",
-          "stars": 423
+          "stars": 195
         },
         {
           "date": "2026-11-23",
-          "stars": 424
+          "stars": 195
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 196
         }
       ],
       "stars7d": 2
     },
     {
-      "id": "170544934",
-      "name": "hudson-and-thames/mlfinlab",
-      "url": "https://github.com/hudson-and-thames/mlfinlab",
-      "description": "MlFinLab helps portfolio managers and traders who want to leverage the power of machine learning by providing reproducible, interpretable, and easy to use tools.",
-      "stars": 4973,
-      "createdAt": "2019-02-13T16:57:25Z",
-      "updatedAt": "2023-10-02T03:05:19Z",
+      "id": "1242941205",
+      "name": "ebrahimpichka/open-MFE",
+      "url": "https://github.com/ebrahimpichka/open-MFE",
+      "description": "A community-curated vault of openly available resources that replicates the rigorous syllabus of top MFE / Quant Finance programs",
+      "stars": 68,
+      "createdAt": "2026-05-18T22:51:00Z",
+      "updatedAt": "2026-10-03T21:23:12Z",
       "history": [
         {
           "date": "2026-10-23",
-          "stars": 4949
+          "stars": 59
         },
         {
           "date": "2026-10-24",
-          "stars": 4950
+          "stars": 60
         },
         {
           "date": "2026-10-25",
-          "stars": 4950
+          "stars": 60
         },
         {
           "date": "2026-10-26",
-          "stars": 4952
+          "stars": 60
         },
         {
           "date": "2026-10-28",
-          "stars": 4955
+          "stars": 61
         },
         {
           "date": "2026-10-29",
-          "stars": 4957
+          "stars": 61
         },
         {
           "date": "2026-10-30",
-          "stars": 4960
+          "stars": 61
         },
         {
           "date": "2026-10-31",
-          "stars": 4959
+          "stars": 61
         },
         {
           "date": "2026-11-01",
-          "stars": 4961
+          "stars": 61
         },
         {
           "date": "2026-11-02",
-          "stars": 4963
+          "stars": 61
         },
         {
           "date": "2026-11-03",
-          "stars": 4965
+          "stars": 61
         },
         {
           "date": "2026-11-04",
-          "stars": 4966
+          "stars": 61
         },
         {
           "date": "2026-11-05",
-          "stars": 4968
+          "stars": 61
         },
         {
           "date": "2026-11-06",
-          "stars": 4968
+          "stars": 61
         },
         {
           "date": "2026-11-07",
-          "stars": 4968
+          "stars": 63
         },
         {
           "date": "2026-11-08",
-          "stars": 4971
+          "stars": 63
         },
         {
           "date": "2026-11-09",
-          "stars": 4973
+          "stars": 63
         },
         {
           "date": "2026-11-10",
-          "stars": 4973
+          "stars": 64
         },
         {
           "date": "2026-11-11",
-          "stars": 4972
+          "stars": 65
         },
         {
           "date": "2026-11-12",
-          "stars": 4972
+          "stars": 65
         },
         {
           "date": "2026-11-13",
-          "stars": 4973
+          "stars": 65
         },
         {
           "date": "2026-11-14",
-          "stars": 4973
+          "stars": 65
         },
         {
           "date": "2026-11-15",
-          "stars": 4973
+          "stars": 65
         },
         {
           "date": "2026-11-16",
-          "stars": 4972
+          "stars": 65
         },
         {
           "date": "2026-11-17",
-          "stars": 4972
+          "stars": 66
         },
         {
           "date": "2026-11-18",
-          "stars": 4971
+          "stars": 66
         },
         {
           "date": "2026-11-19",
-          "stars": 4972
+          "stars": 66
         },
         {
           "date": "2026-11-20",
-          "stars": 4972
+          "stars": 66
         },
         {
           "date": "2026-11-21",
-          "stars": 4972
+          "stars": 68
         },
         {
           "date": "2026-11-22",
-          "stars": 4973
+          "stars": 68
         },
         {
           "date": "2026-11-23",
-          "stars": 4973
+          "stars": 68
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 68
         }
       ],
-      "stars7d": 1
+      "stars7d": 2
     },
     {
-      "id": "63839029",
-      "name": "rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy",
-      "url": "https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy",
-      "description": "Providing the solutions for high-frequency trading (HFT) strategies using data science approaches (Machine Learning) on Full Orderbook Tick Data.",
-      "stars": 2375,
-      "createdAt": "2016-07-21T05:14:14Z",
-      "updatedAt": "2022-08-27T20:48:46Z",
+      "id": "293687812",
+      "name": "tradytics/eiten",
+      "url": "https://github.com/tradytics/eiten",
+      "description": "Statistical and Algorithmic Investing Strategies for Everyone",
+      "stars": 3330,
+      "createdAt": "2020-09-08T03:09:46Z",
+      "updatedAt": "2026-11-24T09:56:18Z",
       "history": [
         {
           "date": "2026-10-23",
-          "stars": 2361
+          "stars": 3323
         },
         {
           "date": "2026-10-24",
-          "stars": 2362
+          "stars": 3323
         },
         {
           "date": "2026-10-25",
-          "stars": 2362
+          "stars": 3324
         },
         {
           "date": "2026-10-26",
-          "stars": 2361
+          "stars": 3325
         },
         {
           "date": "2026-10-28",
-          "stars": 2366
+          "stars": 3326
         },
         {
           "date": "2026-10-29",
-          "stars": 2366
+          "stars": 3327
         },
         {
           "date": "2026-10-30",
-          "stars": 2366
+          "stars": 3328
         },
         {
           "date": "2026-10-31",
-          "stars": 2366
+          "stars": 3328
         },
         {
           "date": "2026-11-01",
-          "stars": 2366
+          "stars": 3329
         },
         {
           "date": "2026-11-02",
-          "stars": 2369
+          "stars": 3330
         },
         {
           "date": "2026-11-03",
-          "stars": 2370
+          "stars": 3331
         },
         {
           "date": "2026-11-04",
-          "stars": 2372
+          "stars": 3331
         },
         {
           "date": "2026-11-05",
-          "stars": 2372
+          "stars": 3332
         },
         {
           "date": "2026-11-06",
-          "stars": 2373
+          "stars": 3332
         },
         {
           "date": "2026-11-07",
-          "stars": 2374
+          "stars": 3332
         },
         {
           "date": "2026-11-08",
-          "stars": 2374
+          "stars": 3331
         },
         {
           "date": "2026-11-09",
-          "stars": 2375
+          "stars": 3330
         },
         {
           "date": "2026-11-10",
-          "stars": 2374
+          "stars": 3330
         },
         {
           "date": "2026-11-11",
-          "stars": 2373
+          "stars": 3329
         },
         {
           "date": "2026-11-12",
-          "stars": 2373
+          "stars": 3329
         },
         {
           "date": "2026-11-13",
-          "stars": 2372
+          "stars": 3329
         },
         {
           "date": "2026-11-14",
-          "stars": 2373
+          "stars": 3329
         },
         {
           "date": "2026-11-15",
-          "stars": 2374
+          "stars": 3328
         },
         {
           "date": "2026-11-16",
-          "stars": 2374
+          "stars": 3328
         },
         {
           "date": "2026-11-17",
-          "stars": 2375
+          "stars": 3329
         },
         {
           "date": "2026-11-18",
-          "stars": 2375
+          "stars": 3330
         },
         {
           "date": "2026-11-19",
-          "stars": 2375
+          "stars": 3330
         },
         {
           "date": "2026-11-20",
-          "stars": 2373
+          "stars": 3329
         },
         {
           "date": "2026-11-21",
-          "stars": 2373
+          "stars": 3329
         },
         {
           "date": "2026-11-22",
-          "stars": 2374
+          "stars": 3329
         },
         {
           "date": "2026-11-23",
-          "stars": 2375
+          "stars": 3330
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 3330
         }
       ],
       "stars7d": 1
@@ -13399,278 +13779,150 @@
         {
           "date": "2026-11-23",
           "stars": 1203
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 1203
         }
       ],
       "stars7d": 1
     },
     {
-      "id": "228540147",
-      "name": "Kautenja/limit-order-book",
-      "url": "https://github.com/Kautenja/limit-order-book",
-      "description": "A header-only C++ limit order book with price-time priority matching, a C API, and Python bindings.",
-      "stars": 315,
-      "createdAt": "2019-12-17T05:31:18Z",
-      "updatedAt": "2026-10-19T05:04:11Z",
+      "id": "151772266",
+      "name": "KonishchevDmitry/investments",
+      "url": "https://github.com/KonishchevDmitry/investments",
+      "description": "Helps you with managing your investments",
+      "stars": 553,
+      "createdAt": "2018-10-05T20:06:03Z",
+      "updatedAt": "2026-11-20T16:42:42Z",
       "history": [
         {
           "date": "2026-10-23",
-          "stars": 312
+          "stars": 551
         },
         {
           "date": "2026-10-24",
-          "stars": 312
+          "stars": 551
         },
         {
           "date": "2026-10-25",
-          "stars": 313
+          "stars": 551
         },
         {
           "date": "2026-10-26",
-          "stars": 313
+          "stars": 551
         },
         {
           "date": "2026-10-28",
-          "stars": 313
+          "stars": 551
         },
         {
           "date": "2026-10-29",
-          "stars": 313
+          "stars": 551
         },
         {
           "date": "2026-10-30",
-          "stars": 313
+          "stars": 551
         },
         {
           "date": "2026-10-31",
-          "stars": 313
+          "stars": 551
         },
         {
           "date": "2026-11-01",
-          "stars": 313
+          "stars": 551
         },
         {
           "date": "2026-11-02",
-          "stars": 313
+          "stars": 551
         },
         {
           "date": "2026-11-03",
-          "stars": 313
+          "stars": 552
         },
         {
           "date": "2026-11-04",
-          "stars": 313
+          "stars": 552
         },
         {
           "date": "2026-11-05",
-          "stars": 313
+          "stars": 552
         },
         {
           "date": "2026-11-06",
-          "stars": 313
+          "stars": 552
         },
         {
           "date": "2026-11-07",
-          "stars": 313
+          "stars": 552
         },
         {
           "date": "2026-11-08",
-          "stars": 313
+          "stars": 552
         },
         {
           "date": "2026-11-09",
-          "stars": 313
+          "stars": 552
         },
         {
           "date": "2026-11-10",
-          "stars": 313
+          "stars": 552
         },
         {
           "date": "2026-11-11",
-          "stars": 314
+          "stars": 552
         },
         {
           "date": "2026-11-12",
-          "stars": 314
+          "stars": 552
         },
         {
           "date": "2026-11-13",
-          "stars": 314
+          "stars": 552
         },
         {
           "date": "2026-11-14",
-          "stars": 314
+          "stars": 552
         },
         {
           "date": "2026-11-15",
-          "stars": 314
+          "stars": 552
         },
         {
           "date": "2026-11-16",
-          "stars": 314
+          "stars": 552
         },
         {
           "date": "2026-11-17",
-          "stars": 315
+          "stars": 552
         },
         {
           "date": "2026-11-18",
-          "stars": 315
+          "stars": 551
         },
         {
           "date": "2026-11-19",
-          "stars": 315
+          "stars": 552
         },
         {
           "date": "2026-11-20",
-          "stars": 314
+          "stars": 552
         },
         {
           "date": "2026-11-21",
-          "stars": 314
+          "stars": 552
         },
         {
           "date": "2026-11-22",
-          "stars": 314
+          "stars": 552
         },
         {
           "date": "2026-11-23",
-          "stars": 315
-        }
-      ],
-      "stars7d": 1
-    },
-    {
-      "id": "1171009732",
-      "name": "DegenSugarBoo/OpenBook",
-      "url": "https://github.com/DegenSugarBoo/OpenBook",
-      "description": "Real-time Crypto Futures depth heatmap in Rust (egui/eframe) with live order flow and trade tape.",
-      "stars": 195,
-      "createdAt": "2026-03-02T19:20:02Z",
-      "updatedAt": "2026-03-02T19:58:20Z",
-      "history": [
-        {
-          "date": "2026-10-23",
-          "stars": 190
+          "stars": 552
         },
         {
-          "date": "2026-10-24",
-          "stars": 190
-        },
-        {
-          "date": "2026-10-25",
-          "stars": 190
-        },
-        {
-          "date": "2026-10-26",
-          "stars": 190
-        },
-        {
-          "date": "2026-10-28",
-          "stars": 191
-        },
-        {
-          "date": "2026-10-29",
-          "stars": 191
-        },
-        {
-          "date": "2026-10-30",
-          "stars": 191
-        },
-        {
-          "date": "2026-10-31",
-          "stars": 191
-        },
-        {
-          "date": "2026-11-01",
-          "stars": 191
-        },
-        {
-          "date": "2026-11-02",
-          "stars": 191
-        },
-        {
-          "date": "2026-11-03",
-          "stars": 191
-        },
-        {
-          "date": "2026-11-04",
-          "stars": 193
-        },
-        {
-          "date": "2026-11-05",
-          "stars": 194
-        },
-        {
-          "date": "2026-11-06",
-          "stars": 194
-        },
-        {
-          "date": "2026-11-07",
-          "stars": 194
-        },
-        {
-          "date": "2026-11-08",
-          "stars": 194
-        },
-        {
-          "date": "2026-11-09",
-          "stars": 194
-        },
-        {
-          "date": "2026-11-10",
-          "stars": 194
-        },
-        {
-          "date": "2026-11-11",
-          "stars": 194
-        },
-        {
-          "date": "2026-11-12",
-          "stars": 194
-        },
-        {
-          "date": "2026-11-13",
-          "stars": 194
-        },
-        {
-          "date": "2026-11-14",
-          "stars": 194
-        },
-        {
-          "date": "2026-11-15",
-          "stars": 194
-        },
-        {
-          "date": "2026-11-16",
-          "stars": 194
-        },
-        {
-          "date": "2026-11-17",
-          "stars": 194
-        },
-        {
-          "date": "2026-11-18",
-          "stars": 195
-        },
-        {
-          "date": "2026-11-19",
-          "stars": 195
-        },
-        {
-          "date": "2026-11-20",
-          "stars": 195
-        },
-        {
-          "date": "2026-11-21",
-          "stars": 195
-        },
-        {
-          "date": "2026-11-22",
-          "stars": 195
-        },
-        {
-          "date": "2026-11-23",
-          "stars": 195
+          "date": "2026-11-24",
+          "stars": 553
         }
       ],
       "stars7d": 1
@@ -13806,6 +14058,10 @@
         },
         {
           "date": "2026-11-23",
+          "stars": 180
+        },
+        {
+          "date": "2026-11-24",
           "stars": 180
         }
       ],
@@ -13943,6 +14199,10 @@
         {
           "date": "2026-11-23",
           "stars": 162
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 162
         }
       ],
       "stars7d": 1
@@ -14079,278 +14339,290 @@
         {
           "date": "2026-11-23",
           "stars": 115
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 115
         }
       ],
       "stars7d": 1
     },
     {
-      "id": "103791045",
-      "name": "CryptoSignal/Crypto-Signal",
-      "url": "https://github.com/CryptoSignal/Crypto-Signal",
-      "description": "Github.com/CryptoSignal - Trading & Technical Analysis Bot - 4,100+ stars, 1,100+ forks",
-      "stars": 5664,
-      "createdAt": "2017-09-16T23:49:24Z",
-      "updatedAt": "2024-07-07T15:33:11Z",
+      "id": "177023075",
+      "name": "firmai/financial-machine-learning",
+      "url": "https://github.com/firmai/financial-machine-learning",
+      "description": "A curated list of practical financial machine learning tools and applications.",
+      "stars": 8843,
+      "createdAt": "2019-03-21T21:00:35Z",
+      "updatedAt": "2025-01-03T01:27:50Z",
       "history": [
         {
           "date": "2026-10-23",
-          "stars": 5650
+          "stars": 8819
         },
         {
           "date": "2026-10-24",
-          "stars": 5651
+          "stars": 8820
         },
         {
           "date": "2026-10-25",
-          "stars": 5651
+          "stars": 8820
         },
         {
           "date": "2026-10-26",
-          "stars": 5654
+          "stars": 8823
         },
         {
           "date": "2026-10-28",
-          "stars": 5653
+          "stars": 8828
         },
         {
           "date": "2026-10-29",
-          "stars": 5653
+          "stars": 8830
         },
         {
           "date": "2026-10-30",
-          "stars": 5654
+          "stars": 8830
         },
         {
           "date": "2026-10-31",
-          "stars": 5654
+          "stars": 8832
         },
         {
           "date": "2026-11-01",
-          "stars": 5655
+          "stars": 8833
         },
         {
           "date": "2026-11-02",
-          "stars": 5656
+          "stars": 8835
         },
         {
           "date": "2026-11-03",
-          "stars": 5656
+          "stars": 8835
         },
         {
           "date": "2026-11-04",
-          "stars": 5657
+          "stars": 8833
         },
         {
           "date": "2026-11-05",
-          "stars": 5656
+          "stars": 8835
         },
         {
           "date": "2026-11-06",
-          "stars": 5656
+          "stars": 8836
         },
         {
           "date": "2026-11-07",
-          "stars": 5658
+          "stars": 8835
         },
         {
           "date": "2026-11-08",
-          "stars": 5658
+          "stars": 8837
         },
         {
           "date": "2026-11-09",
-          "stars": 5658
+          "stars": 8838
         },
         {
           "date": "2026-11-10",
-          "stars": 5659
+          "stars": 8837
         },
         {
           "date": "2026-11-11",
-          "stars": 5659
+          "stars": 8839
         },
         {
           "date": "2026-11-12",
-          "stars": 5659
+          "stars": 8839
         },
         {
           "date": "2026-11-13",
-          "stars": 5661
+          "stars": 8838
         },
         {
           "date": "2026-11-14",
-          "stars": 5661
+          "stars": 8839
         },
         {
           "date": "2026-11-15",
-          "stars": 5662
+          "stars": 8840
         },
         {
           "date": "2026-11-16",
-          "stars": 5664
+          "stars": 8840
         },
         {
           "date": "2026-11-17",
-          "stars": 5665
+          "stars": 8843
         },
         {
           "date": "2026-11-18",
-          "stars": 5663
+          "stars": 8843
         },
         {
           "date": "2026-11-19",
-          "stars": 5663
+          "stars": 8842
         },
         {
           "date": "2026-11-20",
-          "stars": 5660
+          "stars": 8842
         },
         {
           "date": "2026-11-21",
-          "stars": 5660
+          "stars": 8841
         },
         {
           "date": "2026-11-22",
-          "stars": 5662
+          "stars": 8842
         },
         {
           "date": "2026-11-23",
-          "stars": 5664
+          "stars": 8842
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 8843
         }
       ],
       "stars7d": 0
     },
     {
-      "id": "151772266",
-      "name": "KonishchevDmitry/investments",
-      "url": "https://github.com/KonishchevDmitry/investments",
-      "description": "Helps you with managing your investments",
-      "stars": 552,
-      "createdAt": "2018-10-05T20:06:03Z",
-      "updatedAt": "2026-11-20T16:42:42Z",
+      "id": "63839029",
+      "name": "rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy",
+      "url": "https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy",
+      "description": "Providing the solutions for high-frequency trading (HFT) strategies using data science approaches (Machine Learning) on Full Orderbook Tick Data.",
+      "stars": 2375,
+      "createdAt": "2016-07-21T05:14:14Z",
+      "updatedAt": "2022-08-27T20:48:46Z",
       "history": [
         {
           "date": "2026-10-23",
-          "stars": 551
+          "stars": 2361
         },
         {
           "date": "2026-10-24",
-          "stars": 551
+          "stars": 2362
         },
         {
           "date": "2026-10-25",
-          "stars": 551
+          "stars": 2362
         },
         {
           "date": "2026-10-26",
-          "stars": 551
+          "stars": 2361
         },
         {
           "date": "2026-10-28",
-          "stars": 551
+          "stars": 2366
         },
         {
           "date": "2026-10-29",
-          "stars": 551
+          "stars": 2366
         },
         {
           "date": "2026-10-30",
-          "stars": 551
+          "stars": 2366
         },
         {
           "date": "2026-10-31",
-          "stars": 551
+          "stars": 2366
         },
         {
           "date": "2026-11-01",
-          "stars": 551
+          "stars": 2366
         },
         {
           "date": "2026-11-02",
-          "stars": 551
+          "stars": 2369
         },
         {
           "date": "2026-11-03",
-          "stars": 552
+          "stars": 2370
         },
         {
           "date": "2026-11-04",
-          "stars": 552
+          "stars": 2372
         },
         {
           "date": "2026-11-05",
-          "stars": 552
+          "stars": 2372
         },
         {
           "date": "2026-11-06",
-          "stars": 552
+          "stars": 2373
         },
         {
           "date": "2026-11-07",
-          "stars": 552
+          "stars": 2374
         },
         {
           "date": "2026-11-08",
-          "stars": 552
+          "stars": 2374
         },
         {
           "date": "2026-11-09",
-          "stars": 552
+          "stars": 2375
         },
         {
           "date": "2026-11-10",
-          "stars": 552
+          "stars": 2374
         },
         {
           "date": "2026-11-11",
-          "stars": 552
+          "stars": 2373
         },
         {
           "date": "2026-11-12",
-          "stars": 552
+          "stars": 2373
         },
         {
           "date": "2026-11-13",
-          "stars": 552
+          "stars": 2372
         },
         {
           "date": "2026-11-14",
-          "stars": 552
+          "stars": 2373
         },
         {
           "date": "2026-11-15",
-          "stars": 552
+          "stars": 2374
         },
         {
           "date": "2026-11-16",
-          "stars": 552
+          "stars": 2374
         },
         {
           "date": "2026-11-17",
-          "stars": 552
+          "stars": 2375
         },
         {
           "date": "2026-11-18",
-          "stars": 551
+          "stars": 2375
         },
         {
           "date": "2026-11-19",
-          "stars": 552
+          "stars": 2375
         },
         {
           "date": "2026-11-20",
-          "stars": 552
+          "stars": 2373
         },
         {
           "date": "2026-11-21",
-          "stars": 552
+          "stars": 2373
         },
         {
           "date": "2026-11-22",
-          "stars": 552
+          "stars": 2374
         },
         {
           "date": "2026-11-23",
-          "stars": 552
+          "stars": 2375
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 2375
         }
       ],
       "stars7d": 0
@@ -14486,6 +14758,10 @@
         },
         {
           "date": "2026-11-23",
+          "stars": 539
+        },
+        {
+          "date": "2026-11-24",
           "stars": 539
         }
       ],
@@ -14623,6 +14899,150 @@
         {
           "date": "2026-11-23",
           "stars": 327
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 327
+        }
+      ],
+      "stars7d": 0
+    },
+    {
+      "id": "228540147",
+      "name": "Kautenja/limit-order-book",
+      "url": "https://github.com/Kautenja/limit-order-book",
+      "description": "A header-only C++ limit order book with price-time priority matching, a C API, and Python bindings.",
+      "stars": 315,
+      "createdAt": "2019-12-17T05:31:18Z",
+      "updatedAt": "2026-10-19T05:04:11Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 312
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 312
+        },
+        {
+          "date": "2026-10-25",
+          "stars": 313
+        },
+        {
+          "date": "2026-10-26",
+          "stars": 313
+        },
+        {
+          "date": "2026-10-28",
+          "stars": 313
+        },
+        {
+          "date": "2026-10-29",
+          "stars": 313
+        },
+        {
+          "date": "2026-10-30",
+          "stars": 313
+        },
+        {
+          "date": "2026-10-31",
+          "stars": 313
+        },
+        {
+          "date": "2026-11-01",
+          "stars": 313
+        },
+        {
+          "date": "2026-11-02",
+          "stars": 313
+        },
+        {
+          "date": "2026-11-03",
+          "stars": 313
+        },
+        {
+          "date": "2026-11-04",
+          "stars": 313
+        },
+        {
+          "date": "2026-11-05",
+          "stars": 313
+        },
+        {
+          "date": "2026-11-06",
+          "stars": 313
+        },
+        {
+          "date": "2026-11-07",
+          "stars": 313
+        },
+        {
+          "date": "2026-11-08",
+          "stars": 313
+        },
+        {
+          "date": "2026-11-09",
+          "stars": 313
+        },
+        {
+          "date": "2026-11-10",
+          "stars": 313
+        },
+        {
+          "date": "2026-11-11",
+          "stars": 314
+        },
+        {
+          "date": "2026-11-12",
+          "stars": 314
+        },
+        {
+          "date": "2026-11-13",
+          "stars": 314
+        },
+        {
+          "date": "2026-11-14",
+          "stars": 314
+        },
+        {
+          "date": "2026-11-15",
+          "stars": 314
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 314
+        },
+        {
+          "date": "2026-11-17",
+          "stars": 315
+        },
+        {
+          "date": "2026-11-18",
+          "stars": 315
+        },
+        {
+          "date": "2026-11-19",
+          "stars": 315
+        },
+        {
+          "date": "2026-11-20",
+          "stars": 314
+        },
+        {
+          "date": "2026-11-21",
+          "stars": 314
+        },
+        {
+          "date": "2026-11-22",
+          "stars": 314
+        },
+        {
+          "date": "2026-11-23",
+          "stars": 315
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 315
         }
       ],
       "stars7d": 0
@@ -14758,6 +15178,10 @@
         },
         {
           "date": "2026-11-23",
+          "stars": 216
+        },
+        {
+          "date": "2026-11-24",
           "stars": 216
         }
       ],
@@ -14895,6 +15319,10 @@
         {
           "date": "2026-11-23",
           "stars": 162
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 162
         }
       ],
       "stars7d": 0
@@ -15030,6 +15458,10 @@
         },
         {
           "date": "2026-11-23",
+          "stars": 155
+        },
+        {
+          "date": "2026-11-24",
           "stars": 155
         }
       ],
@@ -15167,6 +15599,10 @@
         {
           "date": "2026-11-23",
           "stars": 139
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 139
         }
       ],
       "stars7d": 0
@@ -15302,6 +15738,10 @@
         },
         {
           "date": "2026-11-23",
+          "stars": 101
+        },
+        {
+          "date": "2026-11-24",
           "stars": 101
         }
       ],
@@ -15439,6 +15879,10 @@
         {
           "date": "2026-11-23",
           "stars": 93
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 93
         }
       ],
       "stars7d": 0
@@ -15574,6 +16018,10 @@
         },
         {
           "date": "2026-11-23",
+          "stars": 71
+        },
+        {
+          "date": "2026-11-24",
           "stars": 71
         }
       ],
@@ -15711,9 +16159,153 @@
         {
           "date": "2026-11-23",
           "stars": 55
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 55
         }
       ],
       "stars7d": 0
+    },
+    {
+      "id": "103791045",
+      "name": "CryptoSignal/Crypto-Signal",
+      "url": "https://github.com/CryptoSignal/Crypto-Signal",
+      "description": "Github.com/CryptoSignal - Trading & Technical Analysis Bot - 4,100+ stars, 1,100+ forks",
+      "stars": 5664,
+      "createdAt": "2017-09-16T23:49:24Z",
+      "updatedAt": "2024-07-07T15:33:11Z",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "stars": 5650
+        },
+        {
+          "date": "2026-10-24",
+          "stars": 5651
+        },
+        {
+          "date": "2026-10-25",
+          "stars": 5651
+        },
+        {
+          "date": "2026-10-26",
+          "stars": 5654
+        },
+        {
+          "date": "2026-10-28",
+          "stars": 5653
+        },
+        {
+          "date": "2026-10-29",
+          "stars": 5653
+        },
+        {
+          "date": "2026-10-30",
+          "stars": 5654
+        },
+        {
+          "date": "2026-10-31",
+          "stars": 5654
+        },
+        {
+          "date": "2026-11-01",
+          "stars": 5655
+        },
+        {
+          "date": "2026-11-02",
+          "stars": 5656
+        },
+        {
+          "date": "2026-11-03",
+          "stars": 5656
+        },
+        {
+          "date": "2026-11-04",
+          "stars": 5657
+        },
+        {
+          "date": "2026-11-05",
+          "stars": 5656
+        },
+        {
+          "date": "2026-11-06",
+          "stars": 5656
+        },
+        {
+          "date": "2026-11-07",
+          "stars": 5658
+        },
+        {
+          "date": "2026-11-08",
+          "stars": 5658
+        },
+        {
+          "date": "2026-11-09",
+          "stars": 5658
+        },
+        {
+          "date": "2026-11-10",
+          "stars": 5659
+        },
+        {
+          "date": "2026-11-11",
+          "stars": 5659
+        },
+        {
+          "date": "2026-11-12",
+          "stars": 5659
+        },
+        {
+          "date": "2026-11-13",
+          "stars": 5661
+        },
+        {
+          "date": "2026-11-14",
+          "stars": 5661
+        },
+        {
+          "date": "2026-11-15",
+          "stars": 5662
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 5664
+        },
+        {
+          "date": "2026-11-17",
+          "stars": 5665
+        },
+        {
+          "date": "2026-11-18",
+          "stars": 5663
+        },
+        {
+          "date": "2026-11-19",
+          "stars": 5663
+        },
+        {
+          "date": "2026-11-20",
+          "stars": 5660
+        },
+        {
+          "date": "2026-11-21",
+          "stars": 5660
+        },
+        {
+          "date": "2026-11-22",
+          "stars": 5662
+        },
+        {
+          "date": "2026-11-23",
+          "stars": 5664
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 5664
+        }
+      ],
+      "stars7d": -1
     },
     {
       "id": "196379842",
@@ -15846,6 +16438,10 @@
         },
         {
           "date": "2026-11-23",
+          "stars": 1757
+        },
+        {
+          "date": "2026-11-24",
           "stars": 1757
         }
       ],
@@ -15983,142 +16579,150 @@
         {
           "date": "2026-11-23",
           "stars": 1137
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 1137
         }
       ],
       "stars7d": -1
     },
     {
-      "id": "143576680",
-      "name": "imhgchoi/ARIMA-LSTM-hybrid-corrcoef-predict",
-      "url": "https://github.com/imhgchoi/ARIMA-LSTM-hybrid-corrcoef-predict",
-      "description": "Applied an ARIMA-LSTM hybrid model to predict future price correlation coefficients of two assets",
-      "stars": 434,
-      "createdAt": "2018-08-05T02:13:21Z",
-      "updatedAt": "2018-10-01T11:25:53Z",
+      "id": "286618920",
+      "name": "purvasingh96/AI-for-Trading",
+      "url": "https://github.com/purvasingh96/AI-for-Trading",
+      "description": "📈This repo contains detailed notes and multiple projects implemented in Python related to AI and Finance. Follow the blog here: https://purvasingh.medium.com",
+      "stars": 412,
+      "createdAt": "2020-08-11T01:47:07Z",
+      "updatedAt": "2020-12-25T02:44:04Z",
       "history": [
         {
           "date": "2026-10-23",
-          "stars": 435
+          "stars": 412
         },
         {
           "date": "2026-10-24",
-          "stars": 435
+          "stars": 412
         },
         {
           "date": "2026-10-25",
-          "stars": 435
+          "stars": 412
         },
         {
           "date": "2026-10-26",
-          "stars": 435
+          "stars": 412
         },
         {
           "date": "2026-10-28",
-          "stars": 435
+          "stars": 412
         },
         {
           "date": "2026-10-29",
-          "stars": 435
+          "stars": 412
         },
         {
           "date": "2026-10-30",
-          "stars": 435
+          "stars": 412
         },
         {
           "date": "2026-10-31",
-          "stars": 435
+          "stars": 412
         },
         {
           "date": "2026-11-01",
-          "stars": 435
+          "stars": 412
         },
         {
           "date": "2026-11-02",
-          "stars": 435
+          "stars": 412
         },
         {
           "date": "2026-11-03",
-          "stars": 435
+          "stars": 412
         },
         {
           "date": "2026-11-04",
-          "stars": 435
+          "stars": 412
         },
         {
           "date": "2026-11-05",
-          "stars": 435
+          "stars": 412
         },
         {
           "date": "2026-11-06",
-          "stars": 435
+          "stars": 412
         },
         {
           "date": "2026-11-07",
-          "stars": 435
+          "stars": 412
         },
         {
           "date": "2026-11-08",
-          "stars": 435
+          "stars": 412
         },
         {
           "date": "2026-11-09",
-          "stars": 435
+          "stars": 412
         },
         {
           "date": "2026-11-10",
-          "stars": 435
+          "stars": 413
         },
         {
           "date": "2026-11-11",
-          "stars": 435
+          "stars": 413
         },
         {
           "date": "2026-11-12",
-          "stars": 435
+          "stars": 413
         },
         {
           "date": "2026-11-13",
-          "stars": 435
+          "stars": 413
         },
         {
           "date": "2026-11-14",
-          "stars": 435
+          "stars": 413
         },
         {
           "date": "2026-11-15",
-          "stars": 435
+          "stars": 413
         },
         {
           "date": "2026-11-16",
-          "stars": 435
+          "stars": 413
         },
         {
           "date": "2026-11-17",
-          "stars": 436
+          "stars": 413
         },
         {
           "date": "2026-11-18",
-          "stars": 436
+          "stars": 413
         },
         {
           "date": "2026-11-19",
-          "stars": 436
+          "stars": 413
         },
         {
           "date": "2026-11-20",
-          "stars": 435
+          "stars": 411
         },
         {
           "date": "2026-11-21",
-          "stars": 434
+          "stars": 411
         },
         {
           "date": "2026-11-22",
-          "stars": 434
+          "stars": 411
         },
         {
           "date": "2026-11-23",
-          "stars": 434
+          "stars": 411
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 412
         }
       ],
       "stars7d": -1
@@ -16254,6 +16858,10 @@
         },
         {
           "date": "2026-11-23",
+          "stars": 375
+        },
+        {
+          "date": "2026-11-24",
           "stars": 375
         }
       ],
@@ -16391,6 +16999,10 @@
         {
           "date": "2026-11-23",
           "stars": 104
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 104
         }
       ],
       "stars7d": -1
@@ -16527,142 +17139,150 @@
         {
           "date": "2026-11-23",
           "stars": 1086
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 1086
         }
       ],
       "stars7d": -2
     },
     {
-      "id": "286618920",
-      "name": "purvasingh96/AI-for-Trading",
-      "url": "https://github.com/purvasingh96/AI-for-Trading",
-      "description": "📈This repo contains detailed notes and multiple projects implemented in Python related to AI and Finance. Follow the blog here: https://purvasingh.medium.com",
-      "stars": 411,
-      "createdAt": "2020-08-11T01:47:07Z",
-      "updatedAt": "2020-12-25T02:44:04Z",
+      "id": "143576680",
+      "name": "imhgchoi/ARIMA-LSTM-hybrid-corrcoef-predict",
+      "url": "https://github.com/imhgchoi/ARIMA-LSTM-hybrid-corrcoef-predict",
+      "description": "Applied an ARIMA-LSTM hybrid model to predict future price correlation coefficients of two assets",
+      "stars": 434,
+      "createdAt": "2018-08-05T02:13:21Z",
+      "updatedAt": "2018-10-01T11:25:53Z",
       "history": [
         {
           "date": "2026-10-23",
-          "stars": 412
+          "stars": 435
         },
         {
           "date": "2026-10-24",
-          "stars": 412
+          "stars": 435
         },
         {
           "date": "2026-10-25",
-          "stars": 412
+          "stars": 435
         },
         {
           "date": "2026-10-26",
-          "stars": 412
+          "stars": 435
         },
         {
           "date": "2026-10-28",
-          "stars": 412
+          "stars": 435
         },
         {
           "date": "2026-10-29",
-          "stars": 412
+          "stars": 435
         },
         {
           "date": "2026-10-30",
-          "stars": 412
+          "stars": 435
         },
         {
           "date": "2026-10-31",
-          "stars": 412
+          "stars": 435
         },
         {
           "date": "2026-11-01",
-          "stars": 412
+          "stars": 435
         },
         {
           "date": "2026-11-02",
-          "stars": 412
+          "stars": 435
         },
         {
           "date": "2026-11-03",
-          "stars": 412
+          "stars": 435
         },
         {
           "date": "2026-11-04",
-          "stars": 412
+          "stars": 435
         },
         {
           "date": "2026-11-05",
-          "stars": 412
+          "stars": 435
         },
         {
           "date": "2026-11-06",
-          "stars": 412
+          "stars": 435
         },
         {
           "date": "2026-11-07",
-          "stars": 412
+          "stars": 435
         },
         {
           "date": "2026-11-08",
-          "stars": 412
+          "stars": 435
         },
         {
           "date": "2026-11-09",
-          "stars": 412
+          "stars": 435
         },
         {
           "date": "2026-11-10",
-          "stars": 413
+          "stars": 435
         },
         {
           "date": "2026-11-11",
-          "stars": 413
+          "stars": 435
         },
         {
           "date": "2026-11-12",
-          "stars": 413
+          "stars": 435
         },
         {
           "date": "2026-11-13",
-          "stars": 413
+          "stars": 435
         },
         {
           "date": "2026-11-14",
-          "stars": 413
+          "stars": 435
         },
         {
           "date": "2026-11-15",
-          "stars": 413
+          "stars": 435
         },
         {
           "date": "2026-11-16",
-          "stars": 413
+          "stars": 435
         },
         {
           "date": "2026-11-17",
-          "stars": 413
+          "stars": 436
         },
         {
           "date": "2026-11-18",
-          "stars": 413
+          "stars": 436
         },
         {
           "date": "2026-11-19",
-          "stars": 413
+          "stars": 436
         },
         {
           "date": "2026-11-20",
-          "stars": 411
+          "stars": 435
         },
         {
           "date": "2026-11-21",
-          "stars": 411
+          "stars": 434
         },
         {
           "date": "2026-11-22",
-          "stars": 411
+          "stars": 434
         },
         {
           "date": "2026-11-23",
-          "stars": 411
+          "stars": 434
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 434
         }
       ],
       "stars7d": -2
@@ -16712,13 +17332,45 @@
       "stars7d": null
     },
     {
+      "id": "1469021380",
+      "name": "canyon1469/pump-fun-volume-bump-bot",
+      "url": "https://github.com/canyon1469/pump-fun-volume-bump-bot",
+      "description": "Pump.fun Volume Booster, Micro-Buy Bump Bot & Organic Holder Maker Terminal (2026): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+      "stars": 292,
+      "createdAt": "2026-11-23T16:32:48Z",
+      "updatedAt": "2026-11-24T09:45:51Z",
+      "history": [
+        {
+          "date": "2026-11-24",
+          "stars": 292
+        }
+      ],
+      "stars7d": null
+    },
+    {
+      "id": "1456390453",
+      "name": "keptaduona/wickline",
+      "url": "https://github.com/keptaduona/wickline",
+      "description": "Free, open-source charting app: live crypto, stocks, forex and futures on any timeframe, 100 indicators, option chains, JavaScript strategies with backtesting, community scripts. Windows, macOS and Linux.",
+      "stars": 192,
+      "createdAt": "2026-11-13T09:14:09Z",
+      "updatedAt": "2026-11-24T09:02:41Z",
+      "history": [
+        {
+          "date": "2026-11-24",
+          "stars": 192
+        }
+      ],
+      "stars7d": null
+    },
+    {
       "id": "1459226676",
       "name": "johnnablea29-art/stratgies-indicator",
       "url": "https://github.com/johnnablea29-art/stratgies-indicator",
       "description": "Stratgies Indicator automation script repeatable bot task runs",
       "stars": 153,
       "createdAt": "2026-11-15T20:44:45Z",
-      "updatedAt": "2026-11-23T01:12:38Z",
+      "updatedAt": "2026-11-24T05:39:18Z",
       "history": [
         {
           "date": "2026-11-18",
@@ -16743,90 +17395,26 @@
         {
           "date": "2026-11-23",
           "stars": 153
+        },
+        {
+          "date": "2026-11-24",
+          "stars": 153
         }
       ],
       "stars7d": null
     },
     {
-      "id": "1462907032",
-      "name": "hasan6969macho-bit/vectorbt-avoria-analysis",
-      "url": "https://github.com/hasan6969macho-bit/vectorbt-avoria-analysis",
-      "description": "Vectorbt research code for Avoria analysis, built for reproducible strategy experiments.",
-      "stars": 147,
-      "createdAt": "2026-11-18T14:26:25Z",
-      "updatedAt": "2026-11-23T05:20:31Z",
+      "id": "1469008002",
+      "name": "lucast752/polymarket-trading-arbitrage-bot",
+      "url": "https://github.com/lucast752/polymarket-trading-arbitrage-bot",
+      "description": "Polymarket CLOB Trading & Arbitrage Bot — 15m Crypto Up/Down & Whale Copytrade Terminal: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+      "stars": 141,
+      "createdAt": "2026-11-23T16:21:56Z",
+      "updatedAt": "2026-11-24T08:25:10Z",
       "history": [
         {
-          "date": "2026-11-20",
-          "stars": 94
-        },
-        {
-          "date": "2026-11-21",
-          "stars": 152
-        },
-        {
-          "date": "2026-11-22",
-          "stars": 150
-        },
-        {
-          "date": "2026-11-23",
-          "stars": 147
-        }
-      ],
-      "stars7d": null
-    },
-    {
-      "id": "1462900324",
-      "name": "piyushverse001/quantconnect-lean-selvon-research",
-      "url": "https://github.com/piyushverse001/quantconnect-lean-selvon-research",
-      "description": "Quantconnect Lean Selvon Research: structured environment for strategy experiments and backtesting",
-      "stars": 147,
-      "createdAt": "2026-11-18T14:21:03Z",
-      "updatedAt": "2026-11-23T05:32:13Z",
-      "history": [
-        {
-          "date": "2026-11-20",
-          "stars": 94
-        },
-        {
-          "date": "2026-11-21",
-          "stars": 152
-        },
-        {
-          "date": "2026-11-22",
-          "stars": 150
-        },
-        {
-          "date": "2026-11-23",
-          "stars": 147
-        }
-      ],
-      "stars7d": null
-    },
-    {
-      "id": "1462895937",
-      "name": "pgmergulhao75-dot/openbb-calvona-market-research",
-      "url": "https://github.com/pgmergulhao75-dot/openbb-calvona-market-research",
-      "description": "Openbb Calvona Market Research delivers structured market data analysis and research workflows.",
-      "stars": 147,
-      "createdAt": "2026-11-18T14:17:33Z",
-      "updatedAt": "2026-11-23T02:27:00Z",
-      "history": [
-        {
-          "date": "2026-11-20",
-          "stars": 93
-        },
-        {
-          "date": "2026-11-21",
-          "stars": 152
-        },
-        {
-          "date": "2026-11-22",
-          "stars": 150
-        },
-        {
-          "date": "2026-11-23",
-          "stars": 147
+          "date": "2026-11-24",
+          "stars": 141
         }
       ],
       "stars7d": null
@@ -17108,9 +17696,9 @@
       "error": "HTTP Error 403: Forbidden"
     }
   ],
-  "lastVerificationAt": "2026-11-23T07:44:11.055457+00:00",
+  "lastVerificationAt": "2026-11-24T09:58:22.768990+00:00",
   "verificationRun": {
-    "completedAt": "2026-11-23T07:44:11.055457+00:00",
+    "completedAt": "2026-11-24T09:58:22.768990+00:00",
     "candidateCount": 0,
     "verifiedNewCount": 0,
     "verifiedExistingCount": 0,
@@ -17150,9 +17738,9 @@
       "1198306812",
       "1273015953",
       "1454737824",
-      "91629816",
       "849406496",
-      "287463830"
+      "91629816",
+      "455982203"
     ]
   },
   "sourceErrors": []
